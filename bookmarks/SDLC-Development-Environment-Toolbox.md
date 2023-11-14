@@ -124,6 +124,22 @@
 
 ## Текстовые редакторы
 
+### VS Code
+
+* [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
+
+* [Get Started with Visual Studio Code](https://code.visualstudio.com/learn)
+
+* [Documentation for Visual Studio Code](https://code.visualstudio.com/docs)
+
+* [Extension API | Visual Studio Code Extension API](https://code.visualstudio.com/api)
+
+* [Extensions for Visual Studio family of products | Visual Studio Marketplace](https://marketplace.visualstudio.com/VSCode)
+
+* [microsoft/vscode: Visual Studio Code (github.com)](https://github.com/microsoft/vscode)
+
+* [VSCodium - Open Source Binaries of VSCode](https://vscodium.com/)
+
 ### Vim-based редакторы
 
 * [vi — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Vi)
