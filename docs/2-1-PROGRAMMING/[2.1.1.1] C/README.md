@@ -1,3 +1,0 @@
-# C
-
-Resources for C

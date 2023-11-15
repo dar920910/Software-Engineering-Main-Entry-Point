@@ -1,3 +1,0 @@
-# JavaScript
-
-Resources for JavaScript
