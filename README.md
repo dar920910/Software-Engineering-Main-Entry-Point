@@ -4,7 +4,7 @@
 
     dar920910.Main() => "Hello, Software Engineering World!"
 
-## About This Repository
+## :question: About This Repository
 
 :notebook: The main reason for creating this repository is to **centralize** all important information explored by me for last several years (*instead of keeping it in web browser bookmarks and Evernote notebooks*).
 
@@ -18,19 +18,17 @@
 
 ---
 
-## Content
+## :question: The Content of This Repository
 
-**Professional Engineering Areas**:
+### Professional Engineering Areas
 
-- [SOFTWARE ENGINEERING](docs/1-1-SOFTWARE-ENGINEERING/README.md)
-- [COMPUTER SCIENCE](docs/1-2-COMPUTER-SCIENCE/README.md)
-- [CYBERSECURITY](docs/1-3-CYBERSECURITY/README.md)
+- [1.1. SOFTWARE ENGINEERING](./DOCS_1_1-SOFTWARE_ENGINEERING/README.md)
+- [1.2. COMPUTER SCIENCE](./DOCS_1_2-COMPUTER_SCIENCE/README.md)
+- [1.3. CYBERSECURITY](./DOCS_1_3-CYBERSECURITY/README.md)
 
-**Programming Languages**:
+### Programming Languages
 
-Expected Content:
-
-Types of resources for programming languages:
+**Planned Sections:**
 
 - Official News (Language Standards and Versions)
 - Documentation & References (Online Official Info)
@@ -44,26 +42,22 @@ Types of resources for programming languages:
 - Good Learning Resources (Courses/Books/Blogs and etc.)
 - Known Popular Open-Source Projects
 
-- Common-Purpose Software Platforms
-  - [Java Programming](docs/2-1-PROGRAMMING/[2.1.2.1]%20Java/README.md)
-  - [.NET Programming](docs/2-1-PROGRAMMING/[2.1.2.2]%20.NET/README.md)
-- Assemblers and Common-Purpose Compilers
-  - [Assembly Programming](docs/2-1-PROGRAMMING/[2.1.1.1]%20C/README.md)
-  - [C Programming](docs/2-1-PROGRAMMING/[2.1.1.1]%20C/README.md)
-  - [C++ Programming](docs/2-1-PROGRAMMING/[2.1.1.2]%20C++/README.md)
-- Common-Purpose Interpreters
-  - [Python Programming](docs/2-1-PROGRAMMING/[2.1.4]%20Python/README.md)
-- Web Development Languages
-  - [JavaScript Programming](docs/2-1-PROGRAMMING/[2.1.3]%20JavaScript/README.md)
+**Current Content:**
 
-**Technologies and Tools**:
+- [2.0.0. Assembly Programming](./DOCS_2_0_0-PROGRAMMING-ASSEMBLY/)
+- [2.0.1. C/C++ Programming](./DOCS_2_0_1-PROGRAMMING-C_and_CPP/)
+- [2.0.2. C++ Alternatives (Go, Rust, etc)](./DOCS_2_0_2-PROGRAMMING-COMPILERS/)
+- [2.1.1. Java Programming](./DOCS_2_1_1-PROGRAMMING-JAVA/)
+- [2.1.2. .NET Programming](./DOCS_2_1_2-PROGRAMMING-dotNET/)
+- [2.2. JavaScript Programming (ES/JS/TS)](./DOCS_2_2-PROGRAMMING-ES_JS_TS/)
+- [2.3. Common-Purpose Interpreters (Python, PHP, Perl, etc)](./DOCS_2_3-PROGRAMMING-INTERPRETERS/)
 
-- Software Development Life Cycle
-- World Wide Web and Distributed Systems
-- Data Science and Database Systems
-- Operating Systems and Virtualization
-- Computer Engineering (Internals: Architecture, Operating Systems, Networks)
-- *Computer Graphics (3D/2D)*
-- *Media Technologies (Video/Audio)*
+## Technologies and Tools
+
+- [3.1. Software Development Life Cycle](./DOCS_3_1-SOFTWARE_DEVELOPMENT_LIFE_CYCLE/README.md)
+- [3.2. World Wide Web and Distributed Systems](./DOCS_3_2-WORLD_WIDE_WEB_and_DISTRIBUTED_SYSTEMS/README.md)
+- [3.3. Data Science and Database Systems](./DOCS_3_3-DATA_SCIENCE_and_DATABASE_SYSTEMS/README.md)
+- [3.4. Virtualization Operating  and Systems](./DOCS_3_4-VIRTUALIZATION_and_OPERATING_SYSTEMS/README.md)
+- [3.5. Hardware & Software](/DOCS_3_5-HARDWARE_and_SOFTWARE/README.md)
 
 ---
