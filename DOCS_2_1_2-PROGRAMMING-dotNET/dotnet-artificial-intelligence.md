@@ -1,4 +1,26 @@
-# Machine Learning with .NET
+# .NET: Artificial Intelligence + Machine Learning
+
+## .NET + AI Official Resources
+
+### AI SDK Documentation
+
+* [Azire AI Documentation](https://learn.microsoft.com/en-us/azure/ai-services/)
+* [Azure OpenAI Service Documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
+* [Semantic Kernel Documentation](https://learn.microsoft.com/en-us/semantic-kernel/)
+* [ML.NET Documentation](https://learn.microsoft.com/en-us/dotnet/machine-learning/)
+* [Milvus .NET SDK](https://milvus.io/docs/v2.2.x/install-csharp.md)
+* [Qdrant .NET SDK](https://github.com/qdrant/qdrant-dotnet)
+
+### AI Samples
+
+* [.NET Application Architecture - Reference Apps](https://github.com/dotnet-architecture)
+* [Generative AI Enterprise Chat Data Template](https://github.com/Azure-Samples/azure-search-openai-demo-csharp)
+* [Generative AI Cookbooks - Polyglot Notebooks](https://github.com/azure-samples/openai)
+* [A .NET introduction to Chat GPT Plugins](https://github.com/Azure-Samples/openai-chatgpt-plugin-csharp)
+
+### More Info for AI with .NET
+
+* [AI in .NET Collection](https://learn.microsoft.com/en-us/collections/1n31t57k7k6r85)
 
 ---
 
