@@ -1,0 +1,43 @@
+# 3.3.1.4 - DBMS - Relational Database Management Systems - Microsoft SQL Server
+
+## { Petkovic D. } [ Microsoft SQL Server 2019. A Beginner's Guide ] ( 2020, 7 edition )
+
+- PART I - BASIC CONCEPTS and INSTALLATION
+  - Chapter 1 - Relational Database Systems: An Introduction
+  - Chapter 2 - Planning the Installation and Installing SQL Server
+  - Chapter 3 - Front-End Tools for the Database Engine
+- PART II - TRANSACT-SQL LANGUAGE
+  - Chapter 4 - SQL Components
+  - Chapter 5 - Data Definition Language
+  - Chapter 6 - Queries
+  - Chapter 7 - Modification of a Table's Contents
+  - Chapter 8 - Stored Procedures and User-Defined Functions
+  - Chapter 9 - System Catalog
+  - Chapter 10 - Indices
+  - Chapter 11 - Views
+  - Chapter 12 - Security System of the Database Engine
+  - Chapter 13 - Concurrency Control
+  - Chapter 14 - Triggers
+- PART III - SQL SERVER: SYSTEM ADMINISTRATION
+  - Chapter 15 - System Environment of the Database Engine
+  - Chapter 16 - Backup, Recovery and System Availability
+  - Chapter 17 - Automating System Administration Tasks
+  - Chapter 18 - Data Replication
+  - Chapter 19 - Query Optimizer
+  - Chapter 20 - Performance Tuning
+  - Chapter 21 - In-Memory OLTP
+- PART IV - SQL SERVER and BUSINESS INTELLIGENCE
+  - Chapter 22 - Business Intelligence: An Introduction
+  - Chapter 23 - SQL Server Analysis Services
+  - Chapter 24 - Business Intelligence and Transact-SQL
+  - Chapter 25 - SQL Server Reporting Services
+  - Chapter 26 - Optimizing Techniques for Data Warehousing
+  - Chapter 27 - Columnstore Indices
+  - Chapter 28 - Intelligent Query Processing
+- PART V - BEYOUND RELATIONAL DATA
+  - Chapter 29 - JSON Integration in the Database Engine
+  - Chapter 30 - Spatial and Temporal Data
+  - Chapter 31 - SQL Server Graph Databases
+- PART VI - MACHINE LEARNING
+  - Chapter 32 - SQL Server Machine Learning Services: R Support
+  - Chapter 33 - SQL Server Machine Learning Services: Python Support
