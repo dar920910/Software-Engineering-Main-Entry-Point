@@ -500,6 +500,19 @@
 
 * * *
 
+* **JUnit - [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)**
+
+* PART 1 - Overview
+
+* PART 2 - Writing Tests
+
+* PART 3 - Migrating from JUnit4
+
+* PART 4 - Running Tests
+
+* PART 5 - Extension Model
+
+* PART 6 - Advanced Topics
 
 * * *
 
