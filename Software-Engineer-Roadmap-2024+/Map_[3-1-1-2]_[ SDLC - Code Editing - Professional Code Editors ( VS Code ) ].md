@@ -1,13 +1,8 @@
-* * *
+# SDLC - Code Editing - Professional Code Editors ( VS Code )
 
-**2024? - 3.1.1.2 - SDLC - Code Editing - Professional Code Editors ( VS Code )**
-=================================================================================
+---
 
-* * *
-
-**Visual Studio Code**
-
-* **{ Del Sole A. } \[ Visual Studio Code Distilled \] ( 2019 )**
+## Del Sole A. - "Visual Studio Code Distilled" ( 2019 )
 
 * Chapter 1 - Introducing Visual Studio Code
 
@@ -27,7 +22,7 @@
 
 * Chapter 9 - Running and Debugging Code
 
-* **{ Johnson B. } \[ Visual Studio Code - End-to-End Editing and Debugging Tools for Web Developers \] ( 2019 )**
+## Johnson B. - "Visual Studio Code - End-to-End Editing and Debugging Tools for Web Developers" ( 2019 )
 
 * Chapter 1 - Introducing Visual Studio Code
 
@@ -49,7 +44,9 @@
 
 * Chapter 10 - Creating Your Own Extensions
 
-* Удаленная разработка с помощью VS Code
+---
+
+## Удаленная разработка с помощью VS Code
 
 * [Remote Development - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
 
@@ -57,7 +54,7 @@
 
 * [Making Remote Development Even Better (visualstudio.com)](https://code.visualstudio.com/blogs/2022/12/07/remote-even-better)
 
-* Использование Docker и WSL в VS Code
+## Использование Docker и WSL в VS Code
 
 * [Using Dev Containers in WSL 2 (visualstudio.com)](https://code.visualstudio.com/blogs/2020/07/01/containers-wsl)
 
@@ -65,13 +62,13 @@
 
 * [Development Containers in Education with Visual Studio Code](https://code.visualstudio.com/blogs/2020/07/27/containers-edu)
 
-* Полезные инструменты VS Code для совместной удаленной работы
+## Полезные инструменты VS Code для совместной удаленной работы
 
 * [How YOU can interview developers remotely with Visual Studio Code? - DEV Community](https://dev.to/cmaneu/how-you-can-interview-developers-remotely-with-visual-studio-code-4hkn?ocid=AID2441443_VK_oo_spl100001403465483)
 
 * [Powerful VS Code extensions for remote work - DEV Community](https://dev.to/softwaredotcom/powerful-vs-code-extensions-for-remote-work-5738?ocid=AID2441443_VK_oo_spl100001405537406)
 
-* Полезные расширения для VS Code
+## Полезные расширения для VS Code
 
 * [Любовь к программированию начинается с расширений VS Code (nuancesprog.ru)](https://nuancesprog.ru/p/8257/)
 
@@ -95,7 +92,7 @@
 
 * [foambubble/foam: A personal knowledge management and sharing system for VSCode (github.com)](https://github.com/foambubble/foam)
 
-* Полезные комбинации клавиш для продвинутой работы в VS Code
+## Полезные комбинации клавиш для продвинутой работы в VS Code
 
 * [23 lesser known VS Code Shortcuts as GIF - DEV Community](https://dev.to/devmount/23-lesser-known-vs-code-shortcuts-as-gif-80)
 
@@ -107,7 +104,7 @@
 
 * [20 сочетаний клавиш для ускорения работы в VS Code | Techrocks](https://techrocks.ru/2019/11/08/20-vs-code-shortcuts/)
 
-* Полезные советы и приемы по повышению эффективности работы в VS Code
+## Полезные советы и приемы по повышению эффективности работы в VS Code
 
 * [Малоизвестные приемы работы в VS Code для повышения продуктивности | Techrocks](https://techrocks.ru/2019/09/17/rare-and-useful-vs-code-hacks/)
 
@@ -117,7 +114,9 @@
 
 * [10 рекомендаций по ускорению рабочего процесса в Visual Studio Code (nuancesprog.ru)](https://nuancesprog.ru/p/5975/)
 
-* ИНТЕРЕСНЫЕ СТАТЬИ (БЛОГ VS CODE)
+---
+
+## ИНТЕРЕСНЫЕ СТАТЬИ (БЛОГ VS CODE)
 
 * [VS Code and WebAssemblies (visualstudio.com)](https://code.visualstudio.com/blogs/2023/06/05/vscode-wasm-wasi)
 
@@ -153,4 +152,4 @@
 
 * [Making Remote Development Even Better (visualstudio.com)](https://code.visualstudio.com/blogs/2022/12/07/remote-even-better)
 
-* * *
+---
