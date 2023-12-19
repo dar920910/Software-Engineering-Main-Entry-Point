@@ -1,11 +1,10 @@
-* * *
+# C/C++ Programming Languages + Assembly & Low-Level Programming
 
-**2023/4 - 2.0.0.0 - Assembly Programming Fundamentals**
-========================================================
+---
 
-* * *
+## 2.0.0.0 - Assembly Programming Fundamentals
 
-* **{ Hall B., Slonka K. } \[ Assembly Programming and Computer Architecture for Software Engineers \] ( 2018 )**
+### Hall B., Slonka K. - "Assembly Programming and Computer Architecture for Software Engineers" ( 2018 )
 
 * Chapter 1 - Language and Data Fundamentals **// 29**
 
@@ -31,17 +30,9 @@
 
 * Chapter 12 - Hardware and Electrical Components **// 20**
 
-* * *
+## 2.1.0.2 - Assembly & Low-Level Programming
 
-
-* * *
-
-**2024? - 2.1.0.2 - Assembly & Low-Level Programming**
-======================================================
-
-* * *
-
-* **{ Kusswurm D. } \[ Modern x86 Assembly Language Programming \] ( 2018, 2 edition )**
+### Kusswurm D. - "Modern x86 Assembly Language Programming" ( 2018, 2 edition )
 
 * Chapter 1 - x86-64 Core Architecture
 
@@ -75,7 +66,7 @@
 
 * Chapter 16 - Advanced Programming
 
-* **{ Van Hoey J. } \[ Beginning x64 Assembly Programming \] ( 2019 )**
+### Van Hoey J. - "Beginning x64 Assembly Programming" ( 2019 )
 
 * Chapter 1 - Your First Program
 
@@ -163,266 +154,245 @@
 
 * Chapter 43 - Windows Files
 
-* * *
+---
 
+## 2.1.1.1 - C/C++ Programming Fundamentals ( with GNU GCC )
 
-* * *
-
-**2024? - 2.1.1.1 - C/C++ Programming Fundamentals ( with GNU GCC )**
-=====================================================================
-
-* * *
-
-* **{ Прата С. } \[ Язык программирования C. Лекции и упражнения \] ( 2015, 6 издание )**
+### Прата С. - "Язык программирования C. Лекции и упражнения" ( 2015, 6 издание )
 
 * ОСНОВНОЙ МАТЕРИАЛ
 
-* \[ C Primer Plus \] Глава № 1 - Предварительные сведения **// 26**
+* [ C Primer Plus ] Глава № 1 - Предварительные сведения **// 26**
 
-* \[ C Primer Plus \] Глава № 2 - Введение в язык С **// 26**
+* [ C Primer Plus ] Глава № 2 - Введение в язык С **// 26**
 
-* \[ C Primer Plus \] Глава № 3 - Данные в языке C **// 40**
+* [ C Primer Plus ] Глава № 3 - Данные в языке C **// 40**
 
-* \[ C Primer Plus \] Глава № 4 - Символьные строки и форматированный ввод-вывод **// 40**
+* [ C Primer Plus ] Глава № 4 - Символьные строки и форматированный ввод-вывод **// 40**
 
-* \[ C Primer Plus \] Глава № 5 - Операции, выражения и операторы **// 42**
+* [ C Primer Plus ] Глава № 5 - Операции, выражения и операторы **// 42**
 
-* \[ C Primer Plus \] Глава № 6 - Управляющие операторы C: циклы **// 48**
+* [ C Primer Plus ] Глава № 6 - Управляющие операторы C: циклы **// 48**
 
-* \[ C Primer Plus \] Глава № 7 - Управляющие операторы C: ветвление и переходы **// 46**
+* [ C Primer Plus ] Глава № 7 - Управляющие операторы C: ветвление и переходы **// 46**
 
-* \[ C Primer Plus \] Глава № 8 - Символьный ввод-вывод и проверка достоверности ввода **// 32**
+* [ C Primer Plus ] Глава № 8 - Символьный ввод-вывод и проверка достоверности ввода **// 32**
 
-* \[ C Primer Plus \] Глава № 9 - Функции **// 42**
+* [ C Primer Plus ] Глава № 9 - Функции **// 42**
 
-* \[ C Primer Plus \] Глава № 10 - Массивы и указатели **// 52**
+* [ C Primer Plus ] Глава № 10 - Массивы и указатели **// 52**
 
-* \[ C Primer Plus \] Глава № 11 - Символьные строки и строковые функции **// 60**
+* [ C Primer Plus ] Глава № 11 - Символьные строки и строковые функции **// 60**
 
-* \[ C Primer Plus \] Глава № 12 - Классы хранения, связывание и управление памятью **// 52**
+* [ C Primer Plus ] Глава № 12 - Классы хранения, связывание и управление памятью **// 52**
 
-* \[ C Primer Plus \] Глава № 13 - Файловый ввод-вывод **// 34**
+* [ C Primer Plus ] Глава № 13 - Файловый ввод-вывод **// 34**
 
-* \[ C Primer Plus \] Глава № 14 - Структуры и другие формы данных **// 62**
+* [ C Primer Plus ] Глава № 14 - Структуры и другие формы данных **// 62**
 
-* \[ C Primer Plus \] Глава № 15 - Манипулирование битами **// 34**
+* [ C Primer Plus ] Глава № 15 - Манипулирование битами **// 34**
 
-* \[ C Primer Plus \] Глава № 16 - Препроцессор и библиотека C **// 56**
+* [ C Primer Plus ] Глава № 16 - Препроцессор и библиотека C **// 56**
 
-* \[ C Primer Plus \] Глава № 17 - Расширенное представление данных **// 74**
+* [ C Primer Plus ] Глава № 17 - Расширенное представление данных **// 74**
 
 * ПРИЛОЖЕНИЯ
 
-* \[ C Primer Plus \] Приложение А - Ответы на вопросы для самоконтроля **// 38**
+* [ C Primer Plus ] Приложение А - Ответы на вопросы для самоконтроля **// 38**
 
-* \[ C Primer Plus \] Приложение Б - Справочные материалы **// 88**
+* [ C Primer Plus ] Приложение Б - Справочные материалы **// 88**
 
-* \[ C Primer Plus \] Приложение В - Набор символов ASCII **// 5**
+* [ C Primer Plus ] Приложение В - Набор символов ASCII **// 5**
 
-* **{ Прата С. } \[ Язык программирования C++. Лекции и упражнения \] ( 2012, 6 издание )**
+### Прата С. - "Язык программирования C++. Лекции и упражнения" ( 2012, 6 издание )
 
 * ОСНОВНОЙ МАТЕРИАЛ
 
-* \[ C++ Primer Plus \] Глава № 1 - Начало работы с C++ **// 18**
+* [ C++ Primer Plus ] Глава № 1 - Начало работы с C++ **// 18**
 
-* \[ C++ Primer Plus \] Глава № 2 - Приступаем к изучению C++ **// 36**
+* [ C++ Primer Plus ] Глава № 2 - Приступаем к изучению C++ **// 36**
 
-* \[ C++ Primer Plus \] Глава № 3 - Работа с данными **// 46**
+* [ C++ Primer Plus ] Глава № 3 - Работа с данными **// 46**
 
-* \[ C++ Primer Plus \] Глава № 4 - Составные типы **// 74**
+* [ C++ Primer Plus ] Глава № 4 - Составные типы **// 74**
 
-* \[ C++ Primer Plus \] Глава № 5 - Циклы и выражения отношений **// 52**
+* [ C++ Primer Plus ] Глава № 5 - Циклы и выражения отношений **// 52**
 
-* \[ C++ Primer Plus \] Глава № 6 - Операторы ветвления и логические операции **// 46**
+* [ C++ Primer Plus ] Глава № 6 - Операторы ветвления и логические операции **// 46**
 
-* \[ C++ Primer Plus \] Глава № 7 - Функции как программные модули C++ **// 64**
+* [ C++ Primer Plus ] Глава № 7 - Функции как программные модули C++ **// 64**
 
-* \[ C++ Primer Plus \] Глава № 8 - Дополнительные сведения о функциях **// 62**
+* [ C++ Primer Plus ] Глава № 8 - Дополнительные сведения о функциях **// 62**
 
-* \[ C++ Primer Plus \] Глава № 9 - Модели памяти и пространства имен **// 54**
+* [ C++ Primer Plus ] Глава № 9 - Модели памяти и пространства имен **// 54**
 
-* \[ C++ Primer Plus \] Глава № 10 - Объекты и классы **// 52**
+* [ C++ Primer Plus ] Глава № 10 - Объекты и классы **// 52**
 
-* \[ C++ Primer Plus \] Глава № 11 - Работа с классами **// 56**
+* [ C++ Primer Plus ] Глава № 11 - Работа с классами **// 56**
 
-* \[ C++ Primer Plus \] Глава № 12 - Классы и динамическое выделение памяти **// 70**
+* [ C++ Primer Plus ] Глава № 12 - Классы и динамическое выделение памяти **// 70**
 
-* \[ C++ Primer Plus \] Глава № 13 - Наследование классов **// 68**
+* [ C++ Primer Plus ] Глава № 13 - Наследование классов **// 68**
 
-* \[ C++ Primer Plus \] Глава № 14 - Повторное использование кода в C++ **// 78**
+* [ C++ Primer Plus ] Глава № 14 - Повторное использование кода в C++ **// 78**
 
-* \[ C++ Primer Plus \] Глава № 15 - Друзья, исключения и многое другое **// 62**
+* [ C++ Primer Plus ] Глава № 15 - Друзья, исключения и многое другое **// 62**
 
-* \[ C++ Primer Plus \] Глава № 16 - Класс string и стандартная библиотека шаблонов **// 100**
+* [ C++ Primer Plus ] Глава № 16 - Класс string и стандартная библиотека шаблонов **// 100**
 
-* \[ C++ Primer Plus \] Глава № 17 - Ввод, вывод и файлы **// 82**
+* [ C++ Primer Plus ] Глава № 17 - Ввод, вывод и файлы **// 82**
 
-* \[ C++ Primer Plus \] Глава № 18 - Новый стандарт C++ **// 56**
+* [ C++ Primer Plus ] Глава № 18 - Новый стандарт C++ **// 56**
 
 * ПРИЛОЖЕНИЯ
 
-* \[ C++ Primer Plus \] Приложение А - Основания систем счисления **// 4**
+* [ C++ Primer Plus ] Приложение А - Основания систем счисления **// 4**
 
-* \[ C++ Primer Plus \] Приложение Б - Зарезервированные слова C++ **// 4**
+* [ C++ Primer Plus ] Приложение Б - Зарезервированные слова C++ **// 4**
 
-* \[ C++ Primer Plus \] Приложение В - Набор символов ASCII **// 6**
+* [ C++ Primer Plus ] Приложение В - Набор символов ASCII **// 6**
 
-* \[ C++ Primer Plus \] Приложение Г - Приоритеты операций **// 4**
+* [ C++ Primer Plus ] Приложение Г - Приоритеты операций **// 4**
 
-* \[ C++ Primer Plus \] Приложение Д - Другие операции **// 12**
+* [ C++ Primer Plus ] Приложение Д - Другие операции **// 12**
 
-* \[ C++ Primer Plus \] Приложение Е - Шаблонный класс string **// 20**
+* [ C++ Primer Plus ] Приложение Е - Шаблонный класс string **// 20**
 
-* \[ C++ Primer Plus \] Приложение Ж - Методы и функции стандартной библиотеки шаблонов **// 46**
+* [ C++ Primer Plus ] Приложение Ж - Методы и функции стандартной библиотеки шаблонов **// 46**
 
-* \[ C++ Primer Plus \] Приложение З - Рекомендуемая литература и ресурсы в Интернете **// 4**
+* [ C++ Primer Plus ] Приложение З - Рекомендуемая литература и ресурсы в Интернете **// 4**
 
-* \[ C++ Primer Plus \] Приложение И - Переход к стандарту ANSI/ISO C++ **// 8**
+* [ C++ Primer Plus ] Приложение И - Переход к стандарту ANSI/ISO C++ **// 8**
 
-* \[ C++ Primer Plus \] Приложение К - Ответы на вопросы для самоконтроля **// 27**
+* [ C++ Primer Plus ] Приложение К - Ответы на вопросы для самоконтроля **// 27**
 
-* * *
+## 2.1.1.2 - C/C++ Programming Fundamentals ( with Visual C++ )
 
-* * *
-
-**2024? - 2.1.1.2 - C/C++ Programming Fundamentals ( with Visual C++ )**
-========================================================================
-
-* * *
-
-* **{ Deitel Paul, Deitel Harvey } \[ C++ How to Program \] ( 10th Global Edition, 2017 )**
+### Deitel Paul, Deitel Harvey - "C++ How to Program" ( 10th Global Edition, 2017 )
 
 * ОСНОВНОЙ МАТЕРИАЛ
 
-* \[ C++ How to Program \] Chapter 1 - Introduction to Computers and C++ **// 43**
+* [ C++ How to Program ] Chapter 1 - Introduction to Computers and C++ **// 43**
 
-* \[ C++ How to Program \] Chapter 2 - "Introduction to C++ Programming, Input/Output and Operators" **// 29**
+* [ C++ How to Program ] Chapter 2 - "Introduction to C++ Programming, Input/Output and Operators" **// 29**
 
-* \[ C++ How to Program \] Chapter 3 - "Introduction to Classes, Objects, Member Functions and Strings" **// 30**
+* [ C++ How to Program ] Chapter 3 - "Introduction to Classes, Objects, Member Functions and Strings" **// 30**
 
-* \[ C++ How to Program \] Chapter 4 - "Algorithm Development and Control Statements: Part 1" **// 56**
+* [ C++ How to Program ] Chapter 4 - "Algorithm Development and Control Statements: Part 1" **// 56**
 
-* \[ C++ How to Program \] Chapter 5 - "Control Statements: Part 2; Logical Operators" **// 52**
+* [ C++ How to Program ] Chapter 5 - "Control Statements: Part 2; Logical Operators" **// 52**
 
-* \[ C++ How to Program \] Chapter 6 - "Functions and an Introduction to Recursion" **// 72**
+* [ C++ How to Program ] Chapter 6 - "Functions and an Introduction to Recursion" **// 72**
 
-* \[ C++ How to Program \] Chapter 7 - "Class Templates array and vector; Catching Exceptions" **// 56**
+* [ C++ How to Program ] Chapter 7 - "Class Templates array and vector; Catching Exceptions" **// 56**
 
-* \[ C++ How to Program \] Chapter 8 - "Pointers" **// 46**
+* [ C++ How to Program ] Chapter 8 - "Pointers" **// 46**
 
-* \[ C++ How to Program \] Chapter 9 - "Classes: A Deeper Look" **// 62**
+* [ C++ How to Program ] Chapter 9 - "Classes: A Deeper Look" **// 62**
 
-* \[ C++ How to Program \] Chapter 10 - "Operator Overloading; Class string" **// 50**
+* [ C++ How to Program ] Chapter 10 - "Operator Overloading; Class string" **// 50**
 
-* \[ C++ How to Program \] Chapter 11 - "Object-Oriented Programming: Inheritance" **// 34**
+* [ C++ How to Program ] Chapter 11 - "Object-Oriented Programming: Inheritance" **// 34**
 
-* \[ C++ How to Program \] Chapter 12 - "Object-Oriented Programming: Polymorphism" **// 46**
+* [ C++ How to Program ] Chapter 12 - "Object-Oriented Programming: Polymorphism" **// 46**
 
-* \[ C++ How to Program \] Chapter 13 - "Stream Input/Output: A Deeper Look" **// 38**
+* [ C++ How to Program ] Chapter 13 - "Stream Input/Output: A Deeper Look" **// 38**
 
-* \[ C++ How to Program \] Chapter 14 - "File Processing" **// 40**
+* [ C++ How to Program ] Chapter 14 - "File Processing" **// 40**
 
-* \[ C++ How to Program \] Chapter 15 - "Standard Library Containers and Iterators" **// 52**
+* [ C++ How to Program ] Chapter 15 - "Standard Library Containers and Iterators" **// 52**
 
-* \[ C++ How to Program \] Chapter 16 - "Standard Library Algorithms" **// 50**
+* [ C++ How to Program ] Chapter 16 - "Standard Library Algorithms" **// 50**
 
-* \[ C++ How to Program \] Chapter 17 - "Exception Handling: A Deeper Look" **// 26**
+* [ C++ How to Program ] Chapter 17 - "Exception Handling: A Deeper Look" **// 26**
 
-* \[ C++ How to Program \] Chapter 18 - "Introduction to Custom Templates" **// 14**
+* [ C++ How to Program ] Chapter 18 - "Introduction to Custom Templates" **// 14**
 
-* \[ C++ How to Program \] Chapter 19 - "Custom Templatized Data Structures" **// 44**
+* [ C++ How to Program ] Chapter 19 - "Custom Templatized Data Structures" **// 44**
 
-* \[ C++ How to Program \] Chapter 20 - "Searching and Sorting" **// 28**
+* [ C++ How to Program ] Chapter 20 - "Searching and Sorting" **// 28**
 
-* \[ C++ How to Program \] Chapter 21 - "Class string and String Stream Processing: A Deeper Look" **// 30**
+* [ C++ How to Program ] Chapter 21 - "Class string and String Stream Processing: A Deeper Look" **// 30**
 
-* \[ C++ How to Program \] Chapter 22 - "Bits, Characters, C Strings and structs" **// 60**
+* [ C++ How to Program ] Chapter 22 - "Bits, Characters, C Strings and structs" **// 60**
 
 * ПРИЛОЖЕНИЯ
 
-* \[ C++ How to Program \] Appendix A - "Operator Precedence and Associativity" **// 2**
+* [ C++ How to Program ] Appendix A - "Operator Precedence and Associativity" **// 2**
 
-* \[ C++ How to Program \] Appendix B - "ASCII Character Set" **// 2**
+* [ C++ How to Program ] Appendix B - "ASCII Character Set" **// 2**
 
-* \[ C++ How to Program \] Appendix C - "Fundamental Types" **// 2**
+* [ C++ How to Program ] Appendix C - "Fundamental Types" **// 2**
 
-* \[ C++ How to Program \] Appendix D - "Number Systems" **// 14**
+* [ C++ How to Program ] Appendix D - "Number Systems" **// 14**
 
-* \[ C++ How to Program \] Appendix E - "Preprocessor" **// 12**
+* [ C++ How to Program ] Appendix E - "Preprocessor" **// 12**
 
-* **{ Deitel Paul, Deitel Harvey } \[ C How to Program \] ( 8th Global Edition, 2016 )**
+### Deitel Paul, Deitel Harvey - "C How to Program" ( 8th Global Edition, 2016 )
 
 * ОСНОВНОЙ МАТЕРИАЛ
 
-* \[ C How to Program \] Chapter 1 - Introduction to Computers, the Internet, and the Web **// 38**
+* [ C How to Program ] Chapter 1 - Introduction to Computers, the Internet, and the Web **// 38**
 
-* \[ C How to Program \] Chapter 2 - "Introduction to C Programming" **// 30**
+* [ C How to Program ] Chapter 2 - "Introduction to C Programming" **// 30**
 
-* \[ C How to Program \] Chapter 3 - "Structured Program Development in C" **// 44**
+* [ C How to Program ] Chapter 3 - "Structured Program Development in C" **// 44**
 
-* \[ C How to Program \] Chapter 4 - "C Program Control" **// 44**
+* [ C How to Program ] Chapter 4 - "C Program Control" **// 44**
 
-* \[ C How to Program \] Chapter 5 - "C Functions" **// 57**
+* [ C How to Program ] Chapter 5 - "C Functions" **// 57**
 
-* \[ C How to Program \] Chapter 6 - "C Arrays" **// 60**
+* [ C How to Program ] Chapter 6 - "C Arrays" **// 60**
 
-* \[ C How to Program \] Chapter 7 - "C Pointers" **// 59**
+* [ C How to Program ] Chapter 7 - "C Pointers" **// 59**
 
-* \[ C How to Program \] Chapter 8 - "C Characters and Strings" **// 44**
+* [ C How to Program ] Chapter 8 - "C Characters and Strings" **// 44**
 
-* \[ C How to Program \] Chapter 9 - "C Formatted Input/Output" **// 27**
+* [ C How to Program ] Chapter 9 - "C Formatted Input/Output" **// 27**
 
-* \[ C How to Program \] Chapter 10 - "C Structures, Unions, Bit Manipulation and Enumerations" **// 37**
+* [ C How to Program ] Chapter 10 - "C Structures, Unions, Bit Manipulation and Enumerations" **// 37**
 
-* \[ C How to Program \] Chapter 11 - "C File Processing" **// 36**
+* [ C How to Program ] Chapter 11 - "C File Processing" **// 36**
 
-* \[ C How to Program \] Chapter 12 - "C Data Structures" **// 41**
+* [ C How to Program ] Chapter 12 - "C Data Structures" **// 41**
 
-* \[ C How to Program \] Chapter 13 - "C Preprocessor" **// 13**
+* [ C How to Program ] Chapter 13 - "C Preprocessor" **// 13**
 
-* \[ C How to Program \] Chapter 14 - "C Other Topics" **// 18**
+* [ C How to Program ] Chapter 14 - "C Other Topics" **// 18**
 
-* \[ C How to Program \] Chapter 15 - "C++ as a Better C; Introducing Object Technology" **// 40**
+* [ C How to Program ] Chapter 15 - "C++ as a Better C; Introducing Object Technology" **// 40**
 
-* \[ C How to Program \] Chapter 16 - "Introduction to Classes, Objects and Strings" **// 38**
+* [ C How to Program ] Chapter 16 - "Introduction to Classes, Objects and Strings" **// 38**
 
-* \[ C How to Program \] Chapter 17 - "Classes: A Deeper Look; Throwing Exceptions" **// 56**
+* [ C How to Program ] Chapter 17 - "Classes: A Deeper Look; Throwing Exceptions" **// 56**
 
-* \[ C How to Program \] Chapter 18 - "Operator Overloading; Class string" **// 49**
+* [ C How to Program ] Chapter 18 - "Operator Overloading; Class string" **// 49**
 
-* \[ C How to Program \] Chapter 19 - "Object-Oriented Programming: Inheritance" **// 35**
+* [ C How to Program ] Chapter 19 - "Object-Oriented Programming: Inheritance" **// 35**
 
-* \[ C How to Program \] Chapter 20 - "Object-Oriented Programming: Polymorphism" **// 45**
+* [ C How to Program ] Chapter 20 - "Object-Oriented Programming: Polymorphism" **// 45**
 
-* \[ C How to Program \] Chapter 21 - "Stream Input/Output: A Deeper Look" **// 37**
+* [ C How to Program ] Chapter 21 - "Stream Input/Output: A Deeper Look" **// 37**
 
-* \[ C How to Program \] Chapter 22 - "Exception Handling: A Deeper Look" **// 25**
+* [ C How to Program ] Chapter 22 - "Exception Handling: A Deeper Look" **// 25**
 
-* \[ C How to Program \] Chapter 23 - "Introduction to Custom Templates" **// 12**
+* [ C How to Program ] Chapter 23 - "Introduction to Custom Templates" **// 12**
 
 * ПРИЛОЖЕНИЯ
 
-* \[ C How to Program \] Appendix A - "C and C++ Operator Precedence Charts" **// 4**
+* [ C How to Program ] Appendix A - "C and C++ Operator Precedence Charts" **// 4**
 
-* \[ C How to Program \] Appendix B - "ASCII Character Set" **// 1**
+* [ C How to Program ] Appendix B - "ASCII Character Set" **// 1**
 
-* \[ C How to Program \] Appendix C - "Number Systems" **// 13**
+* [ C How to Program ] Appendix C - "Number Systems" **// 13**
 
-* \[ C How to Program \] Appendix D - "Sorting: A Deeper Look" **// 20**
+* [ C How to Program ] Appendix D - "Sorting: A Deeper Look" **// 20**
 
-* \[ C How to Program \] Appendix E - "Multithreading and Other C11 and C99 Topics" **// 27**
+* [ C How to Program ] Appendix E - "Multithreading and Other C11 and C99 Topics" **// 27**
 
-* * *
+## 2.1.1.3 - C/C++ Programming Fundamentals ( Classic Books )
 
-
-* * *
-
-**2024? - 2.1.1.3 - C/C++ Programming Fundamentals ( Classic Books )**
-======================================================================
-
-* * *
-
-* **{ Керниган Б.У., Ритчи Д.М. } \[ Язык программирования C \] ( 2009, 2 издание )**
+### Керниган Б.У., Ритчи Д.М. - "Язык программирования C" ( 2009, 2 издание )
 
 * ОСНОВНОЙ МАТЕРИАЛ
 
@@ -450,9 +420,7 @@
 
 * Приложение В - Сводка изменений **// 3**
 
-* * *
-
-* **{ Страуструп Б. } \[ Язык программирования C++. Специальное издание \] ( 2011 )**
+## Страуструп Б. - "Язык программирования C++. Специальное издание" ( 2011 )
 
 * Глава 1 - Обращение к читателю
 
@@ -514,7 +482,7 @@
 
 * Приложение E - Исключения и безопасность стандартной библиотеки
 
-* **{ Страуструп Б. } \[ Программирование - принципы и практика использования C++ \] ( 2016, 2 издание )**
+### Страуструп Б. - "Программирование - принципы и практика использования C++" ( 2016, 2 издание )
 
 * Глава 0 - Обращение к читателям
 
@@ -582,7 +550,7 @@
 
 * Приложение Д - Реализация графического пользовательского интерфейса
 
-* **{ Страуструп Б. } \[ Язык программирования C++. Краткий курс \] ( 2019 )**
+### Страуструп Б. - "Язык программирования C++. Краткий курс" ( 2019 )
 
 * Глава 1 - Основы
 
@@ -616,96 +584,85 @@
 
 * Глава 16 - История и совместимость
 
-* * *
+---
 
-* * *
+## 2.1.1.4 - C/C++ Professional Programming**
 
-**2024? - 2.1.1.4 - C/C++ Professional Programming**
-====================================================
+### Углубленное изучение языков программирования C/С++
 
-* * *
+* { Reese R. } [ Understanding and Using C Pointers ] ( 2013 )
 
-* Углубленное изучение языков программирования C/С++
+* { Toppo N., Dewan H. } [ Pointers in C ] ( 2013 )
 
-* { Reese R. } \[ Understanding and Using C Pointers \] ( 2013 )
+* { Seacord R. } [ Effective C ] ( 2020 )
 
-* { Toppo N., Dewan H. } \[ Pointers in C \] ( 2013 )
+* { Gustedt J. } [ Modern C ] ( 2020 )
 
-* { Seacord R. } \[ Effective C \] ( 2020 )
+* { Amini K. } [ Extreme C ] ( 2019 )
 
-* { Gustedt J. } \[ Modern C \] ( 2020 )
+* { Клеменс Б. } [ Язык C в XXI веке ] ( 2015 )
 
-* { Amini K. } \[ Extreme C \] ( 2019 )
+* { Уильямс Э. } [ C++. Практика многопоточного программирования ] ( 2020 )
 
-* { Клеменс Б. } \[ Язык C в XXI веке \] ( 2015 )
+* { Мейерс С. } [ Эффективный и современный C++ ] ( 2016 )
 
-* { Уильямс Э. } \[ C++. Практика многопоточного программирования \] ( 2020 )
+* { Дьюхерст С. } [ C++. Священные знания ] ( 2012 )
 
-* { Мейерс С. } \[ Эффективный и современный C++ \] ( 2016 )
+* { Дьюхерст С. } [ Скользкие места C++ ] ( 2006 )
 
-* { Дьюхерст С. } \[ C++. Священные знания \] ( 2012 )
+* { Лоспинозо Дж. } [ C++ для профи ] ( 2021 )
 
-* { Дьюхерст С. } \[ Скользкие места C++ \] ( 2006 )
+* { Turner J. } [ C++ Best Practices ] ( 2022 )
 
-* { Лоспинозо Дж. } \[ C++ для профи \] ( 2021 )
+* { Pikus F. } [ Design Patterns with C++ ] ( 2019 )
 
-* { Turner J. } \[ C++ Best Practices \] ( 2022 )
+* { Roth S. } [ Clean C++ ] ( 2017 )
 
-* { Pikus F. } \[ Design Patterns with C++ \] ( 2019 )
+* { Stevanovic M. } [ C and C++ Compiling ]
 
-* { Roth S. } \[ Clean C++ \] ( 2017 )
+* { Саттер Г., Александреску А. } [ Стандарты программирования на C++ ] ( 2008 )
 
-* { Stevanovic M. } \[ C and C++ Compiling \]
+* { Сикорд Р. } [ Безопасное программирование на C и C++ ] ( 2015 )
 
-* { Саттер Г., Александреску А. } \[ Стандарты программирования на C++ \] ( 2008 )
+* { Grenning J. } [ Test-Driven Development for Embedded C ] ( 2011 )
 
-* { Сикорд Р. } \[ Безопасное программирование на C и C++ \] ( 2015 )
+* { Langr J. } [ Modern C++ Programming with Test-Driven Development ] ( 2013 )
 
-* { Grenning J. } \[ Test-Driven Development for Embedded C \] ( 2011 )
+### Обзорное изучение справочной литературы (C/C++)
 
-* { Langr J. } \[ Modern C++ Programming with Test-Driven Development \] ( 2013 )
+* { Olsson M. } [ Modern C. Quick Syntax Reference ] ( 2019, 2 edition )
 
-* Обзорное изучение справочной литературы (C/C++)
+* { Prinz P., Crawford T. } [ C in a Nutshell ] ( 2016, 2 edition )
 
-* { Olsson M. } \[ Modern C. Quick Syntax Reference \] ( 2019, 2 edition )
+* { Olsson M. } [ C++14. Quick Syntax Reference ] ( 2015, 2 edition )
 
-* { Prinz P., Crawford T. } \[ C in a Nutshell \] ( 2016, 2 edition )
+* { Olsson M. } [ C++17. Quick Syntax Reference ] ( 2018, 3 edition )
 
-* { Olsson M. } \[ C++14. Quick Syntax Reference \] ( 2015, 2 edition )
+* { Olsson M. } [ C++20. Quick Syntax Reference ] ( 2020, 4 edition )
 
-* { Olsson M. } \[ C++17. Quick Syntax Reference \] ( 2018, 3 edition )
+* { Filipek B. } [ C++ 17 in Detail ] ( 2019 )
 
-* { Olsson M. } \[ C++20. Quick Syntax Reference \] ( 2020, 4 edition )
+* { Browning J., Sutherland B. } [ C++ 20 Recipes ] ( 2020 )
 
-* { Filipek B. } \[ C++ 17 in Detail \] ( 2019 )
+* { Van Weert P., Gregoire M. } [ C++ Standard Library Quick Reference ] ( 2016 )
 
-* { Browning J., Sutherland B. } \[ C++ 20 Recipes \] ( 2020 )
+* { Van Weert P., Gregoire M. } [ C++ 17 Standard Library Quick Reference ] ( 2019 )
 
-* { Van Weert P., Gregoire M. } \[ C++ Standard Library Quick Reference \] ( 2016 )
+* { Josuttis N. } [ The C++ Standard Library ] ( 2012, 2 edition )
 
-* { Van Weert P., Gregoire M. } \[ C++ 17 Standard Library Quick Reference \] ( 2019 )
+* { Vandevoorde D., Josuttis N., Gregor D. } [ C++ Templates. The Complete Guide ] ( 2018, 2 edition )
 
-* { Josuttis N. } \[ The C++ Standard Library \] ( 2012, 2 edition )
+* { Galowicz J. } [ C++ 17 STL Cookbook ] ( 2017 )
 
-* { Vandevoorde D., Josuttis N., Gregor D. } \[ C++ Templates. The Complete Guide \] ( 2018, 2 edition )
+* { Weinman B. } [ C++20 STL Cookbook ] ( 2022 )
 
-* { Galowicz J. } \[ C++ 17 STL Cookbook \] ( 2017 )
+---
 
-* { Weinman B. } \[ C++20 STL Cookbook \] ( 2022 )
+## 2.1.1.5 - C/C++ Professional Development Environment**
 
-* * *
+### Microsoft Visual C++ Team Blog
 
-
-* * *
-
-**2024? - 2.1.1.5 - C/C++ Professional Development Environment**
-================================================================
-
-* * *
-
-**Microsoft Visual C++ Team Blog**
-
-* MSVC
+#### MSVC
 
 * [Build Reliable and Secure C++ programs — Microsoft Learn - C++ Team Blog](https://devblogs.microsoft.com/cppblog/build-reliable-and-secure-cpp-programs-microsoft-learn/)
 
@@ -735,7 +692,7 @@
 
 * [OpenMP Task Support for C++ in Visual Studio - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/openmp-task-support-for-c-in-visual-studio/)
 
-* C++ Modules
+#### C++ Modules
 
 * [Open Sourcing IFC SDK for C++ Modules - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/open-sourcing-ifc-sdk-for-cpp-modules/)
 
@@ -745,7 +702,7 @@
 
 * [Using C++ Modules in MSVC from the Command Line Part 1: Primary Module Interfaces - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/using-cpp-modules-in-msvc-from-the-command-line-part-1/)
 
-* AddressSanitizer
+#### AddressSanitizer
 
 * [MSVC Address Sanitizer - One DLL for all Runtime Configurations - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/msvc-address-sanitizer-one-dll-for-all-runtime-configurations/)
 
@@ -755,7 +712,7 @@
 
 * [AddressSanitizer continue\_on\_error - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/addresssanitizer-continue_on_error/)
 
-* Code Analysis
+#### Code Analysis
 
 * [Structured Diagnostics in the New Problem Details Window - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/structured-diagnostics-in-the-new-problem-details-window/)
 
@@ -773,7 +730,7 @@
 
 * [Execution and Static Analysis Support for MSVC on Compiler Explorer - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/execution-and-static-analysis-support-for-msvc-on-compiler-explorer/)
 
-* VCPKG СТАТЬИ
+#### VCPKG СТАТЬИ
 
 * [vcpkg Documentation Moves to Microsoft Docs Platform - C++ Team Blog](https://devblogs.microsoft.com/cppblog/vcpkg-documentation-moves-to-microsoft-docs-platform/)
 
@@ -787,7 +744,7 @@
 
 * [Bootstrap your dev environment with vcpkg artifacts - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/vcpkg-artifacts/)
 
-* VCPKG АНОНСЫ
+#### VCPKG АНОНСЫ
 
 * [vcpkg 2023.10.19 Release: Export for Manifests, Documentation Improvements, and More… - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/vcpkg-2023-10-19-release-export-for-manifests-documentation-improvements-and-more/)
 
@@ -809,7 +766,7 @@
 
 * [vcpkg is Now Included with Visual Studio - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/vcpkg-is-now-included-with-visual-studio/)
 
-* Улучшения Visual Studio для C++ разработчиков
+#### Улучшения Visual Studio для C++ разработчиков
 
 * [Latest Updates for CMake Development in Visual Studio - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/latest-updates-for-cmake-development-in-visual-studio/)
 
@@ -885,9 +842,7 @@
 
 * [Visualize Macro Expansion for C++ - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/visualize-macro-expansion-for-c/)
 
-* * *
-
-**JetBrains CLion Blog**
+### JetBrains CLion Blog
 
 * [Striving For Better C++ Code, Part I: Data Flow Analysis Basics | The CLion Blog (jetbrains.com)](https://blog.jetbrains.com/clion/2023/11/striving-for-better-cpp-code-part-i-data-flow-analysis-basics/)
 
@@ -897,17 +852,11 @@
 
 * [How To Address 7 Major C++ Pain Points with CLion | The CLion Blog (jetbrains.com)](https://blog.jetbrains.com/clion/2023/07/how-to-address-7-major-cpp-pain-points-with-clion/)
 
-* * *
+---
 
+## Build Automation Systems - Make and CMake ( C/C++ )
 
-* * *
-
-**2024? - 3.1.2.1 - SDLC - Build Automation Systems - Make and CMake ( C/C++ )**
-================================================================================
-
-* * *
-
-* **{ Graham-Cumming J. } \[ The GNU Make Book \] ( 2015 )**
+### Graham-Cumming J. - "The GNU Make Book" ( 2015 )
 
 * Chapter 1 - The Basics Revisited
 
@@ -921,7 +870,7 @@
 
 * Chapter 6 - The GNU Make Standard Library
 
-* **{ Scott C. } \[ Professional CMake \] ( 2018 )**
+### Scott C. - "Professional CMake" ( 2018 )
 
 * Chapter 1 - Introduction
 
@@ -979,18 +928,11 @@
 
 * Chapter 28 - Project Organization
 
-* * *
+---
 
+## C/C++ System Programming (Linux & UNIX)
 
-
-* * *
-
-**2024? - 2.1.2.1 - C/C++ System Programming (Linux & UNIX)**
-=============================================================
-
-* * *
-
-* **{ Брайант Р.Э., О'Халларон Д.Р. } \[ Компьютерные системы - архитектура и программирование \] ( 2022 )**
+### Брайант Р.Э., О'Халларон Д.Р. - "Компьютерные системы - архитектура и программирование" ( 2022 )
 
 * Глава 1 - Экскурс в компьютерные системы
 
@@ -1018,7 +960,7 @@
 
 * Приложение А - Обработка ошибок
 
-* **{ Billimoria K.N. } \[ Hands-On System Programming with Linux \] ( 2018 )**
+### Billimoria K.N. - "Hands-On System Programming with Linux" ( 2018 )
 
 * Chapter 1 - Linux System Architecture
 
@@ -1058,7 +1000,7 @@
 
 * Chapter 19 - Troubleshooting and Best Practices
 
-* **{ Quinn R. } \[ Hands-On System Programming with C++ \] ( 2018 )**
+### Quinn R. - "Hands-On System Programming with C++" ( 2018 )
 
 * Chapter 1 - Getting Started with System Programming
 
@@ -1086,66 +1028,61 @@
 
 * Chapter 13 - Error Handling with Exceptions
 
-* * *
+---
 
-* * *
+## Visual C++ & Windows Programming
 
-**2024? - 2.1.2.2 - Visual C++ & Windows Programming**
-======================================================
+### Horton I. - "Beginning Visual C++ 2013/2010/2008"
 
-* * *
+* [2013] Chapter 1 - Programming with Visual C++
 
-* **{ Horton I. } \[ Beginning Visual C++ 2013/2010/2008 \]**
+* [2013] Chapter 2 - Data, Variables, and Calculations
 
-* \[2013\] Chapter 1 - Programming with Visual C++
+* [2013] Chapter 3 - Decisions and Loops
 
-* \[2013\] Chapter 2 - Data, Variables, and Calculations
+* [2013] Chapter 4 - Arrays, Strings, and Pointers
 
-* \[2013\] Chapter 3 - Decisions and Loops
+* [2013] Chapter 5 - Introducing Structure into Your Programs
 
-* \[2013\] Chapter 4 - Arrays, Strings, and Pointers
+* [2013] Chapter 6 - More about Program Structure
 
-* \[2013\] Chapter 5 - Introducing Structure into Your Programs
+* [2013] Chapter 7 - Defining Your Own Data Types
 
-* \[2013\] Chapter 6 - More about Program Structure
+* [2013] Chapter 8 - More on Classes
 
-* \[2013\] Chapter 7 - Defining Your Own Data Types
+* [2013] Chapter 9 - Class Inheritance and Virtual Functions
 
-* \[2013\] Chapter 8 - More on Classes
+* [2013] Chapter 10 - The Standard Template Library
 
-* \[2013\] Chapter 9 - Class Inheritance and Virtual Functions
+* [2013] Chapter 11 - Windows Programming Concepts
 
-* \[2013\] Chapter 10 - The Standard Template Library
+* [2013] Chapter 12 - Windows Programming with Microsoft Foundation Classes (MFC)
 
-* \[2013\] Chapter 11 - Windows Programming Concepts
+* [2013] Chapter 13 - Working with Menus and Toolbars
 
-* \[2013\] Chapter 12 - Windows Programming with Microsoft Foundation Classes (MFC)
+* [2013] Chapter 14 - Drawing in a Window
 
-* \[2013\] Chapter 13 - Working with Menus and Toolbars
+* [2013] Chapter 15 - Improving the View
 
-* \[2013\] Chapter 14 - Drawing in a Window
+* [2013] Chapter 16 - Working with Dialogs and Controls
 
-* \[2013\] Chapter 15 - Improving the View
+* [2013] Chapter 17 - Storing and Printing Documents
 
-* \[2013\] Chapter 16 - Working with Dialogs and Controls
+* [2013] Chapter 18 - Programming for Windows 8
 
-* \[2013\] Chapter 17 - Storing and Printing Documents
+* [2010] Chapter 11 - Debugging Techniques
 
-* \[2013\] Chapter 18 - Programming for Windows 8
+* [2010] Chapter 20 - Writing Your Own DLLs
 
-* \[2010\] Chapter 11 - Debugging Techniques
+* [2008] Chapter 20 - Connecting to Data Sources
 
-* \[2010\] Chapter 20 - Writing Your Own DLLs
+* [2008] Chapter 21 - Updating Data Sources
 
-* \[2008\] Chapter 20 - Connecting to Data Sources
+* [2008] Chapter 22 - More on Windows Forms Applications
 
-* \[2008\] Chapter 21 - Updating Data Sources
+* [2008] Chapter 23 - Accessing Data Sources in a Windows Forms Application
 
-* \[2008\] Chapter 22 - More on Windows Forms Applications
-
-* \[2008\] Chapter 23 - Accessing Data Sources in a windows Forms Application
-
-* **{ Bjornander S. } \[ C++ Windows Programming \] ( 2016 )**
+### Bjornander S. - "C++ Windows Programming" ( 2016 )
 
 * Chapter 1 - Introduction
 
@@ -1177,7 +1114,7 @@
 
 * Appendix - Rational and Complex Numbers
 
-* **{ Templeman J. } \[ Microsoft Visual C++ CLI Step By Step \] ( 2013 )**
+### Templeman J. - "Microsoft Visual C++ CLI Step By Step" ( 2013 )
 
 * Chapter 1 - Hello, C++
 
@@ -1227,16 +1164,11 @@
 
 * Chapter 24 - Living with COM
 
-* * *
+---
 
-* * *
+## Qt Cross-Platform Software Development
 
-**2024? - 2.1.2.3 - Qt Cross-Platform Software Development**
-============================================================
-
-* * *
-
-* **{ Piccolino M. } \[ Qt5 Projects \] ( 2018 )**
+### Piccolino M. - "Qt5 Projects" ( 2018 )
 
 * Chapter 1 - Writing Acceptance Tests and Building a Visual Prototype
 
@@ -1256,7 +1188,7 @@
 
 * Chapter 9 - Running a Web Service and an HTML5 Dashboard
 
-* **{ Lee Zhi Eng } \[ Hands-On GUI Programming with C++ and Qt5 \] ( 2018 )**
+### Lee Zhi Eng - "Hands-On GUI Programming with C++ and Qt5" ( 2018 )
 
 * Chapter 1 - Introduction to Qt
 
@@ -1290,7 +1222,7 @@
 
 * Chapter 16 - Testing and Debugging
 
-* **{ Шлее М. } \[ Qt 5.10. Профессиональное программирование на C++ \] ( 2018 )**
+### Шлее М.- "Qt 5.10. Профессиональное программирование на C++" ( 2018 )
 
 * Глава 01 - Обзор иерархии классов Qt
 
@@ -1424,29 +1356,15 @@
 
 * Глава 66 - Публикация в магазине мобильных приложений
 
-* * *
+---
 
+## C/C++ Alternatives - Golang Programming
 
+---
 
-* * *
+## C/C++ Alternatives - Rust Programming
 
-**2024? - 2.1.3.1 - C/C++ Alternatives - Golang Programming**
-=============================================================
-
-* * *
-
-GOLANG
-
-* * *
-
-* * *
-
-**2024? - 2.1.3.2 - C/C++ Alternatives - Rust Programming**
-===========================================================
-
-* * *
-
-ВЕРСИИ RUST
+### ВЕРСИИ RUST
 
 * [Announcing Rust 1.70.0 | Rust Blog (rust-lang.org)](https://blog.rust-lang.org/2023/06/01/Rust-1.70.0.html)
 
@@ -1474,5 +1392,4 @@ GOLANG
 
 * [Announcing Rust 1.59.0 | Rust Blog (rust-lang.org)](https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html)
 
-* * *
-
+---
