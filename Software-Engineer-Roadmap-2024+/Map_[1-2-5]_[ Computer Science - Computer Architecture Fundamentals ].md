@@ -1,11 +1,8 @@
-* * *
+# Computer Science - Computer Architecture Fundamentals
 
-**2024? - 1.2.5 - Computer Science - Computer Architecture Fundamentals**
-=========================================================================
+---
 
-* * *
-
-* **{ Justice M. } \[ How Computers Really Work \] ( 2021 )**
+## Justice M. - "How Computers Really Work" ( 2021 )
 
 * Chapter 1 - Computing Concepts
 
@@ -33,7 +30,9 @@
 
 * Chapter 13 - Modern Computing
 
-* **{ Ledin J. } \[ Modern Computer Architecture and Organization \] ( 2020 )**
+---
+
+## Ledin J. - "Modern Computer Architecture and Organization" ( 2020 )
 
 * Chapter 1 - Introducing Computer Architecture
 
@@ -63,7 +62,9 @@
 
 * Chapter 14 - Future Directions in Computer Architectures
 
-* **{ Hennesy J.L., Patterson D.A. } \[ Computer Architecture \] ( 2012 )**
+---
+
+## Hennesy J.L., Patterson D.A. - "Computer Architecture" ( 2012 )
 
 * Chapter 1 - Fundamentals of Quantitative Design and Analysis
 
@@ -83,7 +84,9 @@
 
 * Appendix C - Pipelining: Basic and Intermediate Concepts
 
-* **{ Таненбаум Э., Остин Т. } \[ Архитектура компьютера \] ( 2013, 6 издание )**
+---
+
+## Таненбаум Э., Остин Т. - "Архитектура компьютера" ( 2013, 6 издание )
 
 * Глава 1 - Введение
 
@@ -109,4 +112,4 @@
 
 * Приложение В - Программирование на языке ассемблера
 
-* * *
+---
