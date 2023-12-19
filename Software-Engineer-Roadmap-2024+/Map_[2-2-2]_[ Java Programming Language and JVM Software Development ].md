@@ -1,127 +1,124 @@
-* * *
+# Java Programming Language and JVM Software Development
 
-**2023/4 - 2.1.2.1.1 - Java - Core Java SE Programming Fundamentals**
-=====================================================================
+---
 
-* * *
+## Java - Core Java SE Programming Fundamentals
 
-* **{ Horstmann C.S. } \[ Core Java ( 12 edition ). Volume 1 \] ( 2022 )**
+### Horstmann C.S. - Core Java ( 12 edition ). Volume 1 ( 2022 )
 
-* **\[ CoreJava 12 \] Chapter 1 - An Introduction to Java**
+* **[ CoreJava 12 ] Chapter 1 - An Introduction to Java**
 
-* **\[ CoreJava 12 \] Chapter 2 - The Java Programming Environment**
+* **[ CoreJava 12 ] Chapter 2 - The Java Programming Environment**
 
-* **\[ CoreJava 12 \] Chapter 3 - Fundamental Programming Structures in Java**
+* **[ CoreJava 12 ] Chapter 3 - Fundamental Programming Structures in Java**
 
-* **\[ CoreJava 12 \] Chapter 4 - Objects and Classes**
+* **[ CoreJava 12 ] Chapter 4 - Objects and Classes**
 
-* **\[ CoreJava 12 \] Chapter 5 - Inheritance**
+* **[ CoreJava 12 ] Chapter 5 - Inheritance**
 
-* **\[ CoreJava 12 \] Chapter 6 - Interfaces, Lambda Expressions, and Inner Classes**
+* **[ CoreJava 12 ] Chapter 6 - Interfaces, Lambda Expressions, and Inner Classes**
 
-* **\[ CoreJava 12 \] Chapter 7 - Exceptions, Assertions, and Logging**
+* **[ CoreJava 12 ] Chapter 7 - Exceptions, Assertions, and Logging**
 
-* **\[ CoreJava 12 \] Chapter 8 - Generic Programming**
+* **[ CoreJava 12 ] Chapter 8 - Generic Programming**
 
-* **\[ CoreJava 12 \] Chapter 9 - Collections**
+* **[ CoreJava 12 ] Chapter 9 - Collections**
 
-* **\[ CoreJava 12 \] Chapter 10 - Graphical User Interface Programming**
+* **[ CoreJava 12 ] Chapter 10 - Graphical User Interface Programming**
 
-* **\[ CoreJava 12 \] Chapter 11 - User Interface Components with Swing**
+* **[ CoreJava 12 ] Chapter 11 - User Interface Components with Swing**
 
-* **\[ CoreJava 12 \] Chapter 12 - Concurrency**
+* **[ CoreJava 12 ] Chapter 12 - Concurrency**
 
-* **{ Horstmann C.S. } \[ Core Java ( 12 edition ). Volume 2 \] ( 2022 )**
+### Horstmann C.S. - Core Java ( 12 edition ). Volume 2 ( 2022 )
 
-* **\[ CoreJava 12 \] Chapter 1 - Streams**
+* **[ CoreJava 12 ] Chapter 1 - Streams**
 
-* **\[ CoreJava 12 \] Chapter 2 - Input and Output**
+* **[ CoreJava 12 ] Chapter 2 - Input and Output**
 
-* **\[ CoreJava 12 \] Chapter 3 - XML**
+* **[ CoreJava 12 ] Chapter 3 - XML**
 
-* **\[ CoreJava 12 \] Chapter 4 - Networking**
+* **[ CoreJava 12 ] Chapter 4 - Networking**
 
-* **\[ CoreJava 12 \] Chapter 5 - Database Programming**
+* **[ CoreJava 12 ] Chapter 5 - Database Programming**
 
-* **\[ CoreJava 12 \] Chapter 6 - The Date and Time API**
+* **[ CoreJava 12 ] Chapter 6 - The Date and Time API**
 
-* **\[ CoreJava 12 \] Chapter 7 - Internationalization**
+* **[ CoreJava 12 ] Chapter 7 - Internationalization**
 
-* **\[ CoreJava 12 \] Chapter 8 - Scripting, Compiling, and Annotation Processing**
+* **[ CoreJava 12 ] Chapter 8 - Scripting, Compiling, and Annotation Processing**
 
-* **\[ CoreJava 12 \] Chapter 9 - The Java Platform Module System**
+* **[ CoreJava 12 ] Chapter 9 - The Java Platform Module System**
 
-* **\[ CoreJava 12 \] Chapter 10 - Security**
+* **[ CoreJava 12 ] Chapter 10 - Security**
 
-* **\[ CoreJava 12 \] Chapter 11 - Advanced Swing and Graphics**
+* **[ CoreJava 12 ] Chapter 11 - Advanced Swing and Graphics**
 
-* **\[ CoreJava 12 \] Chapter 12 - Native Methods**
+* **[ CoreJava 12 ] Chapter 12 - Native Methods**
 
-* * *
+### Horstmann C.S. - Core Java ( 11/10 edition ). Volume 1 - ( 2019/2016 )
 
-* **{ Horstmann C.S. } \[ Core Java ( 11/10 edition ). Volume 1 \] ( 2019/2016 )**
+* [ CoreJava 11/10 ] Chapter 1/1 - An Introduction to Java
 
-* \[ CoreJava 11/10 \] Chapter 1/1 - An Introduction to Java
+* [ CoreJava 11/10 ] Chapter 2/2 - The Java Programming Environment
 
-* \[ CoreJava 11/10 \] Chapter 2/2 - The Java Programming Environment
+* [ CoreJava 11/10 ] Chapter 3/3 - Fundamental Programming Structures in Java **// 88**
 
-* \[ CoreJava 11/10 \] Chapter 3/3 - Fundamental Programming Structures in Java **// 88**
+* [ CoreJava 11/10 ] Chapter 4/4 - Objects and Classes **// 82**
 
-* \[ CoreJava 11/10 \] Chapter 4/4 - Objects and Classes **// 82**
+* [ CoreJava 11/10 ] Chapter 5/5 - Inheritance **// 88**
 
-* \[ CoreJava 11/10 \] Chapter 5/5 - Inheritance **// 88**
+* [ CoreJava 11/10 ] Chapter 6/6 - Interfaces, Lambda Expressions, and Inner Classes **// 76**
 
-* \[ CoreJava 11/10 \] Chapter 6/6 - Interfaces, Lambda Expressions, and Inner Classes **// 76**
+* [ CoreJava 11/10 ] Chapter 7/7 - Exceptions, Assertions, and Logging
 
-* \[ CoreJava 11/10 \] Chapter 7/7 - Exceptions, Assertions, and Logging
+* [ CoreJava 11/10 ] Chapter 8/8 - Generic Programming
 
-* \[ CoreJava 11/10 \] Chapter 8/8 - Generic Programming
+* [ CoreJava 11/10 ] Chapter 9/9 - Collections
 
-* \[ CoreJava 11/10 \] Chapter 9/9 - Collections
+* [ CoreJava 11 ] Chapter 10/10 - Graphical User Interface Programming / Graphics Programming
 
-* \[ CoreJava 11 \] Chapter 10/10 - Graphical User Interface Programming / Graphics Programming
+* [ CoreJava 10 ] Chapter 11 - Event Handling
 
-* \[ CoreJava 10 \] Chapter 11 - Event Handling
+* [ CoreJava 11/10 ] Chapter 11/12 - User Interface Components with Swing
 
-* \[ CoreJava 11/10 \] Chapter 11/12 - User Interface Components with Swing
+* [ CoreJava 11/10 ] Chapter 12/14 - Concurrency
 
-* \[ CoreJava 11/10 \] Chapter 12/14 - Concurrency
+* [ CoreJava 10 ] Chapter 13 - Deploying Java Applications
 
-* \[ CoreJava 10 \] Chapter 13 - Deploying Java Applications
+### Horstmann C.S. - Core Java ( 11/10 edition ). Volume 2 ( 2019/2017 )
 
-* **{ Horstmann C.S. } \[ Core Java ( 11/10 edition ). Volume 2 \] ( 2019/2017 )**
+* [ CoreJava 11/10 ] Chapter 1/1 - Streams / The Java SE 8 Stream Library
 
-* \[ CoreJava 11/10 \] Chapter 1/1 - Streams / The Java SE 8 Stream Library
+* [ CoreJava 11/10 ] Chapter 2/2 - Input and Output
 
-* \[ CoreJava 11/10 \] Chapter 2/2 - Input and Output
+* [ CoreJava 11/10 ] Chapter 3/3 - XML
 
-* \[ CoreJava 11/10 \] Chapter 3/3 - XML
+* [ CoreJava 11/10 ] Chapter 4/4 - Networking
 
-* \[ CoreJava 11/10 \] Chapter 4/4 - Networking
+* [ CoreJava 11/10 ] Chapter 5/5 - Database Programming
 
-* \[ CoreJava 11/10 \] Chapter 5/5 - Database Programming
+* [ CoreJava 11/10 ] Chapter 6/6 - The Date and Time API
 
-* \[ CoreJava 11/10 \] Chapter 6/6 - The Date and Time API
+* [ CoreJava 11/10 ] Chapter 7/7 - Internationalization
 
-* \[ CoreJava 11/10 \] Chapter 7/7 - Internationalization
+* [ CoreJava 11/10 ] Chapter 8/8 - Scripting, Compiling, and Annotation Processing
 
-* \[ CoreJava 11/10 \] Chapter 8/8 - Scripting, Compiling, and Annotation Processing
+* [ CoreJava 11 ] Chapter 9 - The Java Platform Module System
 
-* \[ CoreJava 11 \] Chapter 9 - The Java Platform Module System
+* [ CoreJava 11/10 ] Chapter 10/9 - Security
 
-* \[ CoreJava 11/10 \] Chapter 10/9 - Security
+* [ CoreJava 11/10 ] Chapter 11/10 - Advanced Swing and Graphics / Advanced Swing
 
-* \[ CoreJava 11/10 \] Chapter 11/10 - Advanced Swing and Graphics / Advanced Swing
+* [ CoreJava 10 ] Chapter 11 - Advanced AWT
 
-* \[ CoreJava 10 \] Chapter 11 - Advanced AWT
+* [ CoreJava 11/10 ] Chapter 12/12 - Native Methods
 
-* \[ CoreJava 11/10 \] Chapter 12/12 - Native Methods
+---
 
-* * *
+## ОФИЦИАЛЬНЫЕ ВЫПУСКИ JAVA
 
-**ОФИЦИАЛЬНЫЕ ВЫПУСКИ JAVA**
-
-* **Java 21**
+### Java 21
 
 * [The Arrival of Java 21 (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-21)
 
@@ -129,63 +126,61 @@
 
 * [Java 21 is here: Virtual threads, string templates, and more (oracle.com)](https://blogs.oracle.com/javamagazine/post/java-21-now-available)
 
-* **Java 20**
+### Java 20
 
 * [The Arrival of Java 20 (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-20)
 
-* **Java 19**
+### Java 19
 
 * [The Arrival of Java 19 (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-19)
 
-* **Java 18**
+### Java 18
 
 * [The Arrival of Java 18 (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-18)
 
-* **Java 17 (LTS)**
+### Java 17 (LTS)
 
 * [The arrival of Java 17! (oracle.com)](https://blogs.oracle.com/java/post/announcing-java17)
 
-* **Java 16**
+### Java 16
 
 * [The Arrival of Java 16 (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-16)
 
-* **Java 15**
+### Java 15
 
 * [The Arrival of Java 15 (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-15)
 
-* **Java 14**
+### Java 14
 
 * [The Arrival of Java 14! (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-14)
 
-* **Java 13**
+### Java 13
 
 * [The arrival of Java 13! (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-13)
 
-* **Java 12**
+### Java 12
 
 * [The arrival of Java 12! (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-12)
 
-* **Java 11 (LTS)**
+### Java 11 (LTS)
 
 * [JDK 11 Release Notes, Important Changes, and Information (oracle.com)](https://www.oracle.com/java/technologies/javase/11-relnote-issues.html)
 
-* **Java 10**
+### Java 10
 
 * [JDK 10 Release Notes (oracle.com)](https://www.oracle.com/java/technologies/javase/10-relnote-issues.html)
 
-* **Java 9**
+### Java 9
 
 * [Java Development Kit 9 Update Release Notes (oracle.com)](https://www.oracle.com/java/technologies/javase/9u-relnotes.html)
 
-* **Java 8**
+### Java 8
 
 * [JDK 8 Update Release Notes (oracle.com)](https://www.oracle.com/java/technologies/javase/8u-relnotes.html)
 
-* * *
+---
 
-**JAVA ANNOTATED MONTHLY**
-
-* 2023
+## JAVA ANNOTATED MONTHLY
 
 * [Java Annotated Monthly – November 2023 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/11/java-annotated-monthly-november-2023/)
 
@@ -209,18 +204,11 @@
 
 * [Java Annotated Monthly – January 2023 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/01/java-annotated-monthly-january-2023/)
 
-* 2022
-
 * [Java Annotated Monthly – December 2022 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2022/12/java-annotated-monthly-december-2022/)
 
-* * *
+---
 
-* * *
-
-**2023/4 - 2.1.2.1.2 - Java - Development Environment with IntelliJ IDEA**
-==========================================================================
-
-* * *
+## Java - Development Environment with IntelliJ IDEA
 
 * [The Best of IntelliJ IDEA's HTTP Client | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/10/the-best-of-intellij-idea-s-http-client/)
 
@@ -296,16 +284,11 @@
 
 * [Java 20 and IntelliJ IDEA | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/03/java-20-and-intellij-idea/)
 
-* * *
+---
 
-* * *
+## Java Software Development with Spring Projects
 
-**2023/4 - 2.1.2.2 - Java Software Development with Spring Projects**
-=====================================================================
-
-* * *
-
-* **{ Ottinger J.B., Lombardi A. } \[ Beginning Spring \] ( 2019 )**
+### Ottinger J.B., Lombardi A. - "Beginning Spring" ( 2019 )
 
 * Chapter 1 - History and Justification
 
@@ -329,128 +312,123 @@
 
 * Chapter 11 - Next Steps
 
-* **{ Gutierrez F., Ottinger J.B. } \[ Introducing Spring Framework 6 \] ( 2022, 2th edition )**
+### Gutierrez F., Ottinger J.B. - "Introducing Spring Framework 6" ( 2022, 2th edition )
 
 * PART I - Spring Framework Basics
 
-* Chapter 1 - Your First Spring Application
+  * Chapter 1 - Your First Spring Application
 
-* Chapter 2 - Working with Classes and Dependencies
+  * Chapter 2 - Working with Classes and Dependencies
 
-* Chapter 3 - Applying Different Configurations
+  * Chapter 3 - Applying Different Configurations
 
-* Chapter 4 - Using Bean Scopes
+  * Chapter 4 - Using Bean Scopes
 
-* Chapter 5 - Using Resource Files
+  * Chapter 5 - Using Resource Files
 
 * PART II - The Spring Framework
 
-* Chapter 6 - Adding Simple Persistence to Your Application
+  * Chapter 6 - Adding Simple Persistence to Your Application
 
-* Chapter 7 - Letting Spring Build Your Data Access Objects
+  * Chapter 7 - Letting Spring Build Your Data Access Objects
 
-* Chapter 8 - Showing Your Spring Application on the Web
+  * Chapter 8 - Showing Your Spring Application on the Web
 
 * PART III - Advanced Techniques with Spring Framework
 
-* Chapter 9 - Integrating Your Spring Application with External Systems
+  * Chapter 9 - Integrating Your Spring Application with External Systems
 
-* Chapter 10 - Exposing a REST API
+  * Chapter 10 - Exposing a REST API
 
-* Chapter 11 - Sending Emails from Within Spring
+  * Chapter 11 - Sending Emails from Within Spring
 
 * PART IV - The New Spring I/O
 
-* Chapter 12 - Using Dynamic Languages
+  * Chapter 12 - Using Dynamic Languages
 
-* Chapter 13 - Where Do You Go From Here?
+  * Chapter 13 - Where Do You Go From Here?
 
-* **{ Greg L. Turnquist } \[ Learning Spring Boot 3.0 \] ( 2022, 3th edition )**
+### Greg L. Turnquist - "Learning Spring Boot 3.0" ( 2022, 3th edition )
 
 * PART I - The Basics of Spring Boot
 
-* Chapter 1 - Core Features of Spring Boot
+  * Chapter 1 - Core Features of Spring Boot
 
 * PART II - Creating and Application with Spring Boot
 
-* Chapter 2 - Creating a Web Application with Spring Boot
+  * Chapter 2 - Creating a Web Application with Spring Boot
 
-* Chapter 3 - Querying for Data with Spring Boot
+  * Chapter 3 - Querying for Data with Spring Boot
 
-* Chapter 4 - Securing an Application with Spring Boot
+  * Chapter 4 - Securing an Application with Spring Boot
 
-* Chapter 5 - Testing with Spring Boot
+  * Chapter 5 - Testing with Spring Boot
 
 * PART III - Releasing an Application with Spring Boot
 
-* Chapter 6 - Configuring an Application with Spring Boot
+  * Chapter 6 - Configuring an Application with Spring Boot
 
-* Chapter 7 - Releasing an Application with Spring Boot
+  * Chapter 7 - Releasing an Application with Spring Boot
 
-* Chapter 8 - Going Native with Spring Boot
+  * Chapter 8 - Going Native with Spring Boot
 
 * PART IV - Scaling an Application with Spring Boot
 
-* Chapter 9 - Writing Reactive Web Controllers
+  * Chapter 9 - Writing Reactive Web Controllers
 
-* Chapter 10 - Working with Data Reactively
+  * Chapter 10 - Working with Data Reactively
 
-* **{ Devlin Basilan Duldulao, Seiju Relph Villafranca } \[ Spring Boot and Angular \] ( 2022 )**
+### Devlin Basilan Duldulao, Seiju Relph Villafranca - "Spring Boot and Angular" ( 2022 )
 
 * PART I - Overview of Spring Boot and Angular Development
 
-* Chapter 1 - Spring Boot and Angular - The Big Picture
+  * Chapter 1 - Spring Boot and Angular - The Big Picture
 
-* Chapter 2 - Setting Up the Development Environment
+  * Chapter 2 - Setting Up the Development Environment
 
 * PART II - Backend Development
 
-* Chapter 3 - Moving into Spring Boot
+  * Chapter 3 - Moving into Spring Boot
 
-* Chapter 4 - Setting Up the Database and Spring Data JPA
+  * Chapter 4 - Setting Up the Database and Spring Data JPA
 
-* Chapter 5 - Building APIs with Spring
+  * Chapter 5 - Building APIs with Spring
 
-* Chapter 6 - Documenting APIs with the OpenAPI Specification
+  * Chapter 6 - Documenting APIs with the OpenAPI Specification
 
-* Chapter 7 - Adding Spring Boot Security with JWT
+  * Chapter 7 - Adding Spring Boot Security with JWT
 
-* Chapter 8 - Logging Events in Spring Boot
+  * Chapter 8 - Logging Events in Spring Boot
 
-* Chapter 9 - Writing Tests in Spring Boot
+  * Chapter 9 - Writing Tests in Spring Boot
 
 * PART III - Frontend Development
 
-* Chapter 10 - Setting Up Our Angular Project and Architecture
+  * Chapter 10 - Setting Up Our Angular Project and Architecture
 
-* Chapter 11 - Building Reactive Forms
+  * Chapter 11 - Building Reactive Forms
 
-* Chapter 12 - Managing States with NgRx
+  * Chapter 12 - Managing States with NgRx
 
-* Chapter 13 - Saving, Deleting, and Updating with NgRx
+  * Chapter 13 - Saving, Deleting, and Updating with NgRx
 
-* Chapter 14 - Adding Authentication in Angular
+  * Chapter 14 - Adding Authentication in Angular
 
-* Chapter 15 - Writing Tests in Angular
+  * Chapter 15 - Writing Tests in Angular
 
 * PART IV - Deployment
 
-* Chapter 16 - Packaging Backend and Frontend with Maven
+  * Chapter 16 - Packaging Backend and Frontend with Maven
 
-* Chapter 17 - Deploying Spring Boot and the Angular App
+  * Chapter 17 - Deploying Spring Boot and the Angular App
 
-* * *
+---
 
-* * *
+## Kotlin Programming & Android Software Development
 
-**2023/4 - 2.1.2.3 - Kotlin Programming & Android Software Development**
-========================================================================
+### JetBrains - The Kotlin Blog
 
-* * *
-
-**JetBrains - The Kotlin Blog**
-
-* **ОФИЦИАЛЬНЫЕ НОВОСТИ**
+#### ОФИЦИАЛЬНЫЕ НОВОСТИ
 
 * [Kotlin 1.9.20 Released | The Kotlin Blog (jetbrains.com)](https://blog.jetbrains.com/kotlin/2023/11/kotlin-1-9-20-released/)
 
@@ -470,7 +448,7 @@
 
 * [Kotlin 1.5.0 – the First Big Release of 2021 | The Kotlin Blog (jetbrains.com)](https://blog.jetbrains.com/kotlin/2021/05/kotlin-1-5-0-released/)
 
-* **ИНТЕРЕСНЫЕ СТАТЬИ**
+#### ИНТЕРЕСНЫЕ СТАТЬИ
 
 * [Kotlin Multiplatform Is Stable and Production-Ready | The Kotlin Blog (jetbrains.com)](https://blog.jetbrains.com/kotlin/2023/11/kotlin-multiplatform-stable/)
 
@@ -498,9 +476,9 @@
 
 * [Kotlin Coroutines 1.5: GlobalScope Marked as Delicate, Refined Channels API, and More | The Kotlin Blog (jetbrains.com)](https://blog.jetbrains.com/kotlin/2021/05/kotlin-coroutines-1-5-0-released/)
 
-* * *
+---
 
-* **JUnit - [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)**
+## JUnit - [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
 
 * PART 1 - Overview
 
@@ -514,14 +492,11 @@
 
 * PART 6 - Advanced Topics
 
-* * *
+---
 
-**2024? - 3.1.2.2 - SDLC - Build Automation Systems - Maven/Gradle/Ant ( Java )**
-=================================================================================
+## Build Automation Systems - Maven/Gradle/Ant ( Java )
 
-* * *
-
-* **Maven - [Maven – Introduction (apache.org)](https://maven.apache.org/what-is-maven.html)**
+### Maven - [Maven – Introduction (apache.org)](https://maven.apache.org/what-is-maven.html)
 
 * What is Maven ? - [Maven – Introduction (apache.org)](https://maven.apache.org/what-is-maven.html)
 
@@ -549,7 +524,7 @@
 
 * FAQ - [Maven – Frequently Asked Technical Questions (apache.org)](https://maven.apache.org/general.html)
 
-* **Gradle - [Gradle User Manual](https://docs.gradle.org/current/userguide/userguide.html)**
+### Gradle - [Gradle User Manual](https://docs.gradle.org/current/userguide/userguide.html)
 
 * PART 01 - Introduction
 
@@ -573,7 +548,7 @@
 
 * PART 11 - Reference
 
-* **Ant - [Apache Ant™ User Manual](https://ant.apache.org/manual/index.html)**
+### Ant - [Apache Ant™ User Manual](https://ant.apache.org/manual/index.html)
 
 * 01 - Introduction
 
@@ -597,4 +572,4 @@
 
 * FAQs - [Apache Ant - Frequently Asked Questions](https://ant.apache.org/faq.html)
 
-* * *
+---
