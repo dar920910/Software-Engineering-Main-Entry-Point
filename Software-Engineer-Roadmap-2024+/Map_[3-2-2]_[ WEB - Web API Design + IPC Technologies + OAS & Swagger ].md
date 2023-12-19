@@ -1,13 +1,10 @@
-* * *
+# WEB - Web API Design + IPC Technologies + OAS & Swagger
 
-**2024? - 3.2.2 - WEB - Web API Design + IPC Technologies + OAS & Swagger**
-===========================================================================
+---
 
-* * *
+## Web API Design
 
-**Web API Design**
-
-* **{ Лоре А. } \[ Проектирование веб-API \] ( 2020 )**
+### Лоре А. - "Проектирование веб-API" ( 2020 )
 
 * Глава 1 - Что такое проектирование API
 
@@ -35,7 +32,7 @@
 
 * Глава 13 - Развитие API
 
-* **{ Higginbotham J. } \[ Principles of Web API Design \] ( 2021 )**
+### Higginbotham J. - "Principles of Web API Design" ( 2021 )
 
 * Chapter 1 - The Principles of API Design
 
@@ -69,11 +66,11 @@
 
 * Chapter 16 - Continuing the API Design Journey
 
-* * *
+---
 
-**IPC Technologies**
+## IPC Technologies
 
-* **SOAP (Simple Object Access Protocol)**
+### SOAP (Simple Object Access Protocol)
 
 * Введение в SOAP - [SOAP — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/SOAP)
 
@@ -85,7 +82,7 @@
 
 * (Дополнительно) WADL - [WADL — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/WADL)
 
-* **{ Masse M. } \[ REST API Design Rulebook \] ( 2012 )**
+### Masse M. - "REST API Design Rulebook" ( 2012 )
 
 * Chapter 1 - Introduction
 
@@ -101,7 +98,7 @@
 
 * Chapter 7 - Final Thoughts
 
-* **{ Бэнкс А., Порселло Е. } \[ GraphQL. Язык запросов для современных веб-приложений \] ( 2019 )**
+### Бэнкс А., Порселло Е. - "GraphQL. Язык запросов для современных веб-приложений" ( 2019 )
 
 * Глава 1 - Добро пожаловать в GraphQL
 
@@ -117,7 +114,7 @@
 
 * Глава 7 - GraphQL в реальном мире
 
-* **{ Индрасири К., Курупу Д. } \[ gRPC - запуск и эксплуатация облачных приложений \] ( 2021 )**
+### Индрасири К., Курупу Д. - "gRPC - запуск и эксплуатация облачных приложений" ( 2021 )
 
 * Глава 1 - Введение в gRPC
 
@@ -135,11 +132,11 @@
 
 * Глава 8 - Экосистема gRPC
 
-* * *
+---
 
-**OAS & Swagger**
+## OAS & Swagger
 
-* **OpenAPI Initiative - [What is OpenAPI? - OpenAPI Initiative (openapis.org)](https://www.openapis.org/what-is-openapi)**
+### OpenAPI Initiative - [What is OpenAPI? - OpenAPI Initiative (openapis.org)](https://www.openapis.org/what-is-openapi)
 
 * 1 - What is OpenAPI ? - [What is OpenAPI? - OpenAPI Initiative (openapis.org)](https://www.openapis.org/what-is-openapi)
 
@@ -153,7 +150,7 @@
 
 * 3 - OpenAPI Tooling - [OpenAPI Tooling (openapis.org)](https://tools.openapis.org/)
 
-* **Swagger Specification - OpenAPI Guide - [About Swagger Specification | Documentation | Swagger](https://swagger.io/docs/specification/about/)**
+### Swagger Specification - OpenAPI Guide - [About Swagger Specification | Documentation | Swagger](https://swagger.io/docs/specification/about/)
 
 * 01 - What is OpenAIP ?
 
@@ -221,7 +218,7 @@
 
 * 2.0 - 14 - Swagger Extensions
 
-* **Swagger Open Source Tools Documentation - [Swagger Documentation](https://swagger.io/docs/open-source-tools/swagger-editor/)**
+### Swagger Open Source Tools Documentation - [Swagger Documentation](https://swagger.io/docs/open-source-tools/swagger-editor/)
 
 * PART 1 - Swagger Editor
 
@@ -231,4 +228,4 @@
 
 * PART 4 - Swagger Codegen
 
-* * *
+---
