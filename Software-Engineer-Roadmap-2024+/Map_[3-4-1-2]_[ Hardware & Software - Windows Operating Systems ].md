@@ -1,43 +1,42 @@
-* * *
+# 3.4.1.2 - Hardware & Software - Windows Operating Systems
 
-**2024? - 3.4.1.2 - Hardware & Software - Windows Operating Systems**
-=====================================================================
+---
 
-* * *
+## Windows Server
 
-* **{ Dauti B. } \[ Windows Server 2019 Administration Fundamentals \] ( 2019 )**
+### Dauti B. - "Windows Server 2019 Administration Fundamentals" ( 2019 )
 
 * SECTION 1 - Introducing Windows Server and Installing Windows Server 2019
 
-* Chapter 1 - Getting started with Windows Server
+  * Chapter 1 - Getting started with Windows Server
 
-* Chapter 2 - Introducing Windows Server 2019
+  * Chapter 2 - Introducing Windows Server 2019
 
-* Chapter 3 - Installing Windows Server 2019
+  * Chapter 3 - Installing Windows Server 2019
 
-* Chapter 4 - Post-Installation Tasks in Windows Server 2019
+  * Chapter 4 - Post-Installation Tasks in Windows Server 2019
 
 * SECTION 2 - Setting Up Windows Server 2019
 
-* Chapter 5 - Directory Services in Windows Server 2019
+  * Chapter 5 - Directory Services in Windows Server 2019
 
-* Chapter 6 - Adding Roles to Windows Server 2019
+  * Chapter 6 - Adding Roles to Windows Server 2019
 
 * SECTION 3 - Configuring Windows Server 2019
 
-* Chapter 7 - Group Policy in Windows Server 2019
+  * Chapter 7 - Group Policy in Windows Server 2019
 
-* Chapter 8 - Virtualization with Windows Server 2019
+  * Chapter 8 - Virtualization with Windows Server 2019
 
-* Chapter 9 - Storing Data in Windows Server 2019
+  * Chapter 9 - Storing Data in Windows Server 2019
 
 * SECTION 4 - Keeping Windows Server 2019 Up and Running
 
-* Chapter 10 - Tuning and Maintaining Windows Server 2019
+  * Chapter 10 - Tuning and Maintaining Windows Server 2019
 
-* Chapter 11 - Updating and Troubleshooting Windows Server 2019
+  * Chapter 11 - Updating and Troubleshooting Windows Server 2019
 
-* **{ Henderson M., Krause J. } \[ Windows Server 2019 Cookbook \] ( 2020 )**
+### Henderson M., Krause J. - "Windows Server 2019 Cookbook" ( 2020 )
 
 * Chapter 1 - Learning the Interface
 
@@ -71,9 +70,9 @@
 
 * Chapter 16 - Hardening Your Infrastructure
 
-* * *
+---
 
-* ОФИЦИАЛЬНЫЕ ВАЖНЫЕ АНОНСЫ
+## ОФИЦИАЛЬНЫЕ ВАЖНЫЕ АНОНСЫ
 
 * [Introducing Windows 11 | Windows Experience Blog](https://blogs.windows.com/windowsexperience/2021/06/24/introducing-windows-11/)
 
@@ -87,9 +86,9 @@
 
 * [New custom Windows 11 desktop wallpaper helps you celebrate the upcoming holidays | Windows Experience Blog](https://blogs.windows.com/windowsexperience/2021/11/12/new-custom-windows-11-desktop-wallpaper-helps-you-celebrate-the-upcoming-holidays/)
 
-* ВОЗМОЖНОСТИ ДЛЯ РАЗРАБОТЧИКОВ
+## ВОЗМОЖНОСТИ ДЛЯ РАЗРАБОТЧИКОВ
 
-* Анонсы для разработчиков
+### Анонсы для разработчиков
 
 * [What Windows 11 Means for Developers - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2021/06/24/what-windows-11-means-for-developers/)
 
@@ -107,7 +106,7 @@
 
 * [Introducing Dev Home - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2023/05/30/introducing-dev-home/)
 
-* Windows App SDK
+### Windows App SDK
 
 * [Windows App SDK Ecosystem Update - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2022/02/11/window-app-sdk-ecosystem-update/)
 
@@ -115,7 +114,7 @@
 
 * [What’s New in Windows App SDK 1.2 - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2022/11/16/whats-new-in-windows-app-sdk-1-2/)
 
-* WinUI
+### WinUI
 
 * [Build Cross-Platform apps with WinUI and Uno Platform - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2021/03/11/build-cross-platform-applications-with-winui-and-uno-platform/)
 
@@ -125,13 +124,13 @@
 
 * [Making the app single-instanced (Part 3) - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2022/01/28/making-the-app-single-instanced-part-3/)
 
-* Windows Community Toolkit
+### Windows Community Toolkit
 
 * [Announcing Windows Community Toolkit v7.0 - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2021/03/16/announcing-windows-community-toolkit-v7-0/)
 
 * [Announcing Windows Community Toolkit v7.1 - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2021/09/23/announcing-windows-community-toolkit-v7-1/)
 
-* ПОДДЕРЖКА ANDROID
+### ПОДДЕРЖКА ANDROID
 
 * [Update to Windows Subsystem for Android™ on Windows 11 (June 2023) | Windows Insider Blog](https://blogs.windows.com/windows-insider/2023/06/12/update-to-windows-subsystem-for-android-on-windows-11-june-2023/)
 
@@ -145,17 +144,11 @@
 
 * [Announcing Android™ apps on Windows 11 Preview for Windows Insiders in the Beta Channel | Windows Insider Blog](https://blogs.windows.com/windows-insider/2021/10/20/announcing-android-apps-on-windows-11-preview-for-windows-insiders-in-the-beta-channel/)
 
-* * *
+---
 
+## Windows Subsystem for Linux & Windows Terminal
 
-* * *
-
-**2024? - 3.4.1.3 - Windows Subsystem for Linux & Windows Terminal**
-====================================================================
-
-* * *
-
-* **{ Leeks S. } \[ Windows Subsystem for Linux 2 \] ( 2020 )**
+### Leeks S. - "Windows Subsystem for Linux 2" ( 2020 )
 
 * Chapter 1 - Introduction to Windows Subsystem for Linux
 
@@ -179,11 +172,7 @@
 
 * Chapter 11 - Productivity Tips with Command-Line Tools
 
-* * *
-
-* **WINDOWS TERMINAL**
-
-* Официальные анонсы Windows Terminal
+### Официальные анонсы Windows Terminal
 
 * [Windows Terminal Preview 1.19 Release - Windows Command Line (microsoft.com)](https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-19-release/)
 
@@ -225,7 +214,7 @@
 
 * [Windows Terminal 1.0 - Windows Command Line (microsoft.com)](https://devblogs.microsoft.com/commandline/windows-terminal-1-0/)
 
-* Ресурсы для изучения Windows Terminal
+### Ресурсы для изучения Windows Terminal
 
 * [Introducing Windows Terminal - Windows Command Line (microsoft.com)](https://devblogs.microsoft.com/commandline/introducing-windows-terminal/)
 
@@ -247,9 +236,7 @@
 
 * [\>\_TerminalSplash - Windows Terminal Themes](https://terminalsplash.com/)
 
-* **Изучение Windows Package Manager**
-
-* Официальные анонсы Package Manager
+### Официальные анонсы Package Manager
 
 * [WinGet configuration Preview - Windows Command Line (microsoft.com)](https://devblogs.microsoft.com/commandline/winget-configuration-preview/)
 
@@ -265,15 +252,13 @@
 
 * [Windows Package Manager Preview (v0.2.2521) - Windows Command Line (microsoft.com)](https://devblogs.microsoft.com/commandline/windows-package-manager-preview-v0-2-2521/)
 
-* **WINDOWS SUBSYSTEM FOR LINUX (WSL)**
-
-* Официальные источники WSL
+### Официальные источники WSL
 
 * [Windows Subsystem for Linux Documentation | Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/)
 
 * [microsoft/WSL2-Linux-Kernel: The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2) (github.com)](https://github.com/microsoft/WSL2-Linux-Kernel)
 
-* Официальные анонсы WSL
+### Официальные анонсы WSL
 
 * [Windows Subsystem for Linux September 2023 update - Windows Command Line (microsoft.com)](https://devblogs.microsoft.com/commandline/windows-subsystem-for-linux-september-2023-update/)
 
@@ -303,71 +288,63 @@
 
 * [Systemd support is now available in WSL! - Windows Command Line (microsoft.com)](https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/)
 
-* * *
+---
 
+## Windows PowerShell Scripting
 
-* * *
-
-**2023/4 - 2.3.2 - Windows PowerShell Scripting**
-=================================================
-
-* * *
-
-* **{ Попов А. } \[ Современный PowerShell \] ( 2022 )**
+### Попов А. - "Современный PowerShell" ( 2022 )
 
 * ЧАСТЬ I - ЗНАКОМИМСЯ с POWERSHELL
 
-* Глава 1 - Командная строка и автоматизация работы
+  * Глава 1 - Командная строка и автоматизация работы
 
-* Глава 2 - Терминал, консоль и командная оболочка
+  * Глава 2 - Терминал, консоль и командная оболочка
 
-* Глава 3 - Первые шаги в PowerShell. Основные понятия
+  * Глава 3 - Первые шаги в PowerShell. Основные понятия
 
-* Глава 4 - Работа в оболочке PowerShell
+  * Глава 4 - Работа в оболочке PowerShell
 
-* Глава 5 - Работа с объектами
+  * Глава 5 - Работа с объектами
 
-* Глава 6 - Управление выводом команд
+  * Глава 6 - Управление выводом команд
 
 * ЧАСТЬ II - POWERSHELL как ЯЗЫК ПРОГРАММИРОВАНИЯ
 
-* Глава 7 - Переменные, массивы и хэш-таблицы
+  * Глава 7 - Переменные, массивы и хэш-таблицы
 
-* Глава 8 - Операторы и управляющие инструкции
+  * Глава 8 - Операторы и управляющие инструкции
 
-* Глава 9 - Функции, фильтры, сценарии и модули
+  * Глава 9 - Функции, фильтры, сценарии и модули
 
-* Глава 10 - Обработка ошибок при выполнении команд
+  * Глава 10 - Обработка ошибок при выполнении команд
 
 * ЧАСТЬ III - АВТОМАТИЗИРУЕМ РУТИНУ
 
-* Глава 11 - Работа с файловой системой и оболочкой Windows
+  * Глава 11 - Работа с файловой системой и оболочкой Windows
 
-* Глава 12 - Обработка структурированных данных
+  * Глава 12 - Обработка структурированных данных
 
-* Глава 13 - Управление процессами, службами и серверами автоматизации
+  * Глава 13 - Управление процессами, службами и серверами автоматизации
 
-* Глава 14 - HTTP-запросы к веб-ресурсам
+  * Глава 14 - HTTP-запросы к веб-ресурсам
 
 * ЧАСТЬ IV - ПИШЕМ СЦЕНАРИИ
 
-* Глава 15 - Разработка сценариев PowerShell
+  * Глава 15 - Разработка сценариев PowerShell
 
-* Глава 16 - Отладка функций и сценариев
+  * Глава 16 - Отладка функций и сценариев
 
-* Глава 17 - Графический интерфейс для сценариев
+  * Глава 17 - Графический интерфейс для сценариев
 
 * ПРИЛОЖЕНИЯ
 
-* Приложение 1 - Что значат эти символы
+  * Приложение 1 - Что значат эти символы
 
-* Приложение 2 - PowerShell в macOS и Linux
+  * Приложение 2 - PowerShell в macOS и Linux
 
-* Приложение 3 - Дополнительная настройка командной строки
+  * Приложение 3 - Дополнительная настройка командной строки
 
-* * *
-
-* ОФИЦИАЛЬНЫЕ АНОНСЫ
+### ОФИЦИАЛЬНЫЕ АНОНСЫ POWERSHELL
 
 * [PowerShell 7.3 General Availability - PowerShell Team (microsoft.com)](https://devblogs.microsoft.com/powershell/powershell-7-3-general-availability/)
 
@@ -381,7 +358,7 @@
 
 * [PowerShell Team 2021 Investments - PowerShell Team (microsoft.com)](https://devblogs.microsoft.com/powershell/powershell-team-2021-investments/)
 
-* ПОЛЕЗНЫЕ СТАТЬИ
+### ПОЛЕЗНЫЕ СТАТЬИ
 
 * [Hosting PowerShell in a Python script - PowerShell Team (microsoft.com)](https://devblogs.microsoft.com/powershell/hosting-powershell-in-a-python-script/)
 
@@ -419,4 +396,4 @@
 
 * [Leveraging XML with New Employee PowerShell Scripts - PowerShell Community (microsoft.com)](https://devblogs.microsoft.com/powershell-community/leveraging-xml-with-new-employee-powershell-scripts/)
 
-* * *
+---
