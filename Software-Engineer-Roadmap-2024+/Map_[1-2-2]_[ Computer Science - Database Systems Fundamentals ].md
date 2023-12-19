@@ -1,11 +1,8 @@
-* * *
+# Computer Science - Database Systems Fundamentals
 
-**2024? - 1.2.2 - Computer Science - Database Systems Fundamentals**
-====================================================================
+---
 
-* * *
-
-* **{ Coronel C., Morris S. } \[ Database Systems - Design, Implementation, Management \] ( 2019 )**
+## Coronel C., Morris S. - "Database Systems - Design, Implementation, Management" ( 2019 )
 
 * Chapter 1 - Database Systems
 
@@ -39,7 +36,9 @@
 
 * Chapter 16 - Database Administration and Security
 
-* **{ Connoly T., Begg C. } \[ Database Systems - A Practical Approach to Design, Implementation, Management \] ( 2015 )**
+---
+
+## Connoly T., Begg C. - "Database Systems - A Practical Approach to Design, Implementation, Management" ( 2015 )
 
 * Chapter 1 - Introduction to Databases
 
@@ -109,7 +108,9 @@
 
 * Chapter 34 - Data Mining
 
-* **{ Silberschatz A., Korth H.F., Sudarshan S. } \[ Database System Concepts \] ( 2020 )**
+---
+
+## Silberschatz A., Korth H.F., Sudarshan S. - "Database System Concepts" ( 2020 )
 
 * Chapter 1 - Introduction
 
@@ -163,4 +164,4 @@
 
 * Chapter 26 - Blockchain Databases
 
-* * *
+---
