@@ -1,6 +1,8 @@
-* * *
+# Software Development - Object-Oriented Programming + Analysis + Design & Design Patterns
 
-* **{ Вайсфельд М. } \[ Объектно-ориентированное мышление \] ( 2020, 5 издание )**
+---
+
+## Вайсфельд М. - "Объектно-ориентированное мышление" ( 2020, 5 издание )
 
 * Глава 1 - Введение в объектно-ориентированные концепции
 
@@ -26,34 +28,33 @@
 
 * Глава 12 - Принципы объектно-ориентированного проектирования SOLID
 
-* * *
+---
 
-
-* **{ Мартин Р. } \[ Чистая архитектура \] ( 2018 )**
+## Мартин Р. - "Чистая архитектура" ( 2018 )
 
 * ЧАСТЬ III - ПРИНЦИПЫ ДИЗАЙНА
 
-* Глава 7 - Принцип единственной ответственности
+  * Глава 7 - Принцип единственной ответственности
 
-* Глава 8 - Принцип открытости/закрытости
+  * Глава 8 - Принцип открытости/закрытости
 
-* Глава 9 - Принцип подстановки Барбары Лисков
+  * Глава 9 - Принцип подстановки Барбары Лисков
 
-* Глава 10 - Принцип разделения интерфейсов
+  * Глава 10 - Принцип разделения интерфейсов
 
-* Глава 11 - Принцип инверсии зависимости
+  * Глава 11 - Принцип инверсии зависимости
 
 * ЧАСТЬ IV - ПРИНЦИПЫ ОРГАНИЗАЦИИ КОМПОНЕНТОВ
 
-* Глава 12 - Компоненты
+  * Глава 12 - Компоненты
 
-* Глава 13 - Связность компонентов
+  * Глава 13 - Связность компонентов
 
-* Глава 14 - Сочетаемость компонентов
+  * Глава 14 - Сочетаемость компонентов
 
-* * *
+---
 
-* **{ Gang of Four } \[ Паттерны проектирования \] ( 2020 )**
+### Gang of Four - "Паттерны проектирования" ( 2020 )
 
 * Глава 1 - Введение в паттерны проектирования
 
@@ -67,281 +68,269 @@
 
 * Глава 6 - Заключение
 
+---
 
-* * *
+## .NET - Hands-On GoF Design Patterns
 
-**2023/4 - 1.2.2 - .NET - Hands-On GoF Design Patterns**
-========================================================
-
-* * *
-
-* **{ Aroraa G., Chilberto J. } \[ Hands-On Design Patterns with C# and .NET Core \] ( 2019 )**
+### Aroraa G., Chilberto J. - "Hands-On Design Patterns with C# and .NET Core" ( 2019 )
 
 * Section 1: Essentials of Design Patterns in C# and .NET Core
 
-* Chapter 1 - Overview of OOP in .NET Core and C# **// 20**
+  * Chapter 1 - Overview of OOP in .NET Core and C# **// 20**
 
-* Chapter 2 - Modern Software Design Patterns and Principles **// 30**
+  * Chapter 2 - Modern Software Design Patterns and Principles **// 30**
 
 * Section 2: Deep Dive into Utilities and Patterns in .NET Core
 
-* Chapter 3 - Implementing Design Patterns - Basics Part 1 **// 32**
+  * Chapter 3 - Implementing Design Patterns - Basics Part 1 **// 32**
 
-* Chapter 4 - Implementing Design Patterns - Basics Part 2 **// 38**
+  * Chapter 4 - Implementing Design Patterns - Basics Part 2 **// 38**
 
-* Chapter 5 - Implementing Design Patterns - .NET Core **// 26**
+  * Chapter 5 - Implementing Design Patterns - .NET Core **// 26**
 
-* Chapter 6 - Implementing Design Patterns for Web Applications - Part 1 **// 24**
+  * Chapter 6 - Implementing Design Patterns for Web Applications - Part 1 **// 24**
 
-* Chapter 7 - Implementing Design Patterns for Web Applications - Part 2 **// 37**
+  * Chapter 7 - Implementing Design Patterns for Web Applications - Part 2 **// 37**
 
 * Section 3: Functional Programming, Reactive Programming, and Coding for the Cloud
 
-* Chapter 8 - Concurrent Programming in .NET Core **// 19**
+  * Chapter 8 - Concurrent Programming in .NET Core **// 19**
 
-* Chapter 9 - Functional Programming Practices **// 18**
+  * Chapter 9 - Functional Programming Practices **// 18**
 
-* Chapter 10 - Reactive Programming Patterns and Techniques **// 44**
+  * Chapter 10 - Reactive Programming Patterns and Techniques **// 44**
 
-* Chapter 11 - Advanced Database Design and Application Techniques **// 30**
+  * Chapter 11 - Advanced Database Design and Application Techniques **// 30**
 
-* Chapter 12 - Coding for the Cloud **// 28**
+  * Chapter 12 - Coding for the Cloud **// 28**
 
-* **{ Sarcar V. } \[ Design Patterns in C#: A Hands-On Experience with Real-World Examples \] ( 2018 )**
+### Sarcar V. - "Design Patterns in C#: A Hands-On Experience with Real-World Examples" ( 2018 )
 
 * Part I - Gang of Four Design Patterns - I.A - Creational Patterns
 
-* Chapter 1 - Singleton Pattern **// 12**
+  * Chapter 1 - Singleton Pattern **// 12**
 
-* Chapter 2 - Prototype Pattern **// 14**
+  * Chapter 2 - Prototype Pattern **// 14**
 
-* Chapter 3 - Builder Pattern **// 12**
+  * Chapter 3 - Builder Pattern **// 12**
 
-* Chapter 4 - Factory Method Pattern **// 12**
+  * Chapter 4 - Factory Method Pattern **// 12**
 
-* Chapter 5 - Abstract Factory Pattern **// 14**
+  * Chapter 5 - Abstract Factory Pattern **// 14**
 
 * Part I - Gang of Four Design Patterns - I.B - Structural Patterns
 
-* Chapter 6 - Proxy Pattern **// 12**
+  * Chapter 6 - Proxy Pattern **// 12**
 
-* Chapter 7 - Decorator Pattern **// 14**
+  * Chapter 7 - Decorator Pattern **// 14**
 
-* Chapter 8 - Adapter Pattern **// 16**
+  * Chapter 8 - Adapter Pattern **// 16**
 
-* Chapter 9 - Facade Pattern **// 10**
+  * Chapter 9 - Facade Pattern **// 10**
 
-* Chapter 10 - Flyweight Pattern **// 20**
+  * Chapter 10 - Flyweight Pattern **// 20**
 
-* Chapter 11 - Composite Pattern **// 12**
+  * Chapter 11 - Composite Pattern **// 12**
 
-* Chapter 12 - Bridge Pattern **// 10**
+  * Chapter 12 - Bridge Pattern **// 10**
 
 * Part I - Gang of Four Design Patterns - I.C - Behavioral Patterns
 
-* Chapter 13 - Visitor Pattern **// 18**
+  * Chapter 13 - Visitor Pattern **// 18**
 
-* Chapter 14 - Observer Pattern **// 14**
+  * Chapter 14 - Observer Pattern **// 14**
 
-* Chapter 15 - Strategy (Policy) Pattern **// 12**
+  * Chapter 15 - Strategy (Policy) Pattern **// 12**
 
-* Chapter 16 - Template Method Pattern **// 12**
+  * Chapter 16 - Template Method Pattern **// 12**
 
-* Chapter 17 - Command Pattern **// 20**
+  * Chapter 17 - Command Pattern **// 20**
 
-* Chapter 18 - Iterator Pattern **// 14**
+  * Chapter 18 - Iterator Pattern **// 14**
 
-* Chapter 19 - Memento Pattern **// 12**
+  * Chapter 19 - Memento Pattern **// 12**
 
-* Chapter 20 - State Pattern **// 14**
+  * Chapter 20 - State Pattern **// 14**
 
-* Chapter 21 - Mediator Pattern **// 20**
+  * Chapter 21 - Mediator Pattern **// 20**
 
-* Chapter 22 - Chain of Responsibility Pattern **// 12**
+  * Chapter 22 - Chain of Responsibility Pattern **// 12**
 
-* Chapter 23 - Interpreter Pattern **// 12**
+  * Chapter 23 - Interpreter Pattern **// 12**
 
 * Part II - Additional Design Patterns
 
-* Chapter 24 - Simple Factory Pattern **// 12**
+  * Chapter 24 - Simple Factory Pattern **// 12**
 
-* Chapter 25 - Null Object Pattern **// 14**
+  * Chapter 25 - Null Object Pattern **// 14**
 
-* Chapter 26 - MVC Pattern **// 28**
+  * Chapter 26 - MVC Pattern **// 28**
 
 * Part III - Final Thoughts Design Patterns
 
-* Chapter 27 - Criticisms of Design Patterns **// 6**
+  * Chapter 27 - Criticisms of Design Patterns **// 6**
 
-* Chapter 28 - Anti-Patterns **// 6**
+  * Chapter 28 - Anti-Patterns **// 6**
 
-* Chapter 29 - Sealing the Leaks in Your Applications **// 36**
+  * Chapter 29 - Sealing the Leaks in Your Applications **// 36**
 
-* Chapter 30 - FAQ **// 6**
+  * Chapter 30 - FAQ **// 6**
 
-* **{ Nesteruk D. } \[ Design Patterns in .NET 6: Reusable Approaches in C# and F# for Object-Oriented Software Design \] ( 2022 )**
+### Nesteruk D. - "Design Patterns in .NET 6: Reusable Approaches in C# and F# for Object-Oriented Software Design" ( 2022 )
 
 * Part I - Introduction
 
-* Chapter 1 - The SOLID Design Principles **// 22**
+  * Chapter 1 - The SOLID Design Principles **// 22**
 
-* Chapter 2 - The Functional Perspective **// 10**
+  * Chapter 2 - The Functional Perspective **// 10**
 
 * Part II - Creational Patterns
 
-* Chapter 3 - Builder **// 36**
+  * Chapter 3 - Builder **// 36**
 
-* Chapter 4 - Factories **// 20**
+  * Chapter 4 - Factories **// 20**
 
-* Chapter 5 - Prototype **// 20**
+  * Chapter 5 - Prototype **// 20**
 
-* Chapter 6 - Singleton **// 18**
+  * Chapter 6 - Singleton **// 18**
 
 * Part III - Structural Patterns
 
-* Chapter 7 - Adapter **// 26**
+  * Chapter 7 - Adapter **// 26**
 
-* Chapter 8 - Bridge **// 8**
+  * Chapter 8 - Bridge **// 8**
 
-* Chapter 9 - Composite **// 12**
+  * Chapter 9 - Composite **// 12**
 
-* Chapter 10 - Decorator **// 26**
+  * Chapter 10 - Decorator **// 26**
 
-* Chapter 11 - Facade **// 14**
+  * Chapter 11 - Facade **// 14**
 
-* Chapter 12 - Flyweight **// 8**
+  * Chapter 12 - Flyweight **// 8**
 
-* Chapter 13 - Proxy **// 24**
+  * Chapter 13 - Proxy **// 24**
 
-* Chapter 14 - Value Object **// 8**
+  * Chapter 14 - Value Object **// 8**
 
 * Part IV - Behavioral Patterns
 
-* Chapter 15 - Chain of Responsibility **// 12**
+  * Chapter 15 - Chain of Responsibility **// 12**
 
-* Chapter 16 - Command **// 14**
+  * Chapter 16 - Command **// 14**
 
-* Chapter 17 - Interpreter **// 18**
+  * Chapter 17 - Interpreter **// 18**
 
-* Chapter 18 - Iterator **// 16**
+  * Chapter 18 - Iterator **// 16**
 
-* Chapter 19 - Mediator **// 14**
+  * Chapter 19 - Mediator **// 14**
 
-* Chapter 20 - Memento **// 8**
+  * Chapter 20 - Memento **// 8**
 
-* Chapter 21 - Null Object **// 10**
+  * Chapter 21 - Null Object **// 10**
 
-* Chapter 22 - Observer **// 30**
+  * Chapter 22 - Observer **// 30**
 
-* Chapter 23 - State **// 18**
+  * Chapter 23 - State **// 18**
 
-* Chapter 24 - Strategy **// 10**
+  * Chapter 24 - Strategy **// 10**
 
-* Chapter 25 - Template Method **// 6**
+  * Chapter 25 - Template Method **// 6**
 
-* Chapter 26 - Visitor **// 40**
+  * Chapter 26 - Visitor **// 40**
 
-* * *
+---
 
-
-* * *
-
-* **{ Мартин Р. } \[ Принципы, паттерны и методики гибкой разработки на языке C# \] ( 2011 )**
+## Мартин Р. - "Принципы, паттерны и методики гибкой разработки на языке C#" \]" ( 2011 )
 
 * ЧАСТЬ I - ГИБКАЯ РАЗРАБОТКА
 
-* Глава 1 - Гибкие методики
+  * Глава 1 - Гибкие методики
 
-* Глава 2 - Обзор экстремального программирования
+  * Глава 2 - Обзор экстремального программирования
 
-* Глава 3 - Планирование
+  * Глава 3 - Планирование
 
-* Глава 4 - Тестирование
+  * Глава 4 - Тестирование
 
-* Глава 5 - Рефакторинг
+  * Глава 5 - Рефакторинг
 
-* Глава 6 - Эпизод программирования
+  * Глава 6 - Эпизод программирования
 
 * ЧАСТЬ II - ГИБКОЕ ПРОЕКТИРОВАНИЕ
 
-* Глава 7 - Что такое гибкое проектирование
+  * Глава 7 - Что такое гибкое проектирование
 
-* Глава 8 - Принцип единственной обязанности (SRP)
+  * Глава 8 - Принцип единственной обязанности (SRP)
 
-* Глава 9 - Принцип открытости/закрытости (OCP)
+  * Глава 9 - Принцип открытости/закрытости (OCP)
 
-* Глава 10 - Принцип подстановки Лисков (LSP)
+  * Глава 10 - Принцип подстановки Лисков (LSP)
 
-* Глава 11 - Принцип инверсии зависимости (DIP)
+  * Глава 11 - Принцип инверсии зависимости (DIP)
 
-* Глава 12 - Принцип разделения интерфейсов (ISP)
+  * Глава 12 - Принцип разделения интерфейсов (ISP)
 
-* Глава 13 - Обзор UML для программистов
+  * Глава 13 - Обзор UML для программистов
 
-* Глава 14 - Работа с диаграммами
+  * Глава 14 - Работа с диаграммами
 
-* Глава 15 - Диаграммы состояний
+  * Глава 15 - Диаграммы состояний
 
-* Глава 16 - Диаграммы объектов
+  * Глава 16 - Диаграммы объектов
 
-* Глава 17 - Прецеденты
+  * Глава 17 - Прецеденты
 
-* Глава 18 - Диаграммы последовательности
+  * Глава 18 - Диаграммы последовательности
 
-* Глава 19 - Диаграммы классов
+  * Глава 19 - Диаграммы классов
 
-* Глава 20 - Эвристика и кофе
+  * Глава 20 - Эвристика и кофе
 
 * ЧАСТЬ III - ЗАДАЧА О РАСЧЕТЕ ЗАРАБОТНОЙ ПЛАТЫ
 
-* Глава 21 - Команда и Активный объект: многогранность и многозадачность
+  * Глава 21 - Команда и Активный объект: многогранность и многозадачность
 
-* Глава 22 - Шаблонный метод и Стратегия: наследование и делегирование
+  * Глава 22 - Шаблонный метод и Стратегия: наследование и делегирование
 
-* Глава 23 - Фасад и Посредник
+  * Глава 23 - Фасад и Посредник
 
-* Глава 24 - Одиночка и Моносостояние
+  * Глава 24 - Одиночка и Моносостояние
 
-* Глава 25 - Null-объект
+  * Глава 25 - Null-объект
 
-* Глава 26 - Система расчета заработной платы: первая итерация
+  * Глава 26 - Система расчета заработной платы: первая итерация
 
-* Глава 27 - Система расчета заработной платы: реализация
+  * Глава 27 - Система расчета заработной платы: реализация
 
 * ЧАСТЬ IV - ПАКЕТИРОВАНИЕ СИСТЕМЫ РАСЧЕТА ЗАРАБОТНОЙ ПЛАТЫ
 
-* Глава 28 - Принципы проектирования пакетов и компонентов
+  * Глава 28 - Принципы проектирования пакетов и компонентов
 
-* Глава 29 - Фабрика
+  * Глава 29 - Фабрика
 
-* Глава 30 - Система расчета заработной платы: анализ пакетов
+  * Глава 30 - Система расчета заработной платы: анализ пакетов
 
-* Глава 31 - Компоновщик
+  * Глава 31 - Компоновщик
 
-* Глава 32 - Наблюдатель: превращение в паттерн
+  * Глава 32 - Наблюдатель: превращение в паттерн
 
-* Глава 33 - Абстрактный сервер, адаптер и мост
+  * Глава 33 - Абстрактный сервер, адаптер и мост
 
-* Глава 34 - Заместитель и Шлюз: управление сторонними API
+  * Глава 34 - Заместитель и Шлюз: управление сторонними API
 
-* Глава 35 - Посетитель
+  * Глава 35 - Посетитель
 
-* Глава 36 - Состояние
+  * Глава 36 - Состояние
 
-* Глава 37 - Система расчета заработной платы: база данных
+  * Глава 37 - Система расчета заработной платы: база данных
 
-* Глава 38 - Система расчета заработной платы: Модель-Вид-Презентатор
+  * Глава 38 - Система расчета заработной платы: Модель-Вид-Презентатор
 
-* * *
+---
 
-* * *
+## Software Development | Object-Oriented Analysis and Design
 
-**2024+ | Software Development | Object-Oriented Analysis and Design (+UML)**
-=============================================================================
-
-* * *
-
-* **{ Ларман К. } \[ Применение UML 2.0 и шаблонов проектирования\] ( 2013, 3 издание )**
+### Ларман К. - "Применение UML 2.0 и шаблонов проектирования" ( 2013, 3 издание )
 
 * Глава 1 - Объектно-ориентированный анализ и проектирование
 
@@ -423,9 +412,9 @@
 
 * Глава 40 - Еще раз об итеративной разработке и гибком управлении проектом
 
-* * *
+---
 
-* **{ Фаулер М. } \[ UML. Основы \] ( 2004, 3 издание )**
+### Фаулер М. - "UML. Основы" ( 2004, 3 издание )
 
 * Глава 1 - Введение
 
@@ -461,4 +450,4 @@
 
 * Глава 17 - Временные диаграммы
 
-* * *
+---
