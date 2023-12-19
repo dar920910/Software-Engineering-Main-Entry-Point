@@ -1,5 +1,7 @@
 # My Software Engineer 2024+ Roadmap
 
+## SOFTWARE ENGINEERING & COMPUTER SCIENCE
+
 * [[1-1-1-1] Software Engineering Fundamental Theory](Map_[1-1-1-1]_[%20Software%20Engineering%20Fundamental%20Theory%20].md)
 * [[1-1-1-2] Software Engineer Career (Bestsellers & Cookbooks)](Map_[1-1-1-2]_[%20Software%20Engineer%20Career%20(Bestsellers%20&%20Cookbooks)%20].md)
 * [[1-1-2-1] Software Development - Programming Fundamentals & Paradigms](Map_[1-1-2-1]_[%20Software%20Development%20-%20Programming%20Fundamentals%20&%20Paradigms%20].md)
@@ -15,11 +17,17 @@
 * [[1-2-4] Computer Science - Operating Systems Fundamentals](Map_[1-2-4]_[%20Computer%20Science%20-%20Operating%20Systems%20Fundamentals%20].md)
 * [[1-2-5] Computer Science - Computer Architecture Fundamentals](Map_[1-2-5]_[%20Computer%20Science%20-%20Computer%20Architecture%20Fundamentals%20].md)
 * [[1-3-1] Cybersecurity - Cybersecurity & Hacking Fundamentals for Developers](Map_[1-3-1]_[%20Cybersecurity%20-%20Cybersecurity%20&%20Hacking%20Fundamentals%20for%20Developers%20].md)
+
+## PROGRAMMING LANGUAGES
+
 * [[2-1] C C++ Programming Languages + Assembly & Low-Level Programming](Map_[2-1]_[%20C%20C++%20Programming%20Languages%20+%20Assembly%20&%20Low-Level%20Programming%20].md)
-* [[2-2-1] C# Programming Language and .NET Software Development](Map_[2-2-1]_[%20C#%20Programming%20Language%20and%20.NET%20Software%20Development%20].md)
+* [[2-2-1] C# Programming Language and .NET Software Development](Map_[2-2-1]_[%20CSharp%20Programming%20Language%20and%20dotNET%20Software%20Development%20].md)
 * [[2-2-2] Java Programming Language and JVM Software Development](Map_[2-2-2]_[%20Java%20Programming%20Language%20and%20JVM%20Software%20Development%20].md)
 * [[2-3] ES+JS+TS Programming and Full-Stack Web Development](Map_[2-3]_[%20ES+JS+TS%20Programming%20and%20Full-Stack%20Web%20Development%20].md)
 * [[2-4] Common-Purpose Interpreters ( Python + PHP + Perl + Ruby + Lua )](Map_[2-4]_[%20Common-Purpose%20Interpreters%20(%20Python%20+%20PHP%20+%20Perl%20+%20Ruby%20+%20Lua%20)%20].md)
+
+## INFORMATION TECHNOLOGIES/ECOSYSTEMS/TOOLS
+
 * [[3-1-1-1] SDLC - Code Editing - Professional Code Editors ( Vim + Emacs )](Map_[3-1-1-1]_[%20SDLC%20-%20Code%20Editing%20-%20Professional%20Code%20Editors%20(%20Vim%20+%20Emacs%20)%20].md)
 * [[3-1-1-2] SDLC - Code Editing - Professional Code Editors ( VS Code )](Map_[3-1-1-2]_[%20SDLC%20-%20Code%20Editing%20-%20Professional%20Code%20Editors%20(%20VS%20Code%20)%20].md)
 * [[3-1-3] SDLC - Version Control Systems - Git and GitHub](Map_[3-1-3]_[%20SDLC%20-%20Version%20Control%20Systems%20-%20Git%20and%20GitHub%20].md)
