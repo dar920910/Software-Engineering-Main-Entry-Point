@@ -943,6 +943,89 @@
 
 * * *
 
+**2024? - 3.1.2.1 - SDLC - Build Automation Systems - Make and CMake ( C/C++ )**
+================================================================================
+
+* * *
+
+* **{ Graham-Cumming J. } \[ The GNU Make Book \] ( 2015 )**
+
+* Chapter 1 - The Basics Revisited
+
+* Chapter 2 - Makefile Debugging
+
+* Chapter 3 - Building and Rebuilding
+
+* Chapter 4 - Pitfalls and Problems
+
+* Chapter 5 - Pushing the Envelope
+
+* Chapter 6 - The GNU Make Standard Library
+
+* **{ Scott C. } \[ Professional CMake \] ( 2018 )**
+
+* Chapter 1 - Introduction
+
+* Chapter 2 - Setting Up a Project
+
+* Chapter 3 - A Minimal Project
+
+* Chapter 4 - Building Simple Targets
+
+* Chapter 5 - Variables
+
+* Chapter 6 - Flow Control
+
+* Chapter 7 - Using Subdirectories
+
+* Chapter 8 - Functions And Macros
+
+* Chapter 9 - Properties
+
+* Chapter 10 - Generator Expressions
+
+* Chapter 11 - Modules
+
+* Chapter 12 - Policies
+
+* Chapter 13 - Build Type
+
+* Chapter 14 - Compiler and Linker Essentials
+
+* Chapter 15 - Language Requirements
+
+* Chapter 16 - Target Types
+
+* Chapter 17 - Custom Types
+
+* Chapter 18 - Working With Files
+
+* Chapter 19 - Specifying Version Details
+
+* Chapter 20 - Libraries
+
+* Chapter 21 - Toolchains And Cross Compiling
+
+* Chapter 22 - Apple Features
+
+* Chapter 23 - Finding Things
+
+* Chapter 24 - Testing
+
+* Chapter 25 - Installing
+
+* Chapter 26 - Packaging
+
+* Chapter 27 - External Content
+
+* Chapter 28 - Project Organization
+
+* * *
+
+
+
+* * *
+
 **2024? - 2.1.2.1 - C/C++ System Programming (Linux & UNIX)**
 =============================================================
 
