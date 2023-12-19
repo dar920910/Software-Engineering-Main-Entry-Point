@@ -1,11 +1,8 @@
-* * *
+# Software Engineering | Professional Software Engineering Fundamentals
 
-**2024+ | Software Engineering | Professional Software Engineering Fundamentals**
-=================================================================================
+---
 
-* * *
-
-* **{ Sommerville I. } \[ Software Engineering \] ( 2016, 10 edition )**
+## Sommerville I. - "Software Engineering ( 2016, 10 edition )
 
 * Chapter 1 - Introduction
 
@@ -57,17 +54,11 @@
 
 * Chapter 25 - Configuration management
 
-* * *
+---
 
+## Software Development | Agile Principles, Patterns, and Practices
 
-
-
-**2024+ | Software Development | Agile Principles, Patterns, and Practices**
-============================================================================
-
-* * *
-
-* **{ Мартин Р. } \[ Чистый Agile. Основы гибкости \] ( 2020 )**
+### Мартин Р. - "Чистый Agile. Основы гибкости" ( 2020 )
 
 * Глава 1 - Введение в Agile
 
@@ -84,6 +75,5 @@
 * Глава 7 - Мастерство высшего уровня
 
 * Глава 8 - Заключение
-
 
 ---
