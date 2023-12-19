@@ -1,11 +1,8 @@
-* * *
+# Software Testing - Penetration Testing with KALI Linux
 
-**2024? - 3.1.5.2 - SDLC - Software Testing - Penetration Testing with KALI Linux**
-===================================================================================
+---
 
-* * *
-
-* **{ Rahalkar S. } \[ Quick Start Guide to Penetration Testing \] ( 2019 )**
+## Rahalkar S. - "Quick Start Guide to Penetration Testing" ( 2019 )
 
 * Chapter 1 - Introduction to NMAP
 
@@ -15,7 +12,7 @@
 
 * Chapter 4 - Use Case
 
-* **{ Packt } \[ Kali Linux - тестирование на проникновение и безопасность \] ( 2020 )**
+## Packt - "Kali Linux - тестирование на проникновение и безопасность" ( 2020 )
 
 * Глава 1 - Установка и настройка Kali Linux
 
@@ -45,7 +42,7 @@
 
 * Глава 14 - Инструменты для создания отчетов о тестировании
 
-* **{ Khawaja G. } \[ Practical Web Penetration Testing \] ( 2018 )**
+## Khawaja G. - "Practical Web Penetration Testing" ( 2018 )
 
 * Chapter 1 - Building a Vulnerable Web Application Lab
 
@@ -69,4 +66,4 @@
 
 * Chapter 11 - Pentest Automation Using Python
 
-* * *
+---
