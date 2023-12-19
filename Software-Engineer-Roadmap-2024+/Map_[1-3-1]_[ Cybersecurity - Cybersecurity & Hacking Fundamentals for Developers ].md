@@ -1,13 +1,8 @@
-* * *
+# Cybersecurity - Cybersecurity & Hacking Fundamentals for Developers
 
+---
 
-
-**2024? - 1.3.1 - Cybersecurity - Cybersecurity & Hacking Fundamentals for Developers**
-=======================================================================================
-
-* * *
-
-* **{ Андресс Дж. } \[ Защита данных - От авторизации до аудита \] ( 2021 )**
+## Андресс Дж. - "Защита данных - От авторизации до аудита" ( 2021 )
 
 * Глава 1 - Что такое информационная безопасность?
 
@@ -37,7 +32,9 @@
 
 * Глава 14 - Оценка безопасности
 
-* **{ Grubb S. } \[ How Cybersecurity Really Works \] ( 2021 )**
+---
+
+## Grubb S. - "How Cybersecurity Really Works" ( 2021 )
 
 * Chapter 1 - An Introduction to Cybersecurity
 
@@ -59,58 +56,53 @@
 
 * Chapter 10 - How to Defeat Black Hats
 
-* **{ McDonald M. } \[ Web Security for Developers \] ( 2020 )**
+---
+
+## Cybersecurity - Web Applications Security Fundamentals
+
+## McDonald M. - "Web Security for Developers" ( 2020 )
 
 * PART I - THE BASICS
 
-* Chapter 1 - Let's Hack a Website
+  * Chapter 1 - Let's Hack a Website
 
-* Chapter 2 - How the Internet Works
+  * Chapter 2 - How the Internet Works
 
-* Chapter 3 - How Browsers Work
+  * Chapter 3 - How Browsers Work
 
-* Chapter 4 - How Web Servers Work
+  * Chapter 4 - How Web Servers Work
 
-* Chapter 5 - How Programmers Work
+  * Chapter 5 - How Programmers Work
 
 * PART II - THE THREATS
 
-* Chapter 6 - Injection Attacks
+  * Chapter 6 - Injection Attacks
 
-* Chapter 7 - Cross-Site Scripting Attacks
+  * Chapter 7 - Cross-Site Scripting Attacks
 
-* Chapter 8 - Cross-Site Request Forgery Attacks
+  * Chapter 8 - Cross-Site Request Forgery Attacks
 
-* Chapter 9 - Compromising Authentication
+  * Chapter 9 - Compromising Authentication
 
-* Chapter 10 - Session Hijacking
+  * Chapter 10 - Session Hijacking
 
-* Chapter 11 - Permissions
+  * Chapter 11 - Permissions
 
-* Chapter 12 - Information Leaks
+  * Chapter 12 - Information Leaks
 
-* Chapter 13 - Encryption
+  * Chapter 13 - Encryption
 
-* Chapter 14 - Third-Party Code
+  * Chapter 14 - Third-Party Code
 
-* Chapter 15 - XML Attacks
+  * Chapter 15 - XML Attacks
 
-* Chapter 16 - Don't Be an Accessory
+  * Chapter 16 - Don't Be an Accessory
 
-* Chapter 17 - Denial-of-Service Attacks
+  * Chapter 17 - Denial-of-Service Attacks
 
-* Chapter 18 - Summing Up
+  * Chapter 18 - Summing Up
 
-* * *
-
-* * *
-
-**2024? - 1.3.2 - Cybersecurity - Web Applications Security Fundamentals**
-==========================================================================
-
-* * *
-
-* **{ Hoffman A. } \[ Web Application Security \] ( 2020 )**
+### Hoffman A. - "Web Application Security" ( 2020 )
 
 * Chapter 1 - The History of Software Security
 
@@ -170,4 +162,4 @@
 
 * Chapter 29 - Conclusion
 
-* * *
+---
