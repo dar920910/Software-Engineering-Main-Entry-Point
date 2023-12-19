@@ -1,87 +1,84 @@
-* * *
+# SDLC - Software Deployment - Container Virtualization with Docker
 
-**2024? - 3.1.4.1 - SDLC - Software Deployment - Container Virtualization with Docker**
-=======================================================================================
+---
 
-* * *
-
-* **{ Моуэт Э. } \[ Использование Docker \] ( 2017 )**
+## Моуэт Э. - "Использование Docker" ( 2017 )
 
 * ЧАСТЬ I - ПРЕДПОСЫЛКИ и ОСНОВЫ
 
-* Глава 1 - Что такое контейнеры и для чего они нужны
+  * Глава 1 - Что такое контейнеры и для чего они нужны
 
-* Глава 2 - Установка
+  * Глава 2 - Установка
 
-* Глава 3 - Первые шаги
+  * Глава 3 - Первые шаги
 
-* Глава 4 - Основы Docker
+  * Глава 4 - Основы Docker
 
 * ЧАСТЬ II - ЖИЗНЕННЫЙ ЦИКЛ ПО при ИСПОЛЬЗОВАНИИ DOCKER
 
-* Глава 5 - Использование Docker в процессе разработки
+  * Глава 5 - Использование Docker в процессе разработки
 
-* Глава 6 - Создание простого веб-приложения
+  * Глава 6 - Создание простого веб-приложения
 
-* Глава 7 - Распространение образов
+  * Глава 7 - Распространение образов
 
-* Глава 8 - Непрерывная интеграция и тестирование с использованием Docker
+  * Глава 8 - Непрерывная интеграция и тестирование с использованием Docker
 
-* Глава 9 - Развертывание контейнеров
+  * Глава 9 - Развертывание контейнеров
 
-* Глава 10 - Ведение журналов событий и контроль
+  * Глава 10 - Ведение журналов событий и контроль
 
 * ЧАСТЬ III - ИНСТРУМЕНТАЛЬНЫЕ СРЕДСТВА и МЕТОДИКИ
 
-* Глава 11 - Сетевая среда и обнаружение сервисов
+  * Глава 11 - Сетевая среда и обнаружение сервисов
 
-* Глава 12 - Оркестрация, кластеризация и управление
+  * Глава 12 - Оркестрация, кластеризация и управление
 
-* Глава 13 - Обеспечение безопасности контейнеров и связанные с этим ограничения
+  * Глава 13 - Обеспечение безопасности контейнеров и связанные с этим ограничения
 
-* **{ Bullington-McGuire R., Dennis A.K., Schwartz M. } \[ Docker for Developers \] ( 2020 )**
+## Bullington-McGuire R., Dennis A.K., Schwartz M. - "Docker for Developers" ( 2020 )
 
 * SECTION 1: An Introduction to Docker - Docker and Local Development
 
-* Chapter 1 - Introduction to Docker
+  * Chapter 1 - Introduction to Docker
 
-* Chapter 2 - Using VirtualBox and Docker Containers for Development
+  * Chapter 2 - Using VirtualBox and Docker Containers for Development
 
-* Chapter 3 - Sharing Containers Using Docker Hub
+  * Chapter 3 - Sharing Containers Using Docker Hub
 
-* Chapter 4 - Composing System Using Containers
+  * Chapter 4 - Composing System Using Containers
 
 * SECTION 2: Running Docker in Production
 
-* Chapter 5 - Alternatives for Deploying and Running Containers in Production
+  * Chapter 5 - Alternatives for Deploying and Running Containers in Production
 
-* Chapter 6 - Deploying Applications with Docker Compose
+  * Chapter 6 - Deploying Applications with Docker Compose
 
-* Chapter 7 - Continuous Deployment with Jenkins
+  * Chapter 7 - Continuous Deployment with Jenkins
 
-* Chapter 8 - Deploying Docker Apps to Kubernetes
+  * Chapter 8 - Deploying Docker Apps to Kubernetes
 
-* Chapter 9 - Cloud-Native Continuous Deployment Using Spinnaker
+  * Chapter 9 - Cloud-Native Continuous Deployment Using Spinnaker
 
-* Chapter 10 - Monitoring Docker Using Prometheus, Grafana, and Jaeger
+  * Chapter 10 - Monitoring Docker Using Prometheus, Grafana, and Jaeger
 
-* Chapter 11 - Scaling and Load Testing Docker Applications
+  * Chapter 11 - Scaling and Load Testing Docker Applications
 
 * SECTION 3: Introduction to Container Security
 
-* Chapter 12 - Introduction to Container Security
+  * Chapter 12 - Introduction to Container Security
 
-* Chapter 13 - Docker Security Fundamentals and Best Practices
+  * Chapter 13 - Docker Security Fundamentals and Best Practices
 
-* Chapter 14 - Advanced Docker Security - Secrets, Secret Commands, Tagging , and Labels
+  * Chapter 14 - Advanced Docker Security - Secrets, Secret Commands, Tagging , and Labels
 
-* Chapter 15 - Scannning, Monitoring, and Using Third-Party Tools
+  * Chapter 15 - Scannning, Monitoring, and Using Third-Party Tools
 
-* * *
+---
 
-**ПОЛЕЗНЫЕ РЕСУРСЫ для ИЗУЧЕНИЯ DOCKER**
+## ПОЛЕЗНЫЕ РЕСУРСЫ для ИЗУЧЕНИЯ DOCKER
 
-* **Основы Docker**
+### Основы Docker
 
 * [Контейнеризация — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
 
@@ -99,7 +96,7 @@
 
 * [Kubernetes как инструмент для работы с контейнерами (tproger.ru)](https://tproger.ru/blogs/kubernetes-as-default-tool-for-containers/)
 
-* **Официальный блог Docker**
+### Официальный блог Docker
 
 * [Signing Docker Official Images Using OpenPubkey | Docker](https://www.docker.com/blog/signing-docker-official-images-using-openpubkey/)
 
@@ -189,16 +186,11 @@
 
 * [Memgraph Docker Extension: Empowering Real-Time Analytics with High Performance | Docker](https://www.docker.com/blog/memgraph-docker-extension-empowering-real-time-analytics-with-high-performance/)
 
-* * *
+---
 
-* * *
+## Software Deployment - Container Orchestration with Kubernetes
 
-**2024? - 3.1.4.2 - SDLC - Software Deployment - Container Orchestration with Kubernetes**
-==========================================================================================
-
-* * *
-
-* **{ Sayfan G. } \[ Hands-On Microservices with Kubernetes \] ( 2019 )**
+### Sayfan G. - "Hands-On Microservices with Kubernetes" ( 2019 )
 
 * Chapter 1 - Introduction to Kubernetes for Developers
 
@@ -228,7 +220,7 @@
 
 * Chapter 14 - The Future of Microservices and Kubernetes
 
-* **{ Sayfan G. } \[ Mastering Kubernetes \] ( 2020 )**
+### Sayfan G. - "Mastering Kubernetes" ( 2020 )
 
 * Chapter 1 - Understanding Kubernetes Architecture
 
@@ -262,4 +254,4 @@
 
 * Chapter 16 - The Future of Kubernetes
 
-* * *
+---
