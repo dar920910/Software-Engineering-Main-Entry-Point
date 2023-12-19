@@ -1,116 +1,98 @@
-* * *
+# C# Programming Language and .NET Software Development
 
-**2023/4 - 1.1 - .NET - C# Programming Language and .NET Base Class Libraries**
-===============================================================================
+---
 
-* * *
+## .NET - C# Programming Language and .NET Base Class Libraries
 
-* **{ Troelsen A., Japikse P. } \[ Pro C# 10 with .NET 6 \] ( 2022 )**
+### Troelsen A., Japikse P. - "Pro C# 10 with .NET 6" ( 2022 )
 
 * PART 1 - Introducing C# and .NET 6
 
-* Chapter 1 - Introducing C# and .NET 6
+  * Chapter 1 - Introducing C# and .NET 6
 
-* Chapter 2 - Building C# Applications
+  * Chapter 2 - Building C# Applications
 
 * PART 2 - Core C# Programming
 
-* Chapter 3 - Core C# Programming Constructs, Part 1 **// 68**
+  * Chapter 3 - Core C# Programming Constructs, Part 1 **// 68**
 
-* Chapter 4 - Core C# Programming Constructs, Part 2 **// 62**
+  * Chapter 4 - Core C# Programming Constructs, Part 2 **// 62**
 
 * PART 3 - Object-Oriented Programming with C#
 
-* Chapter 5 - Understanding Encapsulation **// 62**
+  * Chapter 5 - Understanding Encapsulation **// 62**
 
-* Chapter 6 - Understanding Inheritance and Polymorphism **// 44**
+  * Chapter 6 - Understanding Inheritance and Polymorphism **// 44**
 
-* Chapter 7 - Understanding Structured Exception Handling **// 26**
+  * Chapter 7 - Understanding Structured Exception Handling **// 26**
 
-* Chapter 8 - Working with Interfaces **// 42**
+  * Chapter 8 - Working with Interfaces **// 42**
 
-* Chapter 9 - Understanding Object Lifetime **// 28**
+  * Chapter 9 - Understanding Object Lifetime **// 28**
 
 * PART 4 - Advanced C# Programming
 
-* Chapter 10 - Collections and Generics **// 42**
+  * Chapter 10 - Collections and Generics **// 42**
 
-* Chapter 11 - Advanced C# Language Features **// 40**
+  * Chapter 11 - Advanced C# Language Features **// 40**
 
-* Chapter 12 - Delegates, Events, and Lambda Expressions **// 42**
+  * Chapter 12 - Delegates, Events, and Lambda Expressions **// 42**
 
-* Chapter 13 - LINQ to Objects **// 42**
+  * Chapter 13 - LINQ to Objects **// 42**
 
-* Chapter 14 - Processes, AppDomains, and Load Contexts **// 20**
+  * Chapter 14 - Processes, AppDomains, and Load Contexts **// 20**
 
-* Chapter 15 - Multithreaded, Parallel, and Async Programming **// 52**
+  * Chapter 15 - Multithreaded, Parallel, and Async Programming **// 52**
 
 * PART 5 - Programming with .NET Core Assemblies
 
-* Chapter 16 - Building and Configuring Class Libraries **// 36**
+  * Chapter 16 - Building and Configuring Class Libraries **// 36**
 
-* Chapter 17 - Type Reflection, Late Binding, Attribute, and Dynamic Types **// 52**
+  * Chapter 17 - Type Reflection, Late Binding, Attribute, and Dynamic Types **// 52**
 
-* Chapter 18 - Understanding CIL and the Role of Dynamic Assemblies **// 36**
+  * Chapter 18 - Understanding CIL and the Role of Dynamic Assemblies **// 36**
 
 * PART 6 - File Handling, Object Serialization, and Data Access
 
-* Chapter 19 - File I/O and Object Serialization **// 46**
+  * Chapter 19 - File I/O and Object Serialization **// 46**
 
-* * *
+---
 
-**ВСЕ ИЗДАНИЯ КНИГИ "PRO C#"**
+## ВСЕ ИЗДАНИЯ КНИГИ "PRO C#"
 
 * **Pro C# 10 with .NET 6: Foundational Principles and Practices in Programming (2022)**
-    ======================================================================================
 
 * **Pro C# 9 with .NET 5: Foundational Principles and Practices in Programming (2021)**
-    =====================================================================================
 
-* **Pro C# 8 with .NET Core 3: Foundational Principles and Practices in Programming (2020)**
-    ==========================================================================================
+* **Pro C# 8 with .NET Core 3: Foundational Principles and Practices in Programming (2020)*
 
 * **Pro C# 7: With .NET and .NET Core (2017)**
-    ============================================
 
 * C# 6.0 and the .NET 4.6 Framework (2015)
-    ========================================
 
 * Pro C# 5.0 and the .NET 4.5 Framework (2012)
-    ============================================
 
 * Pro C# 2010 and the .NET 4 Platform (2009)
-    ==========================================
 
 * **Pro C# 2008 and the .NET 3.5 Platform (2007)**
-    ================================================
 
 * Pro C# with .NET 3.0, Special Edition (2007, February)
-    ======================================================
 
 * Pro C# with .NET 3.0 (2007, January)
-    ====================================
 
 * Pro C# 2005 and the .NET 2.0 Platform (2005)
-    ============================================
 
 * **C# and the .Net Platform (2001)**
-    ===================================
 
-* * *
+---
 
+## .NET - Development Environment with Visual Studio 2022
 
+### .NET - Visual Studio 2022
 
-**2023/4 - 2.1.1.1.3 - .NET - Development Environment with Visual Studio 2022**
-===============================================================================
+#### НОВОСТИ VISUAL STUDIO
 
-* * *
-
-**.NET - Visual Studio 2022**
-
-* **НОВОСТИ VISUAL STUDIO**
-
-* Важные выпуски Visual Studio
+##### Важные выпуски Visual Studio
 
 * [Visual Studio 17.8 now available! - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/visual-studio-17-8-now-available/)
 
@@ -132,9 +114,9 @@
 
 * [Visual Studio 2022 - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/visual-studio-2022/)
 
-* **ИЗУЧЕНИЕ VISUAL STUDIO**
+#### ИЗУЧЕНИЕ VISUAL STUDIO
 
-* Новые возможности Visual Studio 2022
+##### Новые возможности Visual Studio 2022
 
 * [Design your Web Forms apps with Web Live Preview in Visual Studio 2022 - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/design-your-web-forms-apps-with-web-live-preview-in-visual-studio-2022/)
 
@@ -164,7 +146,7 @@
 
 * [Arm64 Support for VS Extensions (microsoft.com)](https://devblogs.microsoft.com/visualstudio/now-introducing-arm64-support-for-vs-extensions/)
 
-* Visual Studio - Улучшения производительности среды разработки
+##### Visual Studio - Улучшения производительности среды разработки
 
 * [Visual Studio 2022 – 17.7 Performance Enhancements - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-7-performance-enhancements/)
 
@@ -182,7 +164,7 @@
 
 * [Dev Drive for Performance Improvements in Visual Studio and Dev Boxes! - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/devdrive/)
 
-* Visual Studio - Конфигурирование и администрирование
+##### Visual Studio - Конфигурирование и администрирование
 
 * [Visual Studio 2022 can now Always Update on Close! - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-can-now-always-update-on-close/)
 
@@ -196,7 +178,7 @@
 
 * [Installing Visual Studio from an Internal Website - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/installing-visual-studio-from-an-internal-website/)
 
-* Visual Studio - Персонализация и пользовательский интерфейс
+##### Visual Studio - Персонализация и пользовательский интерфейс
 
 * [Flexible theming capabilities for Visual Studio  - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/flexible-theming-visual-studio/)
 
@@ -210,7 +192,7 @@
 
 * [Improved doc management personalization - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/doc-management-personalization/)
 
-* Visual Studio - Повседневные задачи разработчика
+##### Visual Studio - Повседневные задачи разработчика
 
 * [What’s New for the Remote File Explorer in Visual Studio - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/whats-new-for-the-remote-file-explorer-in-visual-studio/)
 
@@ -274,7 +256,7 @@
 
 * [Too many tabs open? No problem! - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/too-many-tabs-open-no-problem/)
 
-* Visual Studio - Отладка/ тестирование/профилирование
+##### Visual Studio - Отладка/ тестирование/профилирование
 
 * [IntelliTest simplifies writing and maintaining unit tests - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/intellitest-simplifies-writing-and-maintaining-unit-tests/)
 
@@ -312,7 +294,7 @@
 
 * [Parallel Stack Window tips you need to know. (microsoft.com)](https://devblogs.microsoft.com/visualstudio/rock-your-debugging-game-parallel-stack-window-tips-you-need-to-know/)
 
-* Visual Studio - Поддержка Git + GitHub
+##### Visual Studio - Поддержка Git + GitHub
 
 * [Multi-Branch Graph Available for General Audiences - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/multi-branch-graph-available-for-general-audiences/)
 
@@ -332,7 +314,7 @@
 
 * [Announcing Create a Pull Request in Visual Studio (microsoft.com)](https://devblogs.microsoft.com/visualstudio/create-a-pull-request-in-visual-studio/)
 
-* Visual Studio - Поддержка расширений
+##### Visual Studio - Поддержка расширений
 
 * [Learn to write Visual Studio extensions - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/learn-to-write-visual-studio-extensions/)
 
@@ -350,7 +332,7 @@
 
 * [You can now use Microsoft Kiota within Visual Studio Code](https://devblogs.microsoft.com/microsoft365dev/you-can-now-use-microsoft-kiota-within-visual-studio-code/)
 
-* Visual Studio - Функции искусственного интеллекта
+##### Visual Studio - Функции искусственного интеллекта
 
 * [GitHub Copilot in Visual Studio 2022 - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/github-copilot-in-visual-studio-2022/)
 
@@ -364,7 +346,7 @@
 
 * [What’s New in SSDT 17.6: Ledger, Performance, Copilot - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/whats-new-in-ssdt-17-6-ledger-performance-copilot/)
 
-* Улучшения Visual Studio для C# разработчиков
+##### Улучшения Visual Studio для C# разработчиков
 
 * [Overhauled F# code fixes in Visual Studio - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/overhauled-fsharp-code-fixes-in-visual-studio/)
 
@@ -408,7 +390,7 @@
 
 * [MSBuild and 64-bit Visual Studio 2022 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/msbuild-and-64-bit-visual-studio-2022/)
 
-* Улучшения Visual Studio для Web разработчиков
+##### Улучшения Visual Studio для Web разработчиков
 
 * [New React TypeScript SPA Templates and More - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/new-react-typescript-spa-templates-and-more/)
 
@@ -424,9 +406,7 @@
 
 * [Create a Microsoft Power App for your ASP.NET Core Web API - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/create-a-microsoft-power-app-for-your-asp-net-core-web-api/)
 
-* * *
-
-**.NET - JetBrains Rider**
+#### .NET - JetBrains Rider
 
 * [Automatically Analyze ASP.NET Core Performance With Dynamic Program Analysis | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2023/11/14/automatically-analyze-asp-net-core-performance-with-dynamic-program-analysis/)
 
@@ -502,11 +482,11 @@
 
 * [Reverse Engineering Existing Databases with Entity Framework Core | The JetBrains Blog](https://blog.jetbrains.com/dotnet/2023/07/20/reverse-engineering-existing-databases-with-entity-framework-core/)
 
-* * *
+---
 
-**.NET - NuGet**
+### .NET - NuGet
 
-* ОФИЦИАЛЬНЫЕ АНОНСЫ
+#### ОФИЦИАЛЬНЫЕ АНОНСЫ
 
 * [Announcing NuGet 6.7 – Keeping You Secure - The NuGet Blog (microsoft.com)](https://devblogs.microsoft.com/nuget/announcing-nuget-6-7-keeping-you-secure/)
 
@@ -520,7 +500,7 @@
 
 * [Getting Started With NuGet 5.8 - The NuGet Blog (microsoft.com)](https://devblogs.microsoft.com/nuget/getting-started-with-nuget-5-8/)
 
-* ИНТЕРЕСНЫЕ СТАТЬИ
+#### ИНТЕРЕСНЫЕ СТАТЬИ
 
 * [Write a high-quality README for NuGet packages - The NuGet Blog (microsoft.com)](https://devblogs.microsoft.com/nuget/write-a-high-quality-readme-for-nuget-packages/)
 
@@ -544,9 +524,9 @@
 
 * [Happy 10th Birthday, NuGet! - The NuGet Blog (microsoft.com)](https://devblogs.microsoft.com/nuget/happy-10th-birthday-nuget/)
 
-* * *
+---
 
-**.NET - MSBuild**
+### .NET - MSBuild
 
 * **MSBuild - [MSBuild - MSBuild | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild?view=vs-2022)**
 
@@ -566,11 +546,11 @@
 
 * MSBuild Glossary - [MSBuild glossary - MSBuild | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-glossary?view=vs-2022)
 
-* * *
+---
 
-**.NET - Unit Testing**
+### .NET - Unit Testing
 
-* **Testing in .NET - [Testing in .NET - .NET | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/core/testing/)**
+#### Testing in .NET - [Testing in .NET - .NET | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/core/testing/)
 
 * 01 - Overview
 
@@ -592,7 +572,7 @@
 
 * 10 - Live unit test with Visual Studio
 
-* **NUnit - [NUnit Documentation Site | NUnit Docs](https://docs.nunit.org/)**
+#### NUnit - [NUnit Documentation Site | NUnit Docs](https://docs.nunit.org/)
 
 * PART 1 - NUnit
 
@@ -606,7 +586,7 @@
 
 * PART 6 - NUnit Analyzers
 
-* **xUnit - [Home > xUnit.net](https://xunit.net/#documentation)**
+#### xUnit - [Home > xUnit.net](https://xunit.net/#documentation)
 
 * PART 1 - Getting Started
 
@@ -620,11 +600,11 @@
 
 * PART 6 - Migration
 
-* * *
+---
 
-**.NET - Docker**
+### .NET - Docker
 
-* **{ Freeman A. } \[ Essential Docker for ASP .NET Core MVC \] ( 2017 )**
+#### Freeman A. - "Essential Docker for ASP .NET Core MVC" ( 2017 )
 
 * Chapter 1 - Understanding Docker
 
@@ -642,7 +622,7 @@
 
 * Chapter 8 - Containerized Development
 
-* **ASP.NET Core with Docker - Полезные ресурсы для изучения**
+#### ASP.NET Core with Docker - Полезные ресурсы для изучения
 
 * [https://hub.docker.com/\_/microsoft-dotnet-sdk/](https://hub.docker.com/_/microsoft-dotnet-sdk/)
 
@@ -658,81 +638,73 @@
 
 * [https://github.com/dotnet/dotnet-docker/blob/main/samples/run-aspnetcore-https-development.md](https://github.com/dotnet/dotnet-docker/blob/main/samples/run-aspnetcore-https-development.md)
 
-* * *
+---
 
-**.NET - GitHub Actions**
+### .NET - GitHub Actions
 
 * [.NET 💜 GitHub Actions: Intro to GitHub Actions for .NET - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/dotnet-loves-github-actions/)
 
 * [Automate code metrics and class diagrams with GitHub Actions - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/automate-code-metrics-and-class-diagrams-with-github-actions/)
 
-* * *
+---
 
+## .NET - EF Core & Entity Framework & ADO.NET
 
-* * *
-
-**2023/4 - 2.1.1 - .NET - ASP.NET Core Web Development**
-========================================================
-
-* * *
-
-**.NET - EF Core & Entity Framework & ADO.NET**
-
-* **{ Troelsen A., Japikse P. } \[ Pro C# 10 with .NET 6 \] ( 2022 )**
+### Troelsen A., Japikse P. - "Pro C# 10 with .NET 6" ( 2022 )
 
 * PART 6 - File Handling, Object Serialization, and Data Access
 
-* Chapter 20 - Data Access with ADO .NET **// 62 // + TODO !!!**
+  * Chapter 20 - Data Access with ADO .NET **// 62 // + TODO !!!**
 
 * PART 7 - Entity Framework Core
 
-* Chapter 21 - Introducing Entity Framework Core **// 60**
+  * Chapter 21 - Introducing Entity Framework Core **// 60**
 
-* Chapter 22 - Exploring Entity Framework Core **// 70**
+  * Chapter 22 - Exploring Entity Framework Core **// 70**
 
-* Chapter 23 - Build a Data Access Layer with Entity Framework Core **// 60**
+  * Chapter 23 - Build a Data Access Layer with Entity Framework Core **// 60**
 
-* Chapter 24 - Test-Driving AutoLot **// 46**
+  * Chapter 24 - Test-Driving AutoLot **// 46**
 
-* **{ Troelsen A., Japikse P. } \[ Pro C# 7 with .NET and .NET Core \] ( 2017 )**
+### Troelsen A., Japikse P. - "Pro C# 7 with .NET and .NET Core" ( 2017 )
 
 * PART 6 - Introducing the .NET Base Class Libraries
 
-* Chapter 21 - Data Access with ADO .NET **// 54 // + TODO !!!**
+  * Chapter 21 - Data Access with ADO .NET **// 54 // + TODO !!!**
 
-* Chapter 22 - Introducing Entity Framework 6 **// 50**
+  * Chapter 22 - Introducing Entity Framework 6 **// 50**
 
 * APPENDIX (ONLINE PARTS)
 
-* APPENDIX A - ADO .NET : Data Sets, Data Tables, and Data Adapters **// 66**
+  * APPENDIX A - ADO .NET : Data Sets, Data Tables, and Data Adapters **// 66**
 
-* APPENDIX B - Introducing LINQ to XML **// 19**
+  * APPENDIX B - Introducing LINQ to XML **// 19**
 
-* * *
+---
 
-**.NET - ASP.NET Core Web Development**
+## .NET - ASP.NET Core Web Development
 
-* **{ Troelsen A., Japikse P. } \[ Pro C# 10 with .NET 6 \] ( 2022 )**
+### Troelsen A., Japikse P. - "Pro C# 10 with .NET 6" ( 2022 )
 
 * PART 9 - ASP .NET Core
 
-* Chapter 30 - Introducing ASP .NET Core **// 42**
+  * Chapter 30 - Introducing ASP .NET Core **// 42**
 
-* Chapter 31 - Diving Into ASP .NET Core **// 52**
+  * Chapter 31 - Diving Into ASP .NET Core **// 52**
 
-* Chapter 32 - RESTful Services with ASP .NET Core **// 60**
+  * Chapter 32 - RESTful Services with ASP .NET Core **// 60**
 
-* Chapter 33 - Web Applications with MVC **// 92**
+  * Chapter 33 - Web Applications with MVC **// 92**
 
-* Chapter 34 - Web Applications using Razor Pages **// 52**
+  * Chapter 34 - Web Applications using Razor Pages **// 52**
 
-* * *
+---
 
-**ASP.NET Core Full-Stack Web Development**
+## ASP.NET Core Full-Stack Web Development
 
-.NET - ASP.NET Core + Angular
+### .NET - ASP.NET Core + Angular
 
-* **{ De Sanctis V. } \[ ASP.NET Core 3 and Angular 9 \] ( 2020, 3th edition )**
+#### De Sanctis V. - "ASP.NET Core 3 and Angular 9" ( 2020, 3th edition )
 
 * Chapter 1 - Getting Ready
 
@@ -758,47 +730,41 @@
 
 * Chapter 12 - Windows and Linux Deployment
 
-* * *
+---
 
-.NET Framework - ASP.NET Web Development
+## .NET Framework - ASP.NET Web Development
 
-* **{ Troelsen A., Japikse P. } \[ Pro C# 7 with .NET and .NET Core \] ( 2017 )**
+### Troelsen A., Japikse P. - "Pro C# 7 with .NET and .NET Core" ( 2017 )
 
 * PART 8 - ASP .NET
 
-* Chapter 29 - Introducing ASP .NET MVC **// 44**
+  * Chapter 29 - Introducing ASP .NET MVC **// 44**
 
-* Chapter 30 - Introducing ASP .NET Web API **// 21**
+  * Chapter 30 - Introducing ASP .NET Web API **// 21**
 
 * APPENDIX (ONLINE PARTS)
 
-* APPENDIX C - Introducing ASP .NET Forms **// 50**
+  * APPENDIX C - Introducing ASP .NET Forms **// 50**
 
-* APPENDIX D - ASP .NET Web Controls, Master Pages, and Themes **// 55**
+  * APPENDIX D - ASP .NET Web Controls, Master Pages, and Themes **// 55**
 
-* APPENDIX E - ASP .NET State Management Techniques **// 33**
+  * APPENDIX E - ASP .NET State Management Techniques **// 33**
 
-* * *
+---
 
-.NET Framework - Windows Communication Foundation
+## .NET Framework - Windows Communication Foundation
 
-* **{ Troelsen A., Japikse P. } \[ Pro C# 7 with .NET and .NET Core \] ( 2017 )**
+### Troelsen A., Japikse P. - "Pro C# 7 with .NET and .NET Core" ( 2017 )
 
 * PART 6 - Introducing the .NET Base Class Libraries
 
-* Chapter 23 - Introducing Windows Communication Foundation **// 56**
+  * Chapter 23 - Introducing Windows Communication Foundation **// 56**
 
-* * *
+---
 
+## .NET - .NET 6/7/8 Platforms & .NET Development Blog News
 
-* * *
-
-**2023/4 - 2.1.1.1.2 - .NET - .NET 6/7/8 Platforms & .NET Development Blog News**
-=================================================================================
-
-* * *
-
-**.NET Annotated Montly (JetBrains)**
+### .NET Annotated Montly (JetBrains)
 
 * [.NET Annotated Monthly | November 2023 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2023/11/09/net-annotated-monthly-november-2023/)
 
@@ -826,9 +792,7 @@
 
 * [.NET Annotated Monthly | November 2022 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2022/11/02/net-annotated-monthly-november-2022/)
 
-* * *
-
-**.NET 8 (LTS) - .NET Conf 2023**
+### .NET 8 (LTS) - .NET Conf 2023
 
 * [Announcing .NET 8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/)
 
@@ -846,9 +810,7 @@
 
 * [Collections | Microsoft Learn](https://learn.microsoft.com/en-us/collections/odr5beo72wn3n3?wt.mc_id=dotnetconf_learncollection_video_DevRelStudios)
 
-* * *
-
-**.NET 8 (LTS) - Полезные ресурсы для изучения**
+### .NET 8 (LTS) - Полезные ресурсы для изучения
 
 * **Новости разработки .NET 8**
 
@@ -978,9 +940,7 @@
 
 * [What is .NET, and why should you choose it? - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/why-dotnet/)
 
-* * *
-
-**.NET 7 (STS) - Полезные ресурсы для изучения**
+### .NET 7 (STS) - Полезные ресурсы для изучения
 
 * **Новости разработки .NET 7**
 
@@ -1068,9 +1028,7 @@
 
 * [Upgrading your .NET projects with Visual Studio - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/upgrade-assistant-now-in-visual-studio/)
 
-* * *
-
-**.NET 6 (LTS) - Полезные ресурсы для изучения**
+### .NET 6 (LTS) - Полезные ресурсы для изучения
 
 * **Новости разработки .NET 6**
 
@@ -1174,9 +1132,7 @@
 
 * [What's new in dotnet monitor - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/whats-new-in-dotnet-monitor/)
 
-* * *
-
-**.NET 5 (STS) - Полезные ресурсы для изучения**
+### .NET 5 (STS) - Полезные ресурсы для изучения
 
 * **Новости разработки .NET 5**
 
@@ -1224,9 +1180,7 @@
 
 * [CoreWCF 1.0 has been Released, WCF for .NET Core and .NET 5+ - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/corewcf-v1-released/)
 
-* * *
-
-.NET Core - Полезные ресурсы для изучения
+### .NET Core - Полезные ресурсы для изучения
 
 * Официальные анонсы .NET Core 3
 
@@ -1270,9 +1224,7 @@
 
 * [Announcing the Windows Compatibility Pack for .NET Core - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-the-windows-compatibility-pack-for-net-core/)
 
-* * *
-
-.NET Standard - Полезные статьи
+### .NET Standard - Полезные статьи
 
 * [The future of .NET Standard - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/the-future-of-net-standard/)
 
@@ -1282,9 +1234,7 @@
 
 * [Introducing .NET Standard - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/introducing-net-standard/)
 
-* * *
-
-.NET - Внутреннее устройство платформы (Интересное)
+### .NET - Внутреннее устройство платформы (Интересное)
 
 * [Conversation about the .NET open source project - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/conversation-about-the-net-open-source-project/)
 
@@ -1318,9 +1268,7 @@
 
 * [How Async/Await Really Works in C# - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/how-async-await-really-works/)
 
-* * *
-
-**EF Core (.NET Blog)**
+### EF Core (.NET Blog)
 
 * Официальные анонсы EF Core
 
@@ -1340,9 +1288,7 @@
 
 * [A Comprehensive Guide to Port from EF6 to EF Core - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/a-comprehensive-guide-to-port-from-ef6-to-ef-core/)
 
-* * *
-
-**ASP.NET Core (.NET Blog)**
+### ASP.NET Core (.NET Blog)
 
 * Официальные анонсы ASP.NET Core
 
@@ -1402,7 +1348,7 @@
 
 * [A Heavy Lift: Bringing Kestrel + YARP to Azure App Services (microsoft.com)](https://devblogs.microsoft.com/dotnet/bringing-kestrel-and-yarp-to-azure-app-services/)
 
-* **Modern Support for Windows Communication Foundation (.NET Blog)**
+### Modern Support for Windows Communication Foundation (.NET Blog)
 
 * [Supporting the community with WF and WCF OSS projects - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/supporting-the-community-with-wf-and-wcf-oss-projects/)
 
@@ -1410,9 +1356,7 @@
 
 * [FritzAndFriends/BlazorWebFormsComponents: A collection of Blazor components that emulate the ASP.NET Web Forms controls of the same name (github.com)](https://github.com/FritzAndFriends/BlazorWebFormsComponents)
 
-* * *
-
-.NET MAUI News (.NET Blog)
+### .NET MAUI News (.NET Blog)
 
 * **Официальные анонсы MAUI**
 
@@ -1504,37 +1448,29 @@
 
 * [Xamarin.Essentials 1.7 and introducing .NET MAUI Essentials (microsoft.com)](https://devblogs.microsoft.com/xamarin/xamarin-essentials-1-7-and-introducing-net-maui-essentials/)
 
-* * *
+---
 
+## .NET - WPF & Multiplatform Development
 
-* * *
+### .NET - Windows Client Development with WPF
 
-**2023/4 - 2.1.2 - .NET - WPF & Multiplatform Development**
-===========================================================
-
-* * *
-
-**.NET - Windows Client Development with WPF**
-
-* **WPF - { Troelsen A., Japikse P. } \[ Pro C# 10 with .NET 6 \] ( 2022 )**
+### WPF - Troelsen A., Japikse P. - "Pro C# 10 with .NET 6" ( 2022 )
 
 * PART 8 - Windows Client Development
 
-* Chapter 25 - Introducing Windows Presentation Foundation and XAML **// 38**
+  * Chapter 25 - Introducing Windows Presentation Foundation and XAML **// 38**
 
-* Chapter 26 - WPF Controls, Layouts, Events, and Data Binding **// 60 // + TODO !!!**
+  * Chapter 26 - WPF Controls, Layouts, Events, and Data Binding **// 60 // + TODO !!!**
 
-* Chapter 27 - WPF Graphics Rendering Services **// 36**
+  * Chapter 27 - WPF Graphics Rendering Services **// 36**
 
-* Chapter 28 - WPF Resources, Animations, Styles, and Templates **// 40**
+  * Chapter 28 - WPF Resources, Animations, Styles, and Templates **// 40**
 
-* Chapter 29 - WPF Notifications, Validations, Commands, and MVVM **// 37**
+  * Chapter 29 - WPF Notifications, Validations, Commands, and MVVM **// 37**
 
-* * *
+### .NET - Multiplatform Applications Development
 
-.NET - Multiplatform Applications Development
-
-.NET - Multiplatform Apps Development with MAUI
+#### .NET - Multiplatform Apps Development with MAUI
 
 * **.NET MAUI - [.NET Multi-platform App UI documentation - .NET MAUI | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/maui/)**
 
@@ -1554,7 +1490,7 @@
 
 * [Tutorial: Create a .NET MAUI app - .NET MAUI | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/maui/tutorials/notes-app/)
 
-.NET - Multiplatform Apps with Avalonia UI
+#### .NET - Multiplatform Apps with Avalonia UI
 
 * **[Welcome to Avalonia UI | Avalonia UI](https://docs.avaloniaui.net/)**
 
@@ -1596,7 +1532,7 @@
 
 * [Android | Avalonia UI](https://docs.avaloniaui.net/docs/tutorials/developing-for-mobile/android/)
 
-.NET - Multiplatform Apps with Uno Platform
+#### .NET - Multiplatform Apps with Uno Platform
 
 * **[Uno Platform documentation](https://platform.uno/docs/articles/intro.html)**
 
@@ -1634,9 +1570,7 @@
 
 * Create Your First App - Tutorial 2 - [Create a Single Page App with Uno Platform](https://platform.uno/docs/articles/getting-started-tutorial-2.html)
 
-* * *
-
-.NET - Hybrid and Progressive Web Apps
+#### .NET - Hybrid and Progressive Web Apps
 
 * **Blazor Hybrid Apps - [ASP.NET Core Blazor Hybrid | Microsoft Learn](https://learn.microsoft.com/en-us/aspnet/core/blazor/hybrid/?view=aspnetcore-7.0)**
 
@@ -1696,20 +1630,11 @@
 
 * [Get started with WebView2 in WinForms apps - Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/webview2/get-started/winforms)
 
-* * *
+---
 
+## Practical Learning C# .NET Software Development
 
-
-* * *
-
-**2023/4 - 2.2 - Practical Learning C# .NET Software Development**
-==================================================================
-
-* * *
-
-УЧЕБНЫЙ МИНИ-ПРОЕКТ
-
-**Сериализация данных с использованием различных форматов**
+### УЧЕБНЫЙ МИНИ-ПРОЕКТ 1 - **Сериализация данных с использованием различных форматов**
 
 ОПИСАНИЕ ЗАДАНИЯ
 
@@ -1727,11 +1652,7 @@
 
 Получить уверенные практические навыки (де)сериализации данных средствами .NET
 
-* * *
-
-УЧЕБНЫЙ МИНИ-ПРОЕКТ
-
-**Выполнение CRUD-операций над данными, управляемыми реляционными СУБД**
+### УЧЕБНЫЙ МИНИ-ПРОЕКТ 2 - **Выполнение CRUD-операций над данными, управляемыми реляционными СУБД**
 
 ОПИСАНИЕ ЗАДАНИЯ
 
@@ -1759,11 +1680,7 @@
 
 Получить уверенные практические навыки работы с реляционными БД средствами .NET
 
-* * *
-
-УЧЕБНЫЙ МИНИ-ПРОЕКТ
-
-**Тестирование HTTP-запросов для существующей реализации Web API**
+### УЧЕБНЫЙ МИНИ-ПРОЕКТ 3 - **Тестирование HTTP-запросов для существующей реализации Web API**
 
 ОПИСАНИЕ ЗАДАНИЯ
 
@@ -1779,11 +1696,7 @@
 
 Получить уверенные практические навыки тестирования запросов API средствами .NET
 
-* * *
-
-УЧЕБНЫЙ МИНИ-ПРОЕКТ
-
-**Реализация CRUD API для базы данных Northwind средствами разнообразных веб-служб**
+### УЧЕБНЫЙ МИНИ-ПРОЕКТ 4 - **Реализация CRUD API для базы данных Northwind средствами разнообразных веб-служб**
 
 ОПИСАНИЕ ЗАДАНИЯ
 
@@ -1799,11 +1712,7 @@
 
 Получить уверенные практические навыки разработки Web API средствами .NET
 
-* * *
-
-УЧЕБНЫЙ МИНИ-ПРОЕКТ
-
-**Коммуникация в реальном времени с использованием технологии SignalR**
+### УЧЕБНЫЙ МИНИ-ПРОЕКТ 5 - **Коммуникация в реальном времени с использованием технологии SignalR**
 
 ОПИСАНИЕ ЗАДАНИЯ
 
@@ -1815,11 +1724,7 @@
 
 Получить уверенные практические навыки реализации коммуникации в реальном-времени средствами .NET
 
-* * *
-
-УЧЕБНЫЙ МИНИ-ПРОЕКТ
-
-**Демонстрационный интернет-магазин Northwind на основе ASP.NET Core MVC**
+### УЧЕБНЫЙ МИНИ-ПРОЕКТ 6 - **Демонстрационный интернет-магазин Northwind на основе ASP.NET Core MVC**
 
 ОПИСАНИЕ ЗАДАНИЯ
 
@@ -1837,11 +1742,7 @@
 
 Приобрести уверенные практические навыки веб-разработки средствами MVC-фреймворка
 
-* * *
-
-УЧЕБНЫЙ МИНИ-ПРОЕКТ
-
-**Демонстрационное приложение списка задач на основе фреймворка Blazor**
+### УЧЕБНЫЙ МИНИ-ПРОЕКТ 7 - **Демонстрационное приложение списка задач на основе фреймворка Blazor**
 
 ОПИСАНИЕ ЗАДАНИЯ
 
@@ -1851,4 +1752,4 @@
 
 Приобрести начальные практические навыки клиентской веб-разработки средствами SPA-фреймворка
 
-* * *
+---
