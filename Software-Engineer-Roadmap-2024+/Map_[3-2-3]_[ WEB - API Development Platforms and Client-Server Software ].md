@@ -1,13 +1,10 @@
-* * *
+# WEB - API Development Platforms and Client-Server Software
 
-**2024? - 3.2.3 - WEB - API Development Platforms and Client-Server Software**
-==============================================================================
+---
 
-* * *
+## Postman & SoapUI
 
-**Postman & SoapUI**
-
-* **Postman Learning Center - [Learning Center | Postman Learning Center](https://learning.postman.com/)**
+### Postman Learning Center - [Learning Center | Postman Learning Center](https://learning.postman.com/)
 
 * 01 - Getting Started - [Getting started | Postman Learning Center](https://learning.postman.com/docs/getting-started/overview/)
 
@@ -39,7 +36,7 @@
 
 * 15 - Integrations - [Integrating with Postman | Postman Learning Center](https://learning.postman.com/docs/integrations/intro-integrations/)
 
-* **SoapUI (Open Source Edition) Documentation - [SoapUI Projects](https://www.soapui.org/docs/soapui-projects/)**
+### SoapUI (Open Source Edition) Documentation - [SoapUI Projects](https://www.soapui.org/docs/soapui-projects/)
 
 * 01 - SoapUI Projects - [SoapUI Projects](https://www.soapui.org/docs/soapui-projects/)
 
@@ -79,11 +76,11 @@
 
 * 19 - Scripting & Properties - [Working with Properties | Scripting & Properties (soapui.org)](https://www.soapui.org/docs/scripting-and-properties/working-with-properties/)
 
-* * *
+---
 
-**Chrome DevTools**
+## Chrome DevTools
 
-* **Chrome DevTools - [Chrome DevTools - Chrome Developers](https://developer.chrome.com/docs/devtools/)**
+### Chrome DevTools - [Chrome DevTools - Chrome Developers](https://developer.chrome.com/docs/devtools/)
 
 * Overview - [Overview - Chrome Developers](https://developer.chrome.com/docs/devtools/overview/)
 
@@ -115,9 +112,7 @@
 
 * 11 - Settings Reference
 
-* * *
-
-**HTTP Web Debuggers**
+### HTTP Web Debuggers
 
 * **Fiddler - [Fiddler | Web Debugging Proxy and Troubleshooting Solutions (telerik.com)](https://www.telerik.com/fiddler)**
 
@@ -183,11 +178,11 @@
 
 * 08 - FAQs
 
-* * *
+---
 
-**URL Clients**
+## URL Clients
 
-* **cURL - "Everything cURL" - [README - Everything curl](https://everything.curl.dev/)**
+### cURL - "Everything cURL" - [README - Everything curl](https://everything.curl.dev/)
 
 * 01 - The cURL project - [The cURL project - Everything curl](https://everything.curl.dev/project)
 
@@ -203,7 +198,7 @@
 
 * 07 - FTP with curl - [FTP with curl - Everything curl](https://everything.curl.dev/ftp)
 
-* **GNU Wget Documentation - [Top (GNU Wget 1.21.1-dirty Manual)](https://www.gnu.org/software/wget/manual/html_node/index.html)**
+### GNU Wget Documentation - [Top (GNU Wget 1.21.1-dirty Manual)](https://www.gnu.org/software/wget/manual/html_node/index.html)
 
 * 1 - Overview
 
@@ -221,11 +216,11 @@
 
 * 8 - Various
 
-* * *
+---
 
-**OpenSSH Clients**
+## OpenSSH Clients
 
-* **{ Lucas M. } \[ SSH Mastery. OpenSSH, Putty, Tunnels and Keys \] ( 2018 )**
+### Lucas M. - "SSH Mastery. OpenSSH, Putty, Tunnels and Keys" ( 2018 )
 
 * Chapter 0 - Introduction
 
@@ -259,9 +254,9 @@
 
 * Chapter 15 - OpenSSH Scraps
 
-* * *
+---
 
-**Apache HTTP Server**
+## Apache HTTP Server
 
 * **Apache HTTP Server Users' Guide - [Apache HTTP Server Version 2.4 Documentation - Apache HTTP Server Version 2.4](https://httpd.apache.org/docs/2.4/)**
 
@@ -299,11 +294,11 @@
 
 * 17 - Virtual Hosts
 
-* * *
+---
 
-**NGINX**
+## NGINX
 
-* **{ Soni R. } \[ Nginx From Beginner to Pro \] ( 2016 )**
+### Soni R. - "Nginx From Beginner to Pro" ( 2016 )
 
 * Chapter 1 - Introduction to Nginx Web Server
 
@@ -329,7 +324,7 @@
 
 * Chapter 12 - Troubleshooting Tips and FAQ
 
-* **{ Kholodkov V. } \[ Nginx Essentials \] ( 2015 )**
+### Kholodkov V. - "Nginx Essentials" ( 2015 )
 
 * Chapter 1 - Getting Started with Nginx
 
@@ -343,7 +338,7 @@
 
 * Chapter 6 - Performance Tuning
 
-* **{ DeJonghe D. } \[ NGINX Cookbook \] ( 2021 )**
+### DeJonghe D. - "NGINX Cookbook" ( 2021 )
 
 * Chapter 1 - Basics
 
@@ -379,7 +374,7 @@
 
 * Chapter 17 - Practical Ops Tips and Conclusion
 
-* **NGINX Blog - Полезные статьи для чтения**
+### NGINX Blog - Полезные статьи для чтения
 
 * [How NGINX Gateway Fabric Implements Complex Routing Rules - NGINX](https://www.nginx.com/blog/how-nginx-gateway-fabric-implements-complex-routing-rules/)
 
@@ -399,4 +394,4 @@
 
 * [How to Scan Your Environment for NGINX Instances - NGINX](https://www.nginx.com/blog/how-to-scan-your-environment-for-nginx-instances/)
 
-* * *
+---
