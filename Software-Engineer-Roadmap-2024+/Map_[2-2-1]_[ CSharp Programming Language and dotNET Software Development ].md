@@ -488,6 +488,8 @@
 
 #### ОФИЦИАЛЬНЫЕ АНОНСЫ
 
+* [Announcing NuGet 6.8 – Maintaining Security with Ease - The NuGet Blog (microsoft.com)](https://devblogs.microsoft.com/nuget/announcing-nuget-6-8-maintaining-security-with-ease/)
+
 * [Announcing NuGet 6.7 – Keeping You Secure - The NuGet Blog (microsoft.com)](https://devblogs.microsoft.com/nuget/announcing-nuget-6-7-keeping-you-secure/)
 
 * [Announcing NuGet 6.5 – The Sweetest Way to Manage Your Packages - The NuGet Blog (microsoft.com)](https://devblogs.microsoft.com/nuget/announcing-nuget-6-5-the-sweetest-way-to-manage-your-packages/)

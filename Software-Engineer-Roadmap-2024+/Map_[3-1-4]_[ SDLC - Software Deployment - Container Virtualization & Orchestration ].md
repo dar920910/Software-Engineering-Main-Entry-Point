@@ -98,6 +98,10 @@
 
 ### Официальный блог Docker
 
+* [The Livecycle Docker Extension: Instantly Share Changes and Get Feedback in Context | Docker](https://www.docker.com/blog/livecycle-docker-extension/)
+
+* [Docker whale-comes AtomicJar, maker of Testcontainers | Docker](https://www.docker.com/blog/docker-whale-comes-atomicjar-maker-of-testcontainers/)
+
 * [Signing Docker Official Images Using OpenPubkey | Docker](https://www.docker.com/blog/signing-docker-official-images-using-openpubkey/)
 
 * [Get Started with the Microcks Docker Extension for API Mocking and Testing | Docker](https://www.docker.com/blog/get-started-with-the-microcks-docker-extension-for-api-mocking-and-testing/)

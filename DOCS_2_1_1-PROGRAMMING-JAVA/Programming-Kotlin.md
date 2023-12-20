@@ -16,6 +16,8 @@
 
 ## ПОЛЕЗНЫЕ ФРЕЙМВОРКИ и БИБЛИОТЕКИ
 
+* [Kandy: the new Kotlin plotting library by JetBrains](https://blog.jetbrains.com/kotlin/2023/12/kandy-the-new-kotlin-plotting-library-by-jetbrains/)
+
 * [Compose Multiplatform 1.5.10 – The Perfect Time To Get Started | The Kotlin Blog (jetbrains.com)](https://blog.jetbrains.com/kotlin/2023/11/compose-multiplatform-1-5-10-release/)
 
 * [Kotlin/kotlinx.coroutines: Library support for Kotlin coroutines (github.com)](https://github.com/Kotlin/kotlinx.coroutines)

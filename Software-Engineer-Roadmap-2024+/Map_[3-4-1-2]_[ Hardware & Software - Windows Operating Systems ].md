@@ -346,6 +346,8 @@
 
 ### ОФИЦИАЛЬНЫЕ АНОНСЫ POWERSHELL
 
+* [PowerShell 7.4 General Availability - PowerShell Team (microsoft.com)](https://devblogs.microsoft.com/powershell/powershell-7-4-general-availability/)
+
 * [PowerShell 7.3 General Availability - PowerShell Team (microsoft.com)](https://devblogs.microsoft.com/powershell/powershell-7-3-general-availability/)
 
 * [General Availability of PowerShell 7.2 - PowerShell Team (microsoft.com)](https://devblogs.microsoft.com/powershell/general-availability-of-powershell-7-2/)

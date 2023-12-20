@@ -16,6 +16,8 @@
 
 * [Full Stack Python](https://www.fullstackpython.com/)
 
+* [What is the Django Web Framework?](https://blog.jetbrains.com/pycharm/2023/11/what-is-the-django-web-framework/)
+
 #### Python для системного программирования
 
 * [kyclark/sysadminshow: Code for Sysadmin Show Podcast (github.com)](https://github.com/kyclark/sysadminshow)

@@ -492,6 +492,8 @@
 
 ### PHP ANNOTATED
 
+* [PHP Annotated – November 2023](https://blog.jetbrains.com/phpstorm/2023/12/php-annotated-november-2023/)
+
 * [PHP Annotated – October 2023 | The PhpStorm Blog (jetbrains.com)](https://blog.jetbrains.com/phpstorm/2023/10/php-annotated-october-2023/)
 
 * [PHP Annotated – September 2023 | The PhpStorm Blog (jetbrains.com)](https://blog.jetbrains.com/phpstorm/2023/09/php-annotated-september-2023/)
