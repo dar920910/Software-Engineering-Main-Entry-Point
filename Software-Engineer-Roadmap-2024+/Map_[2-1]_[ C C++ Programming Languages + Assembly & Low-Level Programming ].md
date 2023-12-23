@@ -732,6 +732,8 @@
 
 #### VCPKG СТАТЬИ
 
+* [Debug vcpkg portfiles in CMake script mode with Visual Studio Code](https://devblogs.microsoft.com/cppblog/debug-vcpkg-portfiles-in-cmake-script-mode-with-visual-studio-code/)
+
 * [vcpkg Documentation Moves to Microsoft Docs Platform - C++ Team Blog](https://devblogs.microsoft.com/cppblog/vcpkg-documentation-moves-to-microsoft-docs-platform/)
 
 * [Using system package manager dependencies with vcpkg - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/using-system-package-manager-dependencies-with-vcpkg/)
@@ -745,6 +747,10 @@
 * [Bootstrap your dev environment with vcpkg artifacts - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/vcpkg-artifacts/)
 
 #### VCPKG АНОНСЫ
+
+* [What’s New in the vcpkg 2023.12.12 Release](https://devblogs.microsoft.com/cppblog/whats-new-in-the-vcpkg-2023-12-12-release/)
+
+* [What’s New in the vcpkg 2023.11.20 Release](https://devblogs.microsoft.com/cppblog/whats-new-in-the-vcpkg-2023-11-20-release/)
 
 * [vcpkg 2023.10.19 Release: Export for Manifests, Documentation Improvements, and More… - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/vcpkg-2023-10-19-release-export-for-manifests-documentation-improvements-and-more/)
 
@@ -767,6 +773,24 @@
 * [vcpkg is Now Included with Visual Studio - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/vcpkg-is-now-included-with-visual-studio/)
 
 #### Улучшения Visual Studio для C++ разработчиков
+
+* [Size, Alignment, and Memory Layout Insights for C++ Classes, Structs, and Unions](https://devblogs.microsoft.com/visualstudio/size-alignment-and-memory-layout-insights-for-c-classes-structs-and-unions/)
+
+* [Visual Studio 2022 v17.8 Brings Increased Productivity, Further Unreal Engine Integration, and Cross-Platform Enhancements to C++](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-8-brings-increased-productivity-further-unreal-engine-integration-and-cross-platform-enhancements-to-c/)
+
+* [What’s New for Makefile Tools in Visual Studio Code Release 0.8: Post-Configure Scripts and more…](https://devblogs.microsoft.com/cppblog/whats-new-for-makefile-tools-in-visual-studio-code-release-0-8-post-configure-scripts-and-more/)
+
+* [Directly Edit Unreal Engine Projects in Visual Studio 2022](https://devblogs.microsoft.com/cppblog/directly-edit-unreal-engine-projects-in-visual-studio-2022/)
+
+* [Functions View for Build Insights in Visual Studio 2022 17.8](https://devblogs.microsoft.com/cppblog/functions-view-for-build-insights-in-visual-studio-2022-17-8/)
+
+* [C++ Extension in VS Code 1.18 Release: Quick Fixes for missing header files, Extract to Function & More](https://devblogs.microsoft.com/cppblog/c-extension-in-vs-code-1-18-release-quick-fixes-for-missing-header-files-extract-to-function-more/)
+
+* [Visual Studio Code CMake Tools Extension 1.16 Update: New CMake Tools Sidebar and CMake Debugging options](https://devblogs.microsoft.com/cppblog/visual-studio-code-cmake-tools-extension-1-16-update-new-cmake-tools-sidebar-and-cmake-debugging-options/)
+
+* [Unreal Engine and C++ Game Development Made Easy with Visual Studio 2022](https://devblogs.microsoft.com/cppblog/unreal-engine-cpp-game-development-made-easy-visual-studio-2022/)
+
+* [What’s New for C++ Developers in Visual Studio 2022 17.8](https://devblogs.microsoft.com/cppblog/whats-new-for-cpp-developers-in-visual-studio-2022-17-8/)
 
 * [Latest Updates for CMake Development in Visual Studio - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/latest-updates-for-cmake-development-in-visual-studio/)
 
