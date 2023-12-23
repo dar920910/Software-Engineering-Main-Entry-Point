@@ -148,6 +148,8 @@
 
 ##### Visual Studio - Улучшения производительности среды разработки
 
+* [Visual Studio 2022 – 17.8 Performance Enhancements](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-8-performance-enhancements/)
+
 * [Visual Studio 2022 – 17.7 Performance Enhancements - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-7-performance-enhancements/)
 
 * [Visual Studio 2022 – 17.6 Performance Enhancements - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-6-performance-enhancements/)
@@ -193,6 +195,10 @@
 * [Improved doc management personalization - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/doc-management-personalization/)
 
 ##### Visual Studio - Повседневные задачи разработчика
+
+* [Scroll to expand document tabs](https://devblogs.microsoft.com/visualstudio/scroll-to-expand-document-tabs/)
+
+* [My favorite features in Visual Studio 17.8](https://devblogs.microsoft.com/visualstudio/my-favorite-features-in-visual-studio-17-8/)
 
 * [What’s New for the Remote File Explorer in Visual Studio - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/whats-new-for-the-remote-file-explorer-in-visual-studio/)
 
@@ -256,7 +262,9 @@
 
 * [Too many tabs open? No problem! - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/too-many-tabs-open-no-problem/)
 
-##### Visual Studio - Отладка/ тестирование/профилирование
+##### Visual Studio - Отладка/тестирование/профилирование
+
+* [Unlocking the Secrets of Managed Memory: Dive into Event Handler Leak Insights!](https://devblogs.microsoft.com/visualstudio/unlocking-the-secrets-of-managed-memory-dive-into-event-handler-leak-insights/)
 
 * [IntelliTest simplifies writing and maintaining unit tests - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/intellitest-simplifies-writing-and-maintaining-unit-tests/)
 
@@ -296,6 +304,10 @@
 
 ##### Visual Studio - Поддержка Git + GitHub
 
+* [Write Your Git Commits with GitHub Copilot](https://devblogs.microsoft.com/visualstudio/write-your-git-commits-with-github-copilot/)
+
+* [Create a Pull Request with Summary Difference View Available in GA](https://devblogs.microsoft.com/visualstudio/create-a-pull-request/)
+
 * [Multi-Branch Graph Available for General Audiences - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/multi-branch-graph-available-for-general-audiences/)
 
 * [Enhanced Productivity with Git in Visual Studio - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/enhanced-productivity-with-git-in-visual-studio/)
@@ -333,6 +345,8 @@
 * [You can now use Microsoft Kiota within Visual Studio Code](https://devblogs.microsoft.com/microsoft365dev/you-can-now-use-microsoft-kiota-within-visual-studio-code/)
 
 ##### Visual Studio - Функции искусственного интеллекта
+
+* [Naming Made Easy: AI-Powered Rename Suggestions](https://devblogs.microsoft.com/visualstudio/ai-powered-rename-suggestions/)
 
 * [GitHub Copilot in Visual Studio 2022 - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/github-copilot-in-visual-studio-2022/)
 
@@ -767,6 +781,8 @@
 ## .NET - .NET 6/7/8 Platforms & .NET Development Blog News
 
 ### .NET Annotated Montly (JetBrains)
+
+* [.NET Annotated Monthly | December 2023 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2023/12/11/net-annotated-monthly-december-2023/)
 
 * [.NET Annotated Monthly | November 2023 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2023/11/09/net-annotated-monthly-november-2023/)
 
