@@ -208,6 +208,8 @@
 
 ## LINUX UBUNTU & SOFTWARE DEVELOPMENT
 
+* [Canonical announces the general availability of chiselled Ubuntu containers](https://canonical.com/blog/chiselled-ubuntu-ga)
+
 * [WSL and Ubuntu: 2022 year in review | Ubuntu](https://ubuntu.com//blog/wsl-ubuntu-2022-year-in-review)
 
 * [Microsoft and Canonical announce native .NET availability in Ubuntu 22.04 hosts and containers | Ubuntu](https://ubuntu.com//blog/install-dotnet-on-ubuntu)
@@ -316,6 +318,14 @@
 
 ## LINUX UBUNTU & CLOUD TECHNOLOGIES
 
+* [Ubuntu Explained: How to ensure security and stability in cloud instances — part 1](https://ubuntu.com/blog/ubuntu-updates-releases-and-repositories-explained)
+
+* [Ubuntu Explained: How to ensure security and stability in cloud instances — part 2](https://ubuntu.com//blog/ubuntu-updates-best-practices-for-updating-your-instance)
+
+* [Ubuntu Explained: How to ensure security and stability in cloud instances — part 3](https://ubuntu.com//blog/securing-multiple-ubuntu-instances-while-maximising-uptime)
+
+* [Ubuntu Confidential VMs on Azure: Introducing Ephemeral OS disks & vTPMs](https://ubuntu.com//blog/ephemeral-ubuntu-confidential-vms-azure)
+
 * [Securing open source software dependencies in the public cloud | Ubuntu](https://ubuntu.com//blog/securing-open-source-software-dependencies-in-the-public-cloud)
 
 * [Open-source cloud for beginners with OpenStack | Ubuntu](https://ubuntu.com//blog/open-source-cloud)
@@ -355,6 +365,10 @@
 * [Patterns to achieve database High Availability | Ubuntu](https://ubuntu.com//blog/database-high-availability)
 
 ## LINUX UBUNTU & DATA SCIENCE
+
+* [Generative AI explained](https://ubuntu.com//blog/generative-ai-explained)
+
+* [Building a comprehensive toolkit for machine learning](https://ubuntu.com//blog/machine-learning-toolkit)
 
 * [What is MLflow? | Ubuntu](https://ubuntu.com//blog/what-is-mlflow)
 
