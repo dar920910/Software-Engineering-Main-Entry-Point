@@ -17,6 +17,7 @@
 * [Full Stack Python](https://www.fullstackpython.com/)
 
 * [What is the Django Web Framework?](https://blog.jetbrains.com/pycharm/2023/11/what-is-the-django-web-framework/)
+* [Django vs FastAPI: Which is the Best Python Web Framework?](https://blog.jetbrains.com/pycharm/2023/12/django-vs-fastapi-which-is-the-best-python-web-framework/)
 
 #### Python для системного программирования
 
