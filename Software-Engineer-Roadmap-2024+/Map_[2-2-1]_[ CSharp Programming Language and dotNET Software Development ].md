@@ -812,6 +812,28 @@
 
 * [Collections | Microsoft Learn](https://learn.microsoft.com/en-us/collections/odr5beo72wn3n3?wt.mc_id=dotnetconf_learncollection_video_DevRelStudios)
 
+* [Improvements & Changes in Android resource generation in .NET 8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/android-resource-designer-dotnet-8/)
+
+* [Announcing ML.NET 3.0 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-ml-net-3-0/)
+
+* [Announcing .NET Chiseled Containers - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-chiseled-containers/)
+
+* [Fake It Til You Make It…To Production - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/fake-it-til-you-make-it-to-production/)
+
+* [Building resilient cloud services with .NET 8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/building-resilient-cloud-services-with-dotnet-8/)
+
+* [How to make libraries compatible with native AOT - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/creating-aot-compatible-libraries/)
+
+* [Extending WebAssembly to the Cloud with .NET - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/extending-web-assembly-to-the-cloud/)
+
+* [.NET 8 Networking Improvements - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/dotnet-8-networking-improvements/)
+
+* [Hardware Intrinsics in .NET 8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/dotnet-8-hardware-intrinsics/)
+
+* [Announcing .NET Aspire Preview 2 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-preview-2/)
+
+* [What’s New in Our Code Coverage Tooling? - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/whats-new-in-our-code-coverage-tooling/)
+
 ### .NET 8 (LTS) - Полезные ресурсы для изучения
 
 * **Новости разработки .NET 8**
