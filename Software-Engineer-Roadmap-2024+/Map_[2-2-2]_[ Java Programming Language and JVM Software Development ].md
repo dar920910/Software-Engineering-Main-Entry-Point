@@ -210,7 +210,15 @@
 
 ---
 
+## IntelliJ IDEA Releases
+
+* [Ready For an Update? The 2023.3 Versions of JetBrains Coding Tools Are Out! | The JetBrains Blog (jetbrains.com)](https://blog.jetbrains.com/blog/2023/12/08/ready-for-an-update-the-2023-3-versions-of-jetbrains-coding-tools-are-out/)
+
+* [IntelliJ IDEA 2023.3 Is Out! | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/12/intellij-idea-2023-3/)
+
 ## Java - Development Environment with IntelliJ IDEA
+
+* [The What, Why, and How of JPA Buddy in IntelliJ IDEA | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/11/jpa-buddy-in-intellij-idea/)
 
 * [The Best of IntelliJ IDEA's HTTP Client | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/10/the-best-of-intellij-idea-s-http-client/)
 
