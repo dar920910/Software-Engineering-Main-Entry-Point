@@ -1,4 +1,4 @@
-# C/C++ Programming Languages + Assembly & Low-Level Programming
+# Assembly & C/C++ Programming Languages and Professional Software Development
 
 ---
 
