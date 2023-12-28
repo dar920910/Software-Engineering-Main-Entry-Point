@@ -103,3 +103,42 @@
 * Приложение - Агрегаты и источники событий
 
 ---
+
+## Web API Design
+
+### Лоре А. - "Проектирование веб-API" ( 2020 )
+
+* Глава 1 - Что такое проектирование API
+* Глава 2 - Проектирование API для пользователей
+* Глава 3 - Проектирование программного интерфейса
+* Глава 4 - Описание API с помощью формата описания
+* Глава 5 - Проектирование простого API
+* Глава 6 - Проектирование предсказуемого API
+* Глава 7 - Проектирование лаконичного и хорошо организованного API
+* Глава 8 - Проектирование безопасного API
+* Глава 9 - Изменение дизайна API
+* Глава 10 - Проектирование эффективного API для сети
+* Глава 11 - Проектирование API в контексте
+* Глава 12 - Документирование API
+* Глава 13 - Развитие API
+
+### Higginbotham J. - "Principles of Web API Design" ( 2021 )
+
+* Chapter 1 - The Principles of API Design
+* Chapter 2 - Collaborative API Design
+* Chapter 3 - Identify Digital Capabilities
+* Chapter 4 - Capture Activities and Steps
+* Chapter 5 - Identifying API Boundaries
+* Chapter 6 - API Modeling
+* Chapter 7 - REST-Based API Design
+* Chapter 8 - RPC and Query-Based API Design
+* Chapter 9 - Async APIs for Eventing and Streaming
+* Chapter 10 - From APIs to Microservices
+* Chapter 11 - Improving the Developer Experience
+* Chapter 12 - API Testing Strategies
+* Chapter 13 - Document the API Design
+* Chapter 14 - Designing for Change
+* Chapter 15 - Protecting APIs
+* Chapter 16 - Continuing the API Design Journey
+
+---
