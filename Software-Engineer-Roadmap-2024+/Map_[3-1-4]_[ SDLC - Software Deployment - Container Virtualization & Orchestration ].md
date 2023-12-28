@@ -1,82 +1,60 @@
-# SDLC - Software Deployment - Container Virtualization with Docker
+# SDLC - Software Deployment - Container Virtualization and Orchestration
 
 ---
 
-## Моуэт Э. - "Использование Docker" ( 2017 )
+## Docker
+
+### Моуэт Э. - "Использование Docker" ( 2017 )
 
 * ЧАСТЬ I - ПРЕДПОСЫЛКИ и ОСНОВЫ
-
   * Глава 1 - Что такое контейнеры и для чего они нужны
-
   * Глава 2 - Установка
-
   * Глава 3 - Первые шаги
-
   * Глава 4 - Основы Docker
-
 * ЧАСТЬ II - ЖИЗНЕННЫЙ ЦИКЛ ПО при ИСПОЛЬЗОВАНИИ DOCKER
-
   * Глава 5 - Использование Docker в процессе разработки
-
   * Глава 6 - Создание простого веб-приложения
-
   * Глава 7 - Распространение образов
-
   * Глава 8 - Непрерывная интеграция и тестирование с использованием Docker
-
   * Глава 9 - Развертывание контейнеров
-
   * Глава 10 - Ведение журналов событий и контроль
-
 * ЧАСТЬ III - ИНСТРУМЕНТАЛЬНЫЕ СРЕДСТВА и МЕТОДИКИ
-
   * Глава 11 - Сетевая среда и обнаружение сервисов
-
   * Глава 12 - Оркестрация, кластеризация и управление
-
   * Глава 13 - Обеспечение безопасности контейнеров и связанные с этим ограничения
 
-## Bullington-McGuire R., Dennis A.K., Schwartz M. - "Docker for Developers" ( 2020 )
+### Bullington-McGuire R., Dennis A.K., Schwartz M. - "Docker for Developers" ( 2020 )
 
 * SECTION 1: An Introduction to Docker - Docker and Local Development
-
   * Chapter 1 - Introduction to Docker
-
   * Chapter 2 - Using VirtualBox and Docker Containers for Development
-
   * Chapter 3 - Sharing Containers Using Docker Hub
-
   * Chapter 4 - Composing System Using Containers
-
 * SECTION 2: Running Docker in Production
-
   * Chapter 5 - Alternatives for Deploying and Running Containers in Production
-
   * Chapter 6 - Deploying Applications with Docker Compose
-
   * Chapter 7 - Continuous Deployment with Jenkins
-
   * Chapter 8 - Deploying Docker Apps to Kubernetes
-
   * Chapter 9 - Cloud-Native Continuous Deployment Using Spinnaker
-
   * Chapter 10 - Monitoring Docker Using Prometheus, Grafana, and Jaeger
-
   * Chapter 11 - Scaling and Load Testing Docker Applications
-
 * SECTION 3: Introduction to Container Security
-
   * Chapter 12 - Introduction to Container Security
-
   * Chapter 13 - Docker Security Fundamentals and Best Practices
-
   * Chapter 14 - Advanced Docker Security - Secrets, Secret Commands, Tagging , and Labels
+  * Chapter 15 - Scanning, Monitoring, and Using Third-Party Tools
+  * Chapter 16 - Conclusion - End of the Road, but not the Journey
 
-  * Chapter 15 - Scannning, Monitoring, and Using Third-Party Tools
+### Freeman A. - "Essential Docker for ASP.NET Core MVC" ( 2017 )
 
----
-
-## ПОЛЕЗНЫЕ РЕСУРСЫ для ИЗУЧЕНИЯ DOCKER
+* Chapter 1 - Understanding Docker
+* Chapter 2 - Essential Docker Quick Reference
+* Chapter 3 - Getting Ready
+* Chapter 4 - Docker Images and Containers
+* Chapter 5 - Docker Volumes and Networks
+* Chapter 6 - Docker Compose
+* Chapter 7 - Docker Swarms
+* Chapter 8 - Containerized Development
 
 ### Основы Docker
 
@@ -192,70 +170,42 @@
 
 ---
 
-## Software Deployment - Container Orchestration with Kubernetes
-
-### Sayfan G. - "Hands-On Microservices with Kubernetes" ( 2019 )
-
-* Chapter 1 - Introduction to Kubernetes for Developers
-
-* Chapter 2 - Getting Started with Microservices
-
-* Chapter 3 - Delinkcious - the Sample Application
-
-* Chapter 4 - Setting Up the CI/CD Pipeline
-
-* Chapter 5 - Configuring Microservices with Kubernetes
-
-* Chapter 6 - Securing Microservices on Kubernetes
-
-* Chapter 7 - Talking to the World - APIs and Load Balancers
-
-* Chapter 8 - Working with Stateful Services
-
-* Chapter 9 - Running Serverless Tasks on Kubernetes
-
-* Chapter 10 - Testing Microservices
-
-* Chapter 11 - Deploying Microservices
-
-* Chapter 12 - Monitoring, Logging, and Metrics
-
-* Chapter 13 - Service Mesh - Working with Istio
-
-* Chapter 14 - The Future of Microservices and Kubernetes
+## Kubernetes
 
 ### Sayfan G. - "Mastering Kubernetes" ( 2020 )
 
 * Chapter 1 - Understanding Kubernetes Architecture
-
 * Chapter 2 - Creating Kubernetes Clusters
-
 * Chapter 3 - High Availability and Reliability
-
 * Chapter 4 - Securing Kubernetes
-
 * Chapter 5 - Using Kubernetes Resources in Practice
-
 * Chapter 6 - Managing Storage
-
 * Chapter 7 - Running Stateful Applications with Kubernetes
-
 * Chapter 8 - Deploying and Updating Applications
-
 * Chapter 9 - Packaging Applications
-
 * Chapter 10 - Exploring Advanced Networking
-
 * Chapter 11 - Running Kubernetes on Multiple Clouds and Cluster Federation
-
 * Chapter 12 - Serverless Computing on Kubernetes
-
 * Chapter 13 - Monitoring Kubernetes Clusters
-
 * Chapter 14 - Utilizing Service Meshes
-
 * Chapter 15 - Extending Kubernetes
-
 * Chapter 16 - The Future of Kubernetes
+
+### Sayfan G. - "Hands-On Microservices with Kubernetes" ( 2019 )
+
+* Chapter 1 - Introduction to Kubernetes for Developers
+* Chapter 2 - Getting Started with Microservices
+* Chapter 3 - Delinkcious - the Sample Application
+* Chapter 4 - Setting Up the CI/CD Pipeline
+* Chapter 5 - Configuring Microservices with Kubernetes
+* Chapter 6 - Securing Microservices on Kubernetes
+* Chapter 7 - Talking to the World - APIs and Load Balancers
+* Chapter 8 - Working with Stateful Services
+* Chapter 9 - Running Serverless Tasks on Kubernetes
+* Chapter 10 - Testing Microservices
+* Chapter 11 - Deploying Microservices
+* Chapter 12 - Monitoring, Logging, and Metrics
+* Chapter 13 - Service Mesh - Working with Istio
+* Chapter 14 - The Future of Microservices and Kubernetes
 
 ---

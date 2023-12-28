@@ -620,24 +620,6 @@
 
 ### .NET - Docker
 
-#### Freeman A. - "Essential Docker for ASP .NET Core MVC" ( 2017 )
-
-* Chapter 1 - Understanding Docker
-
-* Chapter 2 - Essential Docker Quick Reference
-
-* Chapter 3 - Getting Ready
-
-* Chapter 4 - Docker Images and Containers
-
-* Chapter 5 - Docker Volumes and Networks
-
-* Chapter 6 - Docker Compose
-
-* Chapter 7 - Docker Swarms
-
-* Chapter 8 - Containerized Development
-
 #### ASP.NET Core with Docker - Полезные ресурсы для изучения
 
 * [https://hub.docker.com/\_/microsoft-dotnet-sdk/](https://hub.docker.com/_/microsoft-dotnet-sdk/)
