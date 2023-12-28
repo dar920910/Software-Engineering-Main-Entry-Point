@@ -6,112 +6,65 @@
 
 ### Horstmann C.S. - Core Java ( 12 edition ). Volume 1 ( 2022 )
 
-* **[ CoreJava 12 ] Chapter 1 - An Introduction to Java**
-
-* **[ CoreJava 12 ] Chapter 2 - The Java Programming Environment**
-
-* **[ CoreJava 12 ] Chapter 3 - Fundamental Programming Structures in Java**
-
-* **[ CoreJava 12 ] Chapter 4 - Objects and Classes**
-
-* **[ CoreJava 12 ] Chapter 5 - Inheritance**
-
-* **[ CoreJava 12 ] Chapter 6 - Interfaces, Lambda Expressions, and Inner Classes**
-
-* **[ CoreJava 12 ] Chapter 7 - Exceptions, Assertions, and Logging**
-
-* **[ CoreJava 12 ] Chapter 8 - Generic Programming**
-
-* **[ CoreJava 12 ] Chapter 9 - Collections**
-
-* **[ CoreJava 12 ] Chapter 10 - Graphical User Interface Programming**
-
-* **[ CoreJava 12 ] Chapter 11 - User Interface Components with Swing**
-
-* **[ CoreJava 12 ] Chapter 12 - Concurrency**
+* [ CoreJava 12 ] Chapter 1 - An Introduction to Java
+* [ CoreJava 12 ] Chapter 2 - The Java Programming Environment
+* [ CoreJava 12 ] Chapter 3 - Fundamental Programming Structures in Java
+* [ CoreJava 12 ] Chapter 4 - Objects and Classes
+* [ CoreJava 12 ] Chapter 5 - Inheritance
+* [ CoreJava 12 ] Chapter 6 - Interfaces, Lambda Expressions, and Inner Classes
+* [ CoreJava 12 ] Chapter 7 - Exceptions, Assertions, and Logging
+* [ CoreJava 12 ] Chapter 8 - Generic Programming
+* [ CoreJava 12 ] Chapter 9 - Collections
+* [ CoreJava 12 ] Chapter 10 - Graphical User Interface Programming
+* [ CoreJava 12 ] Chapter 11 - User Interface Components with Swing
+* [ CoreJava 12 ] Chapter 12 - Concurrency
 
 ### Horstmann C.S. - Core Java ( 12 edition ). Volume 2 ( 2022 )
 
-* **[ CoreJava 12 ] Chapter 1 - Streams**
-
-* **[ CoreJava 12 ] Chapter 2 - Input and Output**
-
-* **[ CoreJava 12 ] Chapter 3 - XML**
-
-* **[ CoreJava 12 ] Chapter 4 - Networking**
-
-* **[ CoreJava 12 ] Chapter 5 - Database Programming**
-
-* **[ CoreJava 12 ] Chapter 6 - The Date and Time API**
-
-* **[ CoreJava 12 ] Chapter 7 - Internationalization**
-
-* **[ CoreJava 12 ] Chapter 8 - Scripting, Compiling, and Annotation Processing**
-
-* **[ CoreJava 12 ] Chapter 9 - The Java Platform Module System**
-
-* **[ CoreJava 12 ] Chapter 10 - Security**
-
-* **[ CoreJava 12 ] Chapter 11 - Advanced Swing and Graphics**
-
-* **[ CoreJava 12 ] Chapter 12 - Native Methods**
+* [ CoreJava 12 ] Chapter 1 - Streams
+* [ CoreJava 12 ] Chapter 2 - Input and Output
+* [ CoreJava 12 ] Chapter 3 - XML
+* [ CoreJava 12 ] Chapter 4 - Networking
+* [ CoreJava 12 ] Chapter 5 - Database Programming
+* [ CoreJava 12 ] Chapter 6 - The Date and Time API
+* [ CoreJava 12 ] Chapter 7 - Internationalization
+* [ CoreJava 12 ] Chapter 8 - Scripting, Compiling, and Annotation Processing
+* [ CoreJava 12 ] Chapter 9 - The Java Platform Module System
+* [ CoreJava 12 ] Chapter 10 - Security
+* [ CoreJava 12 ] Chapter 11 - Advanced Swing and Graphics
+* [ CoreJava 12 ] Chapter 12 - Native Methods
 
 ### Horstmann C.S. - Core Java ( 11/10 edition ). Volume 1 - ( 2019/2016 )
 
 * [ CoreJava 11/10 ] Chapter 1/1 - An Introduction to Java
-
 * [ CoreJava 11/10 ] Chapter 2/2 - The Java Programming Environment
-
-* [ CoreJava 11/10 ] Chapter 3/3 - Fundamental Programming Structures in Java **// 88**
-
-* [ CoreJava 11/10 ] Chapter 4/4 - Objects and Classes **// 82**
-
-* [ CoreJava 11/10 ] Chapter 5/5 - Inheritance **// 88**
-
-* [ CoreJava 11/10 ] Chapter 6/6 - Interfaces, Lambda Expressions, and Inner Classes **// 76**
-
+* [ CoreJava 11/10 ] Chapter 3/3 - Fundamental Programming Structures in Java
+* [ CoreJava 11/10 ] Chapter 4/4 - Objects and Classes
+* [ CoreJava 11/10 ] Chapter 5/5 - Inheritance
+* [ CoreJava 11/10 ] Chapter 6/6 - Interfaces, Lambda Expressions, and Inner Classes
 * [ CoreJava 11/10 ] Chapter 7/7 - Exceptions, Assertions, and Logging
-
 * [ CoreJava 11/10 ] Chapter 8/8 - Generic Programming
-
 * [ CoreJava 11/10 ] Chapter 9/9 - Collections
-
 * [ CoreJava 11 ] Chapter 10/10 - Graphical User Interface Programming / Graphics Programming
-
 * [ CoreJava 10 ] Chapter 11 - Event Handling
-
 * [ CoreJava 11/10 ] Chapter 11/12 - User Interface Components with Swing
-
 * [ CoreJava 11/10 ] Chapter 12/14 - Concurrency
-
 * [ CoreJava 10 ] Chapter 13 - Deploying Java Applications
 
 ### Horstmann C.S. - Core Java ( 11/10 edition ). Volume 2 ( 2019/2017 )
 
 * [ CoreJava 11/10 ] Chapter 1/1 - Streams / The Java SE 8 Stream Library
-
 * [ CoreJava 11/10 ] Chapter 2/2 - Input and Output
-
 * [ CoreJava 11/10 ] Chapter 3/3 - XML
-
 * [ CoreJava 11/10 ] Chapter 4/4 - Networking
-
 * [ CoreJava 11/10 ] Chapter 5/5 - Database Programming
-
 * [ CoreJava 11/10 ] Chapter 6/6 - The Date and Time API
-
 * [ CoreJava 11/10 ] Chapter 7/7 - Internationalization
-
 * [ CoreJava 11/10 ] Chapter 8/8 - Scripting, Compiling, and Annotation Processing
-
 * [ CoreJava 11 ] Chapter 9 - The Java Platform Module System
-
 * [ CoreJava 11/10 ] Chapter 10/9 - Security
-
 * [ CoreJava 11/10 ] Chapter 11/10 - Advanced Swing and Graphics / Advanced Swing
-
 * [ CoreJava 10 ] Chapter 11 - Advanced AWT
-
 * [ CoreJava 11/10 ] Chapter 12/12 - Native Methods
 
 ---
@@ -301,140 +254,132 @@
 ### Ottinger J.B., Lombardi A. - "Beginning Spring" ( 2019 )
 
 * Chapter 1 - History and Justification
-
 * Chapter 2 - Hello, World!
-
 * Chapter 3 - Configuration and Declaration of Beans
-
 * Chapter 4 - Lifecycle
-
 * Chapter 5 - Spring and Jakarta EE
-
 * Chapter 6 - Spring Web
-
 * Chapter 7 - Spring Boot
-
 * Chapter 8 - Spring Data Access with JdbcTemplate
-
 * Chapter 9 - Persistence with Spring and Spring Data
-
 * Chapter 10 - Spring Security
-
 * Chapter 11 - Next Steps
 
 ### Gutierrez F., Ottinger J.B. - "Introducing Spring Framework 6" ( 2022, 2th edition )
 
 * PART I - Spring Framework Basics
-
   * Chapter 1 - Your First Spring Application
-
   * Chapter 2 - Working with Classes and Dependencies
-
   * Chapter 3 - Applying Different Configurations
-
   * Chapter 4 - Using Bean Scopes
-
   * Chapter 5 - Using Resource Files
-
 * PART II - The Spring Framework
-
   * Chapter 6 - Adding Simple Persistence to Your Application
-
   * Chapter 7 - Letting Spring Build Your Data Access Objects
-
   * Chapter 8 - Showing Your Spring Application on the Web
-
 * PART III - Advanced Techniques with Spring Framework
-
   * Chapter 9 - Integrating Your Spring Application with External Systems
-
   * Chapter 10 - Exposing a REST API
-
   * Chapter 11 - Sending Emails from Within Spring
-
 * PART IV - The New Spring I/O
-
   * Chapter 12 - Using Dynamic Languages
-
   * Chapter 13 - Where Do You Go From Here?
 
 ### Greg L. Turnquist - "Learning Spring Boot 3.0" ( 2022, 3th edition )
 
 * PART I - The Basics of Spring Boot
-
   * Chapter 1 - Core Features of Spring Boot
-
 * PART II - Creating and Application with Spring Boot
-
   * Chapter 2 - Creating a Web Application with Spring Boot
-
   * Chapter 3 - Querying for Data with Spring Boot
-
   * Chapter 4 - Securing an Application with Spring Boot
-
   * Chapter 5 - Testing with Spring Boot
-
 * PART III - Releasing an Application with Spring Boot
-
   * Chapter 6 - Configuring an Application with Spring Boot
-
   * Chapter 7 - Releasing an Application with Spring Boot
-
   * Chapter 8 - Going Native with Spring Boot
-
 * PART IV - Scaling an Application with Spring Boot
-
   * Chapter 9 - Writing Reactive Web Controllers
-
   * Chapter 10 - Working with Data Reactively
 
 ### Devlin Basilan Duldulao, Seiju Relph Villafranca - "Spring Boot and Angular" ( 2022 )
 
 * PART I - Overview of Spring Boot and Angular Development
-
   * Chapter 1 - Spring Boot and Angular - The Big Picture
-
   * Chapter 2 - Setting Up the Development Environment
-
 * PART II - Backend Development
-
   * Chapter 3 - Moving into Spring Boot
-
   * Chapter 4 - Setting Up the Database and Spring Data JPA
-
   * Chapter 5 - Building APIs with Spring
-
   * Chapter 6 - Documenting APIs with the OpenAPI Specification
-
   * Chapter 7 - Adding Spring Boot Security with JWT
-
   * Chapter 8 - Logging Events in Spring Boot
-
   * Chapter 9 - Writing Tests in Spring Boot
-
 * PART III - Frontend Development
-
   * Chapter 10 - Setting Up Our Angular Project and Architecture
-
   * Chapter 11 - Building Reactive Forms
-
   * Chapter 12 - Managing States with NgRx
-
   * Chapter 13 - Saving, Deleting, and Updating with NgRx
-
   * Chapter 14 - Adding Authentication in Angular
-
   * Chapter 15 - Writing Tests in Angular
-
 * PART IV - Deployment
-
   * Chapter 16 - Packaging Backend and Frontend with Maven
-
   * Chapter 17 - Deploying Spring Boot and the Angular App
 
 ---
 
-## Kotlin Programming & Android Software Development
+## Kotlin Programming Language
+
+### Жемеров Д., Исакова С. - "Kotlin в действии" ( 2018 )
+
+* ЧАСТЬ 1 - Введение в Kotlin
+  * Глава 1 - Kotlin: что это и зачем
+  * Глава 2 - Основы Kotlin
+  * Глава 3 - Определение и вызов функций
+  * Глава 4 - Классы, объекты и интерфейсы
+  * Глава 5 - Лямбда-выражения
+  * Глава 6 - Система типов Kotlin
+* ЧАСТЬ 2 - Непростой Kotlin
+  * Глава 7 - Перегрузка операторов и другие соглашения
+  * Глава 8 - Функции высшего порядка: ляьбда-выражения как параметры и возвращаемые значения
+  * Глава 9 - Обобщенные типы
+  * Глава 10 - Аннотации и механизм рефлексии
+  * Глава 11 - Конструирование DSL
+  * Приложение A - Сборка проектов на Kotlin
+  * Приложение B - Документирование кода на Kotlin
+  * Приложение C - Экосистема Kotlin
+
+### Subramaniam V. - "Programming Kotlin" ( 2019 )
+
+* Chapter 1 - Hello Kotlin
+* PART I - Scripting with Kotlin
+* Chapter 2 - Kotlin Essentials for the Java Eyes
+* Chapter 3 - Working with Functions
+* Chapter 4 - External Iteration and Argument Matching
+* Chapter 5 - Using Collections
+* Chapter 6 - Type Safety to Save the Day
+* PART II - Object-Oriented Kotlin
+* Chapter 7 - Objects and Classes
+* Chapter 8 - Class Hierarchies and Inheritance
+* Chapter 9 - Extension Through Delegation
+* PART III - Functional Kotlin
+* Chapter 10 - Functional Programming with Lambdas
+* Chapter 11 - Internal Iteration and Lazy Evaluation
+* PART IV - Elegant and Effective Kotlin
+* Chapter 12 - Fluency in Kotlin
+* Chapter 13 - Creating Internal DSLs
+* Chapter 14 - Programming Recursion and Memoization
+* PART V - Programming Asynchronous Applications
+* Chapter 15 - Exploring Coroutines
+* Chapter 16 - Asynchronous Programming
+* PART VI - Interop and Testing
+* Chapter 17 - Intermixing Java and Kotlin
+* Chapter 18 - Unit Testing with Kotlin
+* Chapter 19 - Programming Spring Applications with Kotlin
+* Chapter 20 - Writing Android Applications with Kotlin
+* Appendix 1 - Transpiling to JavaScript
+* Appendix 2 - Kotlin/Native
+* Appendix 3 - Kotlin to WebAssembly
 
 ### JetBrains - The Kotlin Blog
 
