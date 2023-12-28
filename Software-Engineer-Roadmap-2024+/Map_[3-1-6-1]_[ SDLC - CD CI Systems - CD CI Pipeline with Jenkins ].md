@@ -1,5 +1,7 @@
 # 3.1.6.1 - SDLC - CD/CI Systems - CD/CI Pipeline with Jenkins
 
+---
+
 ## { Dingare P.P. } [ CI CD Pipeline Using Jenkins Unleashed ] ( 2022 )
 
 - Chapter 1 - Understanding CI/CD
@@ -23,6 +25,8 @@
 - Chapter 19 - Miscellaneous Topics Part 1
 - Chapter 20 - Miscellaneous Topics Part 2
 
+---
+
 ## { Ластер Б. } [ Jenkins 2. Приступаем к работе ] ( 2019 )
 
 - Глава 1 - Представляем Jenkins 2
@@ -41,3 +45,5 @@
 - Глава 14 - Интеграция контейнеров
 - Глава 15 - Другие интерфейсы
 - Глава 16 - Поиск и устранение неисправностей
+
+---
