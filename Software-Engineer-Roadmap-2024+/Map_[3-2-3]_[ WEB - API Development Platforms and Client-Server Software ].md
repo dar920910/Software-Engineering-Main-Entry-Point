@@ -223,35 +223,20 @@
 ### Lucas M. - "SSH Mastery. OpenSSH, Putty, Tunnels and Keys" ( 2018 )
 
 * Chapter 0 - Introduction
-
 * Chapter 1 - Encryption, Algorithms, and Keys
-
 * Chapter 2 - Common Configuration
-
 * Chapter 3 - The OpenSSH Server
-
 * Chapter 4 - Verifying Server Keys
-
 * Chapter 5 - SSH Clients
-
 * Chapter 6 - Copying Files over SSH
-
 * Chapter 7 - SSH Keys
-
 * Chapter 8 - X Forwarding
-
 * Chapter 9 - Port Forwarding
-
 * Chapter 10 - Keeping SSH Connections Open
-
 * Chapter 11 - Key Distribution
-
 * Chapter 12 - Automation
-
 * Chapter 13 - Virtual Private Networks
-
 * Chapter 14 - Certificate Authorities
-
 * Chapter 15 - OpenSSH Scraps
 
 ---
@@ -301,77 +286,45 @@
 ### Soni R. - "Nginx From Beginner to Pro" ( 2016 )
 
 * Chapter 1 - Introduction to Nginx Web Server
-
 * Chapter 2 - Installing Nginx
-
 * Chapter 3 - Nginx Core Directives
-
 * Chapter 4 - Nginx Modules
-
 * Chapter 5 - Nginx Core Architecture
-
 * Chapter 6 - Hosting Web Sites on Nginx
-
 * Chapter 7 - Nginx and Dynamic Content
-
 * Chapter 8 - Load Balancing with Nginx
-
 * Chapter 9 - Log Analysis, Monitoring and Automation
-
 * Chapter 10 - SSL, Security and Authentication
-
 * Chapter 11 - Upgrading and Migrating
-
 * Chapter 12 - Troubleshooting Tips and FAQ
 
 ### Kholodkov V. - "Nginx Essentials" ( 2015 )
 
 * Chapter 1 - Getting Started with Nginx
-
 * Chapter 2 - Managing Nginx
-
 * Chapter 3 - Proxying and Caching
-
 * Chapter 4 - Rewrite Engine and Access Control
-
 * Chapter 5 - Managing Inbound and Outbound Traffic
-
 * Chapter 6 - Performance Tuning
 
 ### DeJonghe D. - "NGINX Cookbook" ( 2021 )
 
 * Chapter 1 - Basics
-
 * Chapter 2 - High Performance Load Balancing
-
 * Chapter 3 - Traffic Management
-
 * Chapter 4 - Massively Scalable Content Caching
-
 * Chapter 5 - Programmability and Automation
-
 * Chapter 6 - Authentication
-
 * Chapter 7 - Security Controls
-
 * Chapter 8 - HTTP/2
-
 * Chapter 9 - Sophisticated Media Streaming
-
 * Chapter 10 - Cloud Deployments
-
 * Chapter 11 - Containers/Microservices
-
 * Chapter 12 - High-Availability Deployment Modes
-
 * Chapter 13 - Advanced Activity Monitoring
-
 * Chapter 14 - Debugging and Troubleshooting with Access Logs, Error Logs, and Request Tracing
-
 * Chapter 15 - Performance Tuning
-
 * Chapter 16 - Introduction to NGINX Controller
-
 * Chapter 17 - Practical Ops Tips and Conclusion
 
 ### NGINX Blog - Полезные статьи для чтения
