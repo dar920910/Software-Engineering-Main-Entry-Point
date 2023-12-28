@@ -1041,6 +1041,46 @@
 * Chapter 5 - Pushing the Envelope
 * Chapter 6 - The GNU Make Standard Library
 
+### Mecklenburg R. - "Managing Projects with GNU Make"
+
+* PART I - Basic Concepts
+  * Chapter 1 - How to Write a Simple MAkefile
+  * Chapter 2 - Rules
+  * Chapter 3 - Variables and Macros
+  * Chapter 4 - Functions
+  * Chapter 5 - Commands
+* PART II - Advanced and Specialized Topics
+  * Chapter 6 - Managing Large Projects
+  * Chapter 7 - Portable Makefiles
+  * Chapter 8 - C and C++
+  * Chapter 9 - Java
+  * Chapter 10 - Improving the Performance of make
+  * Chapter 11 - Example Makefiles
+  * Chapter 12 - Debugging Makefiles
+* PART III - Appendixes
+  * Appendix A - Running make
+  * Appendix B - The Outer Limits
+  * Appendix C - GNU Free Documentation License - GNU Project - Free Software Foundation (FSF)
+
+### Swidzinski R. - "Modern CMake for C++" ( 2022 )
+
+* Section 1 - Introducing CMake
+  * Chapter 1 - First Steps with CMake
+  * Chapter 2 - The CMake Language
+  * Chapter 3 - Setting Up Your First CMake Project
+* Section 2 - Building with CMake
+  * Chapter 4 - Working with Targets
+  * Chapter 5 - Compiling C++ Sources with CMake
+  * Chapter 6 - Linking with CMake
+  * Chapter 7 - Managing Dependencies with CMake
+* Section 3 - Automating with CMake
+  * Chapter 8 - Testing Frameworks
+  * Chapter 9 - Program Analysis Tools
+  * Chapter 10 - Generating Documentation
+  * Chapter 11 - Installing and Packaging
+  * Chapter 12 - Creating Your Professional Project
+  * Appendix - Miscalleneous Commands
+
 ### Scott C. - "Professional CMake" ( 2018 )
 
 * PART I - FUNDAMENTALS
