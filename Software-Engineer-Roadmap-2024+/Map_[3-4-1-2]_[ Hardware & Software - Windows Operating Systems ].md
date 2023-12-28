@@ -7,67 +7,38 @@
 ### Dauti B. - "Windows Server 2019 Administration Fundamentals" ( 2019 )
 
 * SECTION 1 - Introducing Windows Server and Installing Windows Server 2019
-
   * Chapter 1 - Getting started with Windows Server
-
   * Chapter 2 - Introducing Windows Server 2019
-
   * Chapter 3 - Installing Windows Server 2019
-
   * Chapter 4 - Post-Installation Tasks in Windows Server 2019
-
 * SECTION 2 - Setting Up Windows Server 2019
-
   * Chapter 5 - Directory Services in Windows Server 2019
-
   * Chapter 6 - Adding Roles to Windows Server 2019
-
 * SECTION 3 - Configuring Windows Server 2019
-
   * Chapter 7 - Group Policy in Windows Server 2019
-
   * Chapter 8 - Virtualization with Windows Server 2019
-
   * Chapter 9 - Storing Data in Windows Server 2019
-
 * SECTION 4 - Keeping Windows Server 2019 Up and Running
-
   * Chapter 10 - Tuning and Maintaining Windows Server 2019
-
   * Chapter 11 - Updating and Troubleshooting Windows Server 2019
 
 ### Henderson M., Krause J. - "Windows Server 2019 Cookbook" ( 2020 )
 
 * Chapter 1 - Learning the Interface
-
 * Chapter 2 - Core Infrastructure Tasks
-
 * Chapter 3 - Networking
-
 * Chapter 4 - Working with Certificates
-
 * Chapter 5 - Internet Information Services
-
 * Chapter 6 - Remote Access
-
 * Chapter 7 - Remote Desktop Services
-
 * Chapter 8 - Monitoring and Backup
-
 * Chapter 9 - System Insights
-
 * Chapter 10 - Group Policy
-
 * Chapter 11 - File Services and Data Control
-
 * Chapter 12 - Server Core
-
 * Chapter 13 - Working with Hyper-V
-
 * Chapter 14 - Containers and Docker
-
 * Chapter 15 - Desired State Configuration and Automation
-
 * Chapter 16 - Hardening Your Infrastructure
 
 ---
@@ -150,27 +121,20 @@
 
 ### Leeks S. - "Windows Subsystem for Linux 2" ( 2020 )
 
-* Chapter 1 - Introduction to Windows Subsystem for Linux
-
-* Chapter 2 - Installing and Configuring the Windows Subsystem for Linux
-
-* Chapter 3 - Getting Started with Windows Terminal
-
-* Chapter 4 - Windows to Linux Interoperability
-
-* Chapter 5 - Linux to Windows Interoperability
-
-* Chapter 6 - Getting More from Windows Terminal
-
-* Chapter 7 - Working with Container in WSL
-
-* Chapter 8 - Working with WSL Distros
-
-* Chapter 9 - Visual Studio Code and WSL
-
-* Chapter 10 - Visual Studio Code and Containers
-
-* Chapter 11 - Productivity Tips with Command-Line Tools
+* Section 1 - Introduction, Installation, and Configuration
+  * Chapter 1 - Introduction to Windows Subsystem for Linux
+  * Chapter 2 - Installing and Configuring the Windows Subsystem for Linux
+  * Chapter 3 - Getting Started with Windows Terminal
+* Section 2 - Windows and Linux - A Winning Combination
+  * Chapter 4 - Windows to Linux Interoperability
+  * Chapter 5 - Linux to Windows Interoperability
+  * Chapter 6 - Getting More from Windows Terminal
+  * Chapter 7 - Working with Container in WSL
+  * Chapter 8 - Working with WSL Distros
+* Section 3 - Developing with the Windows Subsystem for Linux
+  * Chapter 9 - Visual Studio Code and WSL
+  * Chapter 10 - Visual Studio Code and Containers
+  * Chapter 11 - Productivity Tips with Command-Line Tools
 
 ### Официальные анонсы Windows Terminal
 
@@ -295,53 +259,29 @@
 ### Попов А. - "Современный PowerShell" ( 2022 )
 
 * ЧАСТЬ I - ЗНАКОМИМСЯ с POWERSHELL
-
   * Глава 1 - Командная строка и автоматизация работы
-
   * Глава 2 - Терминал, консоль и командная оболочка
-
   * Глава 3 - Первые шаги в PowerShell. Основные понятия
-
   * Глава 4 - Работа в оболочке PowerShell
-
   * Глава 5 - Работа с объектами
-
   * Глава 6 - Управление выводом команд
-
 * ЧАСТЬ II - POWERSHELL как ЯЗЫК ПРОГРАММИРОВАНИЯ
-
   * Глава 7 - Переменные, массивы и хэш-таблицы
-
   * Глава 8 - Операторы и управляющие инструкции
-
   * Глава 9 - Функции, фильтры, сценарии и модули
-
   * Глава 10 - Обработка ошибок при выполнении команд
-
 * ЧАСТЬ III - АВТОМАТИЗИРУЕМ РУТИНУ
-
   * Глава 11 - Работа с файловой системой и оболочкой Windows
-
   * Глава 12 - Обработка структурированных данных
-
   * Глава 13 - Управление процессами, службами и серверами автоматизации
-
   * Глава 14 - HTTP-запросы к веб-ресурсам
-
 * ЧАСТЬ IV - ПИШЕМ СЦЕНАРИИ
-
   * Глава 15 - Разработка сценариев PowerShell
-
   * Глава 16 - Отладка функций и сценариев
-
   * Глава 17 - Графический интерфейс для сценариев
-
 * ПРИЛОЖЕНИЯ
-
   * Приложение 1 - Что значат эти символы
-
   * Приложение 2 - PowerShell в macOS и Linux
-
   * Приложение 3 - Дополнительная настройка командной строки
 
 ### ОФИЦИАЛЬНЫЕ АНОНСЫ POWERSHELL
