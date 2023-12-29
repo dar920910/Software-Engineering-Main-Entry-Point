@@ -7,53 +7,29 @@
 ### Troelsen A., Japikse P. - "Pro C# 10 with .NET 6" ( 2022 )
 
 * PART 1 - Introducing C# and .NET 6
-
   * Chapter 1 - Introducing C# and .NET 6
-
   * Chapter 2 - Building C# Applications
-
 * PART 2 - Core C# Programming
-
   * Chapter 3 - Core C# Programming Constructs, Part 1 **// 68**
-
   * Chapter 4 - Core C# Programming Constructs, Part 2 **// 62**
-
 * PART 3 - Object-Oriented Programming with C#
-
   * Chapter 5 - Understanding Encapsulation **// 62**
-
   * Chapter 6 - Understanding Inheritance and Polymorphism **// 44**
-
   * Chapter 7 - Understanding Structured Exception Handling **// 26**
-
   * Chapter 8 - Working with Interfaces **// 42**
-
   * Chapter 9 - Understanding Object Lifetime **// 28**
-
 * PART 4 - Advanced C# Programming
-
   * Chapter 10 - Collections and Generics **// 42**
-
   * Chapter 11 - Advanced C# Language Features **// 40**
-
   * Chapter 12 - Delegates, Events, and Lambda Expressions **// 42**
-
   * Chapter 13 - LINQ to Objects **// 42**
-
   * Chapter 14 - Processes, AppDomains, and Load Contexts **// 20**
-
   * Chapter 15 - Multithreaded, Parallel, and Async Programming **// 52**
-
 * PART 5 - Programming with .NET Core Assemblies
-
   * Chapter 16 - Building and Configuring Class Libraries **// 36**
-
   * Chapter 17 - Type Reflection, Late Binding, Attribute, and Dynamic Types **// 52**
-
   * Chapter 18 - Understanding CIL and the Role of Dynamic Assemblies **// 36**
-
 * PART 6 - File Handling, Object Serialization, and Data Access
-
   * Chapter 19 - File I/O and Object Serialization **// 46**
 
 ---
@@ -61,27 +37,16 @@
 ## ВСЕ ИЗДАНИЯ КНИГИ "PRO C#"
 
 * **Pro C# 10 with .NET 6: Foundational Principles and Practices in Programming (2022)**
-
 * **Pro C# 9 with .NET 5: Foundational Principles and Practices in Programming (2021)**
-
 * **Pro C# 8 with .NET Core 3: Foundational Principles and Practices in Programming (2020)*
-
 * **Pro C# 7: With .NET and .NET Core (2017)**
-
 * C# 6.0 and the .NET 4.6 Framework (2015)
-
 * Pro C# 5.0 and the .NET 4.5 Framework (2012)
-
 * Pro C# 2010 and the .NET 4 Platform (2009)
-
 * **Pro C# 2008 and the .NET 3.5 Platform (2007)**
-
 * Pro C# with .NET 3.0, Special Edition (2007, February)
-
 * Pro C# with .NET 3.0 (2007, January)
-
 * Pro C# 2005 and the .NET 2.0 Platform (2005)
-
 * **C# and the .Net Platform (2001)**
 
 ---
@@ -89,6 +54,14 @@
 ## .NET - Development Environment with Visual Studio 2022
 
 ### .NET - Visual Studio 2022
+
+#### Strauss D. - "Getting Started with Visual Studio 2022" ( 2023 )
+
+* Chapter 1 - Getting to Know Visual Studio 2022
+* Chapter 2 - Working with Visual Studio 2022
+* Chapter 3 - Debugging Your Code
+* Chapter 4 - Unit Testing
+* Chapter 5 - Source Control
 
 #### НОВОСТИ VISUAL STUDIO
 
@@ -648,114 +621,124 @@
 
 ## .NET - EF Core & Entity Framework & ADO.NET
 
-### Troelsen A., Japikse P. - "Pro C# 10 with .NET 6" ( 2022 )
+### Troelsen A., Japikse P. - "Pro C# 10 with .NET 6  (EF/EF Core)" ( 2022 )
 
 * PART 6 - File Handling, Object Serialization, and Data Access
-
   * Chapter 20 - Data Access with ADO .NET **// 62 // + TODO !!!**
-
 * PART 7 - Entity Framework Core
-
   * Chapter 21 - Introducing Entity Framework Core **// 60**
-
   * Chapter 22 - Exploring Entity Framework Core **// 70**
-
   * Chapter 23 - Build a Data Access Layer with Entity Framework Core **// 60**
-
   * Chapter 24 - Test-Driving AutoLot **// 46**
 
 ### Troelsen A., Japikse P. - "Pro C# 7 with .NET and .NET Core" ( 2017 )
 
 * PART 6 - Introducing the .NET Base Class Libraries
-
   * Chapter 21 - Data Access with ADO .NET **// 54 // + TODO !!!**
-
   * Chapter 22 - Introducing Entity Framework 6 **// 50**
 
 * APPENDIX (ONLINE PARTS)
-
   * APPENDIX A - ADO .NET : Data Sets, Data Tables, and Data Adapters **// 66**
-
   * APPENDIX B - Introducing LINQ to XML **// 19**
 
 ---
 
 ## .NET - ASP.NET Core Web Development
 
-### Troelsen A., Japikse P. - "Pro C# 10 with .NET 6" ( 2022 )
+### Troelsen A., Japikse P. - "Pro C# 10 with .NET 6 (ASP.NET Core)" ( 2022 )
 
-* PART 9 - ASP .NET Core
-
+* PART 9 - ASP.NET Core
   * Chapter 30 - Introducing ASP .NET Core **// 42**
-
   * Chapter 31 - Diving Into ASP .NET Core **// 52**
-
   * Chapter 32 - RESTful Services with ASP .NET Core **// 60**
-
   * Chapter 33 - Web Applications with MVC **// 92**
-
   * Chapter 34 - Web Applications using Razor Pages **// 52**
 
----
+### Freeman A. - "Pro ASP.NET Core 7" ( 2023, 10th edition )
 
-## ASP.NET Core Full-Stack Web Development
+* Chapter 01 - Putting ASP.NET Core in context
+* PART I
+  * Chapter 02 - Getting started
+  * Chapter 03 - Your first ASP.NET Core application
+  * Chapter 04 - Using the development tools
+  * Chapter 05 - Essentials C# features
+  * Chapter 06 - Testing ASP.NET Core applications
+  * Chapter 07 - SportsStore: A real application
+  * Chapter 08 - SportsStore: Navigation and cart
+  * Chapter 09 - SportsStore: Completing the cart
+  * Chapter 10 - SportsStore: Administration
+  * Chapter 11 - SportsStore: Security and deployment
+* PART II
+  * Chapter 12 - Understanding the ASP.NET Core platform
+  * Chapter 13 - Using URL routing
+  * Chapter 14 - Using dependency injection
+  * Chapter 15 - Using the platform features, part 1
+  * Chapter 16 - Using the platform features, part 2
+  * Chapter 17 - Working with data
+* PART III
+  * Chapter 18 - Creating the example project
+  * Chapter 19 - Creating RESTful web services
+  * Chapter 20 - Advanced web service features
+  * Chapter 21 - Using controllers with views, part 1
+  * Chapter 22 - Using controllers with views, part 2
+  * Chapter 23 - Using Razor Pages
+  * Chapter 24 - Using view components
+  * Chapter 25 - Using tag helpers
+  * Chapter 26 - Using the built-in tag helpers
+  * Chapter 27 - Using the forms tag helpers
+  * Chapter 28 - Using model binding
+  * Chapter 29 - Using model validation
+  * Chapter 30 - Using filters
+  * Chapter 31 - Creating form applications
+* PART IV
+  * Chapter 32 - Creating the example project
+  * Chapter 33 - Using Blazor Server, part 1
+  * Chapter 34 - Using Blazor Server, part 2
+  * Chapter 35 - Advanced Blazor features
+  * Chapter 36 - Blazor forms and data
+  * Chapter 37 - Using Blazor WebAssembly
+  * Chapter 38 - Using ASP.NET Core Identity
+  * Chapter 39 - Applying ASP.NET Core Identity
 
-### .NET - ASP.NET Core + Angular
+### De Sanctis V. - "ASP.NET Core 6 and Angular" ( 2022, 5th edition )
 
-#### De Sanctis V. - "ASP.NET Core 3 and Angular 9" ( 2020, 3th edition )
-
-* Chapter 1 - Getting Ready
-
-* Chapter 2 - Looking Around
-
-* Chapter 3 - Front-end and Back-end Interactions
-
-* Chapter 4 - Data Model with Entity Framework Core
-
-* Chapter 5 - Fetching and Displaying Data
-
-* Chapter 6 - Forms and Data Validation
-
-* Chapter 7 - Code Tweaks and Data Services
-
-* Chapter 8 - Back-end and Front-end Debugging
-
-* Chapter 9 - ASP.NET Core and Angular Unit Testing
-
-* Chapter 10 - Authentication and Authorization
-
-* Chapter 11 - Progressive Web Apps
-
-* Chapter 12 - Windows and Linux Deployment
+* Chapter 1 - Introducing ASP.NET Core and Angular
+* Chapter 2 - Getting Ready
+* Chapter 3 - Looking Around
+* Chapter 4 - Front-End and Back-End Interactions
+* Chapter 5 - Data Model with Entity Framework Core
+* Chapter 6 - Fetching and Displaying Data
+* Chapter 7 - Forms and Data Validation
+* Chapter 8 - Code Tweaks and Data Services
+* Chapter 9 - Back-End and Front-End Debugging
+* Chapter 10 - ASP.NET Core and Angular Unit Testing
+* Chapter 11 - Authentication and Authorization
+* Chapter 12 - Progressive Web Apps
+* Chapter 13 - Beyound REST - Web API with GraphQL
+* Chapter 14 - Real-Time Updates with SignalR
+* Chapter 15 - Windows, Linux, and Azure Deployment
 
 ---
 
 ## .NET Framework - ASP.NET Web Development
 
-### Troelsen A., Japikse P. - "Pro C# 7 with .NET and .NET Core" ( 2017 )
+### Troelsen A., Japikse P. - "Pro C# 7 with .NET and .NET Core (ASP.NET)" ( 2017 )
 
-* PART 8 - ASP .NET
-
-  * Chapter 29 - Introducing ASP .NET MVC **// 44**
-
-  * Chapter 30 - Introducing ASP .NET Web API **// 21**
-
+* PART 8 - ASP.NET
+  * Chapter 29 - Introducing ASP.NET MVC **// 44**
+  * Chapter 30 - Introducing ASP.NET Web API **// 21**
 * APPENDIX (ONLINE PARTS)
-
-  * APPENDIX C - Introducing ASP .NET Forms **// 50**
-
+  * APPENDIX C - Introducing ASP.NET Forms **// 50**
   * APPENDIX D - ASP .NET Web Controls, Master Pages, and Themes **// 55**
-
   * APPENDIX E - ASP .NET State Management Techniques **// 33**
 
 ---
 
 ## .NET Framework - Windows Communication Foundation
 
-### Troelsen A., Japikse P. - "Pro C# 7 with .NET and .NET Core" ( 2017 )
+### Troelsen A., Japikse P. - "Pro C# 7 with .NET and .NET Core (WCF)" ( 2017 )
 
 * PART 6 - Introducing the .NET Base Class Libraries
-
   * Chapter 23 - Introducing Windows Communication Foundation **// 56**
 
 ---
@@ -1472,31 +1455,64 @@
 
 ---
 
-## .NET - WPF & Multiplatform Development
+## .NET - Windows Desktop Development
 
-### .NET - Windows Client Development with WPF
-
-### WPF - Troelsen A., Japikse P. - "Pro C# 10 with .NET 6" ( 2022 )
+### WPF - Troelsen A., Japikse P. - "Pro C# 10 with .NET 6 ( PART 8)" ( 2022 )
 
 * PART 8 - Windows Client Development
-
   * Chapter 25 - Introducing Windows Presentation Foundation and XAML **// 38**
-
   * Chapter 26 - WPF Controls, Layouts, Events, and Data Binding **// 60 // + TODO !!!**
-
   * Chapter 27 - WPF Graphics Rendering Services **// 36**
-
   * Chapter 28 - WPF Resources, Animations, Styles, and Templates **// 40**
-
   * Chapter 29 - WPF Notifications, Validations, Commands, and MVVM **// 37**
 
-### .NET - Multiplatform Applications Development
+### Ashcraft A. - "Learn WinUI 3.0" ( 2021 )
 
-#### .NET - Multiplatform Apps Development with MAUI
+* SECTION 1 - Introduction to WinUI and Windows Applications
+  * Chapter 1 - Introduction to WinUI
+  * Chapter 2 - Configuring the Development Environment and Creating the Project
+  * Chapter 3 - MVVM for Maintainability and Testability
+  * Chapter 4 - Advanced MVVM Concepts
+  * Chapter 5 - Exploring WinUI Controls
+  * Chapter 6 - Leveraging Data and Services
+* SECTION 2 - Extending WinUI and Modernizing Applications
+  * Chapter 7 - Fluent Design System for Windows Applications
+  * Chapter 8 - Building WinUI Apps with .NET 5
+  * Chapter 9 - Enhancing Applications with the Windows Community Toolkit
+  * Chapter 10 - Modernizing Existing Win32 Applications with XAML Islands
+* SECTION 3 - Build and Deploy on Windows and Beyoud
+  * Chapter 11 - Debugging WinUI Applications with Visual Studio
+  * Chapter 12 - Hosting an ASP.NET Core Blazor Application in WinUI
+  * Chapter 13 - Building, Releasing, and Monitoring Applications with Visual Studio App Center
+  * Chapter 14 - Packaging and Deploying WinUI Applications
+
+---
+
+## .NET MAUI - Multiplatform Applications Development
+
+### Ye R. - ".NET MAUI Cross-Platform Application Development" ( 2023 )
+
+* PART 1 - Exploring .NET MAUI
+  * Chapter 1 - Getting Started with .NET MAUI
+  * Chapter 2 - Building Our First .NET MAUI App
+  * Chapter 3 - User Interface Design with XAML
+  * Chapter 4 - Exploring MVVM and Data Binding
+  * Chapter 5 - Navigation using .NET MAUI Shell and NavigationPage
+  * Chapter 6 - Introducing Dependency Injection and Platform-Specific Services
+* PART 2 - Implementing .NET MAUI Blazor
+  * Chapter 7 - Introducing Blazor Hybrid App Development
+  * Chapter 8 - Understanding the Blazor Layout and Routing
+  * Chapter 9 - Implementing Blazor Components
+  * Chapter 10 - Advanced Topics in Creating Razor Components
+* PART 3 - Testing and Deployment
+  * Chapter 11 - Development Unit Tests
+  * Chapter 12 - Deploying and Publishing in App Stores
+
+### MAUI - Microsoft Learn
 
 * **.NET MAUI - [.NET Multi-platform App UI documentation - .NET MAUI | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/maui/)**
 
-* MAUI - OVERVIEW
+#### MAUI - OVERVIEW
 
 * [What is .NET MAUI? - .NET MAUI | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui)
 
@@ -1504,7 +1520,7 @@
 
 * [Install Visual Studio 2022 to develop cross-platform apps using .NET MAUI - .NET MAUI | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/maui/get-started/installation?tabs=vswin)
 
-* MAUI - TUTORIALS
+#### MAUI - TUTORIALS
 
 * [Build your first .NET MAUI app - .NET MAUI | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/maui/get-started/first-app?pivots=devices-windows&tabs=vswin) - Windows
 
@@ -1512,7 +1528,49 @@
 
 * [Tutorial: Create a .NET MAUI app - .NET MAUI | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/maui/tutorials/notes-app/)
 
-#### .NET - Multiplatform Apps with Avalonia UI
+---
+
+## .NET Multiplatform Application Development (Desktop/Mobile/Web/etc)
+
+### .NET Multiplatform Apps with Uno Platform
+
+* **[Uno Platform documentation](https://platform.uno/docs/articles/intro.html)**
+
+#### Uno Platform - Overview
+
+* [Uno Platform documentation](https://platform.uno/docs/articles/intro.html)
+
+#### Uno Platform - Get Started
+
+* [Select your development environment (platform.uno)](https://platform.uno/docs/articles/get-started.html?tabs=windows)
+
+* [Get Started on Visual Studio 2022 (platform.uno)](https://platform.uno/docs/articles/get-started-vs-2022.html)
+
+* [Get Started on VS Code (platform.uno)](https://platform.uno/docs/articles/get-started-vscode.html?tabs=windows%2Cnet7)
+
+* [dotnet new templates for Uno Platform](https://platform.uno/docs/articles/get-started-dotnet-new.html?tabs=net7%2Cwindows)
+
+* [Setup your environment with uno check (platform.uno)](https://platform.uno/docs/articles/external/uno.check/doc/using-uno-check.html)
+
+* Uno Platform - Fundamentals > Overview
+
+* [About the Uno Platform](https://platform.uno/docs/articles/what-is-uno.html)
+
+* [Supported platforms](https://platform.uno/docs/articles/getting-started/requirements.html)
+
+* [.NET version support (platform.uno)](https://platform.uno/docs/articles/net-version-support.html)
+
+* [Philosophy of Uno Platform](https://platform.uno/docs/articles/concepts/overview/philosophy-of-uno.html)
+
+* [How Uno Platform works](https://platform.uno/docs/articles/how-uno-works.html)
+
+#### Uno Platform - Fundamentals > Learn > Tutorials
+
+* Create Your First App - Tutorial 1 - [Create a Single Page App with Uno Platform](https://platform.uno/docs/articles/getting-started-tutorial-1.html)
+
+* Create Your First App - Tutorial 2 - [Create a Single Page App with Uno Platform](https://platform.uno/docs/articles/getting-started-tutorial-2.html)
+
+### .NET Multiplatform Apps with Avalonia UI
 
 * **[Welcome to Avalonia UI | Avalonia UI](https://docs.avaloniaui.net/)**
 
@@ -1554,49 +1612,11 @@
 
 * [Android | Avalonia UI](https://docs.avaloniaui.net/docs/tutorials/developing-for-mobile/android/)
 
-#### .NET - Multiplatform Apps with Uno Platform
-
-* **[Uno Platform documentation](https://platform.uno/docs/articles/intro.html)**
-
-* Uno Platform - Overview
-
-* [Uno Platform documentation](https://platform.uno/docs/articles/intro.html)
-
-* Uno Platform - Get Started
-
-* [Select your development environment (platform.uno)](https://platform.uno/docs/articles/get-started.html?tabs=windows)
-
-* [Get Started on Visual Studio 2022 (platform.uno)](https://platform.uno/docs/articles/get-started-vs-2022.html)
-
-* [Get Started on VS Code (platform.uno)](https://platform.uno/docs/articles/get-started-vscode.html?tabs=windows%2Cnet7)
-
-* [dotnet new templates for Uno Platform](https://platform.uno/docs/articles/get-started-dotnet-new.html?tabs=net7%2Cwindows)
-
-* [Setup your environment with uno check (platform.uno)](https://platform.uno/docs/articles/external/uno.check/doc/using-uno-check.html)
-
-* Uno Platform - Fundamentals > Overview
-
-* [About the Uno Platform](https://platform.uno/docs/articles/what-is-uno.html)
-
-* [Supported platforms](https://platform.uno/docs/articles/getting-started/requirements.html)
-
-* [.NET version support (platform.uno)](https://platform.uno/docs/articles/net-version-support.html)
-
-* [Philosophy of Uno Platform](https://platform.uno/docs/articles/concepts/overview/philosophy-of-uno.html)
-
-* [How Uno Platform works](https://platform.uno/docs/articles/how-uno-works.html)
-
-* Uno Platform - Fundamentals > Learn > Tutorials
-
-* Create Your First App - Tutorial 1 - [Create a Single Page App with Uno Platform](https://platform.uno/docs/articles/getting-started-tutorial-1.html)
-
-* Create Your First App - Tutorial 2 - [Create a Single Page App with Uno Platform](https://platform.uno/docs/articles/getting-started-tutorial-2.html)
-
-#### .NET - Hybrid and Progressive Web Apps
+### .NET Hybrid and Progressive Web Application Development
 
 * **Blazor Hybrid Apps - [ASP.NET Core Blazor Hybrid | Microsoft Learn](https://learn.microsoft.com/en-us/aspnet/core/blazor/hybrid/?view=aspnetcore-7.0)**
 
-* Blazor - Overview
+#### Blazor - Overview
 
 * [ASP.NET Core Blazor | Microsoft Learn](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-7.0)
 
@@ -1606,7 +1626,7 @@
 
 * [ASP.NET Core Blazor project structure | Microsoft Learn](https://learn.microsoft.com/en-us/aspnet/core/blazor/project-structure?view=aspnetcore-7.0)
 
-* Blazor - Tutorials
+#### Blazor - Tutorials
 
 * [Blazor Tutorial | Build your first app (microsoft.com)](https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/intro)
 
@@ -1622,17 +1642,17 @@
 
 * **PWAs - [Overview of Progressive Web Apps (PWAs) - Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/)**
 
-* PWAs - Overview
+#### PWAs - Overview
 
 * [Overview of Progressive Web Apps (PWAs) - Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/)
 
-* PWAs - Get Started
+#### PWAs - Get Started
 
 * [Get started with Progressive Web Apps - Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/how-to/)
 
 * **WebView2 - [Introduction to Microsoft Edge WebView2 - Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/webview2/)**
 
-* WebView2 - Overview
+#### WebView2 - Overview
 
 * [Introduction to Microsoft Edge WebView2 - Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/webview2/)
 
@@ -1640,7 +1660,7 @@
 
 * [WebView2 end-user FAQ - Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/webview2/concepts/end-user-faq)
 
-* WebView2 - Getting Started
+#### WebView2 - Getting Started
 
 * [Getting Started tutorials - Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/webview2/get-started/get-started)
 
