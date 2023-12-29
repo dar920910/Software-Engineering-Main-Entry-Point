@@ -21,8 +21,8 @@
 ## PROGRAMMING LANGUAGES
 
 * [[2-1] Assembly/C/C++ Programming Languages and Professional Software Development](Map_[2-1]_[%20ASM_C%20_CPP%20Programming%20Languages%20and%20Professional%20Software%20Development%20].md)
+* [[2-2-1-1] Java Programming Language and JVM Software Development](Map_[2-2-1-1]_[%20Java%20Programming%20Language%20and%20JVM%20Software%20Development%20].md)
 * [[2-2-1] C# Programming Language and .NET Software Development](Map_[2-2-1]_[%20CSharp%20Programming%20Language%20and%20dotNET%20Software%20Development%20].md)
-* [[2-2-2] Java Programming Language and JVM Software Development](Map_[2-2-2]_[%20Java%20Programming%20Language%20and%20JVM%20Software%20Development%20].md)
 * [[2-3] ES+JS+TS Programming and Full-Stack Web Development](Map_[2-3]_[%20ES+JS+TS%20Programming%20and%20Full-Stack%20Web%20Development%20].md)
 * [[2-3] Common-Purpose Interpreters ( Python + PHP + Perl + Ruby + Lua )](Map_[2-3]_[%20Common-Purpose%20Interpreters%20(%20Python%20+%20PHP%20+%20Perl%20+%20Ruby%20+%20Lua%20)%20].md)
 
@@ -32,9 +32,9 @@
 * [[3-1-1-2] SDLC - Code Editing - Professional Code Editors ( VS Code )](Map_[3-1-1-2]_[%20SDLC%20-%20Code%20Editing%20-%20Professional%20Code%20Editors%20(%20VS%20Code%20)%20].md)
 * [[3-1-3] SDLC - Version Control Systems - Git and GitHub](Map_[3-1-3]_[%20SDLC%20-%20Version%20Control%20Systems%20-%20Git%20and%20GitHub%20].md)
 * [[3-1-4] SDLC - Software Deployment - Container Virtualization & Orchestration](Map_[3-1-4]_[%20SDLC%20-%20Software%20Deployment%20-%20Container%20Virtualization%20&%20Orchestration%20].md)
-* [[3-1-5-1] SDLC - Software Testing - Test Automation Frameworks and Tools](Map_[3-1-5-1]%20[%20SDLC%20-%20Software%20Testing%20-%20Test%20Automation%20Frameworks%20and%20Tools%20].md)
-* [[3-1-5-2] SDLC - Software Testing - Penetration Testing with KALI Linux](Map_[3-1-5-2]_[%20SDLC%20-%20Software%20Testing%20-%20Penetration%20Testing%20with%20KALI%20Linux%20].md)
-* [[3-1-6-1] SDLC - CD CI Systems - CD CI Pipeline with Jenkins](Map_[3-1-6-1]_[%20SDLC%20-%20CD%20CI%20Systems%20-%20CD%20CI%20Pipeline%20with%20Jenkins%20].md)
+* [[3-1-5] SDLC - CD CI Systems - CD CI Pipeline with Jenkins](Map_[3-1-5]_[%20SDLC%20-%20CD%20CI%20Systems%20-%20CD%20CI%20Pipeline%20with%20Jenkins%20].md)
+* [[3-1-6] SDLC - DevOps Tools - Infrastructure as Code]
+* [[3-1-7] SDLC - Software Security - Cybersecurity and Hacking Tools](./Map_[3-1-7]_[%20SDLC%20-%20Software%20Security%20-%20Cybersecurity%20and%20Hacking%20Tools%20].md)
 * [[3-2-1] WEB - W3C World Wide Web Standards ( HTML + CSS + JS )](Map_[3-2-1]_[%20WEB%20-%20W3C%20World%20Wide%20Web%20Standards%20(%20HTML%20+%20CSS%20+%20JS%20)%20].md)
 * [[3-2-2] WEB - Web API Design + IPC Technologies + OAS & Swagger](Map_[3-2-2]_[%20WEB%20-%20Web%20API%20Design%20+%20IPC%20Technologies%20+%20OAS%20&%20Swagger%20].md)
 * [[3-2-3] WEB - API Development Platforms and Client-Server Software](Map_[3-2-3]_[%20WEB%20-%20API%20Development%20Platforms%20and%20Client-Server%20Software%20].md)

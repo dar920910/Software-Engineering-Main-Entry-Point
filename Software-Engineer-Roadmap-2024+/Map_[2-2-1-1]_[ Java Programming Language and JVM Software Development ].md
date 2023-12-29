@@ -163,13 +163,30 @@
 
 ---
 
-## IntelliJ IDEA Releases
+## Java - Development Environment with IntelliJ IDEA
+
+### Hagos T. - "Beginning IntelliJ IDEA" ( 2022 )
+
+* Chapter 1 - Getting Started
+* Chapter 2 - Creating and Running a Project
+* Chapter 3 - Project Files
+* Chapter 4 - IDE Tools
+* Chapter 5 - Code Navigation and Generation
+* Chapter 6 - Inspections and Intentions
+* Chapter 7 - Refactoring
+* Chapter 8 - Live Templates
+* Chapter 9 - Debugging
+* Chapter 10 - Source Control
+* Chapter 11 - Testing
+* Chapter 12 - JavaFX
+
+### IntelliJ IDEA Releases
 
 * [Ready For an Update? The 2023.3 Versions of JetBrains Coding Tools Are Out! | The JetBrains Blog (jetbrains.com)](https://blog.jetbrains.com/blog/2023/12/08/ready-for-an-update-the-2023-3-versions-of-jetbrains-coding-tools-are-out/)
 
 * [IntelliJ IDEA 2023.3 Is Out! | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/12/intellij-idea-2023-3/)
 
-## Java - Development Environment with IntelliJ IDEA
+### IntelliJ IDEA Blog
 
 * [The What, Why, and How of JPA Buddy in IntelliJ IDEA | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/11/jpa-buddy-in-intellij-idea/)
 
@@ -249,7 +266,7 @@
 
 ---
 
-## Java Software Development with Spring Projects
+## Enterprise Software Development with Java EE and Spring Projects
 
 ### Ottinger J.B., Lombardi A. - "Beginning Spring" ( 2019 )
 
@@ -325,6 +342,178 @@
 * PART IV - Deployment
   * Chapter 16 - Packaging Backend and Frontend with Maven
   * Chapter 17 - Deploying Spring Boot and the Angular App
+
+### Ottinger J., Linwood J., Minter D. - "Beginning Hibernate 6" ( 2022, 5th edition )
+
+* Chapter 1 - An Introduction to Hibernate 6
+* Chapter 2 - Integrating and Configuring Hibernate
+* Chapter 3 - Building a Simple Application
+* Chapter 4 - The Persistence LideCycle
+* Chapter 5 - An Overview of Mapping
+* Chapter 6 - Mapping with Annotations
+* Chapter 7 - JPA Integration and Lifecycle Events
+* Chapter 8 - Using the Session
+* Chapter 9 - Searches and Queries
+* Chapter 10 - Filtering the Results of Searches
+* Chapter 11 - Integration into the Web
+* Chapter 12 - Integrating Hibernate
+* Chapter 13 - Hibernate Envers
+
+### Tudose C. - "Java Persistence with Spring Data and Hibernate" ( 2023 )
+
+* PART I - Getting Started with ORM
+  * Chapter 1 - Understanding object/relational persistence
+  * Chapter 2 - Starting a project
+  * Chapter 3 - Domain models and metadata
+  * Chapter 4 - Working with Spring Data JPA
+* PART II - Mapping Strategies
+  * Chapter 5 - Mapping persistent classes
+  * Chapter 6 - Mapping value types
+  * Chapter 7 - Mapping inheritance
+  * Chapter 8 - Mapping collections and entity associations
+  * Chapter 9 - Advanced entity association mappings
+* PART III - Transactional Data Processing
+  * Chapter 10 - Managing data
+  * Chapter 11 - Transactions and concurrency
+  * Chapter 12 - Fetch plans, strategies, and profiles
+  * Chapter 13 - Filtering data
+* PART IV - Building Java Persistence Applications with Spring
+  * Chapter 14 - Integrating JPA and Hibernate with Spring
+  * Chapter 15 - Working with Spring Data JDBC
+  * Chapter 16 - Working with Spring Data REST
+* PART V - Building Java Persistence Applications with Spring
+  * Chapter 17 - Working with Spring Data MongoDB
+  * Chapter 18 - Working with Hibernate OGM
+* PART VI - Writing Queries and Testing Java Persistence Applications
+  * Chapter 19 - Querying JPA with Querydsl
+  * Chapter 20 - Testing Java persistence applications
+
+### Cosmina I., Harror R., Schaefer C., Ho C. - "Pro Spring 6" ( 2023, 6th edition )
+
+* Chapter 01 - Introducing Spring
+* Chapter 02 - Getting Started
+* Chapter 03 - Introducing IoC and DI in Spring
+* Chapter 04 - Advanced Spring Configuration and Spring Boot
+* Chapter 05 - Spring AOP
+* Chapter 06 - Spring Data Access with JDBC
+* Chapter 07 - Spring with Hibernate
+* Chapter 08 - Spring with JPA
+* Chapter 09 - Spring Transaction Management
+* Chapter 10 - Spring Data with SQL and NoSQL Databases
+* Chapter 11 - Validation, Formatting, and Type Conversion
+* Chapter 12 - Task Execution and Scheduling
+* Chapter 13 - Spring Remoting
+* Chapter 14 - Spring MVC
+* Chapter 15 - Spring REST Support
+* Chapter 16 - Spring Native and Other Goodies
+* Chapter 17 - Securing Spring Web Applications
+* Chapter 18 - Monitoring Spring Applications
+* Chapter 19 - Spring WebSocket Support
+* Chapter 20 - Reactive Spring
+* Appendix A
+
+### Spath P., Cosmina I., Harror R., Schaefer C. - "Pro Spring 6 with Kotlin" ( 2023 )
+
+* Chapter 01 - Introducing Spring
+* Chapter 02 - Getting Started
+* Chapter 03 - Introducing IoC and DI in Spring
+* Chapter 04 - Advanced Spring Configuration and Spring Boot
+* Chapter 05 - Spring AOP
+* Chapter 06 - Spring Data Access with JDBC
+* Chapter 07 - Spring with Hibernate
+* Chapter 08 - Spring with JPA
+* Chapter 09 - Spring Transaction Management
+* Chapter 10 - Spring Data with SQL and NoSQL Databases
+* Chapter 11 - Validation, Formatting, and Type Conversion
+* Chapter 12 - Task Scheduling
+* Chapter 13 - Spring Remoting
+* Chapter 14 - Spring MVC
+* Chapter 15 - Spring REST Support
+* Chapter 16 - Spring Native and Other Goodies
+* Chapter 17 - Securing Spring Web Applications
+* Chapter 18 - Monitoring Spring Applications
+* Chapter 19 - Spring WebSocket Support
+* Chapter 20 - Reactive Spring
+
+### Spath P. - "Pro Jakarta EE 10" ( 2023 )
+
+* PART I - Development Workflow Proposal
+  * Chapter 01 - Installing a Development Server
+  * Chapter 02 - Creating and Building Projects with Eclipse
+  * Chapter 03 - Development with NetBeans as an IDE
+  * Chapter 04 - Git and Subversion
+  * Chapter 05 - Continuous Integration
+  * Chapter 06 - Corporate Maven Repositories
+* PART II - Advanced Web Tier Topics
+  * Chapter 07 - Facelets
+  * Chapter 08 - Faces Custom Components
+  * Chapter 09 - Flows
+  * Chapter 10 - Websockets
+  * Chapter 11 - Frontend Technologies
+  * Chapter 12 - Form-Based Authentication
+  * Chapter 13 - Client Certificates
+  * Chapter 14 - REST Security
+  * Chapter 15 - JAVA MVC
+* PART III - Advanced Architecture Related Topics
+  * Chapter 16 - Microprofiles
+  * Chapter 17 - Custom CDI
+  * Chapter 18 - Interceptors
+  * Chapter 19 - Bean Validation
+  * Chapter 20 - Jakarta EE Concurrency
+  * Chapter 21 - Batch Processing
+* PART IV - Useful Supporting Technologies
+  * Chapter 22 - XML Binding
+  * Chapter 23 - JSON Handling
+  * Chapter 24 - Jakarta Mail
+  * Chapter 25 - Application Client (Groovy)
+  * Chapter 26 - Adding Scripting Languages
+* PART V - Advanced Resource Related Topics
+  * Chapter 27 - Hibernate as ORM
+  * Chapter 28 - Connectors
+  * Chapter 29 - Caching
+  * Chapter 30 - NoSQL
+* PART VI - Security Enhancements
+  * Chapter 31 - Secured JMX
+  * Chapter 32 - Java Web Tokens with Encryption
+  * Chapter 33 - Java Enterprise Security
+* PART VII - Advanced Monitoring and Logging
+  * Chapter 34 - Monitoring Workflow
+  * Chapter 35 - Logging Pipeline with Fluentd
+  * Chapter 36 - Performance Troubleshooting
+  * Chapter 37 - Garbage Collection
+  * Chapter 38 - Memory Troubleshooting
+  * Chapter 39 - Custom Log4j Appender
+
+### Wetherbee J., Nardone M., Rathod C., Kodali R. - "Beginning EJB in Java EE 8" ( 2018 )
+
+* Chapter 1 - Introduction to the EJB 3.2 Architecture & CDI Services
+* Chapter 2 - EJB Session Beans
+* Chapter 3 - Entities and the Java Persistence API (JPA)
+* Chapter 4 - Advanced Persistence Features
+* Chapter 5 - EJB Message-Driven Beans
+* Chapter 6 - EJB, Web Services, and Microservices
+* Chapter 7 - Integrating Session Beans, Entities, Message-Driven Beans, and Web Services
+* Chapter 8 - Transaction Management
+* Chapter 9 - EJB Performance and Testing
+* Chapter 10 - Contexts and Dependency Injection
+* Chapter 11 - EJB Packaging and Deployment
+* Chapter 12 - EJB Client Applications
+* Chapter 13 - Testing in an Embeddable EJB Container
+
+### { Daschner S. } [ Architecting Modern Java EE Applications ] ( 2017 )
+
+* Chapter 1 - Introduction
+* Chapter 2 - Designing and Structuring Java Enterprise Applications
+* Chapter 3 - Implementing Modern Java Enterprise Applications
+* Chapter 4 - Lightweight Java EE
+* Chapter 5 - Container and Cloud Environments with Java EE
+* Chapter 6 - Application Development Workflows
+* Chapter 7 - Testing
+* Chapter 8 - Microservices and System Architecture
+* Chapter 9 - Monitoring, Performance, and Logging
+* Chapter 10 - Security
+* Chapter 11 - Conclusion
+* Chapter 12 - Appendix: Links and further resources
 
 ---
 
@@ -433,98 +622,114 @@
 
 ---
 
-## JUnit - [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
+## Build Automation Systems - Maven
 
-* PART 1 - Overview
+### Varanasi B. - "Introduction Maven" ( 2019 )
 
-* PART 2 - Writing Tests
-
-* PART 3 - Migrating from JUnit4
-
-* PART 4 - Running Tests
-
-* PART 5 - Extension Model
-
-* PART 6 - Advanced Topics
-
----
-
-## Build Automation Systems - Maven/Gradle/Ant ( Java )
+* Chapter 1 - Getting Started with Maven
+* Chapter 2 - Setting Up Maven
+* Chapter 3 - Maven Dependency Management
+* Chapter 4 - Maven Project Basics
+* Chapter 5 - Maven Lifecycle
+* Chapter 6 - Maven Archetypes
+* Chapter 7 - Documentation and Reporting
+* Chapter 8 - Maven Release
+* Chapter 9 - Continuous Integration
 
 ### Maven - [Maven – Introduction (apache.org)](https://maven.apache.org/what-is-maven.html)
 
 * What is Maven ? - [Maven – Introduction (apache.org)](https://maven.apache.org/what-is-maven.html)
-
 * Features - [Maven – Maven Features (apache.org)](https://maven.apache.org/maven-features.html)
-
 * Maven in 5 Minutes - [Maven – Maven in 5 Minutes (apache.org)](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
-
 * Maven Getting Started Guide - [Maven – Maven Getting Started Guide (apache.org)](https://maven.apache.org/guides/getting-started/index.html)
-
 * Running Maven - [Maven – Running Maven (apache.org)](https://maven.apache.org/run-maven/index.html)
-
 * Configuring Plugins - [Maven – Guide to Configuring Plug-ins (apache.org)](https://maven.apache.org/guides/mini/guide-configuring-plugins.html)
-
 * Create a site - [Maven – Guide to creating a site (apache.org)](https://maven.apache.org/guides/mini/guide-site.html)
-
 * Archetypes - [Maven – Introduction to Archetypes (apache.org)](https://maven.apache.org/guides/introduction/introduction-to-archetypes.html)
-
 * Repositories - [Maven – Introduction to Repositories (apache.org)](https://maven.apache.org/guides/introduction/introduction-to-repositories.html)
-
 * Maven Mini Guides - [Maven – Maven Mini Guides (apache.org)](https://maven.apache.org/guides/mini/index.html)
-
 * Settings Reference - [Maven – Settings Reference (apache.org)](https://maven.apache.org/settings.html)
-
 * POM Reference - [Maven – POM Reference (apache.org)](https://maven.apache.org/pom.html)
-
 * FAQ - [Maven – Frequently Asked Technical Questions (apache.org)](https://maven.apache.org/general.html)
+
+## Build Automation Systems - Gradle
 
 ### Gradle - [Gradle User Manual](https://docs.gradle.org/current/userguide/userguide.html)
 
 * PART 01 - Introduction
-
 * PART 02 - What is new ?
-
 * PART 03 - Quick Start
-
 * PART 04 - Running Gradle Builds
-
 * PART 05 - Authoring Gradle Builds
-
 * PART 06 - Authoring JVM Builds
-
 * PART 07 - Working with Dependencies
-
 * PART 08 - Optimizing Build Times
-
 * PART 09 - Authoring C++ Builds
-
 * PART 10 - Gradle on CI
-
 * PART 11 - Reference
+
+## Build Automation Systems - Ant
 
 ### Ant - [Apache Ant™ User Manual](https://ant.apache.org/manual/index.html)
 
 * 01 - Introduction
-
 * 02 - Installing Apache Ant
-
 * 03 - Using Apache Ant
-
 * 04 - Running Apache Ant
-
 * 05 - Ant Tasks
-
 * 06 - Concepts and Types
-
 * 07 - Loggers & Listeners
-
 * 08 - Editor/IDE Integration
-
 * 09 - Developing with Ant
-
 * 10 - Tutorials
-
 * FAQs - [Apache Ant - Frequently Asked Questions](https://ant.apache.org/faq.html)
+
+---
+
+### Java Test Automation Frameworks
+
+### JUnit - [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
+
+* PART 1 - Overview
+* PART 2 - Writing Tests
+* PART 3 - Migrating from JUnit4
+* PART 4 - Running Tests
+* PART 5 - Extension Model
+* PART 6 - Advanced Topics
+
+### TestNG  - [TestNG Documantation](https://testng.org/doc/documentation-main.html)
+
+* 01 - Introduction
+* 02 - Annotations
+* 03 - testng.xml
+* 04 - Running TestNG
+* 05 - Test methods, Test classes and Test groups
+* 06 - Test reuslts
+* 07 - YAML
+* 08 - Dry Run for your tests
+* 09 - JVM Arguments in TestNG
+* 10 - Logging framework integration in TestNG
+
+### Apache JMeter - [Apache JMeter - Apache JMeter™](https://jmeter.apache.org/)
+
+* Get Started - [Apache JMeter - User's Manual: Getting Started](https://jmeter.apache.org/usermanual/get-started.html)
+* User Manual - [Apache JMeter - User's Manual](https://jmeter.apache.org/usermanual/index.html)
+* Best Practices - [Apache JMeter - User's Manual: Best Practices](https://jmeter.apache.org/usermanual/best-practices.html)
+* Tutorials - Distributed Testing - [Apache JMeter - Apache JMeter Distributed Testing Step-by-step](https://jmeter.apache.org/usermanual/jmeter_distributed_testing_step_by_step.html)
+* Tutorials - Recording Tests - [Apache JMeter - Apache JMeter HTTP(S) Test Script Recorder](https://jmeter.apache.org/usermanual/jmeter_proxy_step_by_step.html)
+* Tutorials - JUnit Sampler - [Apache JMeter - JUnit Sampler Tutorial](https://jmeter.apache.org/usermanual/junitsampler_tutorial.html)
+* Tutorials - Access Log Sampler - [Apache JMeter - Access log sampler Step-by-step](https://jmeter.apache.org/usermanual/jmeter_accesslog_sampler_step_by_step.html)
+* Tutorials - Extending JMeter - [Apache JMeter - How to write a plugin for JMeter](https://jmeter.apache.org/usermanual/jmeter_tutorial.html)
+
+### Selenium - [The Selenium Browser Automation Project | Selenium](https://www.selenium.dev/documentation/)
+
+* 01 - Selenium Overview
+* 02 - WebDriver
+* 03 - Grid
+* 04 - IE Driver Server
+* 05 - Selenium IDE
+* 06 - Test Practices
+* 07 - Legacy
+* 08 - About this documention
 
 ---
