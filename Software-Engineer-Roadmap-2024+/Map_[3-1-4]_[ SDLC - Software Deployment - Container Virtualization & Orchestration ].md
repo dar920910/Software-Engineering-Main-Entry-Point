@@ -76,6 +76,8 @@
 
 ### Официальный блог Docker
 
+* [8 Top Docker Tips & Tricks for 2024 | Docker](https://www.docker.com/blog/8-top-docker-tips-tricks-for-2024/)
+
 * [The Livecycle Docker Extension: Instantly Share Changes and Get Feedback in Context | Docker](https://www.docker.com/blog/livecycle-docker-extension/)
 
 * [Docker whale-comes AtomicJar, maker of Testcontainers | Docker](https://www.docker.com/blog/docker-whale-comes-atomicjar-maker-of-testcontainers/)

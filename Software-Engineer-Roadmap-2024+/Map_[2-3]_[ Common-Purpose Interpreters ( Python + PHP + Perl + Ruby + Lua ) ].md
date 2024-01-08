@@ -460,6 +460,8 @@
 
 ### PHP ANNOTATED
 
+* [PHP Annotated – December 2023](https://blog.jetbrains.com/phpstorm/2023/12/php-annotated-december-2023/)
+
 * [PHP Annotated – November 2023](https://blog.jetbrains.com/phpstorm/2023/12/php-annotated-november-2023/)
 
 * [PHP Annotated – October 2023 | The PhpStorm Blog (jetbrains.com)](https://blog.jetbrains.com/phpstorm/2023/10/php-annotated-october-2023/)

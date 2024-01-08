@@ -747,6 +747,8 @@
 
 ### .NET Annotated Montly (JetBrains)
 
+* [.NET Digest | January 2024 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2024/01/08/net-digest-january-2024/)
+
 * [.NET Annotated Monthly | December 2023 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2023/12/11/net-annotated-monthly-december-2023/)
 
 * [.NET Annotated Monthly | November 2023 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2023/11/09/net-annotated-monthly-november-2023/)

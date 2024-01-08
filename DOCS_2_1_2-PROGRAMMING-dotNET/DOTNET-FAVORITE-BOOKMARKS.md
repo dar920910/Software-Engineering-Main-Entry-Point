@@ -268,6 +268,8 @@
 
 [Don't Code Tired | Jason Roberts on Software Development and .NET](http://dontcodetired.com/blog)
 
+[Milan Jovanovic](https://www.milanjovanovic.tech/)
+
 [ICSharpCode](https://github.com/icsharpcode)
 
 [Steeltoe - Home](https://steeltoe.io/)

@@ -334,6 +334,8 @@
 
 ### Программы для диагностики HDD
 
+* [Memtest86+ | The Open-Source Memory Testing Tool](https://www.memtest.org/)
+
 * [WinDirStat - Windows Directory Statistics](https://windirstat.net/)
 
 * [WizTree - The Fastest Disk Space Analyzer (diskanalyzer.com)](https://www.diskanalyzer.com/)

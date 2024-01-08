@@ -14,6 +14,10 @@
 
 * [PowerShell/PSReadLine: A bash inspired readline implementation for PowerShell (github.com)](https://github.com/powershell/psreadline)
 
+## Ресурсы для изучения командной строки PowerShell
+
+* [https://github.com/Lifailon/PS-Commands](https://github.com/Lifailon/PS-Commands)
+
 ## Ресурсы для изучения командной строки Windows
 
 * [Команды командной строки ( CMD ) Windows: список с примерами. (ab57.ru)](https://ab57.ru/cmdlist.html)
