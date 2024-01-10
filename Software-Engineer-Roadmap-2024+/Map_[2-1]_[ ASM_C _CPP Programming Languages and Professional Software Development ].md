@@ -1229,6 +1229,8 @@
 
 #### Улучшения Visual Studio для C++ разработчиков
 
+* [#include Diagnostics in Visual Studio](https://devblogs.microsoft.com/cppblog/include-diagnostics-in-visual-studio/)
+
 * [Size, Alignment, and Memory Layout Insights for C++ Classes, Structs, and Unions](https://devblogs.microsoft.com/visualstudio/size-alignment-and-memory-layout-insights-for-c-classes-structs-and-unions/)
 
 * [Visual Studio 2022 v17.8 Brings Increased Productivity, Further Unreal Engine Integration, and Cross-Platform Enhancements to C++](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-8-brings-increased-productivity-further-unreal-engine-integration-and-cross-platform-enhancements-to-c/)

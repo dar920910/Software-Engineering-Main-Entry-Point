@@ -122,7 +122,18 @@
 
 * [Technical deep-dive into a real-time kernel | Ubuntu](https://ubuntu.com//blog/real-time-kernel-technical)
 
+## LINUX SOFTWARE DESIGN PATTERNS
+
+* [Design patterns and the software operator — part 1 | Ubuntu](https://ubuntu.com//blog/software-operator-design-pattern-part-1)
+* [The software operator design pattern — part 2 | Ubuntu](https://ubuntu.com//blog/software-operator-design-pattern-part-2)
+* [The software operator design pattern: May the force be with you – Part 3 | Ubuntu](https://ubuntu.com//blog/software-operator-design-pattern-part-3)
+* [The software operator design pattern: advantages – part 4](https://ubuntu.com/blog/software-operator-design-pattern-part-4)
+* [The software operator design pattern: disadvantages – part 5](https://ubuntu.com/blog/the-software-operator-design-pattern-part-5)
+* [Understanding roles in software operators — part 6 | Ubuntu](https://ubuntu.com//blog/the-software-operator-design-pattern-part-6)
+
 ## LINUX UBUNTU & SOFTWARE DEVELOPMENT
+
+
 
 * [Canonical announces the general availability of chiselled Ubuntu containers](https://canonical.com/blog/chiselled-ubuntu-ga)
 
@@ -131,12 +142,6 @@
 * [Microsoft and Canonical announce native .NET availability in Ubuntu 22.04 hosts and containers | Ubuntu](https://ubuntu.com//blog/install-dotnet-on-ubuntu)
 
 * [.NET for Ubuntu hosts and containers is now available on Arm-based platforms | Ubuntu](https://ubuntu.com//blog/net-for-ubuntu-hosts-and-containers-is-now-available-on-arm-based-platforms)
-
-* [Design patterns and the software operator — part 1 | Ubuntu](https://ubuntu.com//blog/software-operator-design-pattern-part-1)
-
-* [The software operator design pattern — part 2 | Ubuntu](https://ubuntu.com//blog/software-operator-design-pattern-part-2)
-
-* [The software operator design pattern: May the force be with you – Part 3 | Ubuntu](https://ubuntu.com//blog/software-operator-design-pattern-part-3)
 
 * [Three ways to package your Electron apps as snaps | Ubuntu](https://ubuntu.com//blog/three-ways-to-package-your-electron-apps-as-snaps)
 
@@ -219,6 +224,8 @@
 * [IoT project lifecycle: App-centric software development [Part II] | Ubuntu](https://ubuntu.com//blog/app-centric-software-development)
 
 ## LINUX UBUNTU & HIGH-PERFORMANCE COMPUTING (HPC)
+
+* [High Performance Computing – It’s all about the bottleneck](https://ubuntu.com//blog/high-performance-computing-its-all-about-the-bottleneck)
 
 * [What is High-performance computing (HPC)? [part 1] | Ubuntu](https://ubuntu.com//blog/what-is-high-performance-computing-hpc-part-1)
 

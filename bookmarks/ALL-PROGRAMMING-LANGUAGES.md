@@ -2,6 +2,19 @@
 
 ---
 
+## Classic Object-Oriented Programming Languages
+
+### Simula
+
+* [Simula - Wikipedia](https://en.wikipedia.org/wiki/Simula)
+* [Simula67 - Institutt for informatikk](https://www.mn.uio.no/ifi/personer/vit/dag/simula67/)
+
+### Smalltalk
+
+* [Smalltalk - Wikipedia](https://en.wikipedia.org/wiki/Smalltalk)
+
+---
+
 ## Pascal & Delphi
 
 Паскаль (язык программирования) — Википедия (wikipedia.org)

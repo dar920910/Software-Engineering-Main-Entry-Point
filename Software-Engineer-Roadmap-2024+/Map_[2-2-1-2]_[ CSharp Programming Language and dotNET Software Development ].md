@@ -91,6 +91,8 @@
 
 ##### Новые возможности Visual Studio 2022
 
+* [2023 – a year of community experiments](https://devblogs.microsoft.com/visualstudio/2023-a-year-of-community-experiments/)
+
 * [Design your Web Forms apps with Web Live Preview in Visual Studio 2022 - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/design-your-web-forms-apps-with-web-live-preview-in-visual-studio-2022/)
 
 * [Personalize Your Visual Studio 2022 - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/personalize-your-visual-studio-2022/)
@@ -120,6 +122,8 @@
 * [Arm64 Support for VS Extensions (microsoft.com)](https://devblogs.microsoft.com/visualstudio/now-introducing-arm64-support-for-vs-extensions/)
 
 ##### Visual Studio - Улучшения производительности среды разработки
+
+* [Visual Studio Performance Highlights Delivered in 2023](https://devblogs.microsoft.com/visualstudio/visual-studio-performance-highlights-delivered-in-2023/)
 
 * [Visual Studio 2022 – 17.8 Performance Enhancements](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-8-performance-enhancements/)
 
