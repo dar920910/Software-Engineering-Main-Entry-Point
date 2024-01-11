@@ -226,6 +226,8 @@
 
 * [RISC-V International (riscv.org)](https://riscv.org/)
 
+* [What is RISC-V and why is it important? (riscv.org)](https://riscv.org/news/2024/01/what-is-risc-v-and-why-is-it-important/)
+
 * [Top Ten Fallacies About RISC-V – RISC-V International (riscv.org)](https://riscv.org/blog/2023/03/top-ten-fallacies-about-risc-v/)
 
 * [What is RISC-V and how will it redefine your next-gen wearable tech? – RISC-V International (riscv.org)](https://riscv.org/news/2023/10/what-is-risc-v-and-how-will-it-redefine-your-next-gen-wearable-tech/)

@@ -578,6 +578,8 @@ PROGRESSIVE WEB APPS (PWA)
 
 [Website Style Guide Resources (styleguides.io)](http://styleguides.io/)
 
+[Static Site Generator | Nikola](https://getnikola.com/)
+
 ---
 
 ## Инструменты для работы с векторной графикой
