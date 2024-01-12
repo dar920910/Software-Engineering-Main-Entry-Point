@@ -64,10 +64,6 @@
 
 [Microsoft for Java Developers | Microsoft Learn](https://learn.microsoft.com/en-us/java/)
 
-[The Apache Groovy programming language](https://groovy-lang.org/)
-
-[The Apache Groovy programming language - Contribute](https://groovy.apache.org/)
-
 [Core Java](https://horstmann.com/corejava/)
 
 [Apache Tomcat® - Welcome!](https://tomcat.apache.org/)

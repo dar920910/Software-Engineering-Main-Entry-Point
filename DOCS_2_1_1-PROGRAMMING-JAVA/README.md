@@ -1,3 +1,3 @@
-# DOCS_2_1_2-PROGRAMMING-JAVA
+# Java Programming Resources
 
-DOCS_2_1_2-PROGRAMMING-JAVA
+* [Java Platform: JVM Programming Languages](Java-Platform-JVM-Programming-Languages.md)
