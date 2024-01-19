@@ -78,7 +78,6 @@ II.II. WORLD WIDE WEB + DISTRIBUTED SYSTEMS + MIDDLEWARE
 * РАСПРЕДЕЛЕННЫЕ СИСТЕМЫ и MIDDLEWARE
 * СЕТЕВЫЕ ПРОТОКОЛЫ и РЕАЛИЗАЦИИ "КЛИЕНТ-СЕРВЕР"
 
-
 * [MIDDLEWARE - Message-Oriented Middleware (MOM)]({%20II.III%20}%20[%20WORLD%20WIDE%20WEB%20+%20DISTRIBUTED%20SYSTEMS%20+%20MIDDLEWARE%20]/[MIDDLEWARE%20-%20Message-Oriented%20Middleware%20(MOM)].md)
 
 II.III. BIG DATA + DATA SCIENCE + DATABASE SYSTEMS

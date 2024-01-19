@@ -1229,6 +1229,8 @@
 
 #### Улучшения Visual Studio для C++ разработчиков
 
+* [Latest updates for Remote Linux Development in Visual Studio: Remote File Explorer, Integrated Terminal, and more…](https://devblogs.microsoft.com/visualstudio/latest-updates-for-remote-linux-development-in-visual-studio-remote-file-explorer-integrated-terminal-and-more/)
+
 * [#include Diagnostics in Visual Studio](https://devblogs.microsoft.com/cppblog/include-diagnostics-in-visual-studio/)
 
 * [Size, Alignment, and Memory Layout Insights for C++ Classes, Structs, and Unions](https://devblogs.microsoft.com/visualstudio/size-alignment-and-memory-layout-insights-for-c-classes-structs-and-unions/)

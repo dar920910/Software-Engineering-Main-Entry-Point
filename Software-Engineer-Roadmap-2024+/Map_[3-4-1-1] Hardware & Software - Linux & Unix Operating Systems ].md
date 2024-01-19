@@ -133,8 +133,6 @@
 
 ## LINUX UBUNTU & SOFTWARE DEVELOPMENT
 
-
-
 * [Canonical announces the general availability of chiselled Ubuntu containers](https://canonical.com/blog/chiselled-ubuntu-ga)
 
 * [WSL and Ubuntu: 2022 year in review | Ubuntu](https://ubuntu.com//blog/wsl-ubuntu-2022-year-in-review)
@@ -211,6 +209,8 @@
 
 ## LINUX UBUNTU & INTERNET of THINGS
 
+* [Managing software in complex network environments: the Snap Store Proxy](https://ubuntu.com//blog/managing-software-snap-store-proxy)
+
 * [Adopting open-source Industrial IoT software | Ubuntu](https://ubuntu.com//blog/adopting-open-source-industrial-iot)
 
 * [The Evolution of the Smart Home: How it Started [Part 1] | Ubuntu](https://ubuntu.com//blog/the-evolution-of-the-smart-home-how-it-started-part-1)
@@ -240,6 +240,8 @@
 * [High-performance computing (HPC) technologies: what does the future hold? [part 6] | Ubuntu](https://ubuntu.com//blog/high-performance-computing-hpc-technologies-what-does-the-future-hold-part-6)
 
 ## LINUX UBUNTU & CLOUD TECHNOLOGIES
+
+* [Cloud-native infrastructure – When the future meets the present](https://ubuntu.com//blog/cloud-native-infrastructure)
 
 * [Ubuntu Explained: How to ensure security and stability in cloud instances — part 1](https://ubuntu.com/blog/ubuntu-updates-releases-and-repositories-explained)
 

@@ -495,6 +495,8 @@
 
 #### ИНТЕРЕСНЫЕ СТАТЬИ
 
+* [Introducing NuGetSolver: A Powerful Tool for Resolving NuGet Dependency Conflicts in Visual Studio](https://devblogs.microsoft.com/nuget/introducing-nugetsolver-a-powerful-tool-for-resolving-nuget-dependency-conflicts-in-visual-studio/)
+
 * [Write a high-quality README for NuGet packages - The NuGet Blog (microsoft.com)](https://devblogs.microsoft.com/nuget/write-a-high-quality-readme-for-nuget-packages/)
 
 * [Introducing Transitive Dependencies in Visual Studio - The NuGet Blog (microsoft.com)](https://devblogs.microsoft.com/nuget/introducing-transitive-dependencies-in-visual-studio/)
@@ -1326,6 +1328,8 @@
 * [Announcing ASP.NET Core 1.0 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-1-0/)
 
 * Полезные статьи для чтения
+
+* [Sortable Lists for Blazor using a SortableJS Component](https://devblogs.microsoft.com/dotnet/introducing-blazor-sortable/)
 
 * [The future of ASP.NET SignalR - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/the-future-of-asp-net-signalr/)
 
