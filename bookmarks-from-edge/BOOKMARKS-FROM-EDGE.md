@@ -1450,24 +1450,6 @@
 
 ---
 
-### Ресурсы - Протокол MQTT
-
-[MQTT — Википедия](https://ru.wikipedia.org/wiki/MQTT)
-
-[MQTT - The Standard for IoT Messaging](https://mqtt.org/)
-
-[AMQP — Википедия](https://ru.wikipedia.org/wiki/AMQP)
-
-[Брокер сообщений — Википедия](https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%BA%D0%B5%D1%80_%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B9)
-
-[ActiveMQ](https://activemq.apache.org/)
-
-[Messaging that just works — RabbitMQ](https://www.rabbitmq.com/)
-
-[Apache Kafka](https://kafka.apache.org/)
-
----
-
 ### Ресурсы - Протокол WebSocket
 
 [WebSocket - Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
