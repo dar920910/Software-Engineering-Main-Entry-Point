@@ -30,6 +30,8 @@
 
 * [C# Corner - Community of Software and Data Developers (c-sharpcorner.com)](https://www.c-sharpcorner.com/)
 
+* [C# Corner - Books](https://www.c-sharpcorner.com/ebooks/)
+
 * [Adam Sitnik – .NET Performance and Reliability](https://adamsitnik.com/)
 
 * [guardrailsio/awesome-dotnet-security: Awesome .NET Security Resources (github.com)](https://github.com/guardrailsio/awesome-dotnet-security)

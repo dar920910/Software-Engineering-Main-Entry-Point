@@ -368,6 +368,8 @@
 
 [DapperLib/Dapper: Dapper - a simple object mapper for .Net](https://github.com/DapperLib/Dapper/tree/main)
 
+[Learn Dapper](https://www.learndapper.com/)
+
 [graphql-dotnet/graphql-dotnet: GraphQL for .NET](https://github.com/graphql-dotnet/graphql-dotnet)
 
 [GraphQL .NET](https://graphql-dotnet.github.io/)

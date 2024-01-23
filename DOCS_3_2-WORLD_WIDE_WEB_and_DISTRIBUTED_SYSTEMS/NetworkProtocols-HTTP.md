@@ -42,4 +42,6 @@
 
 * [Media type - Wikipedia](https://en.wikipedia.org/wiki/Media_type)
 
+* [HyperText Transfer Protocol (HTTP) explained (http.dev)](https://http.dev/)
+
 ---
