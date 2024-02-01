@@ -40,8 +40,6 @@
 
 [PHP: Hypertext Preprocessor](https://www.php.net/)
 
-[The Perl Programming Language - www.perl.org](https://www.perl.org/)
-
 [Drupal - Open Source CMS | Drupal.org](https://www.drupal.org/)
 
 [Joomla Content Management System (CMS) - try it! It's free!](https://www.joomla.org/)

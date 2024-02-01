@@ -241,6 +241,8 @@
 
 ##### Visual Studio - Отладка/тестирование/профилирование
 
+* [Introducing the MSTest Runner – CLI, Visual Studio, & More](https://devblogs.microsoft.com/dotnet/introducing-ms-test-runner/)
+
 * [Unlocking the Secrets of Managed Memory: Dive into Event Handler Leak Insights!](https://devblogs.microsoft.com/visualstudio/unlocking-the-secrets-of-managed-memory-dive-into-event-handler-leak-insights/)
 
 * [IntelliTest simplifies writing and maintaining unit tests - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/intellitest-simplifies-writing-and-maintaining-unit-tests/)
@@ -398,6 +400,8 @@
 * [Create a Microsoft Power App for your ASP.NET Core Web API - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/create-a-microsoft-power-app-for-your-asp-net-core-web-api/)
 
 #### .NET - JetBrains Rider
+
+* [12 Debugging Techniques In JetBrains Rider You Should Know About](https://blog.jetbrains.com/dotnet/2024/01/29/12-debugging-techniques-in-jetbrains-rider-you-should-know-about/)
 
 * [Automatically Analyze ASP.NET Core Performance With Dynamic Program Analysis | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2023/11/14/automatically-analyze-asp-net-core-performance-with-dynamic-program-analysis/)
 
@@ -904,6 +908,10 @@
 * [EF Core 8 Preview 1: Raw, lazy, and on-time - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-ef8-preview-1/)
 
 * **Нововведения .NET 8**
+
+* [How to deploy .NET Aspire apps to Azure Container Apps](https://devblogs.microsoft.com/dotnet/how-to-deploy-dotnet-aspire-apps-to-azure-container-apps/)
+
+* [Microsoft Office’s RTC (Real-Time Channel) migration to modern .NET](https://devblogs.microsoft.com/dotnet/office-rtc-dotnet-migration/)
 
 * [Demystifying Retrieval Augmented Generation with .NET - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/demystifying-retrieval-augmented-generation-with-dotnet/)
 
