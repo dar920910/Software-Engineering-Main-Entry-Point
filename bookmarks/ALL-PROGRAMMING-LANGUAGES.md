@@ -48,15 +48,6 @@ VBScript — Википедия (wikipedia.org)
 Turbo Basic — Википедия (wikipedia.org)
 Small Basic (smallbasic-publicwebsite.azurewebsites.net)
 
-## Ruby
-
-Ruby — Википедия (wikipedia.org)
-Язык программирования Ruby (ruby-lang.org)
-Ruby on Rails — A web-app framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.
-RubyGems.org | your community gem host
-RuboCop | The Ruby Linter/Formatter that Serves and Protects
-Ruby Style Guide
-
 ## Haskell
 
 Haskell — Википедия (wikipedia.org)
