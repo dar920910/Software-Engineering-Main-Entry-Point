@@ -28,17 +28,6 @@ Delphi (язык программирования) — Википедия (wikip
 Delphi (среда разработки) — Википедия (wikipedia.org)
 RAD Studio: Software Overview - Embarcadero
 
-## Eiffel
-
-Eiffel — Википедия (wikipedia.org)
-Eiffel Community
-Home - Eiffel Software - The Home of EiffelStudio
-Мейер, Бертран — Википедия (wikipedia.org)
-Bertrand Meyer's technology+ blog Bertrand Meyer's technology+ blog - Software engineering, programming methodology, languages, verification, general technology, publication culture, and more
-Touch of Class (ethz.ch)
-ECMA-367 - Ecma International (ecma-international.org)
-ISO - ISO/IEC 25436:2006 - Information technology — Eiffel: Analysis, Design and Programming Language
-
 ## BASIC & Visual Basic
 
 Бейсик — Википедия (wikipedia.org)
@@ -59,14 +48,6 @@ VBScript — Википедия (wikipedia.org)
 Turbo Basic — Википедия (wikipedia.org)
 Small Basic (smallbasic-publicwebsite.azurewebsites.net)
 
-## Perl
-
-Perl — Википедия (wikipedia.org)
-The Perl Programming Language - www.perl.org
-Raku Programming Language
-Rakudo Compiler - Rakudo Compiler for Raku Programming Language
-The Comprehensive Perl Archive Network - www.cpan.org
-
 ## Ruby
 
 Ruby — Википедия (wikipedia.org)
@@ -75,15 +56,6 @@ Ruby on Rails — A web-app framework that includes everything needed to create 
 RubyGems.org | your community gem host
 RuboCop | The Ruby Linter/Formatter that Serves and Protects
 Ruby Style Guide
-
-## Lua
-
-Lua — Википедия (wikipedia.org)
-The Programming Language Lua
-Lua Binaries (sourceforge.net)
-The LuaJIT Project
-LuaRocks - The Lua package manager
-ZeroBrane Studio - Lua IDE/editor/debugger for Windows, Mac OSX, and Linux
 
 ## Haskell
 
