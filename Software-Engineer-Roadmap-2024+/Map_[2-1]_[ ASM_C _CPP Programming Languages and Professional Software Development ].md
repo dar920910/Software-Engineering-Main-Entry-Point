@@ -1119,6 +1119,8 @@
 
 #### MSVC
 
+* [MSVC Toolset Minor Version Number 14.40 in VS 2022 v17.10](https://devblogs.microsoft.com/cppblog/msvc-toolset-minor-version-number-14-40-in-vs-2022-v17-10/)
+
 * [Build Reliable and Secure C++ programs — Microsoft Learn - C++ Team Blog](https://devblogs.microsoft.com/cppblog/build-reliable-and-secure-cpp-programs-microsoft-learn/)
 
 * [MSVC Machine-Independent Optimizations in Visual Studio 2022 17.7 - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/msvc-machine-independent-optimizations-in-visual-studio-2022-17-7/)
@@ -1203,6 +1205,8 @@
 
 #### VCPKG АНОНСЫ
 
+* [What’s New in vcpkg (January 2024)](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-january-2024/)
+
 * [What’s New in the vcpkg 2023.12.12 Release](https://devblogs.microsoft.com/cppblog/whats-new-in-the-vcpkg-2023-12-12-release/)
 
 * [What’s New in the vcpkg 2023.11.20 Release](https://devblogs.microsoft.com/cppblog/whats-new-in-the-vcpkg-2023-11-20-release/)
@@ -1228,6 +1232,16 @@
 * [vcpkg is Now Included with Visual Studio - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/vcpkg-is-now-included-with-visual-studio/)
 
 #### Улучшения Visual Studio для C++ разработчиков
+
+* [What’s New for C++ Developers in Visual Studio 2022 17.9](https://devblogs.microsoft.com/cppblog/whats-new-for-cpp-developers-in-visual-studio-2022-17-9/)
+
+* [Visual Studio Code CMake Tools Extension 1.17 Update: CMake Presets v6, Overriding Cache Variables, and Side Bar Updates](https://devblogs.microsoft.com/cppblog/visual-studio-code-cmake-tools-extension-1-17-update-cmake-presets-v6-overriding-cache-variables-and-side-bar-updates/)
+
+* [A Year of C++ Improvements in Visual Studio, VS Code, and vcpkg](https://devblogs.microsoft.com/cppblog/a-year-of-cpp-improvements-in-visual-studio-vs-code-and-vcpkg/)
+
+* [C++ in VS Code: Getting Started & Configuring IntelliSense](https://devblogs.microsoft.com/cppblog/c-in-vs-code-getting-started-configuring-intellisense/)
+
+* [A Year of C++ Improvements in Visual Studio](https://devblogs.microsoft.com/visualstudio/a-year-of-cpp-improvements-in-visual-studio/)
 
 * [Latest updates for Remote Linux Development in Visual Studio: Remote File Explorer, Integrated Terminal, and more…](https://devblogs.microsoft.com/visualstudio/latest-updates-for-remote-linux-development-in-visual-studio-remote-file-explorer-integrated-terminal-and-more/)
 

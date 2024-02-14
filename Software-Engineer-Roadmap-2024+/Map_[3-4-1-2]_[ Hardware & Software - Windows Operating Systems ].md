@@ -138,6 +138,8 @@
 
 ### Официальные анонсы Windows Terminal
 
+* [Windows Terminal Preview 1.20 Release - Windows Command Line (microsoft.com)](https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-20-release/)
+
 * [Windows Terminal Preview 1.19 Release - Windows Command Line (microsoft.com)](https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-19-release/)
 
 * [Windows Terminal Preview 1.18 Release - Windows Command Line (microsoft.com)](https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-18-release/)
@@ -223,6 +225,8 @@
 * [microsoft/WSL2-Linux-Kernel: The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2) (github.com)](https://github.com/microsoft/WSL2-Linux-Kernel)
 
 ### Официальные анонсы WSL
+
+* [Introducing Sudo for Windows!](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/)
 
 * [Windows Subsystem for Linux September 2023 update - Windows Command Line (microsoft.com)](https://devblogs.microsoft.com/commandline/windows-subsystem-for-linux-september-2023-update/)
 

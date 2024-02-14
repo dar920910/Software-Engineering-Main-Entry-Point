@@ -518,6 +518,8 @@
 
 ### PHP ANNOTATED
 
+* [PHP Annotated – January 2024](https://blog.jetbrains.com/phpstorm/2024/01/php-annotated-january-2024/)
+
 * [PHP Annotated – December 2023](https://blog.jetbrains.com/phpstorm/2023/12/php-annotated-december-2023/)
 
 * [PHP Annotated – November 2023](https://blog.jetbrains.com/phpstorm/2023/12/php-annotated-november-2023/)
@@ -670,7 +672,7 @@
   * Chapter 27 - An Overview of the C API
   * Chapter 28 - Extending Your Application
   * Chapter 29 - Calling C from Lua
-  * Chapter 30 - Yechniques for Writing C Functions
+  * Chapter 30 - Techniques for Writing C Functions
   * Chapter 31 - User-Defined Types in C
   * Chapter 32 - Managing Resources
   * Chapter 33 - Threads and States

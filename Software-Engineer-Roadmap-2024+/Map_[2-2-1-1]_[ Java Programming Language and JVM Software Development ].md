@@ -106,6 +106,8 @@
 
 ## JAVA ANNOTATED MONTHLY
 
+* [Java Annotated Monthly – February 2024 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2024/02/java-annotated-monthly-february-2024/)
+
 * [Java Annotated Monthly – January 2024 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2024/01/java-annotated-monthly-january-2024/)
 
 * [Java Annotated Monthly – December 2023 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/12/java-annotated-monthly-december-2023/)
@@ -160,6 +162,8 @@
 * [IntelliJ IDEA 2023.3 Is Out! | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/12/intellij-idea-2023-3/)
 
 ### IntelliJ IDEA Blog
+
+* [Top 10 UI Updates in IntelliJ IDEA for 2023](https://blog.jetbrains.com/idea/2024/01/top-10-ui-updates-in-intellij-idea/)
 
 * [The What, Why, and How of JPA Buddy in IntelliJ IDEA | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/11/jpa-buddy-in-intellij-idea/)
 

@@ -67,6 +67,8 @@
 
 ##### Важные выпуски Visual Studio
 
+* [Visual Studio 2022 17.9 Now Available - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-9-now-available/)
+
 * [Visual Studio 17.8 now available! - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/visual-studio-17-8-now-available/)
 
 * [Visual Studio 2022 – 17.7 Now Available - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-7-now-available/)
@@ -173,6 +175,8 @@
 
 ##### Visual Studio - Повседневные задачи разработчика
 
+* [Visual Studio productivity features in 2023](https://devblogs.microsoft.com/visualstudio/visual-studio-productivity-features-in-2023/)
+
 * [Scroll to expand document tabs](https://devblogs.microsoft.com/visualstudio/scroll-to-expand-document-tabs/)
 
 * [My favorite features in Visual Studio 17.8](https://devblogs.microsoft.com/visualstudio/my-favorite-features-in-visual-studio-17-8/)
@@ -240,6 +244,10 @@
 * [Too many tabs open? No problem! - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/too-many-tabs-open-no-problem/)
 
 ##### Visual Studio - Отладка/тестирование/профилирование
+
+* [In the Debugger’s Spotlight: A Year in Review](https://devblogs.microsoft.com/visualstudio/in-the-debuggers-spotlight-a-year-in-review/)
+
+* [A Look Back: Visual Studio’s Profiling Tool Advancements in 2023](https://devblogs.microsoft.com/visualstudio/a-look-back-visual-studios-profiling-tool-advancements-in-2023/)
 
 * [Introducing the MSTest Runner – CLI, Visual Studio, & More](https://devblogs.microsoft.com/dotnet/introducing-ms-test-runner/)
 
@@ -341,6 +349,8 @@
 
 ##### Улучшения Visual Studio для C# разработчиков
 
+* [My Top 10 NEW Visual Studio Features of 2023 for .NET Developers](https://devblogs.microsoft.com/dotnet/my-top-10-new-visual-studio-features-of-2023-for-dotnet-developers/)
+
 * [Overhauled F# code fixes in Visual Studio - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/overhauled-fsharp-code-fixes-in-visual-studio/)
 
 * [C# Dev Kit - Now Generally Available - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/csharp-dev-kit-now-generally-available/)
@@ -384,6 +394,8 @@
 * [MSBuild and 64-bit Visual Studio 2022 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/msbuild-and-64-bit-visual-studio-2022/)
 
 ##### Улучшения Visual Studio для Web разработчиков
+
+* [Dev Tunnels: A Game Changer for Mobile Developers](https://devblogs.microsoft.com/dotnet/dev-tunnels-a-game-changer-for-mobile-developers/)
 
 * [New React TypeScript SPA Templates and More - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/new-react-typescript-spa-templates-and-more/)
 
@@ -482,6 +494,8 @@
 ### .NET - NuGet
 
 #### ОФИЦИАЛЬНЫЕ АНОНСЫ
+
+* [Announcing NuGet 6.9 - The NuGet Blog (microsoft.com)](https://devblogs.microsoft.com/nuget/announcing-nuget-6-9/)
 
 * [Announcing NuGet 6.8 – Maintaining Security with Ease - The NuGet Blog (microsoft.com)](https://devblogs.microsoft.com/nuget/announcing-nuget-6-8-maintaining-security-with-ease/)
 
@@ -757,6 +771,8 @@
 
 ### .NET Annotated Montly (JetBrains)
 
+* [dotInsights | February 2024 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2024/02/07/dotinsights-february-2024/)
+
 * [.NET Digest | January 2024 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2024/01/08/net-digest-january-2024/)
 
 * [.NET Annotated Monthly | December 2023 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2023/12/11/net-annotated-monthly-december-2023/)
@@ -788,6 +804,8 @@
 * [.NET Annotated Monthly | November 2022 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2022/11/02/net-annotated-monthly-november-2022/)
 
 ### .NET 8 (LTS) - .NET Conf 2023
+
+* [Our Vision for .NET 9](https://devblogs.microsoft.com/dotnet/our-vision-for-dotnet-9/)
 
 * [Announcing .NET 8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/)
 
@@ -908,6 +926,8 @@
 * [EF Core 8 Preview 1: Raw, lazy, and on-time - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-ef8-preview-1/)
 
 * **Нововведения .NET 8**
+
+* [Resilience and chaos engineering](https://devblogs.microsoft.com/dotnet/resilience-and-chaos-engineering/)
 
 * [How to deploy .NET Aspire apps to Azure Container Apps](https://devblogs.microsoft.com/dotnet/how-to-deploy-dotnet-aspire-apps-to-azure-container-apps/)
 
