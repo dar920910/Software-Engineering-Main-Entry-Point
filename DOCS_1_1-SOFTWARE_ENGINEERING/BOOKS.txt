@@ -1,0 +1,58 @@
+- Джон Бентли «Programming Pearls», 2-е изд. (Bentley, 2000)
+- Кент Бек «Extreme Programming Explained: Embrace Change» (Beck, 2000)
+- Стив Мэгуаер «Writing Solid Code — Microsoft’s Techniques for Developing Bug-Free C Software» (Maguire, 1993)
+- Брайан Керниган и Роб Пайк «The Practice of Programming» (Kernighan and Pike, 1999)
+- Сузан Ламмерс «Programmers at Work» (Lammers, 1986)
+- Роберт Л. Гласс «Facts and Fallacies of Software Engineering» (Glass, 2003)
+- Стив Макконнелл «Professional Sofware Development» (2004)
+- «The Swebok: Guide to the Software Engineering Body of Knowledge» (Abran, 2001)
+- Джеральд Вейнберг «The Psychology of Computer Programming» (Weinberg, 1998)
+- «The Mythical Man-Month» (Brooks, 1995)
+- «PeopleWare» (DeMarco and Lister, 1999)
+- «Software Creativity» (Glass, 1995)
+- Роджер С. Прэссман «Software Engineering: A Practitioner’s Approach», 6-е изд. (Pressman, 2004)
+- Иэн Соммервилл «Software Engineering» (Sommerville, 2000)
+
+- «ACM Computing Reviews»
+- www.construx.com/ladder/
+- «IEEE Software», www.computer.org/software/
+- «IEEE Computer», www.computer.org/computer/
+- «Communications of the ACM», www.acm.org/cacm/
+- «The C/C++ Users Journal», www.cuj.com.
+- «Java Developer’s Journal», www.sys-con.com/java/.
+- «Embedded Systems Programming», www.embedded.com.
+- «Linux Journal», www.linuxjournal.com.
+- «Unix Review», www.unixreview.com.
+- «Windows Developer’s Network», www.wd-mag.com.
+
+- Adams, James L. Conceptual Blockbusting: A Guide to Better Ideas, 4th ed. Cambridge, MA: Perseus Publishing, 2001
+- Bentley, Jon. Programming Pearls, 2d ed. Reading, MA: Addison-Wesley, 2000.
+- Glass, Robert L. Facts and Fallacies of Software Engineering. Boston, MA: Addison-Wesley, 2003.
+- McConnell, Steve. Software Project Survival Guide. Redmond, WA: Microsoft Press, 1998.
+- McConnell, Steve. Code Complete, 2d ed. Redmond, WA: Microsoft Press, 2004
+- Berczuk, Stephen P. and Brad Appleton. Software Configuration Management Patterns: Effective Teamwork, Practical Integration. Boston, MA: Addison-Wesley, 2003.
+- Fowler, Martin. UML Distilled: A Brief Guide to the Standard Object Modeling Language, 3d ed. Boston, MA: Addison-Wesley, 2003.
+- Glass, Robert L. Software Creativity. Reading, MA: Addison-Wesley, 1995.
+- Kaner, Cem, Jack Falk, Hung Q. Nguyen Testing Computer Software, 2d ed. New York, NY: John Wiley & Sons, 1999.
+- Larman, Craig. Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and the Unified Process, 2d ed. Englewood Cliffs, NJ: Prentice Hall, 2001.
+- McConnell, Steve. Rapid Development. Redmond, WA: Microsoft Press, 1996.
+- Wiegers, Karl. Software Requirements, 2d ed. Redmond, WA: Microsoft Press, 2003.
+- Manager’s Handbook for Software Development, NASA Goddard Space Flight Center
+- Bass, Len, Paul Clements, and Rick Kazman. Software Architecture in Practice, 2d ed. Boston, MA: Addison-Wesley, 2003.
+- Fowler, Martin. Refactoring: Improving the Design of Existing Code. Reading, MA: Addison-Wesley, 1999.
+- Gamma, Erich, et al. Design Patterns. Reading, MA: Addison-Wesley, 1995.
+- Gilb, Tom. Principles of Software Engineering Management. Wokingham, England: Addison-Wesley, 1988.
+- Maguire, Steve. Writing Solid Code. Redmond, WA: Microsoft Press, 1993.
+- Meyer, Bertrand. Object-Oriented Software Construction, 2d ed. New York, NY: Prentice Hall PTR, 1997.
+- Software Measurement Guidebook, NASA Goddard Space Flight Center. sel.gsfc.nasa.gov/website/documents/online-doc.htm.
+- www.construx.com/professionaldev/
+- Dijkstra, Edsger. «The Humble Programmer.» Turing Award Lecture. Communications of the ACM 15, no. 10 (October 1972): 859–66
+- Weinberg, Gerald M. The Psychology of Computer Programming: Silver Anniversary Edition. New York, NY: Dorset House, 1998.
+- Pirsig, Robert M. Zen and the Art of Motorcycle Maintenance: An Inquiry into Values. William Morrow, 1974
+- Curtis, Bill, ed. Tutorial: Human Factors in Software Development. Los Angeles, CA: IEEE Computer Society Press, 1985. 
+- McConnell, Steve. Professional Software Development. Boston, MA: Addison-Wesley, 2004
+- Эрик Реймонд (Eric Raymond) «The Art of Unix Programming» (2004)
+- Glass, Robert L. Software Conflict: Essays on the Art and Science of Software Engineering. Englewood Cliffs, NJ: Yourdon Press, 1991
+- Jones, Capers. Estimating Software Costs. New York, NY: McGraw-Hill, 1998
+- Boehm, Barry, et al. Software Cost Estimation with Cocomo II. Reading, MA: Addison-Wesley, 2000.
+- РОн ДжеФФРИС, АВтОР КнИГ «exTreme ProgrammIng InSTaLLeD» И «exTreme ProgrammIng aDvenTUreS In C#»
