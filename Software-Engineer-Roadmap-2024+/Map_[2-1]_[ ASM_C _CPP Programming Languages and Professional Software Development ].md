@@ -1119,6 +1119,8 @@
 
 #### MSVC
 
+* [MSVC Backend Updates since Visual Studio 2022 version 17.3](https://devblogs.microsoft.com/cppblog/msvc-backend-updates-since-visual-studio-2022-version-17-3/)
+
 * [MSVC Toolset Minor Version Number 14.40 in VS 2022 v17.10](https://devblogs.microsoft.com/cppblog/msvc-toolset-minor-version-number-14-40-in-vs-2022-v17-10/)
 
 * [Build Reliable and Secure C++ programs — Microsoft Learn - C++ Team Blog](https://devblogs.microsoft.com/cppblog/build-reliable-and-secure-cpp-programs-microsoft-learn/)
@@ -1205,6 +1207,8 @@
 
 #### VCPKG АНОНСЫ
 
+* [What’s New in vcpkg (February 2024)](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-february-2024/)
+
 * [What’s New in vcpkg (January 2024)](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-january-2024/)
 
 * [What’s New in the vcpkg 2023.12.12 Release](https://devblogs.microsoft.com/cppblog/whats-new-in-the-vcpkg-2023-12-12-release/)
@@ -1232,6 +1236,10 @@
 * [vcpkg is Now Included with Visual Studio - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/vcpkg-is-now-included-with-visual-studio/)
 
 #### Улучшения Visual Studio для C++ разработчиков
+
+* [A Year of C++ Game Development Improvements in Visual Studio](https://devblogs.microsoft.com/visualstudio/a-year-of-c-game-development-improvements-in-visual-studio/)
+
+* [Visual Studio 2022 Version 17.9: A Comprehensive Update for C++ Developers](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-version-17-9-a-comprehensive-update-for-c-developers/)
 
 * [What’s New for C++ Developers in Visual Studio 2022 17.9](https://devblogs.microsoft.com/cppblog/whats-new-for-cpp-developers-in-visual-studio-2022-17-9/)
 

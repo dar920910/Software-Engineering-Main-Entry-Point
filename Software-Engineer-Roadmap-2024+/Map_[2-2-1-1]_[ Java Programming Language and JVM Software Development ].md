@@ -106,6 +106,8 @@
 
 ## JAVA ANNOTATED MONTHLY
 
+* [Java Annotated Monthly – March 2024 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2024/03/java-annotated-monthly-march-2024/)
+
 * [Java Annotated Monthly – February 2024 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2024/02/java-annotated-monthly-february-2024/)
 
 * [Java Annotated Monthly – January 2024 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2024/01/java-annotated-monthly-january-2024/)
@@ -570,6 +572,8 @@
 * [Kotlin 1.5.0 – the First Big Release of 2021 | The Kotlin Blog (jetbrains.com)](https://blog.jetbrains.com/kotlin/2021/05/kotlin-1-5-0-released/)
 
 #### ИНТЕРЕСНЫЕ СТАТЬИ
+
+* [Kotlin Roundup: Unveiling the New Compose Multiplatform Release, Amper Update, and More! | The Kotlin Blog (jetbrains.com)](https://blog.jetbrains.com/kotlin/2024/03/kotlin-roundup-feb-march-24/)
 
 * [Kotlin Multiplatform Is Stable and Production-Ready | The Kotlin Blog (jetbrains.com)](https://blog.jetbrains.com/kotlin/2023/11/kotlin-multiplatform-stable/)
 

@@ -306,6 +306,10 @@
 
 ### ПОЛЕЗНЫЕ СТАТЬИ
 
+* [Simple form development using PowerShell - PowerShell Community (microsoft.com)](https://devblogs.microsoft.com/powershell-community/simple-form-development-using-powershell/)
+
+* [Creating a scalable, customised running environment - PowerShell Community (microsoft.com)](https://devblogs.microsoft.com/powershell-community/creating-a-scalable-customised-running-environment/)
+
 * [Hosting PowerShell in a Python script - PowerShell Team (microsoft.com)](https://devblogs.microsoft.com/powershell/hosting-powershell-in-a-python-script/)
 
 * [Optimizing your $Profile - PowerShell Team (microsoft.com)](https://devblogs.microsoft.com/powershell/optimizing-your-profile/)

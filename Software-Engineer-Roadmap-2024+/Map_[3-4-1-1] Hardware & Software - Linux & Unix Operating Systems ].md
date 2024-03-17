@@ -189,6 +189,8 @@
 
 ## LINUX CONTAINERS & VIRTUALIZATION
 
+* [What is a Kubernetes operator? | Ubuntu](https://ubuntu.com//blog/what-is-a-kubernetes-operator)
+
 * [What is a hypervisor? A beginner’s guide | Ubuntu](https://ubuntu.com//blog/hypervisor)
 
 * [What is virtualization? A beginner’s guide | Ubuntu](https://ubuntu.com//blog/virtualization)
@@ -241,6 +243,8 @@
 
 ## LINUX UBUNTU & CLOUD TECHNOLOGIES
 
+* [5 Edge Computing Examples You Should Know | Ubuntu](https://ubuntu.com//blog/edge-computing-examples)
+
 * [Cloud-native infrastructure – When the future meets the present](https://ubuntu.com//blog/cloud-native-infrastructure)
 
 * [Ubuntu Explained: How to ensure security and stability in cloud instances — part 1](https://ubuntu.com/blog/ubuntu-updates-releases-and-repositories-explained)
@@ -275,6 +279,8 @@
 
 ## LINUX UBUNTU & DATABASE SYSTEMS
 
+* [PostgreSQL for AI applications | Ubuntu](https://ubuntu.com//blog/postgresql-ai-application)
+
 * [What is a smartNIC and how is the technology shaping modern data centres? | Ubuntu](https://ubuntu.com//blog/what-is-a-smartnic-and-how-is-the-technology-shaping-modern-data-centres)
 
 * [How to secure your database | Ubuntu](https://ubuntu.com//blog/secure-database)
@@ -290,6 +296,8 @@
 * [Patterns to achieve database High Availability | Ubuntu](https://ubuntu.com//blog/database-high-availability)
 
 ## LINUX UBUNTU & DATA SCIENCE
+
+* [Edge AI: what, why and how with open source | Ubuntu](https://ubuntu.com//blog/edge-ai)
 
 * [Generative AI explained](https://ubuntu.com//blog/generative-ai-explained)
 

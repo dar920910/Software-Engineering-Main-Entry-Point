@@ -76,6 +76,14 @@
 
 ### Официальный блог Docker
 
+* [Are Containers Only for Microservices? Myth Debunked | Docker](https://www.docker.com/blog/are-containers-only-for-microservices-myth-debunked/)
+
+* [Filter Out Security Vulnerability False Positives with VEX | Docker](https://www.docker.com/blog/filter-out-security-vulnerability-false-positives-with-vex/)
+
+* [Revolutionize Your CI/CD Pipeline: Integrating Testcontainers and Bazel | Docker](https://www.docker.com/blog/revolutionize-your-ci-cd-pipeline-integrating-testcontainers-and-bazel/)
+
+* [How to Use Testcontainers on Jenkins CI | Docker](https://www.docker.com/blog/how-to-use-testcontainers-on-jenkins-ci/)
+
 * [8 Top Docker Tips & Tricks for 2024 | Docker](https://www.docker.com/blog/8-top-docker-tips-tricks-for-2024/)
 
 * [The Livecycle Docker Extension: Instantly Share Changes and Get Feedback in Context | Docker](https://www.docker.com/blog/livecycle-docker-extension/)

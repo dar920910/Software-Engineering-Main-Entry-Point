@@ -518,6 +518,8 @@
 
 ### PHP ANNOTATED
 
+* [PHP Annotated – February-March 2024](https://blog.jetbrains.com/phpstorm/2024/03/php-annotated-february-march-2024/)
+
 * [PHP Annotated – January 2024](https://blog.jetbrains.com/phpstorm/2024/01/php-annotated-january-2024/)
 
 * [PHP Annotated – December 2023](https://blog.jetbrains.com/phpstorm/2023/12/php-annotated-december-2023/)

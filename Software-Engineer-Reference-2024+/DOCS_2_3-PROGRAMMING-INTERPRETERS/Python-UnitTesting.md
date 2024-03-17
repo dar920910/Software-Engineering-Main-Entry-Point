@@ -32,3 +32,5 @@
 [Fast and reliable end-to-end testing for modern web apps | Playwright Python](https://playwright.dev/python/)
 
 [Allure Framework](https://docs.qameta.io/allure/)
+
+[Pytest vs. Unittest: Which Is Better? | The PyCharm Blog](https://blog.jetbrains.com/pycharm/2024/03/pytest-vs-unittest/)

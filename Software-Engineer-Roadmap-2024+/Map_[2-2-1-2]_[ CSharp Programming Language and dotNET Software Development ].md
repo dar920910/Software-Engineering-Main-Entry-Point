@@ -93,6 +93,8 @@
 
 ##### Новые возможности Visual Studio 2022
 
+* [Visual Studio’s Full Year in Review (2023)](https://devblogs.microsoft.com/visualstudio/visual-studios-full-year-in-review-2023/)
+
 * [2023 – a year of community experiments](https://devblogs.microsoft.com/visualstudio/2023-a-year-of-community-experiments/)
 
 * [Design your Web Forms apps with Web Live Preview in Visual Studio 2022 - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/design-your-web-forms-apps-with-web-live-preview-in-visual-studio-2022/)
@@ -315,6 +317,10 @@
 
 ##### Visual Studio - Поддержка расширений
 
+* [A Streamlined Extension Manager comes to Visual Studio 17.9](https://devblogs.microsoft.com/visualstudio/a-streamlined-extension-manager-comes-to-visual-studio-17-9/)
+
+* [VisualStudio.Extensibility: Install extensions without restarting Visual Studio!](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-9/)
+
 * [Learn to write Visual Studio extensions - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/learn-to-write-visual-studio-extensions/)
 
 * [The Future of Visual Studio Extensibility is Here! - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/the-future-of-visual-studio-extensibility-is-here/)
@@ -333,6 +339,8 @@
 
 ##### Visual Studio - Функции искусственного интеллекта
 
+* [GitHub Copilot in Visual Studio: A Recap of 2023](https://devblogs.microsoft.com/visualstudio/github-copilot-in-visual-studio-a-recap-of-2023/)
+
 * [Naming Made Easy: AI-Powered Rename Suggestions](https://devblogs.microsoft.com/visualstudio/ai-powered-rename-suggestions/)
 
 * [GitHub Copilot in Visual Studio 2022 - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/github-copilot-in-visual-studio-2022/)
@@ -348,6 +356,10 @@
 * [What’s New in SSDT 17.6: Ledger, Performance, Copilot - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/whats-new-in-ssdt-17-6-ledger-performance-copilot/)
 
 ##### Улучшения Visual Studio для C# разработчиков
+
+* [WinForms Designer Selection for 32-bit .NET Framework Projects](https://devblogs.microsoft.com/visualstudio/winforms-designer-selection-for-32-bit-net-framework-projects/)
+
+* [Unity extension for Visual Studio Code – Now Generally Available](https://devblogs.microsoft.com/dotnet/unity-extension-for-visual-studio-code-now-generally-available/)
 
 * [My Top 10 NEW Visual Studio Features of 2023 for .NET Developers](https://devblogs.microsoft.com/dotnet/my-top-10-new-visual-studio-features-of-2023-for-dotnet-developers/)
 
@@ -513,6 +525,8 @@
 
 #### ИНТЕРЕСНЫЕ СТАТЬИ
 
+* [Refining Your Search: Introducing NuGet.org’s Compatible Framework Filters](https://devblogs.microsoft.com/nuget/refining-your-search-introducing-nuget-orgs-compatible-framework-filters/)
+
 * [Introducing NuGetSolver: A Powerful Tool for Resolving NuGet Dependency Conflicts in Visual Studio](https://devblogs.microsoft.com/nuget/introducing-nugetsolver-a-powerful-tool-for-resolving-nuget-dependency-conflicts-in-visual-studio/)
 
 * [Write a high-quality README for NuGet packages - The NuGet Blog (microsoft.com)](https://devblogs.microsoft.com/nuget/write-a-high-quality-readme-for-nuget-packages/)
@@ -636,6 +650,8 @@
 ---
 
 ### .NET - GitHub Actions
+
+* [Developing Optimized GitHub Actions with .NET and Native AOT](https://devblogs.microsoft.com/dotnet/developing-optimized-github-actions-with-net-and-native-aot/)
 
 * [.NET 💜 GitHub Actions: Intro to GitHub Actions for .NET - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/dotnet-loves-github-actions/)
 
@@ -770,6 +786,10 @@
 ## .NET - .NET 6/7/8 Platforms & .NET Development Blog News
 
 ### .NET Annotated Montly (JetBrains)
+
+* [Critical Thinking in an AI-Powered World | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2024/02/27/critical-thinking-in-an-ai-powered-world/)
+
+* [dotInsights | March 2024 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2024/03/07/dotinsights-march-2024/)
 
 * [dotInsights | February 2024 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2024/02/07/dotinsights-february-2024/)
 
@@ -926,6 +946,14 @@
 * [EF Core 8 Preview 1: Raw, lazy, and on-time - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-ef8-preview-1/)
 
 * **Нововведения .NET 8**
+
+* [Get started with .NET 8 and AI using new quickstart tutorials](https://devblogs.microsoft.com/dotnet/get-started-with-dotnet-ai-quickstarts/)
+
+* [Get Started with Milvus Vector DB in .NET](https://devblogs.microsoft.com/dotnet/get-started-milvus-vector-db-dotnet/)
+
+* [Introducing ASP.NET Core metrics and Grafana dashboards in .NET 8](https://devblogs.microsoft.com/dotnet/introducing-aspnetcore-metrics-and-grafana-dashboards-in-dotnet-8/)
+
+* [WinForms in a 64-Bit world – our strategy going forward](https://devblogs.microsoft.com/dotnet/winforms-designer-64-bit-path-forward/)
 
 * [Resilience and chaos engineering](https://devblogs.microsoft.com/dotnet/resilience-and-chaos-engineering/)
 
@@ -1357,6 +1385,8 @@
 
 * Полезные статьи для чтения
 
+* [The FAST and the Fluent: A Blazor story](https://devblogs.microsoft.com/dotnet/the-fast-and-the-fluent-a-blazor-story/)
+
 * [Sortable Lists for Blazor using a SortableJS Component](https://devblogs.microsoft.com/dotnet/introducing-blazor-sortable/)
 
 * [The future of ASP.NET SignalR - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/the-future-of-asp-net-signalr/)
@@ -1430,6 +1460,8 @@
 * [Announcing .NET MAUI Preview 4 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-4/)
 
 * Полезные статьи для изучения MAUI
+
+* [.NET MAUI Community Toolkit 2023 Highlights](https://devblogs.microsoft.com/dotnet/dotnet-maui-community-toolkit-2023-highlights/)
 
 * [Building 3D Applications and Content with .NET MAUI and Evergine - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/dotnet-maui-3d-app-with-evergine/)
 
