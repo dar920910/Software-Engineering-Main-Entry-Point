@@ -42,6 +42,14 @@
 
 ## ОФИЦИАЛЬНЫЕ ВЫПУСКИ JAVA
 
+### Java 22
+
+* [The Arrival of Java 22 (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-22)
+
+* [The Arrival of Java 22! – Inside.java](https://inside.java/2024/03/19/the-arrival-of-java-22/)
+
+* [Announcing Oracle GraalVM for JDK 22 (oracle.com)](https://blogs.oracle.com/java/post/oracle-graalvm-for-jdk-22)
+
 ### Java 21
 
 * [The Arrival of Java 21 (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-21)
@@ -164,6 +172,12 @@
 * [IntelliJ IDEA 2023.3 Is Out! | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/12/intellij-idea-2023-3/)
 
 ### IntelliJ IDEA Blog
+
+* [Java 22 and IntelliJ IDEA](https://blog.jetbrains.com/idea/2024/03/java-22-and-intellij-idea/)
+
+* [Getting Started with Databases in IntelliJ IDEA](https://blog.jetbrains.com/idea/2024/03/getting-started-with-databases-in-intellij-idea/)
+
+* [What is static code analysis?](https://blog.jetbrains.com/qodana/2024/03/what-is-static-code-analysis/)
 
 * [Top 10 UI Updates in IntelliJ IDEA for 2023](https://blog.jetbrains.com/idea/2024/01/top-10-ui-updates-in-intellij-idea/)
 

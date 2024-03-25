@@ -947,6 +947,8 @@
 
 * **Нововведения .NET 8**
 
+* [Introducing .NET Smart Components – AI-powered UI controls](https://devblogs.microsoft.com/dotnet/introducing-dotnet-smart-components/)
+
 * [Get started with .NET 8 and AI using new quickstart tutorials](https://devblogs.microsoft.com/dotnet/get-started-with-dotnet-ai-quickstarts/)
 
 * [Get Started with Milvus Vector DB in .NET](https://devblogs.microsoft.com/dotnet/get-started-milvus-vector-db-dotnet/)

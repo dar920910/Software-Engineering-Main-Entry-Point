@@ -76,6 +76,8 @@
 
 ### Официальный блог Docker
 
+* [11 Years of Docker: Shaping the Next Decade of Development | Docker](https://www.docker.com/blog/docker-11-year-anniversary/)
+
 * [Are Containers Only for Microservices? Myth Debunked | Docker](https://www.docker.com/blog/are-containers-only-for-microservices-myth-debunked/)
 
 * [Filter Out Security Vulnerability False Positives with VEX | Docker](https://www.docker.com/blog/filter-out-security-vulnerability-false-positives-with-vex/)

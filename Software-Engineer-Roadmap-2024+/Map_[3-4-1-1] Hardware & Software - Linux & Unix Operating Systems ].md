@@ -297,6 +297,8 @@
 
 ## LINUX UBUNTU & DATA SCIENCE
 
+* [A deep dive into Kubeflow pipelines | Ubuntu](https://ubuntu.com//blog/deep-dive-kubeflow-pipelines)
+
 * [Edge AI: what, why and how with open source | Ubuntu](https://ubuntu.com//blog/edge-ai)
 
 * [Generative AI explained](https://ubuntu.com//blog/generative-ai-explained)
