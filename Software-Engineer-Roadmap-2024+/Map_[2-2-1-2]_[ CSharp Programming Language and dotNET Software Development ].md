@@ -555,6 +555,8 @@
 
 ### .NET - MSBuild
 
+* [A new MSBuild editing experience](https://devblogs.microsoft.com/visualstudio/experimental-msbuild-editor/)
+
 * **MSBuild - [MSBuild - MSBuild | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild?view=vs-2022)**
 
 * MSBuild - [MSBuild - MSBuild | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild?view=vs-2022)

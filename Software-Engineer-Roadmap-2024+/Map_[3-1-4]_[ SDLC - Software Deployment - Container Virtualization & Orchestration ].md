@@ -76,6 +76,10 @@
 
 ### Официальный блог Docker
 
+* [Is Your Container Image Really Distroless? | Docker](https://www.docker.com/blog/is-your-container-image-really-distroless/)
+
+* [containerd vs. Docker: Understanding Their Relationship and How They Work Together | Docker](https://www.docker.com/blog/containerd-vs-docker/)
+
 * [11 Years of Docker: Shaping the Next Decade of Development | Docker](https://www.docker.com/blog/docker-11-year-anniversary/)
 
 * [Are Containers Only for Microservices? Myth Debunked | Docker](https://www.docker.com/blog/are-containers-only-for-microservices-myth-debunked/)

@@ -587,6 +587,8 @@
 
 #### ИНТЕРЕСНЫЕ СТАТЬИ
 
+* [K2 Kotlin Mode (Alpha) in IntelliJ IDEA](https://blog.jetbrains.com/idea/2024/03/k2-kotlin-mode-alpha-in-intellij-idea/)
+
 * [Kotlin Roundup: Unveiling the New Compose Multiplatform Release, Amper Update, and More! | The Kotlin Blog (jetbrains.com)](https://blog.jetbrains.com/kotlin/2024/03/kotlin-roundup-feb-march-24/)
 
 * [Kotlin Multiplatform Is Stable and Production-Ready | The Kotlin Blog (jetbrains.com)](https://blog.jetbrains.com/kotlin/2023/11/kotlin-multiplatform-stable/)
