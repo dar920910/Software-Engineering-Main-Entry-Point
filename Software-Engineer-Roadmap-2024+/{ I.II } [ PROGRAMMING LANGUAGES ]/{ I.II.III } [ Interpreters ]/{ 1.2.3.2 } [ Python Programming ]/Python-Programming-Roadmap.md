@@ -1,8 +1,8 @@
-# Common-Purpose Interpreters ( Python + PHP + Perl + Ruby + Lua )
+# Python Programming Roadmap
 
 ---
 
-## [ 2.4.1 ] Python Programming
+## Python Programming Fundamentals
 
 ### Седер Н. - "Python. Экспресс-курс" ( 2019, 3 издание )
 
