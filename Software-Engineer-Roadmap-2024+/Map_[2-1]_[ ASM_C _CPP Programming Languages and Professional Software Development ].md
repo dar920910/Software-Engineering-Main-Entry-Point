@@ -1207,6 +1207,8 @@
 
 #### VCPKG АНОНСЫ
 
+* [What’s New in vcpkg (March 2024)](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-march-2024/)
+
 * [What’s New in vcpkg (February 2024)](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-february-2024/)
 
 * [What’s New in vcpkg (January 2024)](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-january-2024/)

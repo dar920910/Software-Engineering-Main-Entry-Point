@@ -114,6 +114,8 @@
 
 ## JAVA ANNOTATED MONTHLY
 
+* [Java Annotated Monthly – April 2024 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2024/04/java-annotated-monthly-april-2024/)
+
 * [Java Annotated Monthly – March 2024 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2024/03/java-annotated-monthly-march-2024/)
 
 * [Java Annotated Monthly – February 2024 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2024/02/java-annotated-monthly-february-2024/)

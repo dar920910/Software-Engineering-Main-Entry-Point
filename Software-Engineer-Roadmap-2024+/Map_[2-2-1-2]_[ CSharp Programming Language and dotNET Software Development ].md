@@ -791,6 +791,8 @@
 
 * [Critical Thinking in an AI-Powered World | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2024/02/27/critical-thinking-in-an-ai-powered-world/)
 
+* [dotInsights | April 2024 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2024/04/03/dotinsights-april-2024/)
+
 * [dotInsights | March 2024 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2024/03/07/dotinsights-march-2024/)
 
 * [dotInsights | February 2024 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2024/02/07/dotinsights-february-2024/)
@@ -948,6 +950,12 @@
 * [EF Core 8 Preview 1: Raw, lazy, and on-time - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-ef8-preview-1/)
 
 * **Нововведения .NET 8**
+
+* [Making AI powered .NET apps more consistent and intelligent with Redis](https://devblogs.microsoft.com/dotnet/redis-makes-intelligent-apps-smarter-and-consistent/)
+
+* [Testing Your Native AOT Applications](https://devblogs.microsoft.com/dotnet/testing-your-native-aot-dotnet-apps/)
+
+* [Bing on .NET 8: The Impact of Dynamic PGO](https://devblogs.microsoft.com/dotnet/bing-on-dotnet-8-the-impact-of-dynamic-pgo/)
 
 * [Introducing .NET Smart Components – AI-powered UI controls](https://devblogs.microsoft.com/dotnet/introducing-dotnet-smart-components/)
 
