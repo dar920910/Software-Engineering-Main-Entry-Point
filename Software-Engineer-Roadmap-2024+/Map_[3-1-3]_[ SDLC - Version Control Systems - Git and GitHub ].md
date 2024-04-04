@@ -30,6 +30,14 @@
   * Chapter 18 - Common Git Problems
   * Chapter 19 - Git and GitHub Workflow
 
+Наиболее интересная информация:
+
+* *Chapter 12 - Better Project Management: Pull Requests*
+* *Chapter 13 - Conflicts*
+* *Chapter 14 - More About Conflicts*
+* *Chapter 18 - Common Git Problems*
+* *Chapter 19 - Git and GitHub Workflow*
+
 ### Geisshirt K., Zattin E., Ollson A., Voss R. - "Git Version Control Cookbook" ( 2018 )
 
 * Chapter 1 - Navigating Git
