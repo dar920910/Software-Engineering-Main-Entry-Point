@@ -16,6 +16,12 @@
 * Chapter 8 - Automating Tasks
 * Chapter 9 - Running and Debugging Code
 
+Наиболее интересная информация:
+
+* *Chapter 7 - Source Control with Git*
+* *Chapter 8 - Automating Tasks*
+* *Chapter 9 - Running and Debugging Code*
+
 ### Johnson B. - "Visual Studio Code - End-to-End Editing and Debugging Tools for Web Developers" ( 2019 )
 
 * Chapter 1 - Introducing Visual Studio Code
@@ -28,6 +34,14 @@
 * Chapter 8 - Unit Testing
 * Chapter 9 - Working with Extensions
 * Chapter 10 - Creating Your Own Extensions
+
+Наиболее интересная информация:
+
+* *Chapter 5 - Integrating with Source Control*
+* *Chapter 6 - Debugging Code*
+* *Chapter 7 - External Tools and Task Automation*
+* *Chapter 8 - Unit Testing*
+* *Chapter 10 - Creating Your Own Extensions*
 
 ---
 
