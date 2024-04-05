@@ -8,19 +8,13 @@ todo
 
 ---
 
-## .NET Core
-
-todo
-
----
-
 ## .NET Framework
 
 ### Official Resources
 
 - [Download .NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 - [.NET Framework Documentation | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/framework/)
-- [.NET Frameworl Releases | microsoft/dotnet (GitHub)](https://github.com/microsoft/dotnet/tree/main/releases)
+- [.NET Framework Releases | microsoft/dotnet (GitHub)](https://github.com/microsoft/dotnet/tree/main/releases)
 - [.NET Framework by Microsoft | Docker Hub](https://hub.docker.com/_/microsoft-dotnet-framework)
 
 ### .NET Framework Versions
