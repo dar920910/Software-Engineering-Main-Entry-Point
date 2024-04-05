@@ -2,12 +2,6 @@
 
 ---
 
-## Modern .NET
-
-todo
-
----
-
 ## .NET Framework
 
 ### Official Resources
