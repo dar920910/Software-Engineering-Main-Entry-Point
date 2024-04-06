@@ -606,8 +606,6 @@
 
 * [Our Vision for .NET 9](https://devblogs.microsoft.com/dotnet/our-vision-for-dotnet-9/)
 
-* [Announcing .NET 8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/)
-
 * [Announcing C# 12 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-csharp-12/)
 
 * [Announcing F# 8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-fsharp-8/)
@@ -650,8 +648,6 @@
 
 * .NET 8 RC 2
 
-* [Announcing .NET 8 Release Candidate 2 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-rc2/)
-
 * [ASP.NET Core updates in .NET 8 Release Candidate 2 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-rc-2/)
 
 * [EF Core 8 Release Candidate 2: Smaller features in EF8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-ef8-rc2/)
@@ -659,8 +655,6 @@
 * [Announcing .NET MAUI in .NET 8 Release Candidate 2: More Quality - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8-rc-2/)
 
 * .NET 8 RC 1
-
-* [Announcing .NET 8 RC1 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-rc1/)
 
 * [ASP.NET Core updates in .NET 8 Release Candidate 1 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-rc-1/)
 
@@ -670,15 +664,11 @@
 
 * .NET 8 Preview 7
 
-* [Announcing .NET 8 Preview 7 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-7/)
-
 * [Announcing .NET MAUI in .NET 8 Preview 7: Keyboard Accelerators - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8-preview-7/)
 
 * [ASP.NET Core updates in .NET 8 Preview 7 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-7/)
 
 * .NET 8 Preview 6
-
-* [Announcing .NET 8 Preview 6 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-6/)
 
 * [Announcing .NET MAUI in .NET 8 Preview 6: Hello VS Code & VS for Mac - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8-preview-6/)
 
@@ -686,15 +676,11 @@
 
 * .NET 8 Preview 5
 
-* [Announcing .NET 8 Preview 5 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-5/)
-
 * [ASP.NET Core updates in .NET 8 Preview 5 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-5/)
 
 * [Announcing .NET MAUI in .NET 8 Preview 5 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8-preview-5/)
 
 * .NET 8 Preview 4
-
-* [Announcing .NET 8 Preview 4 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-4/)
 
 * [ASP.NET Core updates in .NET 8 Preview 4 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-4/)
 
@@ -702,23 +688,17 @@
 
 * .NET 8 Preview 3
 
-* [Announcing .NET 8 Preview 3 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-3/)
-
 * [ASP.NET Core updates in .NET 8 Preview 3 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-3/)
 
 * [Announcing .NET MAUI in .NET 8 Preview 3 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8-preview-3/)
 
 * .NET 8 Preview 2
 
-* [Announcing .NET 8 Preview 2 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-2/)
-
 * [ASP.NET Core updates in .NET 8 Preview 2 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-2/)
 
 * [EF Core 8 Preview 2: Lite and familiar - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-ef8-preview-2/)
 
 * .NET 8 Preview 1
-
-* [Announcing .NET 8 Preview 1 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-1/)
 
 * [ASP.NET Core updates in .NET 8 Preview 1 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-1/)
 
@@ -802,8 +782,6 @@
 
 * Официальный релиз .NET 7
 
-* [.NET 7 is Available Today - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/)
-
 * [Announcing .NET MAUI for .NET 7 General Availability - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/dotnet-maui-dotnet-7/)
 
 * [Announcing ASP.NET Core in .NET 7 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-dotnet-7/)
@@ -817,26 +795,6 @@
 * [Welcome to C# 11 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/welcome-to-csharp-11/)
 
 * [Announcing F# 7 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-fsharp-7/)
-
-* Предварительные релизы .NET 7
-
-* [Announcing .NET 7 Release Candidate 2 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-rc-2/)
-
-* [Announcing .NET 7 Release Candidate 1 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-rc-1/)
-
-* [Announcing .NET 7 Preview 7 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-7/)
-
-* [Announcing .NET 7 Preview 6 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-6/)
-
-* [Announcing .NET 7 Preview 5 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-5/)
-
-* [Announcing .NET 7 Preview 4 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-4/)
-
-* [Announcing .NET 7 Preview 3 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-3/)
-
-* [Announcing .NET 7 Preview 2 - The New, 'New' Experience - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-2/)
-
-* [Announcing .NET 7 Preview 1 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-net-7-preview-1/)
 
 * Обзор нововведений в .NET 7
 
@@ -890,8 +848,6 @@
 
 * Официальный релиз .NET 6
 
-* [Announcing .NET 6 - The Fastest .NET Yet - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-net-6/)
-
 * [Announcing dotnet monitor in .NET 6 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-monitor-in-net-6/)
 
 * [Announcing YARP 1.0 Release - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-yarp-1-0-release/)
@@ -901,26 +857,6 @@
 * [F# 6 is officially here! - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/fsharp-6-is-officially-here/)
 
 * [What’s New for Visual Basic in Visual Studio 2022 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/whats-new-for-visual-basic-in-visual-studio-2022/)
-
-* Предварительные релизы .NET 6
-
-* [Announcing .NET 6 Release Candidate 2 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-net-6-release-candidate-2/)
-
-* [Announcing .NET 6 Release Candidate 1 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-net-6-release-candidate-1/)
-
-* [Announcing .NET 6 Preview 7 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-7/)
-
-* [Announcing .NET 6 Preview 6 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-6/)
-
-* [Announcing .NET 6 Preview 5 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-5/)
-
-* [Announcing .NET 6 Preview 4 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-4/)
-
-* [Announcing .NET 6 Preview 3 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-3/)
-
-* [Announcing .NET 6 Preview 2 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-2/)
-
-* [Announcing .NET 6 Preview 1 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/)
 
 * Обзор нововведений в .NET 6
 
