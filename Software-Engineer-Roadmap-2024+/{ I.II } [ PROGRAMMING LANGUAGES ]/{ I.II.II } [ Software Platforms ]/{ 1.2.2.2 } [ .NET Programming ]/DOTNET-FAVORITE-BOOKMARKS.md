@@ -88,12 +88,6 @@
 
 [Themes of .NET](https://themesof.net/)
 
-[NUnit.org](https://nunit.org/index.html)
-
-[NUnit Documentation Site | NUnit Docs](https://docs.nunit.org/index.html)
-
-[Home > xUnit.net](https://xunit.net/)
-
 [C# Corner - Community of Software and Data Developers](https://www.c-sharpcorner.com/)
 
 [csharp.christiannagel.com – Christian Nagel about C#, ASP.NET Core, UWP, Xamarin, Azure, and more](https://csharp.christiannagel.com/)
@@ -427,8 +421,6 @@
 [C# in Depth](https://csharpindepth.com/)
 
 [bUnit-dev/bUnit: bUnit is a testing library for Blazor components that make tests look, feel, and runs like regular unit tests. bUnit makes it easy to render and control a component under test’s life-cycle, pass parameter and inject services into it, trigger event handlers, and verify the rendered markup from the component using a built-in semantic HTML comparer.](https://github.com/bUnit-dev/bUnit)
-
-[microsoft/testfx: MSTest framework and adapter](https://github.com/microsoft/testfx)
 
 [An Introduction To ASP.NET Razor Pages | Learn Razor Pages](https://www.learnrazorpages.com/)
 
