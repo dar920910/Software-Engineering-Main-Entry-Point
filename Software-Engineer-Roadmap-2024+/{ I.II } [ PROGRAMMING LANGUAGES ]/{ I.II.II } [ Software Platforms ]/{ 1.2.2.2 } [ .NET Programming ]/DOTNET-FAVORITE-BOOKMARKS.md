@@ -86,11 +86,7 @@
 
 [Xamarin App Development with Visual Studio | Visual Studio](https://visualstudio.microsoft.com/xamarin/)
 
-[NuGet Gallery | Home](https://www.nuget.org/)
-
 [Themes of .NET](https://themesof.net/)
-
-[NuGet documentation | Microsoft Learn](https://learn.microsoft.com/en-us/nuget/)
 
 [NUnit.org](https://nunit.org/index.html)
 
@@ -101,8 +97,6 @@
 [C# Corner - Community of Software and Data Developers](https://www.c-sharpcorner.com/)
 
 [csharp.christiannagel.com – Christian Nagel about C#, ASP.NET Core, UWP, Xamarin, Azure, and more](https://csharp.christiannagel.com/)
-
-[NuGet Must Haves Packages - NuGet Must Haves Package](https://nugetmusthaves.com/)
 
 [Home | Mono](https://www.mono-project.com/)
 
