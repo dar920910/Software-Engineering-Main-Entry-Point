@@ -154,10 +154,6 @@
 
 [dotnet/fsharp: The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio](https://github.com/dotnet/fsharp)
 
-[MSBuild - MSBuild | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild?view=vs-2022)
-
-[dotnet/msbuild: The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.](https://github.com/dotnet/msbuild)
-
 [NuGet Gallery | Microsoft.NETCore.ILDAsm 7.0.0](https://www.nuget.org/packages/Microsoft.NETCore.ILDAsm/)
 
 [RestSharp](https://restsharp.dev/)

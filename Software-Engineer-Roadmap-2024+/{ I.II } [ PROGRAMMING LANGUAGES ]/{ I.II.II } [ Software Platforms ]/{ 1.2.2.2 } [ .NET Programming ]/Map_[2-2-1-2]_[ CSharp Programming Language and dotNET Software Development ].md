@@ -403,8 +403,6 @@
 
 * [Debugging .NET Containers with Visual Studio Code Docker Tools - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/debugging-dotnet-containers-with-visual-studio-code-docker-tools/)
 
-* [MSBuild and 64-bit Visual Studio 2022 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/msbuild-and-64-bit-visual-studio-2022/)
-
 ##### Улучшения Visual Studio для Web разработчиков
 
 * [Dev Tunnels: A Game Changer for Mobile Developers](https://devblogs.microsoft.com/dotnet/dev-tunnels-a-game-changer-for-mobile-developers/)
@@ -500,30 +498,6 @@
 * [EditorConfig, Code Style, and Configuring Code Inspections | The JetBrains Blog](https://blog.jetbrains.com/dotnet/2023/07/18/editorconfig-code-style-and-configuring-code-inspections/)
 
 * [Reverse Engineering Existing Databases with Entity Framework Core | The JetBrains Blog](https://blog.jetbrains.com/dotnet/2023/07/20/reverse-engineering-existing-databases-with-entity-framework-core/)
-
----
-
-### .NET - MSBuild
-
-* [A new MSBuild editing experience](https://devblogs.microsoft.com/visualstudio/experimental-msbuild-editor/)
-
-* **MSBuild - [MSBuild - MSBuild | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild?view=vs-2022)**
-
-* MSBuild - [MSBuild - MSBuild | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild?view=vs-2022)
-
-* MSBuild Tutorials - [Use MSBuild - MSBuild | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/msbuild/walkthrough-using-msbuild?view=vs-2022)
-
-* MSBuild Concepts - [MSBuild Concepts - MSBuild | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-concepts?view=vs-2022)
-
-* Advanced Concepts - [MSBuild Best Practices - MSBuild | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-best-practices?view=vs-2022)
-
-* Logging - [Obtaining Build Logs with MSBuild - MSBuild | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/msbuild/obtaining-build-logs-with-msbuild?view=vs-2022)
-
-* MSBuild Reference - [MSBuild Reference - MSBuild | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-reference?view=vs-2022)
-
-* Use MSBuild programmatically - [MSBuild API - MSBuild | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-api?view=vs-2022)
-
-* MSBuild Glossary - [MSBuild glossary - MSBuild | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-glossary?view=vs-2022)
 
 ---
 
