@@ -546,8 +546,6 @@
 
 * [Announcing ASP.NET Core in .NET 8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-dotnet-8/)
 
-* [Announcing .NET MAUI in .NET 8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8/)
-
 * [Introducing .NET Aspire: Simplifying Cloud-Native Development with .NET 8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-simplifying-cloud-native-development-with-dotnet-8/)
 
 * [Collections | Microsoft Learn](https://learn.microsoft.com/en-us/collections/odr5beo72wn3n3?wt.mc_id=dotnetconf_learncollection_video_DevRelStudios)
@@ -584,33 +582,23 @@
 
 * [EF Core 8 Release Candidate 2: Smaller features in EF8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-ef8-rc2/)
 
-* [Announcing .NET MAUI in .NET 8 Release Candidate 2: More Quality - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8-rc-2/)
-
 * .NET 8 RC 1
 
 * [ASP.NET Core updates in .NET 8 Release Candidate 1 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-rc-1/)
 
 * [EF Core 8 RC1: Complex types as value objects - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-ef8-rc1/)
 
-* [Announcing .NET MAUI in .NET 8 Release Candidate 1: Quality - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8-rc-1/)
-
 * .NET 8 Preview 7
-
-* [Announcing .NET MAUI in .NET 8 Preview 7: Keyboard Accelerators - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8-preview-7/)
 
 * [ASP.NET Core updates in .NET 8 Preview 7 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-7/)
 
 * .NET 8 Preview 6
-
-* [Announcing .NET MAUI in .NET 8 Preview 6: Hello VS Code & VS for Mac - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8-preview-6/)
 
 * [ASP.NET Core updates in .NET 8 Preview 6 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-6/)
 
 * .NET 8 Preview 5
 
 * [ASP.NET Core updates in .NET 8 Preview 5 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-5/)
-
-* [Announcing .NET MAUI in .NET 8 Preview 5 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8-preview-5/)
 
 * .NET 8 Preview 4
 
@@ -621,8 +609,6 @@
 * .NET 8 Preview 3
 
 * [ASP.NET Core updates in .NET 8 Preview 3 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-3/)
-
-* [Announcing .NET MAUI in .NET 8 Preview 3 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8-preview-3/)
 
 * .NET 8 Preview 2
 
@@ -665,8 +651,6 @@
 * [The convenience of System.IO - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/the-convenience-of-system-io/)
 
 * [What's new with identity in .NET 8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/whats-new-with-identity-in-dotnet-8/)
-
-* [.NET 8 Performance Improvements in .NET MAUI - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/dotnet-8-performance-improvements-in-dotnet-maui/)
 
 * [Performance Improvements in ASP.NET Core 8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-8/)
 
@@ -714,8 +698,6 @@
 
 * Официальный релиз .NET 7
 
-* [Announcing .NET MAUI for .NET 7 General Availability - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/dotnet-maui-dotnet-7/)
-
 * [Announcing ASP.NET Core in .NET 7 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-dotnet-7/)
 
 * [Entity Framework Core 7 (EF7) is available today - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-ef7/)
@@ -745,8 +727,6 @@
 * [What's new in System.Text.Json in .NET 7 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/system-text-json-in-dotnet-7/)
 
 * [Performance improvements in ASP.NET Core 7 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-7/)
-
-* [.NET 7 Performance Improvements in .NET MAUI - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/dotnet-7-performance-improvements-in-dotnet-maui/)
 
 * [.NET 7 Networking Improvements - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/dotnet-7-networking-improvements/)
 
@@ -1042,28 +1022,6 @@
 
 * [Announcing the .NET MAUI Community Toolkit v1.3 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-maui-community-toolkit-v13/)
 
-* [.NET MAUI Release Candidate 3 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-3/)
-
-* [.NET MAUI Release Candidate 2 - With 100% More Tizen - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-2/)
-
-* [.NET MAUI Release Candidate - Ready for cross-platform app development - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-1/)
-
-* [Announcing .NET MAUI Preview 14 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/dotnet-maui-preview-14/)
-
-* [Announcing .NET MAUI Preview 12 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-12/)
-
-* [Announcing .NET MAUI Preview 11 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-preview-11/)
-
-* [Announcing .NET MAUI Preview 10 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-10/)
-
-* [Announcing .NET MAUI Preview 9 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-9/)
-
-* [Announcing .NET MAUI Preview 7 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-7/)
-
-* [Announcing .NET MAUI Preview 5 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-5/)
-
-* [Announcing .NET MAUI Preview 4 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-4/)
-
 * Полезные статьи для изучения MAUI
 
 * [.NET MAUI Community Toolkit 2023 Highlights](https://devblogs.microsoft.com/dotnet/dotnet-maui-community-toolkit-2023-highlights/)
@@ -1071,8 +1029,6 @@
 * [Building 3D Applications and Content with .NET MAUI and Evergine - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/dotnet-maui-3d-app-with-evergine/)
 
 * [Update on .NET Multi-platform App UI (.NET MAUI) - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/update-on-dotnet-maui/)
-
-* [Introducing .NET MAUI - One Codebase, Many Platforms - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/introducing-dotnet-maui-one-codebase-many-platforms/)
 
 * [The New .NET Multi-platform App UI - Xamarin Blog (microsoft.com)](https://devblogs.microsoft.com/xamarin/the-new-net-multi-platform-app-ui-maui/)
 
