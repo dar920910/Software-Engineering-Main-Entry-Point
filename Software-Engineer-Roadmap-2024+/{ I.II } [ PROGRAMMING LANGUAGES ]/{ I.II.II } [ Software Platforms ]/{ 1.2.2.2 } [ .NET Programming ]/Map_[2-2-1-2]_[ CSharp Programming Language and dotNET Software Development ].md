@@ -542,8 +542,6 @@
 
 * [Announcing F# 8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-fsharp-8/)
 
-* [Entity Framework Core 8 (EF8) is available today - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-ef8/)
-
 * [Announcing ASP.NET Core in .NET 8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-dotnet-8/)
 
 * [Introducing .NET Aspire: Simplifying Cloud-Native Development with .NET 8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-simplifying-cloud-native-development-with-dotnet-8/)
@@ -580,13 +578,9 @@
 
 * [ASP.NET Core updates in .NET 8 Release Candidate 2 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-rc-2/)
 
-* [EF Core 8 Release Candidate 2: Smaller features in EF8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-ef8-rc2/)
-
 * .NET 8 RC 1
 
 * [ASP.NET Core updates in .NET 8 Release Candidate 1 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-rc-1/)
-
-* [EF Core 8 RC1: Complex types as value objects - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-ef8-rc1/)
 
 * .NET 8 Preview 7
 
@@ -604,8 +598,6 @@
 
 * [ASP.NET Core updates in .NET 8 Preview 4 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-4/)
 
-* [EF Core 8 Preview 4: Primitive collections and improved Contains - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-ef8-preview-4/)
-
 * .NET 8 Preview 3
 
 * [ASP.NET Core updates in .NET 8 Preview 3 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-3/)
@@ -614,13 +606,9 @@
 
 * [ASP.NET Core updates in .NET 8 Preview 2 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-2/)
 
-* [EF Core 8 Preview 2: Lite and familiar - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-ef8-preview-2/)
-
 * .NET 8 Preview 1
 
 * [ASP.NET Core updates in .NET 8 Preview 1 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-1/)
-
-* [EF Core 8 Preview 1: Raw, lazy, and on-time - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-ef8-preview-1/)
 
 * **Нововведения .NET 8**
 
@@ -699,8 +687,6 @@
 * Официальный релиз .NET 7
 
 * [Announcing ASP.NET Core in .NET 7 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-dotnet-7/)
-
-* [Entity Framework Core 7 (EF7) is available today - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-ef7/)
 
 * [What's new for WPF in .NET 7 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/wpf-on-dotnet-7/)
 
