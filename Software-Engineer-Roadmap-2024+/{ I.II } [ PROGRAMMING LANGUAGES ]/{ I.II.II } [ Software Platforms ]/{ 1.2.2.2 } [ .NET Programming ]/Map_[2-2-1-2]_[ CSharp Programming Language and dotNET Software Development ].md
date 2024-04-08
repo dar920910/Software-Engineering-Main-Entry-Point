@@ -542,8 +542,6 @@
 
 * [Announcing F# 8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-fsharp-8/)
 
-* [Announcing ASP.NET Core in .NET 8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-dotnet-8/)
-
 * [Introducing .NET Aspire: Simplifying Cloud-Native Development with .NET 8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-simplifying-cloud-native-development-with-dotnet-8/)
 
 * [Collections | Microsoft Learn](https://learn.microsoft.com/en-us/collections/odr5beo72wn3n3?wt.mc_id=dotnetconf_learncollection_video_DevRelStudios)
@@ -573,42 +571,6 @@
 ### .NET 8 (LTS) - Полезные ресурсы для изучения
 
 * **Новости разработки .NET 8**
-
-* .NET 8 RC 2
-
-* [ASP.NET Core updates in .NET 8 Release Candidate 2 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-rc-2/)
-
-* .NET 8 RC 1
-
-* [ASP.NET Core updates in .NET 8 Release Candidate 1 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-rc-1/)
-
-* .NET 8 Preview 7
-
-* [ASP.NET Core updates in .NET 8 Preview 7 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-7/)
-
-* .NET 8 Preview 6
-
-* [ASP.NET Core updates in .NET 8 Preview 6 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-6/)
-
-* .NET 8 Preview 5
-
-* [ASP.NET Core updates in .NET 8 Preview 5 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-5/)
-
-* .NET 8 Preview 4
-
-* [ASP.NET Core updates in .NET 8 Preview 4 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-4/)
-
-* .NET 8 Preview 3
-
-* [ASP.NET Core updates in .NET 8 Preview 3 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-3/)
-
-* .NET 8 Preview 2
-
-* [ASP.NET Core updates in .NET 8 Preview 2 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-2/)
-
-* .NET 8 Preview 1
-
-* [ASP.NET Core updates in .NET 8 Preview 1 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-1/)
 
 * **Нововведения .NET 8**
 
@@ -686,8 +648,6 @@
 
 * Официальный релиз .NET 7
 
-* [Announcing ASP.NET Core in .NET 7 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-dotnet-7/)
-
 * [What's new for WPF in .NET 7 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/wpf-on-dotnet-7/)
 
 * [What's new in Windows Forms in .NET 7.0 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/winforms-enhancements-in-dotnet-7/)
@@ -711,8 +671,6 @@
 * [Console.ReadKey improvements in .NET 7 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/console-readkey-improvements-in-net-7/)
 
 * [What's new in System.Text.Json in .NET 7 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/system-text-json-in-dotnet-7/)
-
-* [Performance improvements in ASP.NET Core 7 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-7/)
 
 * [.NET 7 Networking Improvements - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/dotnet-7-networking-improvements/)
 
@@ -759,8 +717,6 @@
 * Обзор нововведений в .NET 6
 
 * [.NET 6 is now in Ubuntu 22.04 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/)
-
-* [Performance improvements in ASP.NET Core 6 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-6/)
 
 * [.NET 6 Networking Improvements - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/dotnet-6-networking-improvements/)
 
@@ -929,30 +885,6 @@
 * [A Comprehensive Guide to Port from EF6 to EF Core - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/a-comprehensive-guide-to-port-from-ef6-to-ef-core/)
 
 ### ASP.NET Core (.NET Blog)
-
-* Официальные анонсы ASP.NET Core
-
-* [Announcing ASP.NET Core in .NET 6 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-net-6/)
-
-* [Announcing ASP.NET Core in .NET 5 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-net-5/)
-
-* [Blazor WebAssembly 3.2.0 now available - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/blazor-webassembly-3-2-0-now-available/)
-
-* [ASP.NET Core updates in .NET Core 3.1 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-net-core-3-1/)
-
-* [ASP.NET Core and Blazor updates in .NET Core 3.0 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-and-blazor-updates-in-net-core-3-0/)
-
-* [A first look at changes coming in ASP.NET Core 3.0 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/a-first-look-at-changes-coming-in-asp-net-core-3-0/)
-
-* [Announcing ASP.NET Core 2.2, available today! - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-2-2-available-today/)
-
-* [ASP.NET Core 2.1.0 now available - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/asp-net-core-2-1-0-now-available/)
-
-* [Announcing ASP.NET Core 2.0 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-2-0/)
-
-* [Announcing the Fastest ASP.NET Yet, ASP.NET Core 1.1 RTM - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-1-1/)
-
-* [Announcing ASP.NET Core 1.0 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-1-0/)
 
 * Полезные статьи для чтения
 
