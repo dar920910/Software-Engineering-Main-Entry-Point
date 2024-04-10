@@ -55,6 +55,90 @@
   * Chapter 9 - Writing Reactive Web Controllers
   * Chapter 10 - Working with Data Reactively
 
+### Tudose C. - "Java Persistence with Spring Data and Hibernate" ( 2023 )
+
+* PART I - Getting Started with ORM
+  * Chapter 1 - Understanding object/relational persistence
+  * Chapter 2 - Starting a project
+  * Chapter 3 - Domain models and metadata
+  * Chapter 4 - Working with Spring Data JPA
+* PART II - Mapping Strategies
+  * Chapter 5 - Mapping persistent classes
+  * Chapter 6 - Mapping value types
+  * Chapter 7 - Mapping inheritance
+  * Chapter 8 - Mapping collections and entity associations
+  * Chapter 9 - Advanced entity association mappings
+* PART III - Transactional Data Processing
+  * Chapter 10 - Managing data
+  * Chapter 11 - Transactions and concurrency
+  * Chapter 12 - Fetch plans, strategies, and profiles
+  * Chapter 13 - Filtering data
+* PART IV - Building Java Persistence Applications with Spring
+  * Chapter 14 - Integrating JPA and Hibernate with Spring
+  * Chapter 15 - Working with Spring Data JDBC
+  * Chapter 16 - Working with Spring Data REST
+* PART V - Building Java Persistence Applications with Spring
+  * Chapter 17 - Working with Spring Data MongoDB
+  * Chapter 18 - Working with Hibernate OGM
+* PART VI - Writing Queries and Testing Java Persistence Applications
+  * Chapter 19 - Querying JPA with Querydsl
+  * Chapter 20 - Testing Java persistence applications
+
+---
+
+## Professional Java Software Development with Spring
+
+### Cosmina I., Harror R., Schaefer C., Ho C. - "Pro Spring 6" ( 2023, 6th edition )
+
+* Chapter 01 - Introducing Spring
+* Chapter 02 - Getting Started
+* Chapter 03 - Introducing IoC and DI in Spring
+* Chapter 04 - Advanced Spring Configuration and Spring Boot
+* Chapter 05 - Spring AOP
+* Chapter 06 - Spring Data Access with JDBC
+* Chapter 07 - Spring with Hibernate
+* Chapter 08 - Spring with JPA
+* Chapter 09 - Spring Transaction Management
+* Chapter 10 - Spring Data with SQL and NoSQL Databases
+* Chapter 11 - Validation, Formatting, and Type Conversion
+* Chapter 12 - Task Execution and Scheduling
+* Chapter 13 - Spring Remoting
+* Chapter 14 - Spring MVC
+* Chapter 15 - Spring REST Support
+* Chapter 16 - Spring Native and Other Goodies
+* Chapter 17 - Securing Spring Web Applications
+* Chapter 18 - Monitoring Spring Applications
+* Chapter 19 - Spring WebSocket Support
+* Chapter 20 - Reactive Spring
+* Appendix A
+
+### Spath P., Cosmina I., Harror R., Schaefer C. - "Pro Spring 6 with Kotlin" ( 2023 )
+
+* Chapter 01 - Introducing Spring
+* Chapter 02 - Getting Started
+* Chapter 03 - Introducing IoC and DI in Spring
+* Chapter 04 - Advanced Spring Configuration and Spring Boot
+* Chapter 05 - Spring AOP
+* Chapter 06 - Spring Data Access with JDBC
+* Chapter 07 - Spring with Hibernate
+* Chapter 08 - Spring with JPA
+* Chapter 09 - Spring Transaction Management
+* Chapter 10 - Spring Data with SQL and NoSQL Databases
+* Chapter 11 - Validation, Formatting, and Type Conversion
+* Chapter 12 - Task Scheduling
+* Chapter 13 - Spring Remoting
+* Chapter 14 - Spring MVC
+* Chapter 15 - Spring REST Support
+* Chapter 16 - Spring Native and Other Goodies
+* Chapter 17 - Securing Spring Web Applications
+* Chapter 18 - Monitoring Spring Applications
+* Chapter 19 - Spring WebSocket Support
+* Chapter 20 - Reactive Spring
+
+---
+
+## Java Full-Stack Web Development (Spring + Angular)
+
 ### Devlin Basilan Duldulao, Seiju Relph Villafranca - "Spring Boot and Angular" ( 2022 )
 
 * PART I - Overview of Spring Boot and Angular Development
