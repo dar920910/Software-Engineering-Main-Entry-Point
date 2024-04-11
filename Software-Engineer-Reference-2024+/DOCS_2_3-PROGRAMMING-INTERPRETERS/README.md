@@ -1,3 +1,0 @@
-# Python
-
-Resources for Python
