@@ -2,6 +2,12 @@
 
 ---
 
+## .NET Container Images
+
+[Microsoft Artifact Registry](https://mcr.microsoft.com/catalog?search=dotnet/)
+
+---
+
 ## ASP.NET Core with Docker - Полезные ресурсы для изучения
 
 * [https://hub.docker.com/\_/microsoft-dotnet-sdk/](https://hub.docker.com/_/microsoft-dotnet-sdk/)

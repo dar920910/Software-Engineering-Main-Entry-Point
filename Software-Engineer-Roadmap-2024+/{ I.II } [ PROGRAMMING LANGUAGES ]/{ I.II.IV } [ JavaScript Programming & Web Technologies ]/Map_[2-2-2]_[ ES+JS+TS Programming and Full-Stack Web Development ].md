@@ -328,6 +328,10 @@
 
 ### TYPESCRIPT VERSIONS
 
+* [Announcing TypeScript 5.4 - TypeScript (microsoft.com)](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/)
+
+* [Announcing TypeScript 5.3 - TypeScript (microsoft.com)](https://devblogs.microsoft.com/typescript/announcing-typescript-5-3/)
+
 * [Announcing TypeScript 5.2 - TypeScript (microsoft.com)](https://devblogs.microsoft.com/typescript/announcing-typescript-5-2/)
 
 * [Announcing TypeScript 5.1 - TypeScript (microsoft.com)](https://devblogs.microsoft.com/typescript/announcing-typescript-5-1/)

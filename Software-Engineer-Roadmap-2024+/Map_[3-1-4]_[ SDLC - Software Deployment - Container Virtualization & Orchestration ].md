@@ -76,6 +76,10 @@
 
 ### Официальный блог Docker
 
+* [Get started with the latest updates for Dockerfile syntax (v1.7.0) | Docker](https://www.docker.com/blog/new-dockerfile-capabilities-v1-7-0/)
+
+* [From Misconceptions to Mastery: Enhancing Security and Transparency with Docker Official Images | Docker](https://www.docker.com/blog/enhancing-security-and-transparency-with-docker-official-images/)
+
 * [Is Your Container Image Really Distroless? | Docker](https://www.docker.com/blog/is-your-container-image-really-distroless/)
 
 * [containerd vs. Docker: Understanding Their Relationship and How They Work Together | Docker](https://www.docker.com/blog/containerd-vs-docker/)

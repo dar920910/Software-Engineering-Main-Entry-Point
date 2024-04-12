@@ -100,6 +100,8 @@
 
 * [Part 1 – Announcing Babylon.js 7.0](https://blogs.windows.com/windowsdeveloper/2024/03/28/part-1-announcing-babylon-js-7-0/)
 
+* [Part 3 – Babylon.js 7.0: One incredible community](https://blogs.windows.com/windowsdeveloper/2024/04/11/part-3-babylon-js-7-0-one-incredible-community/)
+
 * [Part 1 - Announcing Babylon.js 6.0 - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2023/04/20/part-1-announcing-babylon-js-6-0/)
 
 * [Part 2 - Babylon.js 6.0: Key Rendering Advancements - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2023/04/27/part-2-babylon-js-6-0-key-rendering-advancements/)

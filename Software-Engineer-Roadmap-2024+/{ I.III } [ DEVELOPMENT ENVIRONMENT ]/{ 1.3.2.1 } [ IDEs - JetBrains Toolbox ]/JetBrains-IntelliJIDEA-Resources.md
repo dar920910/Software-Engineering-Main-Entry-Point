@@ -31,6 +31,10 @@
 
 ### IntelliJ IDEA Blog
 
+* [The WireMock Plugin for IntelliJ IDEA Is Here!](https://blog.jetbrains.com/idea/2024/04/the-wiremock-plugin-for-intellij-idea-is-here/)
+
+* [Full Line Code Completion in JetBrains IDEs: All You Need to Know](https://blog.jetbrains.com/blog/2024/04/04/full-line-code-completion-in-jetbrains-ides-all-you-need-to-know/)
+
 * [Java 22 and IntelliJ IDEA](https://blog.jetbrains.com/idea/2024/03/java-22-and-intellij-idea/)
 
 * [Getting Started with Databases in IntelliJ IDEA](https://blog.jetbrains.com/idea/2024/03/getting-started-with-databases-in-intellij-idea/)
