@@ -100,6 +100,8 @@
 
 ### Остальные фреймворки и библиотеки
 
+* [Java Frameworks You Must Know in 2024](https://blog.jetbrains.com/idea/2024/04/java-frameworks-you-must-know-in-2024/)
+
 * [Jakarta® EE | Cloud Native Enterprise Java | Java EE | the Eclipse Foundation | The Eclipse Foundation](https://jakarta.ee/)
 
 * [Eclipse EE4J (github.com)](https://github.com/eclipse-ee4j)

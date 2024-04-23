@@ -1163,6 +1163,8 @@
 
 #### AddressSanitizer
 
+* [MSVC Address Sanitizer adoption in .NET’s CoreCLR](https://devblogs.microsoft.com/cppblog/msvc-address-sanitizer-adoption-in-nets-coreclr/)
+
 * [MSVC Address Sanitizer - One DLL for all Runtime Configurations - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/msvc-address-sanitizer-one-dll-for-all-runtime-configurations/)
 
 * [Finding Bugs with AddressSanitizer: MSVC Compiler - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/finding-bugs-with-addresssanitizer-msvc-compiler/)
@@ -1238,6 +1240,8 @@
 * [vcpkg is Now Included with Visual Studio - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/vcpkg-is-now-included-with-visual-studio/)
 
 #### Улучшения Visual Studio для C++ разработчиков
+
+* [Templates View for Build Insights in Visual Studio](https://devblogs.microsoft.com/cppblog/templates-view-for-build-insights-in-visual-studio-2/)
 
 * [A Year of C++ Game Development Improvements in Visual Studio](https://devblogs.microsoft.com/visualstudio/a-year-of-c-game-development-improvements-in-visual-studio/)
 

@@ -110,6 +110,12 @@
 
 * **Нововведения .NET 8**
 
+* [Streamline your container build and publish with .NET 8](https://devblogs.microsoft.com/dotnet/streamline-container-build-dotnet-8/)
+
+* [Build & test resilient apps in .NET with Dev Proxy](https://devblogs.microsoft.com/dotnet/build-test-resilient-apps-dotnet-dev-proxy/)
+
+* [Building a scalable gateway with .NET for Microsoft AI](https://devblogs.microsoft.com/dotnet/building-a-scalable-gateway-for-microsoft-ai/)
+
 * [Making AI powered .NET apps more consistent and intelligent with Redis](https://devblogs.microsoft.com/dotnet/redis-makes-intelligent-apps-smarter-and-consistent/)
 
 * [Testing Your Native AOT Applications](https://devblogs.microsoft.com/dotnet/testing-your-native-aot-dotnet-apps/)

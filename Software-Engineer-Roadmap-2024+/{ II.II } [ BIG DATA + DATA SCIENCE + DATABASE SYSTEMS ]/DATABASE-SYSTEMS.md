@@ -214,6 +214,8 @@
 
 ### Остальные СУБД
 
+* [EdgeDb | The next-gen database](https://www.edgedb.com/)
+
 * [aergoio/litetree: SQLite with Branches (github.com)](https://github.com/aergoio/litetree)
 
 * [DuckDB - An in-process SQL OLAP database management system](https://duckdb.org/)

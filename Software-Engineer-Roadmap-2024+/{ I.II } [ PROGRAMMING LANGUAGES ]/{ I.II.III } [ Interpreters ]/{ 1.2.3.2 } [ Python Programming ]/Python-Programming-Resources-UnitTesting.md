@@ -1,6 +1,8 @@
 
 # Ресурсы - Python Unit Testing
 
+[Write Unit Tests for Your Python Code With ChatGPT](https://realpython.com/chatgpt-unit-tests-python/)
+
 [Python Debugging With Pdb – Real Python](https://realpython.com/python-debugging-pdb/)
 
 [PEP 256 – Docstring Processing System Framework | peps.python.org](https://peps.python.org/pep-0256/)

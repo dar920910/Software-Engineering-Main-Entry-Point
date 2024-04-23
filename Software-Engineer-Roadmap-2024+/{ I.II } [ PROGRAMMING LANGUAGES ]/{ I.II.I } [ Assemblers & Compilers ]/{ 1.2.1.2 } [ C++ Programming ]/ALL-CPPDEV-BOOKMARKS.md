@@ -218,6 +218,8 @@
 
 ### Альтернативные системы автоматизации сборки для языков C/C++
 
+* [autodafe](https://gitlab.com/esr/autodafe)
+
 * [Ninja, a small build system with a focus on speed (ninja-build.org)](https://ninja-build.org/)
 
 * [richfelker/musl-cross-make: Simple makefile-based build for musl cross compiler (github.com)](https://github.com/richfelker/musl-cross-make)

@@ -31,6 +31,10 @@
 
 ### IntelliJ IDEA Blog
 
+* [Polyglot Programming Is a Thing](https://blog.jetbrains.com/fleet/2024/04/polyglot-programming-is-a-thing/)
+
+* [Easy Hacks: How to Handle Exceptions in Java](https://blog.jetbrains.com/idea/2024/04/easy-hacks-how-to-handle-exceptions-in-java/)
+
 * [The WireMock Plugin for IntelliJ IDEA Is Here!](https://blog.jetbrains.com/idea/2024/04/the-wiremock-plugin-for-intellij-idea-is-here/)
 
 * [Full Line Code Completion in JetBrains IDEs: All You Need to Know](https://blog.jetbrains.com/blog/2024/04/04/full-line-code-completion-in-jetbrains-ides-all-you-need-to-know/)
