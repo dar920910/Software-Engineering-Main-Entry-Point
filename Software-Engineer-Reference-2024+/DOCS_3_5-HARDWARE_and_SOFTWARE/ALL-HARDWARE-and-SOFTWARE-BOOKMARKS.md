@@ -226,6 +226,8 @@
 
 * [RISC-V International (riscv.org)](https://riscv.org/)
 
+* [RISC-V Impact on Technology and Innovation](https://riscv.org/blog/2024/04/risc-v-impact-on-technology-and-innovation/)
+
 * [Understanding RISC-V: The Open Standard Instruction Set Architecture (riscv.org)](https://riscv.org/news/2024/03/understanding-risc-v-the-open-standard-instruction-set-architecture-2/)
 
 * [What is RISC-V and Why Has it Become Important for Java? (riscv.org)](https://riscv.org/news/2024/03/what-is-risc-v-and-why-has-it-become-important-for-java/)

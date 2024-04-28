@@ -110,6 +110,10 @@
 
 * **Нововведения .NET 8**
 
+* [Refactor your C# code with primary constructors](https://devblogs.microsoft.com/dotnet/csharp-primary-constructors-refactoring/)
+
+* [What’s new for .NET in Ubuntu 24.04](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2404/)
+
 * [Streamline your container build and publish with .NET 8](https://devblogs.microsoft.com/dotnet/streamline-container-build-dotnet-8/)
 
 * [Build & test resilient apps in .NET with Dev Proxy](https://devblogs.microsoft.com/dotnet/build-test-resilient-apps-dotnet-dev-proxy/)
@@ -483,6 +487,8 @@
 * [Announcing the .NET MAUI Community Toolkit v1.3 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-maui-community-toolkit-v13/)
 
 * Полезные статьи для изучения MAUI
+
+* [Introducing .NET MAUI Community Tookit v8: TouchBehavior support is here!](https://devblogs.microsoft.com/dotnet/dotnet-maui-community-toolkit-touchbehavior/)
 
 * [.NET MAUI Community Toolkit 2023 Highlights](https://devblogs.microsoft.com/dotnet/dotnet-maui-community-toolkit-2023-highlights/)
 

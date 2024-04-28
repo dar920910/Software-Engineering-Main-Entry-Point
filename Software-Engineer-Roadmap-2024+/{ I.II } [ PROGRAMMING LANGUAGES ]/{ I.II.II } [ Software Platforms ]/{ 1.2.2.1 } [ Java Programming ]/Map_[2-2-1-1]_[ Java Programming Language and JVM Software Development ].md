@@ -44,6 +44,10 @@
 
 #### ИНТЕРЕСНЫЕ СТАТЬИ
 
+* [K2 Compiler Performance Benchmarks and How to Measure Them on Your Projects](https://blog.jetbrains.com/kotlin/2024/04/k2-compiler-performance-benchmarks-and-how-to-measure-them-on-your-projects/)
+
+* [A Step-by-Step Guide to Performing Data Analysis With Kotlin DataFrame](https://blog.jetbrains.com/kotlin/2024/04/a-step-by-step-guide-to-performing-data-analysis-with-kotlin-dataframe/)
+
 * [K2 Kotlin Mode (Alpha) in IntelliJ IDEA](https://blog.jetbrains.com/idea/2024/03/k2-kotlin-mode-alpha-in-intellij-idea/)
 
 * [Kotlin Roundup: Unveiling the New Compose Multiplatform Release, Amper Update, and More! | The Kotlin Blog (jetbrains.com)](https://blog.jetbrains.com/kotlin/2024/03/kotlin-roundup-feb-march-24/)

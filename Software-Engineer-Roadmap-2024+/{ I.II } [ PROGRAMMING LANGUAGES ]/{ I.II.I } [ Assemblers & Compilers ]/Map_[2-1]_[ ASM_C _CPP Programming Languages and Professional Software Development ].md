@@ -1241,6 +1241,8 @@
 
 #### Улучшения Visual Studio для C++ разработчиков
 
+* [Visual Studio features for C++ Header Files and Modules](https://devblogs.microsoft.com/cppblog/visual-studio-features-for-c-header-files-and-modules/)
+
 * [Templates View for Build Insights in Visual Studio](https://devblogs.microsoft.com/cppblog/templates-view-for-build-insights-in-visual-studio-2/)
 
 * [A Year of C++ Game Development Improvements in Visual Studio](https://devblogs.microsoft.com/visualstudio/a-year-of-c-game-development-improvements-in-visual-studio/)

@@ -30,6 +30,8 @@
 
 [Scalable CSS: Learn Advanced, Modular CSS Methodologies & Architecture - Scalable CSS](https://scalablecss.com/)
 
+[The Front End Developer/Engineer Handbook 2024](https://frontendmasters.com/guides/front-end-handbook/2024/)
+
 ### Контент для использования в веб-дизайне
 
 * [700+ CSS Icons, Customizable, Retina Ready & API](https://css.gg/)

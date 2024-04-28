@@ -76,6 +76,10 @@
 
 ### Официальный блог Docker
 
+* [A Promising Methodology for Testing GenAI Applications in Java](https://www.docker.com/blog/testing-genai-applications-in-java/)
+
+* [Better Debugging: How the Signal0ne Docker Extension Uses AI to Simplify Container Troubleshooting](https://www.docker.com/blog/debug-containers-ai-signal0ne-docker-extension/)
+
 * [Get started with the latest updates for Dockerfile syntax (v1.7.0) | Docker](https://www.docker.com/blog/new-dockerfile-capabilities-v1-7-0/)
 
 * [From Misconceptions to Mastery: Enhancing Security and Transparency with Docker Official Images | Docker](https://www.docker.com/blog/enhancing-security-and-transparency-with-docker-official-images/)

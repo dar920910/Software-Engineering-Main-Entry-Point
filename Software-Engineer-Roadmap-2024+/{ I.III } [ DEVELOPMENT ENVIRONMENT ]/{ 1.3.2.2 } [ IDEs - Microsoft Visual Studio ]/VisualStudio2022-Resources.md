@@ -126,6 +126,8 @@
 
 ### Visual Studio - Повседневные задачи разработчика
 
+* [Usability Improvements in the Visual Studio Connection Manager](https://devblogs.microsoft.com/cppblog/usability-improvements-in-the-visual-studio-connection-manager/)
+
 * [Visual Studio productivity features in 2023](https://devblogs.microsoft.com/visualstudio/visual-studio-productivity-features-in-2023/)
 
 * [Scroll to expand document tabs](https://devblogs.microsoft.com/visualstudio/scroll-to-expand-document-tabs/)

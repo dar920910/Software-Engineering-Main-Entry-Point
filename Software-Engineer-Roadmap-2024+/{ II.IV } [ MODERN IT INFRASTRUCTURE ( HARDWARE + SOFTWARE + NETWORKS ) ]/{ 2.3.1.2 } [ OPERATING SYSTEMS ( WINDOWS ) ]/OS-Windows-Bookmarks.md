@@ -154,6 +154,8 @@
 
 ### Устаревшее ПО для Windows
 
+* [microsoft/MS-DOS | GitHub](https://github.com/microsoft/MS-DOS/tree/main)
+
 * [microsoft/MS-DOS: The original sources of MS-DOS 1.25 and 2.0, for reference purposes (github.com)](https://github.com/microsoft/ms-dos)
 
 * [felixrieseberg/windows95: 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows. (github.com)](https://github.com/felixrieseberg/windows95)
