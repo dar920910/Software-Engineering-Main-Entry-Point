@@ -2,9 +2,15 @@
 
 ---
 
+## Java Official Documents
+
+* [The Java Language Environment | A White Paper (May 1996, James Gosling & Henry McGilton)](https://www.oracle.com/java/technologies/language-environment.html)
+
+---
+
 ## Java Official Releases
 
-### Java 22
+### Java 22 (2024/03)
 
 * [The Arrival of Java 22 (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-22)
 
@@ -12,7 +18,7 @@
 
 * [Announcing Oracle GraalVM for JDK 22 (oracle.com)](https://blogs.oracle.com/java/post/oracle-graalvm-for-jdk-22)
 
-### Java 21
+### Java 21 (LTS, 2023/09)
 
 * [The Arrival of Java 21 (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-21)
 
@@ -20,57 +26,70 @@
 
 * [Java 21 is here: Virtual threads, string templates, and more (oracle.com)](https://blogs.oracle.com/javamagazine/post/java-21-now-available)
 
-### Java 20
+### Java 20 (2023/03)
 
 * [The Arrival of Java 20 (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-20)
 
-### Java 19
+### Java 19 (2022/09)
 
 * [The Arrival of Java 19 (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-19)
 
-### Java 18
+### Java 18 (2022/03)
 
 * [The Arrival of Java 18 (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-18)
 
-### Java 17 (LTS)
+### Java 17 (LTS, 2021/09)
 
 * [The arrival of Java 17! (oracle.com)](https://blogs.oracle.com/java/post/announcing-java17)
 
-### Java 16
+### Java 16 (2021/03)
 
 * [The Arrival of Java 16 (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-16)
 
-### Java 15
+### Java 15 (2020/09)
 
 * [The Arrival of Java 15 (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-15)
 
-### Java 14
+### Java 14 (2020/03)
 
 * [The Arrival of Java 14! (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-14)
 
-### Java 13
+### Java 13 (2019/09)
 
 * [The arrival of Java 13! (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-13)
 
-### Java 12
+### Java 12 (2019/03)
 
 * [The arrival of Java 12! (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-12)
 
-### Java 11 (LTS)
+### Java 11 (LTS, 2018/09)
 
 * [JDK 11 Release Notes, Important Changes, and Information (oracle.com)](https://www.oracle.com/java/technologies/javase/11-relnote-issues.html)
 
-### Java 10
+### Java 10 (2018/03)
 
 * [JDK 10 Release Notes (oracle.com)](https://www.oracle.com/java/technologies/javase/10-relnote-issues.html)
 
-### Java 9
+### Java 9 (2017/09)
 
 * [Java Development Kit 9 Update Release Notes (oracle.com)](https://www.oracle.com/java/technologies/javase/9u-relnotes.html)
 
-### Java 8
+### Java 8 (2014)
 
 * [JDK 8 Update Release Notes (oracle.com)](https://www.oracle.com/java/technologies/javase/8u-relnotes.html)
+
+### Java 7 (2011)
+
+* [Release Notes for JDK 7 and JDK 7 Update Releases](https://www.oracle.com/java/technologies/javase/7-support-relnotes.html)
+
+#### Java Releases from Sun Microsystems (before purchasing by Oracle in 2009)
+
+* Java 6 (2006)
+* Java 1.5 (2004) => Java 5.0
+* Java 1.4 (2002)
+* Java 1.3 (2000)
+* Java 1.2 (1998) => Java 2 Standard/Micro/Enterprise Edition Software Development Kit Version 1.2
+* Java 1.0/1.1 (1996)
 
 ---
 
