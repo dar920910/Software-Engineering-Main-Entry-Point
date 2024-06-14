@@ -36,6 +36,8 @@
 
 ## ML.NET - Официальные релизы
 
+* [Announcing the official OpenAI library for .NET](https://devblogs.microsoft.com/dotnet/openai-dotnet-library/)
+
 * [Introducing ML.NET: Cross-platform, Proven and Open Source Machine Learning Framework - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/introducing-ml-net-cross-platform-proven-and-open-source-machine-learning-framework/)
 
 * [Announcing ML.NET 1.0 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-ml-net-1-0/)
@@ -51,6 +53,8 @@
 ---
 
 ## ML.NET - Учебные ресурсы для чтения
+
+* [Building Generative AI apps with .NET 8](https://devblogs.microsoft.com/dotnet/build-gen-ai-with-dotnet-8/)
 
 * [ML.NET Model Builder is now a part of Visual Studio - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/ml-net-model-builder-is-now-a-part-of-visual-studio/)
 

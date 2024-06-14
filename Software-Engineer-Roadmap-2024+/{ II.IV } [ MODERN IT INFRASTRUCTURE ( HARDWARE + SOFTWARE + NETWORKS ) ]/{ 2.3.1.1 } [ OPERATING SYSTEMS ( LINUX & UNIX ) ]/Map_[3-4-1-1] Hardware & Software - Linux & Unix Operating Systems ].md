@@ -297,6 +297,8 @@
 
 ## LINUX UBUNTU & DATA SCIENCE
 
+* [An overview of machine learning security risks](https://ubuntu.com//blog/machine-learning-security-risks)
+
 * [A deep dive into Kubeflow pipelines | Ubuntu](https://ubuntu.com//blog/deep-dive-kubeflow-pipelines)
 
 * [Edge AI: what, why and how with open source | Ubuntu](https://ubuntu.com//blog/edge-ai)

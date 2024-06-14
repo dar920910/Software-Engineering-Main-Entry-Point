@@ -76,6 +76,28 @@
 
 ### Официальный блог Docker
 
+* [LXC vs. Docker: Which One Should You Use?](https://www.docker.com/blog/lxc-vs-docker/)
+
+* [Build Your Own AI-Driven Code Analysis Chatbot for Developers with the GenAI Stack](https://www.docker.com/blog/build-your-own-ai-driven-code-analysis-chatbot-genai-stack/)
+
+* [Develop Kubernetes Operators in Java without Breaking a Sweat](https://www.docker.com/blog/develop-kubernetes-operators-in-java-without-breaking-a-sweat/)
+
+* [Experimental Windows Containers Support for BuildKit Released in v0.13.0](https://www.docker.com/blog/experimental-windows-containers-support-for-buildkit-released-in-v0-13-0/)
+
+* [Docker Documentation Gets an AI-Powered Assistant](https://www.docker.com/blog/docker-documentation-ai-powered-assistant/)
+
+* [Streamline the Development of Real-Time AI Applications with MindsDB Docker Extension](https://www.docker.com/blog/mindsdb-docker-extension/)
+
+* [How to Check Your Docker Installation: Docker Desktop vs. Docker Engine](https://www.docker.com/blog/blog-how-to-check-docker-version/)
+
+* [A Quick Guide to Containerizing Llamafile with Docker for AI Applications](https://www.docker.com/blog/a-quick-guide-to-containerizing-llamafile-with-docker-for-ai-applications/)
+
+* [Navigating Proxy Servers with Ease: New Advancements in Docker Desktop 4.30](https://www.docker.com/blog/navigating-proxy-servers-docker-desktop-4-30/)
+
+* [Wasm vs. Docker: Performant, Secure, and Versatile Containers](https://www.docker.com/blog/wasm-vs-docker/)
+
+* [Creating AI-Enhanced Document Management with the GenAI Stack](https://www.docker.com/blog/creating-ai-enhanced-document-management-with-the-genai-stack/)
+
 * [A Promising Methodology for Testing GenAI Applications in Java](https://www.docker.com/blog/testing-genai-applications-in-java/)
 
 * [Better Debugging: How the Signal0ne Docker Extension Uses AI to Simplify Container Troubleshooting](https://www.docker.com/blog/debug-containers-ai-signal0ne-docker-extension/)

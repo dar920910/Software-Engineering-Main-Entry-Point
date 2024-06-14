@@ -462,6 +462,8 @@
 
 ПОЛЕЗНЫЕ СТАТЬИ для ЧТЕНИЯ
 
+* [An even faster Microsoft Edge - Microsoft Edge Blog](https://blogs.windows.com/msedgedev/2024/05/28/an-even-faster-microsoft-edge/)
+
 * [How to investigate Microsoft Edge’s memory usage on Windows - Microsoft Edge Blog](https://blogs.windows.com/msedgedev/2021/01/13/investigate-microsoft-edge-memory-usage/)
 
 * [Introducing adaptive notification requests in Microsoft Edge - Microsoft Edge Blog (windows.com)](https://blogs.windows.com/msedgedev/2021/02/16/introducing-adaptive-notification-requests-in-microsoft-edge/)

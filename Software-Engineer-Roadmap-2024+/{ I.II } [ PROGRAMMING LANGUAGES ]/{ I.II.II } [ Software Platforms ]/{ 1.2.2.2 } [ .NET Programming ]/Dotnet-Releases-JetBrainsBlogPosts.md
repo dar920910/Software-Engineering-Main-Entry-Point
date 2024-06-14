@@ -4,6 +4,10 @@
 
 ## .NET Annotated Montly (JetBrains)
 
+* [dotInsights | June 2024 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2024/06/06/dotinsights-june-2024/)
+
+* [dotInsights | May 2024 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2024/05/06/dotinsights-may-2024/)
+
 * [Critical Thinking in an AI-Powered World | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2024/02/27/critical-thinking-in-an-ai-powered-world/)
 
 * [dotInsights | April 2024 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2024/04/03/dotinsights-april-2024/)

@@ -47,4 +47,6 @@
 
 * [microsoft/testfx: MSTest framework and adapter | GitHub](https://github.com/microsoft/testfx)
 
+* [MSTest 3.4 is here with WinUI support and new analyzers!](https://devblogs.microsoft.com/dotnet/introducing-mstest-34/)
+
 ---

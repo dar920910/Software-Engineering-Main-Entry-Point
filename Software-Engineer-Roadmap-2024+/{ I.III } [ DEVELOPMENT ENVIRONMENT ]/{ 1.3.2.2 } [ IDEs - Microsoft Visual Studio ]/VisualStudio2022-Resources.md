@@ -76,6 +76,8 @@
 
 ### Visual Studio - Улучшения производительности среды разработки
 
+* [Visual Studio 2022 – 17.10 Performance Enhancements](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-10-performance-enhancements/)
+
 * [Visual Studio Performance Highlights Delivered in 2023](https://devblogs.microsoft.com/visualstudio/visual-studio-performance-highlights-delivered-in-2023/)
 
 * [Visual Studio 2022 – 17.8 Performance Enhancements](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-8-performance-enhancements/)
@@ -125,6 +127,8 @@
 * [Improved doc management personalization - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/doc-management-personalization/)
 
 ### Visual Studio - Повседневные задачи разработчика
+
+* [Introducing the Revamped Visual Studio Resource Explorer](https://devblogs.microsoft.com/visualstudio/introducing-the-revamped-visual-studio-resource-explorer/)
 
 * [Usability Improvements in the Visual Studio Connection Manager](https://devblogs.microsoft.com/cppblog/usability-improvements-in-the-visual-studio-connection-manager/)
 
@@ -198,6 +202,8 @@
 
 ### Visual Studio - Отладка/тестирование/профилирование
 
+* [VisualStudio.Extensibility 17.10: Debug your extensions with the Diagnostics Explorer](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-10/)
+
 * [Introducing MSTest SDK – Improved Configuration & Flexibility](https://devblogs.microsoft.com/dotnet/introducing-mstest-sdk/)
 
 * [In the Debugger’s Spotlight: A Year in Review](https://devblogs.microsoft.com/visualstudio/in-the-debuggers-spotlight-a-year-in-review/)
@@ -246,6 +252,8 @@
 
 ### Visual Studio - Поддержка Git + GitHub
 
+* [Catch up on the latest Git tooling features in 17.10 GA](https://devblogs.microsoft.com/visualstudio/catch-up-on-the-latest-git-tooling-features-in-17-10-ga/)
+
 * [Write Your Git Commits with GitHub Copilot](https://devblogs.microsoft.com/visualstudio/write-your-git-commits-with-github-copilot/)
 
 * [Create a Pull Request with Summary Difference View Available in GA](https://devblogs.microsoft.com/visualstudio/create-a-pull-request/)
@@ -270,6 +278,8 @@
 
 ### Visual Studio - Поддержка расширений
 
+* [A modern Extension Manager has arrived with Visual Studio 17.10](https://devblogs.microsoft.com/visualstudio/visual-studio-extension-manager-17-10/)
+
 * [A Streamlined Extension Manager comes to Visual Studio 17.9](https://devblogs.microsoft.com/visualstudio/a-streamlined-extension-manager-comes-to-visual-studio-17-9/)
 
 * [VisualStudio.Extensibility: Install extensions without restarting Visual Studio!](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-9/)
@@ -291,6 +301,8 @@
 * [You can now use Microsoft Kiota within Visual Studio Code](https://devblogs.microsoft.com/microsoft365dev/you-can-now-use-microsoft-kiota-within-visual-studio-code/)
 
 ### Visual Studio - Функции искусственного интеллекта
+
+* [Visual Studio 2022 17.10 and GitHub Copilot: Your Coding Partner for Faster and Smarter Development](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-10-now-available/)
 
 * [GitHub Copilot in Visual Studio: A Recap of 2023](https://devblogs.microsoft.com/visualstudio/github-copilot-in-visual-studio-a-recap-of-2023/)
 

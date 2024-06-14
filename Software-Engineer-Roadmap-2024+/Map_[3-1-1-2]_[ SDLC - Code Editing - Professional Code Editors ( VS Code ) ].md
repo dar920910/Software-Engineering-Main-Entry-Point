@@ -117,6 +117,12 @@
 
 ## ИНТЕРЕСНЫЕ СТАТЬИ (БЛОГ VS CODE)
 
+* [Announcing Data Wrangler: Code-centric viewing and cleaning of tabular data in Visual Studio Code](https://devblogs.microsoft.com/python/announcing-data-wrangler-code-centric-viewing-and-cleaning-of-tabular-data-in-visual-studio-code/)
+
+* [Using WebAssembly for Extension Development - Part Two](https://code.visualstudio.com/blogs/2024/06/07/wasm-part2)
+
+* [Using WebAssembly for Extension Development](https://code.visualstudio.com/blogs/2024/05/08/wasm)
+
 * [VS Code and WebAssemblies (visualstudio.com)](https://code.visualstudio.com/blogs/2023/06/05/vscode-wasm-wasi)
 
 * [Using Containers to move from local to Remote Development (visualstudio.com)](https://code.visualstudio.com/blogs/2022/04/04/increase-productivity-with-containers)

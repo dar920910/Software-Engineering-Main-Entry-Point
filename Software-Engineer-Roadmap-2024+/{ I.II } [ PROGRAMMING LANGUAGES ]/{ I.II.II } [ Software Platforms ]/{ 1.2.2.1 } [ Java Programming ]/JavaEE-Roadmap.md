@@ -2,6 +2,14 @@
 
 ---
 
+## About Java EE
+
+1. J2EE - Java 2 Platform, Enterprise Edition
+2. Java EE (2006)
+3. Jakarta EE (2018)
+
+---
+
 ## Enterprise Software Development with Java EE
 
 ### Spath P. - "Pro Jakarta EE 10" ( 2023 )
@@ -83,5 +91,12 @@
 * Chapter 10 - Security
 * Chapter 11 - Conclusion
 * Chapter 12 - Appendix: Links and further resources
+
+---
+
+## Other Classic Java EE Books
+
+* Johnson, Rod (2002), Expert One-on-One J2EE Design and Development, Hoboken, NJ: Wiley Press
+* Johnson, Rod & Hoeller, Juergen (2004), Expert One-on-One J2EE Development without EJB, Hoboken, NJ: Wiley Press
 
 ---

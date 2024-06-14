@@ -138,6 +138,8 @@
 
 ### Официальные анонсы Package Manager
 
+* [WinGet.CommandNotFound - Windows Command Line (microsoft.com)](https://devblogs.microsoft.com/commandline/winget-commandnotfound/)
+
 * [WinGet configuration Preview - Windows Command Line (microsoft.com)](https://devblogs.microsoft.com/commandline/winget-configuration-preview/)
 
 * [Windows Package Manager 1.3 - Windows Command Line (microsoft.com)](https://devblogs.microsoft.com/commandline/windows-package-manager-1-3/)
@@ -159,6 +161,8 @@
 * [microsoft/WSL2-Linux-Kernel: The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2) (github.com)](https://github.com/microsoft/WSL2-Linux-Kernel)
 
 ### Официальные анонсы WSL
+
+* [What’s new in the Windows Subsystem for Linux in May 2024](https://devblogs.microsoft.com/commandline/whats-new-in-the-windows-subsystem-for-linux-in-may-2024/)
 
 * [Introducing Sudo for Windows!](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/)
 

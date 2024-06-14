@@ -4,6 +4,10 @@
 
 ## PHP Annotated (JetBrains Blog Posts)
 
+* [PHP Annotated – May 2024](https://blog.jetbrains.com/phpstorm/2024/06/php-annotated-may-2024/)
+
+* [PHP Annotated – April 2024](https://blog.jetbrains.com/phpstorm/2024/04/php-annotated-april-2024/)
+
 * [PHP Annotated – February-March 2024](https://blog.jetbrains.com/phpstorm/2024/03/php-annotated-february-march-2024/)
 
 * [PHP Annotated – January 2024](https://blog.jetbrains.com/phpstorm/2024/01/php-annotated-january-2024/)

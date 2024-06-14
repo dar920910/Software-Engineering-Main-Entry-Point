@@ -1209,6 +1209,10 @@
 
 #### VCPKG АНОНСЫ
 
+* [What’s New in vcpkg (May 2024): Dedicated Pages for Each Package on vcpkg.io](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-may-2024-dedicated-pages-for-each-package-on-vcpkg-io/)
+
+* [What’s New in vcpkg (April 2024)](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-april-2024/)
+
 * [What’s New in vcpkg (March 2024)](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-march-2024/)
 
 * [What’s New in vcpkg (February 2024)](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-february-2024/)
@@ -1240,6 +1244,16 @@
 * [vcpkg is Now Included with Visual Studio - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/vcpkg-is-now-included-with-visual-studio/)
 
 #### Улучшения Visual Studio для C++ разработчиков
+
+* [Building your C++ Code with CMake in VS Code](https://devblogs.microsoft.com/cppblog/building-your-cpp-code-with-cmake-in-vs-code/)
+
+* [Use AI-Powered Rename Suggestions to rename your C++ variables in Visual Studio](https://devblogs.microsoft.com/cppblog/use-ai-powered-rename-suggestions-to-rename-your-c-variables-in-visual-studio/)
+
+* [What’s New for C++ Developers in Visual Studio 2022 17.10](https://devblogs.microsoft.com/cppblog/whats-new-for-cpp-developers-in-visual-studio-2022-17-10/)
+
+* [Visual Studio Code CMake Tools Extension 1.18 Update: Quick Start with CMake and more…](https://devblogs.microsoft.com/cppblog/visual-studio-code-cmake-tools-extension-1-18-update-quick-start-with-cmake-and-more/)
+
+* [C++ Refactoring tools in Visual Studio](https://devblogs.microsoft.com/cppblog/c-refactoring-tools-in-visual-studio/)
 
 * [Visual Studio features for C++ Header Files and Modules](https://devblogs.microsoft.com/cppblog/visual-studio-features-for-c-header-files-and-modules/)
 

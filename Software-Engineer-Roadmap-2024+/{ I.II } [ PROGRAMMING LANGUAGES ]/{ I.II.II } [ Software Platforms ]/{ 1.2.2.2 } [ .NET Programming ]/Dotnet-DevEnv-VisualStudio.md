@@ -4,6 +4,8 @@
 
 ## Visual Studio 2022 Improvements for C# .NET Developers
 
+* [The .NET MAUI Extension for Visual Studio Code is now Generally Available](https://devblogs.microsoft.com/dotnet/the-dotnet-maui-extension-for-visual-studio-code-is-now-generally-available/)
+
 * [WinForms Designer Selection for 32-bit .NET Framework Projects](https://devblogs.microsoft.com/visualstudio/winforms-designer-selection-for-32-bit-net-framework-projects/)
 
 * [Unity extension for Visual Studio Code – Now Generally Available](https://devblogs.microsoft.com/dotnet/unity-extension-for-visual-studio-code-now-generally-available/)
@@ -53,6 +55,8 @@
 ---
 
 ## Visual Studio 2022 Improvements for ASP.NET Core Web Developers
+
+* [Developing cloud-native apps with .NET Aspire and Visual Studio](https://devblogs.microsoft.com/visualstudio/developing-cloud-native-apps-with-aspire/)
 
 * [Dev Tunnels: A Game Changer for Mobile Developers](https://devblogs.microsoft.com/dotnet/dev-tunnels-a-game-changer-for-mobile-developers/)
 

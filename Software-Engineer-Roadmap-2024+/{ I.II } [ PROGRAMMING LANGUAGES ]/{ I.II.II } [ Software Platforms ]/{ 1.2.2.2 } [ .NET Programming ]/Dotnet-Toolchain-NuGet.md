@@ -16,6 +16,8 @@
 
 ## NuGet Announces
 
+* [Announcing NuGet 6.10 - The NuGet Blog (microsoft.com)](https://devblogs.microsoft.com/nuget/announcing-nuget-6-10/)
+
 * [Announcing NuGet 6.9 - The NuGet Blog (microsoft.com)](https://devblogs.microsoft.com/nuget/announcing-nuget-6-9/)
 
 * [Announcing NuGet 6.8 – Maintaining Security with Ease - The NuGet Blog (microsoft.com)](https://devblogs.microsoft.com/nuget/announcing-nuget-6-8-maintaining-security-with-ease/)
@@ -35,6 +37,8 @@
 ---
 
 ## NuGet Learning Resources
+
+* [Announcing NuGet Commands in C# Dev Kit - The NuGet Blog (microsoft.com)](https://devblogs.microsoft.com/nuget/announcing-nuget-commands-in-c-dev-kit/)
 
 * [Refining Your Search: Introducing NuGet.org’s Compatible Framework Filters - The NuGet Blog (microsoft.com)](https://devblogs.microsoft.com/nuget/refining-your-search-introducing-nuget-orgs-compatible-framework-filters/)
 

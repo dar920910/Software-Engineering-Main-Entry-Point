@@ -25,11 +25,31 @@
 
 ### IntelliJ IDEA Releases
 
+* [IntelliJ IDEA 2024.1.3 Is Out!](https://blog.jetbrains.com/idea/2024/06/intellij-idea-2024-1-3/)
+
+* [IntelliJ IDEA 2024.1.2 Is Out!](https://blog.jetbrains.com/idea/2024/05/intellij-idea-2024-1-2/)
+
+* [What’s New in IntelliJ IDEA Ultimate 2024.1](https://blog.jetbrains.com/idea/2024/05/what-s-new-in-intellij-idea-ultimate-2024-1/)
+
+* [IntelliJ IDEA 2024.1.1 Is Out!](https://blog.jetbrains.com/idea/2024/04/intellij-idea-2024-1-1/)
+
 * [Ready For an Update? The 2023.3 Versions of JetBrains Coding Tools Are Out! | The JetBrains Blog (jetbrains.com)](https://blog.jetbrains.com/blog/2023/12/08/ready-for-an-update-the-2023-3-versions-of-jetbrains-coding-tools-are-out/)
 
 * [IntelliJ IDEA 2023.3 Is Out! | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/12/intellij-idea-2023-3/)
 
 ### IntelliJ IDEA Blog
+
+* [Debugger Upskill: Debug Without Breakpoints](https://blog.jetbrains.com/idea/2024/06/debugger-upskill-debug-without-breakpoints/)
+
+* [Aqua, the IDE for Test Automation, Reaches General Availability!](https://blog.jetbrains.com/qa/2024/05/aqua-general-availability/)
+
+* [Deploying to Multiple Targets With Ease](https://blog.jetbrains.com/teamcity/2024/05/deploying-to-multiple-targets/)
+
+* [RustRover Is Released and Includes a Free Non-Commercial Option](https://blog.jetbrains.com/rust/2024/05/21/rustrover-is-released-and-includes-a-free-non-commercial-option/)
+
+* [The Future of Space](https://blog.jetbrains.com/space/2024/05/27/the-future-of-space/)
+
+* [Come to Writerside – We Get Docs Published!](https://blog.jetbrains.com/writerside/2024/05/come-to-writerside-we-get-docs-published/)
 
 * [Polyglot Programming Is a Thing](https://blog.jetbrains.com/fleet/2024/04/polyglot-programming-is-a-thing/)
 

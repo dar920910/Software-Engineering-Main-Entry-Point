@@ -4,6 +4,8 @@
 
 ## .NET Programming with JetBrains Rider (The .NET Tools Blog)
 
+* [9 Things You Didn’t Know About JetBrains Rider’s NuGet Support](https://blog.jetbrains.com/dotnet/2024/05/29/9-things-you-didn-t-know-about-jetbrains-rider-s-nuget-support/)
+
 * [12 Debugging Techniques In JetBrains Rider You Should Know About](https://blog.jetbrains.com/dotnet/2024/01/29/12-debugging-techniques-in-jetbrains-rider-you-should-know-about/)
 
 * [Automatically Analyze ASP.NET Core Performance With Dynamic Program Analysis | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2023/11/14/automatically-analyze-asp-net-core-performance-with-dynamic-program-analysis/)

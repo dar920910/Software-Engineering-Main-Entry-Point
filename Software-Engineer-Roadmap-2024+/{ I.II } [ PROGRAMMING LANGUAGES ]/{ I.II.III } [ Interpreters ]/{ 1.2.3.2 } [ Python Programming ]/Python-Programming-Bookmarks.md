@@ -563,3 +563,13 @@
 * [Curio — Curio 1.2 documentation](https://curio.readthedocs.io/en/latest/)
 
 ---
+
+## Python - Полезные статьи для изучения
+
+* [What Is the __pycache__ Folder in Python? | (realpython.com)](https://realpython.com/python-pycache/)
+
+* [What Are CRUD Operations? | (realpython.com)](https://realpython.com/crud-operations/)
+
+* [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
+
+---

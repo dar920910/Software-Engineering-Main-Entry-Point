@@ -70,6 +70,22 @@
 
 ## .NET - .NET 6/7/8 Platforms & .NET Development Blog News
 
+### 2024
+
+* [Introducing links to source code for .NET API Docs](https://devblogs.microsoft.com/dotnet/dotnet-docs-link-to-source-code/)
+
+### .NET 9
+
+* [.NET Announcements and Updates from Microsoft Build 2024](https://devblogs.microsoft.com/dotnet/dotnet-build-2024-announcements/)
+
+### .NET Aspire
+
+* [Using PostgreSQL with .NET and Entra ID](https://devblogs.microsoft.com/dotnet/using-postgre-sql-with-dotnet-and-entra-id/)
+
+* [General Availability of .NET Aspire: Simplifying .NET Cloud-Native Development](https://devblogs.microsoft.com/dotnet/dotnet-aspire-general-availability/)
+
+* [Package Management & improved .NET Aspire support come to C# Dev Kit](https://devblogs.microsoft.com/dotnet/may-release-of-csharp-dev-kit/)
+
 ### .NET 8 (LTS) - .NET Conf 2023
 
 * [Our Vision for .NET 9](https://devblogs.microsoft.com/dotnet/our-vision-for-dotnet-9/)
@@ -109,6 +125,16 @@
 * **Новости разработки .NET 8**
 
 * **Нововведения .NET 8**
+
+* [Refactor your code with C# collection expressions](https://devblogs.microsoft.com/dotnet/refactor-your-code-with-collection-expressions/)
+
+* [Refactor your code using alias any type](https://devblogs.microsoft.com/dotnet/refactor-your-code-using-alias-any-type/)
+
+* [A beginner’s guide to mapping arrays in EF Core 8](https://devblogs.microsoft.com/dotnet/array-mapping-in-ef-core-8/)
+
+* [What’s new in Orleans 8 for Scalable Distributed Applications](https://devblogs.microsoft.com/dotnet/whats-new-in-orleans-8/)
+
+* [Secure your container build and publish with .NET 8](https://devblogs.microsoft.com/dotnet/secure-your-container-build-and-publish-with-dotnet-8/)
 
 * [Refactor your C# code with primary constructors](https://devblogs.microsoft.com/dotnet/csharp-primary-constructors-refactoring/)
 
@@ -487,6 +513,10 @@
 * [Announcing the .NET MAUI Community Toolkit v1.3 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-maui-community-toolkit-v13/)
 
 * Полезные статьи для изучения MAUI
+
+* [Getting started with UI testing .NET MAUI apps using Appium](https://devblogs.microsoft.com/dotnet/dotnet-maui-ui-testing-appium/)
+
+* [The Journey to Accessible Apps: Keyboard Accessibility and .NET MAUI](https://devblogs.microsoft.com/dotnet/the-journey-to-accessible-apps-keyboard-accessible/)
 
 * [Introducing .NET MAUI Community Tookit v8: TouchBehavior support is here!](https://devblogs.microsoft.com/dotnet/dotnet-maui-community-toolkit-touchbehavior/)
 

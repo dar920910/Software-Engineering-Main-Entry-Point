@@ -4,7 +4,15 @@
 
 ## WinUI Resources
 
+- [Get started with WinUI | Microsoft Learn](https://learn.microsoft.com/en-us/windows/apps/get-started/start-here?tabs=vs-2022-17-10)
+
 - [Windows UI Library | GitHub](https://github.com/Microsoft/microsoft-ui-xaml)
+
+---
+
+## Windows Apps Development (Articles)
+
+- [Microsoft Photos: Migrating from UWP to Windows App SDK](https://blogs.windows.com/windowsdeveloper/2024/06/03/microsoft-photos-migrating-from-uwp-to-windows-app-sdk/)
 
 ---
 
