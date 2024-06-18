@@ -4,52 +4,6 @@
 
 ## Full-Stack Web Development with SPA Frameworks
 
-### React Full-Stack Development (MERN)
-
-#### React - [Quick Start – React](https://react.dev/learn)
-
-* React - Get Started - Quick Start
-  * [Quick Start – React](https://react.dev/learn)
-  * [Tutorial: Tic-Tac-Toe – React](https://react.dev/learn/tutorial-tic-tac-toe)
-  * [Thinking in React – React](https://react.dev/learn/thinking-in-react)
-  * [Start a New React Project – React](https://react.dev/learn/start-a-new-react-project)
-* React - Get Started - Installation
-  * [Start a New React Project – React](https://react.dev/learn/start-a-new-react-project)
-  * [Add React to an Existing Project – React](https://react.dev/learn/add-react-to-an-existing-project)
-  * [Editor Setup – React](https://react.dev/learn/editor-setup)
-  * [React Developer Tools – React](https://react.dev/learn/react-developer-tools)
-
-#### Freeman A. - "Pro React 16" ( 2019 )
-
-* PART I - GETTING STARTED with REACT
-  * Chapter 1 - Your First React Application
-  * Chapter 2 - Understanding React
-  * Chapter 3 - HTML, JSX, and CSS Primer
-  * Chapter 4 - JavaScript Primer
-  * Chapter 5 - SportsStore: A Real Application
-  * Chapter 6 - SportsStore: REST and Checkout
-  * Chapter 7 - SportsStore: Administration
-  * Chapter 8 - SportsStore: Authentication and Deployment
-* PART II - WORKING with REACT
-  * Chapter 9 - Understanding React Projects
-  * Chapter 10 - Components and Props
-  * Chapter 11 - Stateful Components
-  * Chapter 12 - Working with Events
-  * Chapter 13 - Reconciliation and Lifecycles
-  * Chapter 14 - Composing Applications
-  * Chapter 15 - Forms and Validation
-  * Chapter 16 - Using Refs and Portals
-  * Chapter 17 - Unit Testing
-* PART III - CREATING COMPLETE APPLICATIONS
-  * Chapter 18 - Creating Complete Applications
-  * Chapter 19 - Using a Redux Data Store
-  * Chapter 20 - Using the Data Store APIs
-  * Chapter 21 - Using URL Routing
-  * Chapter 22 - Advanced URL Routing
-  * Chapter 23 - Consuming a RESTful Web Service
-  * Chapter 24 - Understanding GraphQL
-  * Chapter 25 - Consuming GraphQL
-
 ### Vue Full-Stack Development (MEVN)
 
 #### Vue - [Introduction | Vue.js (vuejs.org)](https://vuejs.org/guide/introduction.html)
