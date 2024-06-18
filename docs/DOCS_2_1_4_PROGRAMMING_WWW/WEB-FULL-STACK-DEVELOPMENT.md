@@ -258,20 +258,6 @@
 
 ---
 
-## TypeScript Programming
-
-### ОФИЦИАЛЬНЫЕ ИСТОЧНИКИ
-
-* [TypeScript: JavaScript With Syntax For Types. (typescriptlang.org)](https://www.typescriptlang.org/)
-
-* [TypeScript — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/TypeScript)
-
-### Объявления типов для пакетов JavaScript
-
-* **DefinitelyTyped**
-
-* [DefinitelyTyped/DefinitelyTyped: The repository for high quality TypeScript type definitions. (github.com)](https://github.com/DefinitelyTyped/DefinitelyTyped)
-
 ### ПРИМЕРЫ ПРОЕКТОВ
 
 * [gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 (github.com)](https://github.com/gothinkster/realworld)
