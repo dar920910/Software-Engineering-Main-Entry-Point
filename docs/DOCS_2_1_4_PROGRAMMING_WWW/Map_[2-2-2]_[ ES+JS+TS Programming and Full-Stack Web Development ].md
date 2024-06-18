@@ -141,23 +141,6 @@
   * Meta Programming
   * Beyond ES6
 
-## jQuery
-
-### Castledine E., Sharkie C. - "jQuery - Novice to Ninja" ( 2012 )
-
-* Chapter 1 - Failing in Love with jQuery
-* Chapter 2 - Selecting, Decorating, and Enhancing
-* Chapter 3 - Animating, Scrolling, and Resizing
-* Chapter 4 - Images and Slideshows
-* Chapter 5 - Menus, Tabs, Tooltips, and Panels
-* Chapter 6 - Construction, Ajax, and Interactivity
-* Chapter 7 - Forms, Controls, and Dialogs
-* Chapter 8 - Lists, Trees, and Tables
-* Chapter 9 - Plugins, Themes, and Tables
-* Appendix A - Reference Material
-* Appendix B - JavaScript Tidbits
-* Appendix C - Plugin Helpers
-
 ## JavaScript Programming (Client + Server)
 
 ### Flanagan D. - "JavaScript - The Definitive Guide" ( 2020, 7 edition )
