@@ -14,38 +14,6 @@
 
 ---
 
-## ВЕБ-ДИЗАЙН
-
-### Интерактивные ресурсы для изучения веб-дизайна
-
-[Vanta.js - Animated 3D Backgrounds For Your Website (vantajs.com)](https://www.vantajs.com/)
-
-[Flexbox Defense](http://www.flexboxdefense.com/)
-
-[Home | Open UI (open-ui.org)](https://open-ui.org/)
-
-[70 YouTube-каналов для фронтенд-разработчика](https://proglib.io/p/70-youtube-kanalov-dlya-frontend-razrabotchika-2020-05-03 "70 YouTube-каналов для фронтенд-разработчика")
-
-[CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.](https://css-tricks.com/)
-
-[Scalable CSS: Learn Advanced, Modular CSS Methodologies & Architecture - Scalable CSS](https://scalablecss.com/)
-
-[The Front End Developer/Engineer Handbook 2024](https://frontendmasters.com/guides/front-end-handbook/2024/)
-
-### Контент для использования в веб-дизайне
-
-* [700+ CSS Icons, Customizable, Retina Ready & API](https://css.gg/)
-
-* [astrit/css.gg: 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API (github.com)](https://github.com/astrit/css.gg)
-
-* [ui-buttons/core: 100 Modern CSS Buttons. Every style that you can imagine. (github.com)](https://github.com/ui-buttons/core)
-
-* [teenyicons/teenyicons: Tiny minimal 1px icons designed to fit in the smallest places. (github.com)](https://github.com/teenyicons/teenyicons)
-
-* [picturepan2/devices.css: Devices.css - Modern devices crafted in pure CSS (github.com)](https://github.com/picturepan2/devices.css)
-
----
-
 ## Ресурсы для изучения JavaScript
 
 [ECMAScript — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/ECMAScript)
