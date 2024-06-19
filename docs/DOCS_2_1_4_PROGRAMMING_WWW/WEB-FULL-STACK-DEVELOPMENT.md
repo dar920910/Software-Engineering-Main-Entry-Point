@@ -22,14 +22,6 @@
 
 ---
 
-## WEB ASSEMBLY (WASM)
-
-### Примеры проектов
-
-[TheLartians/modern-wasm-starter: 🛸 Run C++ code on web and create blazingly fast websites! A starter template to easily create WebAssembly packages using type-safe C++ bindings with automatic TypeScript declarations. (github.com)](https://github.com/TheLartians/modern-wasm-starter)
-
----
-
 ## Децентрализованные платформы, ориентированные на Интернет
 
 [What is PeerTube? | JoinPeerTube](https://joinpeertube.org/en/)
