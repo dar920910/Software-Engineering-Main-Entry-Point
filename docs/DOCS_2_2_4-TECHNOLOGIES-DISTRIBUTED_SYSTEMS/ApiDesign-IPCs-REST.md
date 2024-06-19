@@ -15,3 +15,13 @@
 * Chapter 7 - Final Thoughts
 
 ---
+
+## Остальные ресурсы - Разработка Web API
+
+* [ProgrammableWeb - APIs, Mashups and the Web as Platform](https://www.programmableweb.com/)
+
+* [REST API Tutorial](https://www.restapitutorial.com/)
+
+* [What Is API Management? - NGINX](https://www.nginx.com/blog/what-is-api-management/)
+
+---
