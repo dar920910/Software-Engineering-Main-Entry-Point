@@ -1,12 +1,4 @@
-# WEB FULL STACK DEVELOPMENT
-
----
-
-## Децентрализованные платформы, ориентированные на Интернет
-
-[What is PeerTube? | JoinPeerTube](https://joinpeertube.org/en/)
-
-[WebTorrent - Streaming browser torrent client](https://webtorrent.io/)
+# Web Development - Online Tools
 
 ---
 
@@ -33,5 +25,13 @@
 [responsively-org/responsively-app: A modified web browser that helps in responsive web development. A web developer's must have dev-tool. (github.com)](https://github.com/responsively-org/responsively-app)
 
 [r-spacex/SpaceX-API: :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data. (github.com)](https://github.com/r-spacex/SpaceX-API)
+
+---
+
+## Децентрализованные платформы, ориентированные на Интернет
+
+[What is PeerTube? | JoinPeerTube](https://joinpeertube.org/en/)
+
+[WebTorrent - Streaming browser torrent client](https://webtorrent.io/)
 
 ---
