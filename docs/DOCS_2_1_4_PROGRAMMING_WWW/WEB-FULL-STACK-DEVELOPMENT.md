@@ -16,17 +16,7 @@
 
 ---
 
-## Electron.js
-
-[Electron — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Electron)
-
-[Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron (electronjs.org)](https://www.electronjs.org/)
-
-[electron/electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (github.com)](https://github.com/electron/electron)
-
----
-
-### ЯЗЫКИ РАЗМЕТКИ
+## ЯЗЫКИ РАЗМЕТКИ
 
 * [Haml — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Haml) + [Haml](https://haml.info/)
 
