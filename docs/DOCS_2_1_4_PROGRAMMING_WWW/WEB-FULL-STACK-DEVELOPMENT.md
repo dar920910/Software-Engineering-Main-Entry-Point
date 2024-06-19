@@ -2,20 +2,6 @@
 
 ---
 
-Ресурсы для изучения веб-разработки
-
-[Learn web development](https://web.dev/learn/)
-
-Мультимедиа средствами JavaScript
-
-* [The WebM Project | Welcome to the WebM Project](https://www.webmproject.org/)
-
-* [Dash-Industry-Forum/dash.js: A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers. (github.com)](https://github.com/Dash-Industry-Forum/dash.js)
-
-* [jerosoler/Drawflow: Simple flow library 🖥️🖱️ (github.com)](https://github.com/jerosoler/Drawflow)
-
----
-
 ## ЯЗЫКИ РАЗМЕТКИ
 
 * [Haml — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Haml) + [Haml](https://haml.info/)

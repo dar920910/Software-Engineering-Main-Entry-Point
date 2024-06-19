@@ -115,3 +115,11 @@
 ### Низкоуровневое программирование средствами JavaScript
 
 [asm.js — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Asm.js) + [asm.js (asmjs.org)](http://asmjs.org/)
+
+### Мультимедиа средствами JavaScript
+
+[The WebM Project | Welcome to the WebM Project](https://www.webmproject.org/)
+
+[Dash-Industry-Forum/dash.js: A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers. (github.com)](https://github.com/Dash-Industry-Forum/dash.js)
+
+[jerosoler/Drawflow: Simple flow library 🖥️🖱️ (github.com)](https://github.com/jerosoler/Drawflow)
