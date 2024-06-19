@@ -2,12 +2,6 @@
 
 ---
 
-## ЯЗЫКИ РАЗМЕТКИ
-
-* [Haml — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Haml) + [Haml](https://haml.info/)
-
----
-
 ## Децентрализованные платформы, ориентированные на Интернет
 
 [What is PeerTube? | JoinPeerTube](https://joinpeertube.org/en/)
