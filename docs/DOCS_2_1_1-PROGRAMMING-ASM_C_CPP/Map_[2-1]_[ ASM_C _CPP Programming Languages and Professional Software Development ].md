@@ -1175,6 +1175,8 @@
 
 #### Code Analysis
 
+* [Open-Source Tools for C++ Static Analysis](https://www.ics.com/blog/open-source-tools-c-static-analysis)
+
 * [Structured Diagnostics in the New Problem Details Window - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/structured-diagnostics-in-the-new-problem-details-window/)
 
 * [Code Analysis Improvements in Visual Studio 17.6 - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/code-analysis-improvements-in-visual-studio-17-6/)
@@ -1244,6 +1246,8 @@
 * [vcpkg is Now Included with Visual Studio - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/vcpkg-is-now-included-with-visual-studio/)
 
 #### Улучшения Visual Studio для C++ разработчиков
+
+* [Understand your C++ symbols using Copilot in Visual Studio’s Quick Info](https://devblogs.microsoft.com/cppblog/understand-your-c-symbols-using-copilot-in-visual-studios-quick-info/)
 
 * [Building your C++ Code with CMake in VS Code](https://devblogs.microsoft.com/cppblog/building-your-cpp-code-with-cmake-in-vs-code/)
 

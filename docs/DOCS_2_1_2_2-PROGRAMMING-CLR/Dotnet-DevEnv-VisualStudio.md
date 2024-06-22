@@ -4,6 +4,10 @@
 
 ## Visual Studio 2022 Improvements for C# .NET Developers
 
+* [Announcing Third Party API and Package Map Support for .NET Upgrade Assistant](https://devblogs.microsoft.com/dotnet/announcing-api-map-support-for-ua/)
+
+* [Easily navigate code delegates while debugging](https://devblogs.microsoft.com/visualstudio/easily-navigate-code-delegates-while-debugging/)
+
 * [The .NET MAUI Extension for Visual Studio Code is now Generally Available](https://devblogs.microsoft.com/dotnet/the-dotnet-maui-extension-for-visual-studio-code-is-now-generally-available/)
 
 * [WinForms Designer Selection for 32-bit .NET Framework Projects](https://devblogs.microsoft.com/visualstudio/winforms-designer-selection-for-32-bit-net-framework-projects/)

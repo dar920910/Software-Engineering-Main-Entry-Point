@@ -20,6 +20,8 @@
 
 ### Анонсы для разработчиков
 
+* [Dev Home Preview v0.15 Release](https://blogs.windows.com/windowsdeveloper/2024/06/20/dev-home-preview-v0-15-release/)
+
 * [What Windows 11 Means for Developers - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2021/06/24/what-windows-11-means-for-developers/)
 
 * [Developing for Windows 11 - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2021/10/04/developing-for-windows-11/)

@@ -126,6 +126,10 @@
 
 * **Нововведения .NET 8**
 
+* [Privacy and security improvements in .NET modernization tooling](https://devblogs.microsoft.com/dotnet/dotnet-modernization-privacy-security-improvements/)
+
+* [Refactor your code with default lambda parameters](https://devblogs.microsoft.com/dotnet/refactor-your-code-with-default-lambda-parameters/)
+
 * [Refactor your code with C# collection expressions](https://devblogs.microsoft.com/dotnet/refactor-your-code-with-collection-expressions/)
 
 * [Refactor your code using alias any type](https://devblogs.microsoft.com/dotnet/refactor-your-code-using-alias-any-type/)

@@ -278,6 +278,8 @@
 
 * [KhronosGroup/OpenCL-SDK: OpenCL SDK (github.com)](https://github.com/KhronosGroup/OpenCL-SDK/)
 
+* [PoCL - Portable Computing Language](https://portablecl.org/)
+
 ### OpenCV
 
 * [OpenCV — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/OpenCV)

@@ -4,6 +4,10 @@
 
 ## .NET Programming with JetBrains Rider (The .NET Tools Blog)
 
+* [dotCover Command Line Tools for Automation Testing Code Coverage](https://blog.jetbrains.com/dotnet/2024/06/20/dotcover-command-line-tools-for-automation-testing-code-coverage/)
+
+* [Code Style for Better Productivity – Tips and Tools from the Metalama Team](https://blog.jetbrains.com/dotnet/2024/06/18/code-style-for-better-productivity-tips-and-tools-from-the-metalama-team/)
+
 * [9 Things You Didn’t Know About JetBrains Rider’s NuGet Support](https://blog.jetbrains.com/dotnet/2024/05/29/9-things-you-didn-t-know-about-jetbrains-rider-s-nuget-support/)
 
 * [12 Debugging Techniques In JetBrains Rider You Should Know About](https://blog.jetbrains.com/dotnet/2024/01/29/12-debugging-techniques-in-jetbrains-rider-you-should-know-about/)

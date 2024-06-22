@@ -39,6 +39,8 @@
 
 ### IntelliJ IDEA Blog
 
+* [Let’s Bring Science Into API Documentation](https://blog.jetbrains.com/writerside/2024/06/let-s-bring-science-into-api-documentation/)
+
 * [Debugger Upskill: Debug Without Breakpoints](https://blog.jetbrains.com/idea/2024/06/debugger-upskill-debug-without-breakpoints/)
 
 * [Aqua, the IDE for Test Automation, Reaches General Availability!](https://blog.jetbrains.com/qa/2024/05/aqua-general-availability/)

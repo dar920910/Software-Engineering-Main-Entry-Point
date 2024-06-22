@@ -54,6 +54,8 @@
 
 ## ML.NET - Учебные ресурсы для чтения
 
+* [Using Phi-3 & C# with ONNX for text and vision samples](https://devblogs.microsoft.com/dotnet/using-phi3-csharp-with-onnx-for-text-and-vision-samples-md/)
+
 * [Building Generative AI apps with .NET 8](https://devblogs.microsoft.com/dotnet/build-gen-ai-with-dotnet-8/)
 
 * [ML.NET Model Builder is now a part of Visual Studio - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/ml-net-model-builder-is-now-a-part-of-visual-studio/)
