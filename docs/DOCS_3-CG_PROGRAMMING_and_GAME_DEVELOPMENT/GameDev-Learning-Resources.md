@@ -24,14 +24,6 @@
 
 ---
 
-## ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ - ГЕЙМИНГ/МОДДИНГ
-
-### Бенчмарки для игр
-
-* [FRAPS show fps, record video game movies, screen capture software](https://fraps.com/)
-
----
-
 ## РЕСУРСЫ для ИЗУЧЕНИЯ ИГРОВОЙ ИНДУСТРИИ
 
 * [Coding Games and Programming Challenges to Code Better (codingame.com)](https://www.codingame.com/start)
