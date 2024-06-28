@@ -1,5 +1,7 @@
 # .NET - ASP.NET Core - Roadmap
 
+[!!! MIGRATE THIS CONTENT AND THEN DELETE THE FILE !!!]()
+
 ---
 
 ## .NET - ASP.NET Core Web Development

@@ -1,5 +1,7 @@
 # Java Programming Language and JVM Software Development
 
+[!!! MIGRATE THIS CONTENT AND THEN DELETE THE FILE !!!]()
+
 ---
 
 ## Java Programming - Интересные статьи

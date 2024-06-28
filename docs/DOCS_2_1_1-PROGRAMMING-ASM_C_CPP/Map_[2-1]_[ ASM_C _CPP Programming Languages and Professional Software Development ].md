@@ -1,5 +1,7 @@
 # Assembly & C/C++ Programming Languages and Professional Software Development
 
+[!!! MIGRATE THIS CONTENT AND THEN DELETE THE FILE !!!]()
+
 ---
 
 ## [ 2.1.1.1 ] Assembly Programming Fundamentals

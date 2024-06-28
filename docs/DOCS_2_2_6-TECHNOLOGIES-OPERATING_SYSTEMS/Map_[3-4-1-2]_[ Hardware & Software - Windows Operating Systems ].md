@@ -1,5 +1,7 @@
 # 3.4.1.2 - Hardware & Software - Windows Operating Systems
 
+[!!! MIGRATE THIS CONTENT AND THEN DELETE THE FILE !!!]()
+
 ---
 
 ## Windows Subsystem for Linux & Windows Terminal

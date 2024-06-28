@@ -1,5 +1,7 @@
 # Cybersecurity - Cybersecurity & Hacking Fundamentals for Developers
 
+[!!! MIGRATE THIS CONTENT AND THEN DELETE THE FILE !!!]()
+
 ---
 
 ## Андресс Дж. - "Защита данных - От авторизации до аудита" ( 2021 )

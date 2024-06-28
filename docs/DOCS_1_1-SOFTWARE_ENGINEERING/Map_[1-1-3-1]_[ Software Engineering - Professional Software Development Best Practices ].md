@@ -1,5 +1,7 @@
 # Software Engineering - Professional Software Development Best Practices
 
+[!!! MIGRATE THIS CONTENT AND THEN DELETE THE FILE !!!]()
+
 ---
 
 ## Томас Д., Хант Э. - "Программист-прагматик" ( 2020 )

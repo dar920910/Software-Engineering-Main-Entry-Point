@@ -1,5 +1,7 @@
 # Software Development - Programming Fundamentals & Paradigms
 
+[!!! MIGRATE THIS CONTENT AND THEN DELETE THE FILE !!!]()
+
 ---
 
 ## Язык Паскаль и начала программирования

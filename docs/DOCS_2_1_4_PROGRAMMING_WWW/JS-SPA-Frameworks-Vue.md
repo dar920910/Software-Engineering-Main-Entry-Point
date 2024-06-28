@@ -1,5 +1,7 @@
 # JS SPA Frameworks: Vue
 
+[!!! MIGRATE THIS CONTENT AND THEN DELETE THE FILE !!!]()
+
 ---
 
 ## Vue Full-Stack Development (MEVN)

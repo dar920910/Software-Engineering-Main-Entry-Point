@@ -1,5 +1,7 @@
 # Software Development - Object-Oriented Programming Fundamentals
 
+[!!! MIGRATE THIS CONTENT AND THEN DELETE THE FILE !!!]()
+
 ---
 
 ## Вайсфельд М. - "Объектно-ориентированное мышление" ( 2020, 5 издание )

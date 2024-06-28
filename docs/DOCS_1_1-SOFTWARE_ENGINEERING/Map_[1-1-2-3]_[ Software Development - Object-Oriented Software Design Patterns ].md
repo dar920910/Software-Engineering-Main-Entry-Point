@@ -1,5 +1,7 @@
 # Software Development - Object-Oriented Software Design Patterns
 
+[!!! MIGRATE THIS CONTENT AND THEN DELETE THE FILE !!!]()
+
 ---
 
 ## GoF Design Patterns

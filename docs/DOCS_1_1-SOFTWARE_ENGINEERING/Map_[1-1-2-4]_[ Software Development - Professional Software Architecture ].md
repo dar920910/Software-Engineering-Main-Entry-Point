@@ -1,5 +1,7 @@
 # Software Development - Professional Software Architecture
 
+[!!! MIGRATE THIS CONTENT AND THEN DELETE THE FILE !!!]()
+
 ---
 
 ## Мартин Р. - "Чистая архитектура" ( 2018 )

@@ -1,5 +1,7 @@
 # SDLC - Software Security - Cybersecurity and Hacking Tools
 
+[!!! MIGRATE THIS CONTENT AND THEN DELETE THE FILE !!!]()
+
 ---
 
 ## Rahalkar S. - "Quick Start Guide to Penetration Testing" ( 2019 )

@@ -1,5 +1,7 @@
 # Java Programming Roadmap: Java SE (Core Java)
 
+[!!! MIGRATE THIS CONTENT AND THEN DELETE THE FILE !!!]()
+
 ---
 
 ## Java - Core Java SE Programming Fundamentals
