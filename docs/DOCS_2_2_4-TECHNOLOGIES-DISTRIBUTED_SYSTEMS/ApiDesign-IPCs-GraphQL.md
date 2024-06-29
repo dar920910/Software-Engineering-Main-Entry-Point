@@ -23,17 +23,3 @@
 * [How to GraphQL - The Fullstack Tutorial for GraphQL](https://www.howtographql.com/ "How to GraphQL - The Fullstack Tutorial for GraphQL")
 
 ---
-
-## GraphQL Learning
-
-### Бэнкс А., Порселло Е. - "GraphQL. Язык запросов для современных веб-приложений" ( 2019 )
-
-* Глава 1 - Добро пожаловать в GraphQL
-* Глава 2 - Теория графов
-* Глава 3 - Анатомия запросов GraphQL
-* Глава 4 - Схема GraphQL
-* Глава 5 - API GraphQL
-* Глава 6 - Клиенты GraphQL
-* Глава 7 - GraphQL в реальном мире
-
----
