@@ -4,38 +4,6 @@
 
 ---
 
-## .NET - C# Programming Language and .NET Base Class Libraries
-
-### Troelsen A., Japikse P. - "Pro C# 10 with .NET 6" ( 2022 )
-
-* PART 1 - Introducing C# and .NET 6
-  * Chapter 1 - Introducing C# and .NET 6
-  * Chapter 2 - Building C# Applications
-* PART 2 - Core C# Programming
-  * Chapter 3 - Core C# Programming Constructs, Part 1 **// 68**
-  * Chapter 4 - Core C# Programming Constructs, Part 2 **// 62**
-* PART 3 - Object-Oriented Programming with C#
-  * Chapter 5 - Understanding Encapsulation **// 62**
-  * Chapter 6 - Understanding Inheritance and Polymorphism **// 44**
-  * Chapter 7 - Understanding Structured Exception Handling **// 26**
-  * Chapter 8 - Working with Interfaces **// 42**
-  * Chapter 9 - Understanding Object Lifetime **// 28**
-* PART 4 - Advanced C# Programming
-  * Chapter 10 - Collections and Generics **// 42**
-  * Chapter 11 - Advanced C# Language Features **// 40**
-  * Chapter 12 - Delegates, Events, and Lambda Expressions **// 42**
-  * Chapter 13 - LINQ to Objects **// 42**
-  * Chapter 14 - Processes, AppDomains, and Load Contexts **// 20**
-  * Chapter 15 - Multithreaded, Parallel, and Async Programming **// 52**
-* PART 5 - Programming with .NET Core Assemblies
-  * Chapter 16 - Building and Configuring Class Libraries **// 36**
-  * Chapter 17 - Type Reflection, Late Binding, Attribute, and Dynamic Types **// 52**
-  * Chapter 18 - Understanding CIL and the Role of Dynamic Assemblies **// 36**
-* PART 6 - File Handling, Object Serialization, and Data Access
-  * Chapter 19 - File I/O and Object Serialization **// 46**
-
----
-
 ### .NET - GitHub Actions
 
 * [Developing Optimized GitHub Actions with .NET and Native AOT](https://devblogs.microsoft.com/dotnet/developing-optimized-github-actions-with-net-and-native-aot/)
@@ -43,30 +11,6 @@
 * [.NET 💜 GitHub Actions: Intro to GitHub Actions for .NET - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/dotnet-loves-github-actions/)
 
 * [Automate code metrics and class diagrams with GitHub Actions - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/automate-code-metrics-and-class-diagrams-with-github-actions/)
-
----
-
-## .NET - EF Core & Entity Framework & ADO.NET
-
-### Troelsen A., Japikse P. - "Pro C# 10 with .NET 6  (EF/EF Core)" ( 2022 )
-
-* PART 6 - File Handling, Object Serialization, and Data Access
-  * Chapter 20 - Data Access with ADO .NET **// 62 // + TODO !!!**
-* PART 7 - Entity Framework Core
-  * Chapter 21 - Introducing Entity Framework Core **// 60**
-  * Chapter 22 - Exploring Entity Framework Core **// 70**
-  * Chapter 23 - Build a Data Access Layer with Entity Framework Core **// 60**
-  * Chapter 24 - Test-Driving AutoLot **// 46**
-
-### Troelsen A., Japikse P. - "Pro C# 7 with .NET and .NET Core" ( 2017 )
-
-* PART 6 - Introducing the .NET Base Class Libraries
-  * Chapter 21 - Data Access with ADO .NET **// 54 // + TODO !!!**
-  * Chapter 22 - Introducing Entity Framework 6 **// 50**
-
-* APPENDIX (ONLINE PARTS)
-  * APPENDIX A - ADO .NET : Data Sets, Data Tables, and Data Adapters **// 66**
-  * APPENDIX B - Introducing LINQ to XML **// 19**
 
 ---
 
@@ -585,56 +529,5 @@
 * [Tips for Moving Your Xamarin Library to .NET MAUI - Xamarin Blog (microsoft.com)](https://devblogs.microsoft.com/xamarin/tips-for-porting-your-xamarin-library-to-dotnet-maui/)
 
 * [Xamarin.Essentials 1.7 and introducing .NET MAUI Essentials (microsoft.com)](https://devblogs.microsoft.com/xamarin/xamarin-essentials-1-7-and-introducing-net-maui-essentials/)
-
----
-
-## .NET - Windows Desktop Development
-
-### WPF - Troelsen A., Japikse P. - "Pro C# 10 with .NET 6 ( PART 8)" ( 2022 )
-
-* PART 8 - Windows Client Development
-  * Chapter 25 - Introducing Windows Presentation Foundation and XAML **// 38**
-  * Chapter 26 - WPF Controls, Layouts, Events, and Data Binding **// 60 // + TODO !!!**
-  * Chapter 27 - WPF Graphics Rendering Services **// 36**
-  * Chapter 28 - WPF Resources, Animations, Styles, and Templates **// 40**
-  * Chapter 29 - WPF Notifications, Validations, Commands, and MVVM **// 37**
-
----
-
-## .NET Multiplatform Application Development (Desktop/Mobile/Web/etc)
-
-### .NET Hybrid and Progressive Web Application Development
-
-* **PWAs - [Overview of Progressive Web Apps (PWAs) - Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/)**
-
-#### PWAs - Overview
-
-* [Overview of Progressive Web Apps (PWAs) - Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/)
-
-#### PWAs - Get Started
-
-* [Get started with Progressive Web Apps - Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/how-to/)
-
-* **WebView2 - [Introduction to Microsoft Edge WebView2 - Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/webview2/)**
-
-#### WebView2 - Overview
-
-* [Introduction to Microsoft Edge WebView2 - Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/webview2/)
-
-* [Set up your Dev environment for WebView2 - Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/webview2/how-to/machine-setup)
-
-* [WebView2 end-user FAQ - Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/webview2/concepts/end-user-faq)
-
-#### WebView2 - Getting Started
-
-* [Getting Started tutorials - Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/webview2/get-started/get-started)
-
-* [Get started with WebView2 in WinUI 3 (Windows App SDK) apps - Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/webview2/get-started/winui)
-
-* [Get started with WebView2 in WinUI 2 (UWP) apps - Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/webview2/get-started/winui2)
-
-* [Get started with WebView2 in WPF apps - Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/webview2/get-started/wpf)
-
-* [Get started with WebView2 in WinForms apps - Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/webview2/get-started/winforms)
 
 ---

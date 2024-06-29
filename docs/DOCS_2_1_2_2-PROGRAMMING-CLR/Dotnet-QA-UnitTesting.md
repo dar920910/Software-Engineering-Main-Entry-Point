@@ -6,17 +6,6 @@
 
 [Testing in .NET - .NET | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/core/testing/)
 
-* 01 - Overview
-* 02 - Unit testing best practices
-* 03 - xUnit
-* 04 - NUnit
-* 05 - MSTest
-* 06 - Run selective unit tests
-* 07 - Order unit tests
-* 08 - Unit test code coverage
-* 09 - Unit test published output
-* 10 - Live unit test with Visual Studio
-
 ---
 
 ## .NET QA - Unit Testing Frameworks
