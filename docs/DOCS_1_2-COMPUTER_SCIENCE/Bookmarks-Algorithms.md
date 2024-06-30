@@ -1,6 +1,4 @@
-# Software Development - Data Structures and Algorithms
-
-[!!! MIGRATE THIS CONTENT AND THEN DELETE THE FILE !!!]()
+# Bookmarks - Algorithms
 
 ---
 

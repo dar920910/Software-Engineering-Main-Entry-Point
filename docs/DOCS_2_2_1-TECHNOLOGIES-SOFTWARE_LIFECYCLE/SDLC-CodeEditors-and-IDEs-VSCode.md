@@ -1,7 +1,5 @@
 # SDLC - Code Editing - Professional Code Editors ( VS Code )
 
-[!!! MIGRATE THIS CONTENT AND THEN DELETE THE FILE !!!]()
-
 ---
 
 ## Удаленная разработка с помощью VS Code

@@ -1,6 +1,4 @@
-# Assembly & C/C++ Programming Languages and Professional Software Development
-
-[!!! MIGRATE THIS CONTENT AND THEN DELETE THE FILE !!!]()
+# C++ Programming Resources - Learning - Articles: C/C++ Programming Languages and Professional Software Development
 
 ---
 
