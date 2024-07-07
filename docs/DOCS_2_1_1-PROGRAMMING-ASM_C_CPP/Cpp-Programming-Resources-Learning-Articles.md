@@ -98,6 +98,8 @@
 
 #### VCPKG АНОНСЫ
 
+* [What’s New in vcpkg (June 2024)](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-june-2024/)
+
 * [What’s New in vcpkg (May 2024): Dedicated Pages for Each Package on vcpkg.io](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-may-2024-dedicated-pages-for-each-package-on-vcpkg-io/)
 
 * [What’s New in vcpkg (April 2024)](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-april-2024/)

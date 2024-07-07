@@ -44,6 +44,14 @@
 
 ## Официальный блог Docker
 
+* [ReadMeAI: An AI-powered README Generator for Developers](https://www.docker.com/blog/readmeai-an-ai-powered-readme-generator-for-developers/)
+
+* [Using Generative AI to Create Runnable Markdown](https://www.docker.com/blog/using-generative-ai-to-create-runnable-markdown/)
+
+* [Understanding the Docker USER Instruction](https://www.docker.com/blog/understanding-the-docker-user-instruction/)
+
+* [How to Measure DevSecOps Success: Key Metrics Explained](https://www.docker.com/blog/how-to-measure-devsecops-success-key-metrics-explained/)
+
 * [LXC vs. Docker: Which One Should You Use?](https://www.docker.com/blog/lxc-vs-docker/)
 
 * [Build Your Own AI-Driven Code Analysis Chatbot for Developers with the GenAI Stack](https://www.docker.com/blog/build-your-own-ai-driven-code-analysis-chatbot-genai-stack/)

@@ -12,6 +12,8 @@
 
 ## Windows Apps Development (Articles)
 
+- [Dive into native Windows development with new WinUI workload and template improvements](https://devblogs.microsoft.com/visualstudio/dive-into-native-windows-development-with-new-winui-workload-and-template-improvements/)
+
 - [Microsoft Photos: Migrating from UWP to Windows App SDK](https://blogs.windows.com/windowsdeveloper/2024/06/03/microsoft-photos-migrating-from-uwp-to-windows-app-sdk/)
 
 ---

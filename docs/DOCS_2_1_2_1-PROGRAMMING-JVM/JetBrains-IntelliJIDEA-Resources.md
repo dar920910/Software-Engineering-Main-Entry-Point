@@ -39,6 +39,10 @@
 
 ### IntelliJ IDEA Blog
 
+* [Introducing Grazie – The AI Writing Companion for People in Tech](https://blog.jetbrains.com/grazie/2024/06/introducing-grazie-the-ai-writing-companion-for-people-in-tech/)
+
+* [10 Plugins to Enhance Your IntelliJ IDEA Experience in 2024](https://blog.jetbrains.com/idea/2024/06/10-plugins-to-enhance-your-intellij-idea-experience-in-2024/)
+
 * [Let’s Bring Science Into API Documentation](https://blog.jetbrains.com/writerside/2024/06/let-s-bring-science-into-api-documentation/)
 
 * [Debugger Upskill: Debug Without Breakpoints](https://blog.jetbrains.com/idea/2024/06/debugger-upskill-debug-without-breakpoints/)

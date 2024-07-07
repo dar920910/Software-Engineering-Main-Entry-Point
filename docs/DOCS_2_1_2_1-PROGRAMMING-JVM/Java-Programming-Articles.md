@@ -4,6 +4,8 @@
 
 ## Java Programming - Интересные статьи
 
+* [Choosing the Right JDK Version: An Unofficial Guide](https://blogs.oracle.com/java/post/choosing-the-right-jdk-version)
+
 * [Data-Oriented Programming in Java - Version 1.1](https://inside.java/2024/05/23/dop-v1-1-introduction/)
 
 * [Model Data Immutably and Transparently - Data-Oriented Programming v1.1](https://inside.java/2024/05/27/dop-v1-1-immutable-transparent-data/)

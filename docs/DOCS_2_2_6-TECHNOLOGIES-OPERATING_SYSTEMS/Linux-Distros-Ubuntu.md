@@ -129,6 +129,10 @@
 
 ## LINUX UBUNTU & CLOUD TECHNOLOGIES
 
+* [Managed Apps on Public Cloud: Why Operations Matter, Part I](https://ubuntu.com//blog/managed-apps-on-public-cloud-why-operations-matter-part-i)
+
+* [Managed Apps on Public Cloud: Why Operations Matter, Part II](https://ubuntu.com//blog/managed-apps-on-public-cloud-why-operations-matter-part-ii)
+
 * [5 Edge Computing Examples You Should Know | Ubuntu](https://ubuntu.com//blog/edge-computing-examples)
 
 * [Cloud-native infrastructure – When the future meets the present](https://ubuntu.com//blog/cloud-native-infrastructure)

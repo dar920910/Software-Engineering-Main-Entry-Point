@@ -4,6 +4,8 @@
 
 ## Visual Studio 2022 Improvements for C# .NET Developers
 
+* [Code Assessment with .NET Upgrade Assistant](https://devblogs.microsoft.com/visualstudio/code-assessment-with-net-upgrade-assistant/)
+
 * [Announcing Third Party API and Package Map Support for .NET Upgrade Assistant](https://devblogs.microsoft.com/dotnet/announcing-api-map-support-for-ua/)
 
 * [Easily navigate code delegates while debugging](https://devblogs.microsoft.com/visualstudio/easily-navigate-code-delegates-while-debugging/)

@@ -4,6 +4,8 @@
 
 ## .NET Annotated Montly (JetBrains)
 
+* [dotInsights | July 2024 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2024/07/05/dotinsights-july-2024/)
+
 * [dotInsights | June 2024 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2024/06/06/dotinsights-june-2024/)
 
 * [dotInsights | May 2024 | The .NET Tools Blog (jetbrains.com)](https://blog.jetbrains.com/dotnet/2024/05/06/dotinsights-may-2024/)
