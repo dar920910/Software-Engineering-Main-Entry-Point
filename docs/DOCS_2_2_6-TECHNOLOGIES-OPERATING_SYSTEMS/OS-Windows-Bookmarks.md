@@ -146,8 +146,6 @@
 
 * [Sysinternals - Sysinternals | Microsoft Learn](https://learn.microsoft.com/en-us/sysinternals/)
 
-* [microsoft/PowerToys: Windows system utilities to maximize productivity (github.com)](https://github.com/microsoft/PowerToys)
-
 * [NSSM - the Non-Sucking Service Manager](https://nssm.cc/usage)
 
 * [Microsoft Defender SmartScreen Demo (msft.net)](https://demo.smartscreen.msft.net/)

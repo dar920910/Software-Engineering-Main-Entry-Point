@@ -1446,8 +1446,6 @@
 
 [markjprice (markjprice) / Repositories](https://github.com/markjprice?tab=repositories)
 
-[Microsoft PowerToys | Microsoft Learn](https://learn.microsoft.com/en-us/windows/powertoys/)
-
 [Personal - Banana Cake Pop](https://localhost:5111/graphql/)
 
 [Markdown Guide](https://www.markdownguide.org/)
