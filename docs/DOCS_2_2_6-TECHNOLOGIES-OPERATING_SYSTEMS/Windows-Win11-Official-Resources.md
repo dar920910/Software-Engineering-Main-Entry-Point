@@ -20,8 +20,6 @@
 
 ### Анонсы для разработчиков
 
-* [Dev Home Preview v0.15 Release](https://blogs.windows.com/windowsdeveloper/2024/06/20/dev-home-preview-v0-15-release/)
-
 * [What Windows 11 Means for Developers - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2021/06/24/what-windows-11-means-for-developers/)
 
 * [Developing for Windows 11 - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2021/10/04/developing-for-windows-11/)
@@ -35,8 +33,6 @@
 * [Create Next Generation Experiences at Scale with Windows - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2022/05/24/create-next-generation-experiences-at-scale-with-windows/)
 
 * [Customer Orders Database – what next? - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2022/07/15/customer-orders-database-what-next/)
-
-* [Introducing Dev Home - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2023/05/30/introducing-dev-home/)
 
 ### Windows App SDK
 
