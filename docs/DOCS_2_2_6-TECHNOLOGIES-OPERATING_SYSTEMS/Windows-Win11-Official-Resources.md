@@ -24,8 +24,6 @@
 
 * [Developing for Windows 11 - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2021/10/04/developing-for-windows-11/)
 
-* [Dev Drive: Performance, Security and Control for Developers - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2023/06/01/dev-drive-performance-security-and-control-for-developers/)
-
 * [Announcing ARM64EC: Building Native and Interoperable Apps for Windows 11 on ARM - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/)
 
 * [Available today: Windows Dev Kit 2023 aka Project Volterra - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/)

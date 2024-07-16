@@ -96,8 +96,6 @@
 
 * [Improving Visual Studio performance with the new Instrumentation Tool - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/improving-visual-studio-performance-with-the-new-instrumentation-tool/)
 
-* [Dev Drive for Performance Improvements in Visual Studio and Dev Boxes! - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/devdrive/)
-
 ### Visual Studio - Конфигурирование и администрирование
 
 * [Visual Studio 2022 can now Always Update on Close! - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-can-now-always-update-on-close/)
