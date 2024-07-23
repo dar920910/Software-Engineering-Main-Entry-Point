@@ -2,17 +2,33 @@
 
 ---
 
+## ФУНДАМЕНТАЛЬНАЯ ТЕРМИНОЛОГИЯ
+
+### Технология разработки программного обеспечения
+
+* [CASE (Computer-Aided Software Engineering) - Wikipedia](https://en.wikipedia.org/wiki/Computer-aided_software_engineering)
+
+* [IDE (Integrated Development Environment) - Wikipedia](https://en.wikipedia.org/wiki/Integrated_development_environment)
+
+---
+
 ## ОРГАНИЗАЦИИ и СООБЩЕСТВА
 
 ### ACM
 
 * [Ассоциация вычислительной техники — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%86%D0%B8%D1%8F_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8)
 
+* [Association for Computing Machinery - Wikipedia](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery)
+
 * [Association for Computing Machinery (acm.org)](https://www.acm.org/)
+
+* [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
 
 ### ISO
 
 * [Международная организация по стандартизации — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8)
+
+* [International Organization for Standardization - Wikipedia](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)
 
 * [ISO - International Organization for Standardization](https://www.iso.org/home.html)
 
@@ -37,6 +53,8 @@
 ### IEEE
 
 * [Институт инженеров электротехники и электроники — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BE%D0%B2_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B8_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8)
+
+* [Institute of Electrical and Electronics Engineers - Wikipedia](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers)
 
 * [IEEE - The world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.](https://www.ieee.org/)
 
