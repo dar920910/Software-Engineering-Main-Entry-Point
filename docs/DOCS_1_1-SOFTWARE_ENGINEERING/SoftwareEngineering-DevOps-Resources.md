@@ -1,6 +1,18 @@
 # Software Engineering - DevOps Culture (Fundamentals & Best Practices)
 
+---
+
+## Официальная информация
+
+* [DevOps - The Web's Largest Collection of DevOps Content](https://devops.com/)
+
+* [Сообщество DevOps Россия](https://devopsru.com/)
+
+---
+
 ## Полезные ресурсы для изучения DevOps
+
+* [DevOps - Wikipedia](https://en.wikipedia.org/wiki/DevOps)
 
 * [DevOps — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/DevOps)
 
