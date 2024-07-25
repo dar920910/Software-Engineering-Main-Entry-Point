@@ -2,7 +2,141 @@
 
 ---
 
-## ФУНДАМЕНТАЛЬНАЯ ТЕРМИНОЛОГИЯ
+## ФУНДАМЕНТАЛЬНЫЙ ТЕРМИНОЛОГИЧЕСКИЙ ГЛОССАРИЙ
+
+### Фундаментальные дисциплины инженерии программного обеспечения
+
+* [Software Engineering - Wikipedia](https://en.wikipedia.org/wiki/Software_engineering)
+
+* [Software Development - Wikipedia](https://en.wikipedia.org/wiki/Software_development)
+
+* [Project Management - Wikipedia](https://en.wikipedia.org/wiki/Project_management)
+
+### Жизненный цикл разработки программного обеспечения (IEEE)
+
+* [SDLC (Systems Development Life Cycle) - Wikipedia](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
+
+* [Software Development Process - Wikipedia](https://en.wikipedia.org/wiki/Software_development_process)
+
+* [Software Release Life Cycle - Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
+
+* [Software Project Management - Wikipedia](https://en.wikipedia.org/wiki/Software_project_management)
+
+* [SQM (Software Quality Management) - Wikipedia](https://en.wikipedia.org/wiki/Software_quality_management)
+
+* [SQA (Software Quality Assurance) - Wikipedia](https://en.wikipedia.org/wiki/Software_quality_assurance)
+
+* [Requirements Engineering - Wikipedia](https://en.wikipedia.org/wiki/Requirements_engineering)
+
+* [SRS (Software Requirements Specification) - Wikipedia](https://en.wikipedia.org/wiki/Software_requirements_specification)
+
+* [SCM (Software Configuration Management) - Wikipedia](https://en.wikipedia.org/wiki/Software_configuration_management)
+
+* [SDD (Software Design Description) - Wikipedia](https://en.wikipedia.org/wiki/Software_design_description)
+
+* [Software Test Documentation - Wikipedia](https://en.wikipedia.org/wiki/Software_test_documentation)
+
+* [Software Verification and Validation - Wikipedia](https://en.wikipedia.org/wiki/Software_verification_and_validation)
+
+* [Software Documentation - Wikipedia](https://en.wikipedia.org/wiki/Software_documentation)
+
+* [Software Audit Review - Wikipedia](https://en.wikipedia.org/wiki/Software_audit_review)
+
+### Сопутствующие дисциплины жизненного цикла разработки ПО
+
+* [Requirements Analysis - Wikipedia](https://en.wikipedia.org/wiki/Requirements_analysis)
+
+* [Data Modeling - Wikipedia](https://en.wikipedia.org/wiki/Data_modeling)
+
+* [UI (User Interface) - Wikipedia](https://en.wikipedia.org/wiki/User_interface)
+
+* [UX (User Experience) - Wikipedia](https://en.wikipedia.org/wiki/User_experience)
+
+* [Software Design - Wikipedia](https://en.wikipedia.org/wiki/Software_design)
+
+* [Software Construction - Wikipedia](https://en.wikipedia.org/wiki/Software_construction)
+
+* [Software Debugging - Wikipedia](https://en.wikipedia.org/wiki/Debugging)
+
+* [Software Testing - Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
+
+* [Software Quality Control - Wikipedia](https://en.wikipedia.org/wiki/Software_quality_control)
+
+* [Software Deployment - Wikipedia](https://en.wikipedia.org/wiki/Software_deployment)
+
+* [Software Maintenance - Wikipedia](https://en.wikipedia.org/wiki/Software_maintenance)
+
+* [System Integration - Wikipedia](https://en.wikipedia.org/wiki/System_integration)
+
+### Методологии/фреймворки/практики в разработке программного обеспечения
+
+* [Waterfall Model - Wikipedia](https://en.wikipedia.org/wiki/Waterfall_model)
+
+* [Spiral Model - Wikipedia](https://en.wikipedia.org/wiki/Spiral_model)
+
+* [V-Model - Wikipedia](https://en.wikipedia.org/wiki/V-model_(software_development))
+
+* [Software Prototyping - Wikipedia](https://en.wikipedia.org/wiki/Software_prototyping)
+
+* [RAD (Rapid Application Development - Wikipedia](https://en.wikipedia.org/wiki/Rapid_application_development)
+
+* [ASD (Adaptive Software Development) - Wikipedia](https://en.wikipedia.org/wiki/Adaptive_software_development)
+
+* [Iterative and Incremental Development - Wikipedia](https://en.wikipedia.org/wiki/Iterative_and_incremental_development)
+
+* [RUP (Rational Unified Process) - Wikipedia](https://en.wikipedia.org/wiki/Rational_unified_process)
+
+* [UP (Unified Process) - Wikipedia](https://en.wikipedia.org/wiki/Unified_process)
+
+* [Agile Software Development - Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development)
+
+* [Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development)
+
+* [SAFe (Scaled Agile Framework) - Wikipedia](https://en.wikipedia.org/wiki/Scaled_agile_framework)
+
+* [XP (Extreme Programming) - Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming)
+
+* [Extreme Programming Practices - Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming_practices)
+
+* [Pair Programming - Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)
+
+* [BDD (Behavior-Driven Development) - Wikipedia](https://en.wikipedia.org/wiki/Behavior-driven_development)
+
+* [TDD (Test-Driven Development) - Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+
+* [ATDD (Acceptance Test-Driven Development) - Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
+
+* [Scrum - Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
+
+* [Kanban - Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))
+
+* [PSP (Personal Software Process) - Wikipedia](https://en.wikipedia.org/wiki/Personal_software_process)
+
+* [TSP (Team Software Process) - Wikipedia](https://en.wikipedia.org/wiki/Team_software_process)
+
+* [MSF (Microsoft Solutions Framework) - Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Solutions_Framework)
+
+* [SBE (Specification by Example) - Wikipedia](https://en.wikipedia.org/wiki/Specification_by_example)
+
+* [DDD (Domain-Driven Design) - Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
+
+* [FDD (Feature-Driven Development) - Wikipedia](https://en.wikipedia.org/wiki/Feature-driven_development)
+
+* [MDE (Model-Driven Engineering) - Wikipedia](https://en.wikipedia.org/wiki/Model-driven_engineering)
+
+* [DSDM (Dynamic_systems_development_method) - Wikipedia](https://en.wikipedia.org/wiki/Dynamic_systems_development_method)
+
+* [DAD (Disciplined Agile Delivery) - Wikipedia](https://en.wikipedia.org/wiki/Disciplined_agile_delivery)
+
+* [DevOps - Wikipedia](https://en.wikipedia.org/wiki/DevOps)
+
+* [CI (Continuous Integration) - Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
+
+* [CD (Continuous Delivery) - Wikipedia](https://en.wikipedia.org/wiki/Continuous_delivery)
+
+* [CD (Continuous Deployment) - Wikipedia](https://en.wikipedia.org/wiki/Continuous_deployment)
+
+* [IaC (Infrastructure as Code) - Wikipedia](https://en.wikipedia.org/wiki/Infrastructure_as_code)
 
 ### Технология разработки программного обеспечения
 
@@ -10,13 +144,21 @@
 
 * [IDE (Integrated Development Environment) - Wikipedia](https://en.wikipedia.org/wiki/Integrated_development_environment)
 
+* [UML (Unified Modeling Language) - Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
+
+* [CRC Card (Class-Responsibility-Collaboration Card) - Wikipedia](https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card)
+
+* [GOMS (Goals-Operators-Methods-Selection Rules) - Wikipedia](https://en.wikipedia.org/wiki/GOMS)
+
+#### Разработка программного обеспечения (дальнейшее исследование темы)
+
+* [Category:Software development - Wikipedia](https://en.wikipedia.org/wiki/Category:Software_development)
+
 ---
 
-## ОРГАНИЗАЦИИ и СООБЩЕСТВА
+## ПРОФЕССИОНАЛЬНЫЕ ОРГАНИЗАЦИИ и СООБЩЕСТВА
 
 ### ACM
-
-* [Ассоциация вычислительной техники — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%86%D0%B8%D1%8F_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8)
 
 * [Association for Computing Machinery - Wikipedia](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery)
 
@@ -26,33 +168,29 @@
 
 ### ISO
 
-* [Международная организация по стандартизации — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8)
-
-* [International Organization for Standardization - Wikipedia](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)
+* [ISO (International Organization for Standardization) - Wikipedia](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)
 
 * [ISO - International Organization for Standardization](https://www.iso.org/home.html)
 
 ### IEC
 
-* [Международная электротехническая комиссия — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D1%8F)
+* [IEC (International Electrotechnical Commission) - Wikiedia](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission)
 
 * [Homepage | IEC](https://www.iec.ch/homepage)
 
 ### ANSI
 
-* [Американский национальный институт стандартов — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BE%D0%B2)
+* [ANSI (American National Standards Institute) - Wikipedia](https://en.wikipedia.org/wiki/American_National_Standards_Institute)
 
-* [https://www.ansi.org/](https://www.ansi.org/)
+* [American National Standards Institute - ANSI Home](https://www.ansi.org/)
 
 ### Ecma International
 
-* [Ecma International — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Ecma_International)
+* [ECMA & Ecma International (European Computer Manufacturers Association - Wikipedia](https://en.wikipedia.org/wiki/Ecma_International)
 
 * [Home - Ecma International (ecma-international.org)](https://www.ecma-international.org/)
 
 ### IEEE
-
-* [Институт инженеров электротехники и электроники — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BE%D0%B2_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B8_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8)
 
 * [Institute of Electrical and Electronics Engineers - Wikipedia](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers)
 
@@ -60,13 +198,15 @@
 
 * [IEEE Computer Society](https://www.computer.org/)
 
+* [IEEE - IEEE Code of Ethics](https://www.ieee.org/about/corporate/governance/p7-8.html)
+
 ### Open Source
 
 * [News from the blog | Open Source Initiative](https://opensource.org/)
 
 ---
 
-## ТЕХНОЛОГИЧЕСКИЕ СТАНДАРТЫ
+## ПРОМЫШЛЕННЫЕ ТЕХНОЛОГИЧЕСКИЕ СТАНДАРТЫ
 
 ### SWEBOK
 
@@ -78,7 +218,9 @@
 
 * [Semantic Versioning 2.0.0 | Semantic Versioning (semver.org)](https://semver.org/)
 
-### Гибкие методологии разработки ПО
+---
+
+## ПОПУЛЯРНЫЕ МЕТОДОЛОГИИ РАЗРАБОТКИ ПО
 
 * [Agile Alliance](https://www.agilealliance.org/)
 
@@ -88,49 +230,15 @@
 
 * [Home | Scrum.org](https://www.scrum.org/)
 
-* [The Agile Modeling (AM) Method: Effective Strategies for Modeling and Documentation](https://agilemodeling.com/)
-
-### Стандарты кодирования символов
-
-* [ASCII — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/ASCII)
-
-* [Юникод — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/%D0%AE%D0%BD%D0%B8%D0%BA%D0%BE%D0%B4)
-
-* [Unicode – The World Standard for Text and Emoji](https://home.unicode.org/)
-
-### Распределенные системы ( Distributed Systems )
-
-* [gRPC](https://grpc.io/)
-
-### Параллельные вычисления (Parallel Computing)
-
-* [Homepage | OpenACC](https://www.openacc.org/)
-
----
-
-## РЕСУРСЫ для ИЗУЧЕНИЯ
-
-### Разработка программного обеспечения
-
-* [Категория:Разработка программного обеспечения — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)
-
-* [Спецификация требований программного обеспечения — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)
-
-* [Ian Sommerville - YouTube](https://www.youtube.com/@IanSommerville/videos)
-
-### Методологии разработки ПО
-
-* [Scrum — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Scrum)
-
-* [Разработка через тестирование — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
-
-* [BDD (программирование) — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/BDD_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5))
-
 * [Control Chaos - Message from Ken](http://www.controlchaos.com/)
+
+* [The Agile Modeling (AM) Method: Effective Strategies for Modeling and Documentation](https://agilemodeling.com/)
 
 ---
 
 ## ПРОФЕССИОНАЛЫ В ОБЛАСТИ РАЗРАБОТКИ ПО
+
+* [Ian Sommerville - YouTube](https://www.youtube.com/@IanSommerville/videos)
 
 * Стив Макконнелл - [Resources by Topic | Construx](https://www.construx.com/resources/topics/)
 
