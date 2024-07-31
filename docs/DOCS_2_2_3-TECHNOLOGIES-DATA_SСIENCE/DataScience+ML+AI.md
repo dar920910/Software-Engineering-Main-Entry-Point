@@ -8,6 +8,10 @@
 
 ## РЕСУРСЫ для ПРАКТИКИ AI & ML & DATA SCIENCE
 
+### Бесплатные электронные книги
+
+* [Green Tea Press - Free books by Allen B. Downey](https://greenteapress.com/wp/)
+
 ### Наборы данных для машинного обучения
 
 * [Лучшие датасеты для машинного обучения и анализа данных (tproger.ru)](https://tproger.ru/translations/the-best-datasets-for-machine-learning-and-data-science/)
