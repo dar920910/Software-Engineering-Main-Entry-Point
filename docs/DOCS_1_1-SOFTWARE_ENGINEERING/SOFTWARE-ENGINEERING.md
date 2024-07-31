@@ -8,6 +8,8 @@
 
 * [Software Engineering - Wikipedia](https://en.wikipedia.org/wiki/Software_engineering)
 
+* [History of Software Engineering - Wikipedia](https://en.wikipedia.org/wiki/History_of_software_engineering)
+
 * [Software Development - Wikipedia](https://en.wikipedia.org/wiki/Software_development)
 
 * [Project Management - Wikipedia](https://en.wikipedia.org/wiki/Project_management)
@@ -140,6 +142,8 @@
 
 ### Технология разработки программного обеспечения
 
+* [CMMI (Capability Maturity Model Integration) - Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
+
 * [CASE (Computer-Aided Software Engineering) - Wikipedia](https://en.wikipedia.org/wiki/Computer-aided_software_engineering)
 
 * [IDE (Integrated Development Environment) - Wikipedia](https://en.wikipedia.org/wiki/Integrated_development_environment)
@@ -230,6 +234,8 @@
 
 * [Home | Scrum.org](https://www.scrum.org/)
 
+* [Extreme Programming: A Gentle Introduction](http://www.extremeprogramming.org/)
+
 * [Control Chaos - Message from Ken](http://www.controlchaos.com/)
 
 * [The Agile Modeling (AM) Method: Effective Strategies for Modeling and Documentation](https://agilemodeling.com/)
@@ -251,5 +257,9 @@
 * Крэйг Ларман - [Craig Larman](https://www.craiglarman.com/wiki/index.php?title=Main_Page)
 
 * Энди Хант - [Andy Hunt's Toolshed Technologies Home Page](https://toolshed.com/)
+
+* [Steve Krug | Usability, mostly.](https://sensible.com/)
+
+* [Nathaniel Schutta](https://ntschutta.io/)
 
 ---
