@@ -202,6 +202,10 @@
 
 * [Home - OpenCV](https://opencv.org/)
 
+### Параллельные вычисления (Parallel Computing)
+
+* [Homepage | OpenACC](https://www.openacc.org/)
+
 ### OpenTitan
 
 * [Open source silicon root of trust (RoT) | OpenTitan](https://opentitan.org/)
@@ -214,7 +218,9 @@
 
 * [ASCII — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/ASCII)
 
-* [Юникод — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/%D0%AE%D0%BD%D0%B8%D0%BA%D0%BE%D0%B4) + [Unicode – The World Standard for Text and Emoji](https://home.unicode.org/)
+* [Юникод — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/%D0%AE%D0%BD%D0%B8%D0%BA%D0%BE%D0%B4)
+
+* [Unicode – The World Standard for Text and Emoji](https://home.unicode.org/)
 
 * [UTF-8 — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/UTF-8)
 
