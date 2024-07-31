@@ -50,8 +50,40 @@
 
 ---
 
+## Software Testing and SDLC Methodologies
+
+* [What are the Software Development Models?](http://tryqa.com/what-are-the-software-development-models/)
+
+* [What is Waterfall model- Examples, advantages, disadvantages & when to use it?](http://tryqa.com/what-is-waterfall-model-advantages-disadvantages-and-when-to-use-it/)
+
+* [What is V-model- advantages, disadvantages and when to use it?](http://tryqa.com/what-is-v-model-advantages-disadvantages-and-when-to-use-it/)
+
+* [What is Iterative model- advantages, disadvantages and when to use it?](http://tryqa.com/what-is-iterative-model-advantages-disadvantages-and-when-to-use-it/)
+
+* [What is Incremental model- advantages, disadvantages and when to use it?](http://tryqa.com/what-is-incremental-model-advantages-disadvantages-and-when-to-use-it/)
+
+* [What is Spiral model- advantages, disadvantages and when to use it?](http://tryqa.com/what-is-spiral-model-advantages-disadvantages-and-when-to-use-it/)
+
+* [Spiral Development: Experience, Principles, and Refinements Spiral Development Workshop February 9, 2000](https://insights.sei.cmu.edu/library/spiral-development-experience-principles-and-refinements-spiral-development-workshop-february-9-2000/)
+
+* [Agile-манифест разработки программного обеспечения](http://agilemanifesto.org/iso/ru/manifesto.html)
+
+* [The Agile System Development Lifecycle (SDLC)](http://www.ambysoft.com/essays/agileLifecycle.html)
+
+* [Project Lifecycle Models: How They Differ and When to Use Them](http://www.business-esolutions.com/islm.htm)
+
+* [Software Testing Life Cycle (STLC)](https://www.softwaretestingmentor.com/software-testing-life-cycle/)
+
+---
+
 ## Software Testing - SQA Professionals
 
 * [Rex Black Inc](https://www.rexblack.com/)
+
+---
+
+## Software Testing - Useful Websites
+
+* [TRY QA](http://tryqa.com/)
 
 ---
