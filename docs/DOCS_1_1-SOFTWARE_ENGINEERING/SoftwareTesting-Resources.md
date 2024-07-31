@@ -2,6 +2,10 @@
 
 ---
 
+## Software Engineering -International Standards
+
+* [610.12-1990 - IEEE Standard Glossary of Software Engineering Terminology](https://ieeexplore.ieee.org/document/159342)
+
 ## Software Testing - International Standards
 
 * [ISO/IEC/IEEE 29119-1:2022 - Software and systems engineering - Software testing - Part 1: General concepts](https://www.iso.org/standard/81291.html)
@@ -19,6 +23,16 @@
 * [ISO/IEC 25019:2023 - Systems and software engineering - Systems and software Quality Requirements and Evaluation (SQuaRE) - Quality-in-use model](https://www.iso.org/standard/78177.html)
 
 * [ISO/IEC 20246:2017 - Software and systems engineering - Work product reviews](https://www.iso.org/standard/67407.html)
+
+## Software Requirements - International Standards
+
+* [830-1998 - IEEE Recommended Practice for Software Requirements Specifications](https://ieeexplore.ieee.org/document/720574)
+
+## Software Quality - International Standards
+
+* [730-2014 - IEEE Standard for Software Quality Assurance Processes](https://ieeexplore.ieee.org/document/6835311)
+
+* [ISO/IEC/IEEE 90003:2018 - Software engineering - Guidelines for the application of ISO 9001:2015 to computer software](https://www.iso.org/standard/74348.html)
 
 ---
 
