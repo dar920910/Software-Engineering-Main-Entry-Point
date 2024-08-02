@@ -66,6 +66,8 @@
 
 * [Software Deployment - Wikipedia](https://en.wikipedia.org/wiki/Software_deployment)
 
+* [Software Versioning - Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
+
 * [Software Maintenance - Wikipedia](https://en.wikipedia.org/wiki/Software_maintenance)
 
 * [System Integration - Wikipedia](https://en.wikipedia.org/wiki/System_integration)
@@ -221,6 +223,8 @@
 ### Semantic Versioning
 
 * [Semantic Versioning 2.0.0 | Semantic Versioning (semver.org)](https://semver.org/)
+
+* [Семантическое Версионирование 2.0.0 | Semantic Versioning (semver.org)](https://semver.org/lang/ru/)
 
 ---
 

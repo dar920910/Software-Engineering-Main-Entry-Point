@@ -140,8 +140,6 @@
 
 [Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
 
-[Semantic Versioning 2.0.0 | Semantic Versioning](https://semver.org/)
-
 [Home - Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/)
 
 ---
