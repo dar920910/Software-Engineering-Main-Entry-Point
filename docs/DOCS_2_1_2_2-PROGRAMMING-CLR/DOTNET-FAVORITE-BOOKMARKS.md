@@ -158,6 +158,10 @@
 
 [Uno Platform - Cross-Platform Apps with .NET, C# & XAML](https://platform.uno/)
 
+[Uno Platform - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=unoplatform.vscode)
+
+[Uno Platform | GitHub](https://github.com/unoplatform)
+
 [Piranha CMS - Open Source, Cross Platform Asp.NET Core CMS](https://piranhacms.org/)
 
 [Umbraco 9 | The future of Umbraco on .NET 5 and ASP.NET Core](https://umbraco.com/products/umbraco-cms/umbraco-9/)
