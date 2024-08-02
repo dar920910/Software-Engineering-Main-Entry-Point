@@ -89,8 +89,6 @@
 
 * [Remote Development in JetBrains IDEs Now Available to GitHub Codespaces Users | Company Blog](https://blog.jetbrains.com/blog/2022/11/09/remote-development-in-jetbrains-ides-now-available-to-github-codespaces-users/)
 
-* [Maven and IntelliJ IDEA | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2021/07/using-maven-in-intellij-idea/)
-
 * [New Tutorial: Working with Gradle | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2021/06/new-tutorial-working-with-gradle/)
 
 * [10 places you don’t need to use the mouse in IntelliJ IDEA | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2021/08/10-places-you-don-t-need-to-use-the-mouse-in-intellij-idea/)

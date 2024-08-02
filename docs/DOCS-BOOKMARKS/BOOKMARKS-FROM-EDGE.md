@@ -1432,6 +1432,10 @@
 
 [Joe Birch | Speaker, Educator and GDE for Android](https://joebirch.co/)
 
+[Download Android Studio](https://developer.android.com/studio/index.html)
+
+[Android Emulator hypervisor driver](https://github.com/google/android-emulator-hypervisor-driver)
+
 ---
 
 ### Ресурсы - Протокол WebSocket

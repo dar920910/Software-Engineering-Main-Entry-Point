@@ -36,10 +36,6 @@
 
 [Apache Ant - Welcome](https://ant.apache.org/)
 
-[Maven – Welcome to Apache Maven](https://maven.apache.org/)
-
-[Maven Repository - Search/Browse/Explore](https://mvnrepository.com/)
-
 [Dev.java - The Destination for Java Developers](https://dev.java/)
 
 [Inside.java](https://inside.java/)

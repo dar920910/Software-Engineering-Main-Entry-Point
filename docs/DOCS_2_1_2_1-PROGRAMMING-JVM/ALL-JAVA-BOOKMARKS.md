@@ -184,8 +184,6 @@
 
 * [Gradle — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Gradle) + [Gradle Build Tool](https://gradle.org/)
 
-* [Apache Maven — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Apache_Maven) + [Maven – Welcome to Apache Maven](https://maven.apache.org/)
-
 * [Apache Ant — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Apache_Ant) + [Apache Ant - Welcome](https://ant.apache.org/)
 
 ### Анализ качества кода для Java
