@@ -2,7 +2,7 @@
 
 ---
 
-## Официальные Ресурсы
+## Maven - Официальные Ресурсы
 
 * [Maven – Welcome to Apache Maven](https://maven.apache.org/)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Общие Сведения
+## Maven - Общие Сведения
 
 * [Apache Maven - Wikipedia](https://en.wikipedia.org/wiki/Apache_Maven)
 
@@ -20,10 +20,16 @@
 
 ---
 
-## Статьи для Чтения
-
-* [Maven - Guide to Naming Conventions](https://maven.apache.org/guides/mini/guide-naming-conventions.html)
+## Maven - Статьи для Чтения
 
 * [Maven and IntelliJ IDEA | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2021/07/using-maven-in-intellij-idea/)
+
+---
+
+## Maven - Внутренне Устройство
+
+* [Getting Maven Source](https://maven.apache.org/scm.html)
+
+* [Apache Maven core | GitHub](https://github.com/apache/maven)
 
 ---
