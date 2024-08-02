@@ -76,3 +76,5 @@
 [MessagePack: It's like JSON. but fast and small.](https://msgpack.org/)
 
 [memcached - a distributed memory object caching system](https://memcached.org/)
+
+[Firebird: The true open source database for Windows, Linux, Mac OS X and more](https://www.firebirdsql.org/)
