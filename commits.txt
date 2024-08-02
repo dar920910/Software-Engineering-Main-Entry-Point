@@ -1,0 +1,3 @@
+Created the README.md file for the "WebDev-Node-ModernFrontendDevelopment" folder.
+
+Update for the "GameDev-Learning-Resources.md" document.
