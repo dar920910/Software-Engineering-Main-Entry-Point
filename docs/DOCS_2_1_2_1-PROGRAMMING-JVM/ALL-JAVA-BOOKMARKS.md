@@ -124,8 +124,6 @@
 
 * [What is JBehave?](https://jbehave.org/)
 
-* [Project Lombok](https://projectlombok.org/)
-
 * [EclEmma - Java Code Coverage for Eclipse (jacoco.org)](https://www.jacoco.org/)
 
 * [Open Liberty](https://openliberty.io/)
