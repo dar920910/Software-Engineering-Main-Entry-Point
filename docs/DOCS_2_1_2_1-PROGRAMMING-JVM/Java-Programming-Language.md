@@ -2,6 +2,14 @@
 
 ---
 
+## Java Terminology
+
+* [Java (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
+
+* [Java (virtual machine) - Wikipedia](https://en.wikipedia.org/wiki/Java_virtual_machine)
+
+---
+
 ## Java Official Documents
 
 * [The Java Language Environment | A White Paper (May 1996, James Gosling & Henry McGilton)](https://www.oracle.com/java/technologies/language-environment.html)
