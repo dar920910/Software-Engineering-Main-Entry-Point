@@ -44,9 +44,51 @@
 
 ## Официальный блог Docker
 
+### Releases - Docker & Docker Desktop
+
+#### 2024
+
+* [Docker Desktop 4.33: GA Releases of Docker Debug and Docker Build Checks Plus Enhanced Configuration Integrity Checks](https://www.docker.com/blog/docker-desktop-4-33/)
+
+* [Docker Desktop 4.32: Beta Releases of Compose File Viewer, Terminal Shell Integration, and Volume Backups to Cloud Providers](https://www.docker.com/blog/docker-desktop-4-32/)
+
+### Features - Docker & Docker Desktop
+
+* [Docker Scout Health Scores: Security Grading for Container Images in Your Docker Hub Repo](https://www.docker.com/blog/docker-scout-health-scores-security-grading-for-container-images/)
+
+### Using Docker - Best Practices
+
+* [Introducing Docker Build Checks: Optimize Dockerfiles with Best Practices](https://www.docker.com/blog/introducing-docker-build-checks/)
+
+* [Docker Best Practices: Choosing Between RUN, CMD, and ENTRYPOINT](https://www.docker.com/blog/docker-best-practices-choosing-between-run-cmd-and-entrypoint/)
+
+### Using Docker - AI & ML
+
+* [How to Create Dockerfiles with GenAI](https://www.docker.com/blog/how-to-create-dockerfiles-with-genai/)
+
+* [How an AI Assistant Can Help Configure Your Project’s Git Hooks](https://www.docker.com/blog/how-an-ai-assistant-can-help-configure-your-projects-git-hooks/)
+
+* [How to Run Hugging Face Models Programmatically Using Ollama and Testcontainers](https://www.docker.com/blog/how-to-run-hugging-face-models-programmatically-using-ollama-and-testcontainers/)
+
 * [ReadMeAI: An AI-powered README Generator for Developers](https://www.docker.com/blog/readmeai-an-ai-powered-readme-generator-for-developers/)
 
 * [Using Generative AI to Create Runnable Markdown](https://www.docker.com/blog/using-generative-ai-to-create-runnable-markdown/)
+
+* [Build Your Own AI-Driven Code Analysis Chatbot for Developers with the GenAI Stack](https://www.docker.com/blog/build-your-own-ai-driven-code-analysis-chatbot-genai-stack/)
+
+* [Docker Documentation Gets an AI-Powered Assistant](https://www.docker.com/blog/docker-documentation-ai-powered-assistant/)
+
+* [Streamline the Development of Real-Time AI Applications with MindsDB Docker Extension](https://www.docker.com/blog/mindsdb-docker-extension/)
+
+* [A Quick Guide to Containerizing Llamafile with Docker for AI Applications](https://www.docker.com/blog/a-quick-guide-to-containerizing-llamafile-with-docker-for-ai-applications/)
+
+### Docker & Security
+
+* [3 Ways CARIAD Configures Docker Business for Security and Compliance](https://www.docker.com/blog/3-ways-cariad-configures-docker-business-for-security-and-compliance/)
+
+---
+
+### Архивы статей
 
 * [Understanding the Docker USER Instruction](https://www.docker.com/blog/understanding-the-docker-user-instruction/)
 
@@ -54,19 +96,11 @@
 
 * [LXC vs. Docker: Which One Should You Use?](https://www.docker.com/blog/lxc-vs-docker/)
 
-* [Build Your Own AI-Driven Code Analysis Chatbot for Developers with the GenAI Stack](https://www.docker.com/blog/build-your-own-ai-driven-code-analysis-chatbot-genai-stack/)
-
 * [Develop Kubernetes Operators in Java without Breaking a Sweat](https://www.docker.com/blog/develop-kubernetes-operators-in-java-without-breaking-a-sweat/)
 
 * [Experimental Windows Containers Support for BuildKit Released in v0.13.0](https://www.docker.com/blog/experimental-windows-containers-support-for-buildkit-released-in-v0-13-0/)
 
-* [Docker Documentation Gets an AI-Powered Assistant](https://www.docker.com/blog/docker-documentation-ai-powered-assistant/)
-
-* [Streamline the Development of Real-Time AI Applications with MindsDB Docker Extension](https://www.docker.com/blog/mindsdb-docker-extension/)
-
 * [How to Check Your Docker Installation: Docker Desktop vs. Docker Engine](https://www.docker.com/blog/blog-how-to-check-docker-version/)
-
-* [A Quick Guide to Containerizing Llamafile with Docker for AI Applications](https://www.docker.com/blog/a-quick-guide-to-containerizing-llamafile-with-docker-for-ai-applications/)
 
 * [Navigating Proxy Servers with Ease: New Advancements in Docker Desktop 4.30](https://www.docker.com/blog/navigating-proxy-servers-docker-desktop-4-30/)
 
