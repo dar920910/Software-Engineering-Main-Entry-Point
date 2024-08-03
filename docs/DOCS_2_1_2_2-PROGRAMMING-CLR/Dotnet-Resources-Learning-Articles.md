@@ -14,6 +14,8 @@
 
 ### .NET Aspire
 
+* [What's new in .NET Aspire 8.1 for cloud native developers! - .NET Blog](https://devblogs.microsoft.com/dotnet/whats-new-in-aspire-8-1/)
+
 * [Let’s Learn .NET Aspire – Start your cloud-native journey live!](https://devblogs.microsoft.com/dotnet/lets-learn-dotnet-aspire/)
 
 * [Using PostgreSQL with .NET and Entra ID](https://devblogs.microsoft.com/dotnet/using-postgre-sql-with-dotnet-and-entra-id/)
@@ -23,8 +25,6 @@
 * [Package Management & improved .NET Aspire support come to C# Dev Kit](https://devblogs.microsoft.com/dotnet/may-release-of-csharp-dev-kit/)
 
 ### .NET 8 (LTS) - .NET Conf 2023
-
-* [Our Vision for .NET 9](https://devblogs.microsoft.com/dotnet/our-vision-for-dotnet-9/)
 
 * [Announcing C# 12 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-csharp-12/)
 
@@ -400,6 +400,10 @@
 
 * Полезные статьи для чтения
 
+* [Why and How to Execute GraphQL Queries in .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/why-and-how-to-execute-graph-ql-queries-in-dotnet/)
+
+* [How use a Blazor QuickGrid with GraphQL - .NET Blog](https://devblogs.microsoft.com/dotnet/how-use-a-blazor-quickgrid-with-graphql/)
+
 * [The FAST and the Fluent: A Blazor story](https://devblogs.microsoft.com/dotnet/the-fast-and-the-fluent-a-blazor-story/)
 
 * [Sortable Lists for Blazor using a SortableJS Component](https://devblogs.microsoft.com/dotnet/introducing-blazor-sortable/)
@@ -438,6 +442,8 @@
 
 ### Modern Support for Windows Communication Foundation (.NET Blog)
 
+* [Introducing CoreWCF and WCF Client Azure Queue Storage bindings for .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-core-wcf-and-wcf-client-azure-queue-storage-bindings-for-dotnet/)
+
 * [Supporting the community with WF and WCF OSS projects - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/supporting-the-community-with-wf-and-wcf-oss-projects/)
 
 * [CoreWCF 1.0 has been Released, WCF for .NET Core and .NET 5+ - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/corewcf-v1-released/)
@@ -453,6 +459,8 @@
 * [Announcing the .NET MAUI Community Toolkit v1.3 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-maui-community-toolkit-v13/)
 
 * Полезные статьи для изучения MAUI
+
+* [Creating Bindings for .NET MAUI with Native Library Interop - .NET Blog](https://devblogs.microsoft.com/dotnet/native-library-interop-dotnet-maui/)
 
 * [Getting started with UI testing .NET MAUI apps using Appium](https://devblogs.microsoft.com/dotnet/dotnet-maui-ui-testing-appium/)
 

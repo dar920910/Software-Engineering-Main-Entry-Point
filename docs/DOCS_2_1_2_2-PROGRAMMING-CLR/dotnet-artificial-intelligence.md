@@ -54,6 +54,8 @@
 
 ## ML.NET - Учебные ресурсы для чтения
 
+* [Add AI to Your .NET Apps Easily with Prompty - .NET Blog](https://devblogs.microsoft.com/dotnet/add-ai-to-your-dotnet-apps-easily-with-prompty/)
+
 * [Using Phi-3 & C# with ONNX for text and vision samples](https://devblogs.microsoft.com/dotnet/using-phi3-csharp-with-onnx-for-text-and-vision-samples-md/)
 
 * [Building Generative AI apps with .NET 8](https://devblogs.microsoft.com/dotnet/build-gen-ai-with-dotnet-8/)

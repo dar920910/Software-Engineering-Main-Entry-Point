@@ -112,6 +112,8 @@
 
 ### Visual Studio - Персонализация и пользовательский интерфейс
 
+* [Making Visual Studio a bit more visual - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/making-visual-studio-a-bit-more-visual/)
+
 * [Flexible theming capabilities for Visual Studio  - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/flexible-theming-visual-studio/)
 
 * [Revamped Project Properties UI - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/revamped-project-properties-ui/)
@@ -125,6 +127,8 @@
 * [Improved doc management personalization - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/doc-management-personalization/)
 
 ### Visual Studio - Повседневные задачи разработчика
+
+* [Visual Studio tip: Using Ctrl-L to delete a line with and without Clipboard backup - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/visual-studio-tip-deleting-a-line/)
 
 * [Introducing the Revamped Visual Studio Resource Explorer](https://devblogs.microsoft.com/visualstudio/introducing-the-revamped-visual-studio-resource-explorer/)
 
@@ -275,6 +279,8 @@
 * [Announcing Create a Pull Request in Visual Studio (microsoft.com)](https://devblogs.microsoft.com/visualstudio/create-a-pull-request-in-visual-studio/)
 
 ### Visual Studio - Поддержка расширений
+
+* [Sign VSIX packages with Sign CLI - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/sign-vsix-packages-with-sign-cli/)
 
 * [A modern Extension Manager has arrived with Visual Studio 17.10](https://devblogs.microsoft.com/visualstudio/visual-studio-extension-manager-17-10/)
 

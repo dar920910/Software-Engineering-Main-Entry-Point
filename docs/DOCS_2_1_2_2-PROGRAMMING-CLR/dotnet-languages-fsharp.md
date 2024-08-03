@@ -18,6 +18,12 @@
 
 ---
 
+## FSharp - Статьи для Чтения
+
+* [Enhancing #help in F# Interactive - .NET Blog](https://devblogs.microsoft.com/dotnet/enhancing-help-in-fsi/)
+
+---
+
 ## Дополнительное чтение к изучению FSharp
 
 * [F Sharp — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/F_Sharp)

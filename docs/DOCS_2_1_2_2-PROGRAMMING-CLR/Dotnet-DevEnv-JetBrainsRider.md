@@ -4,6 +4,10 @@
 
 ## .NET Programming with JetBrains Rider (The .NET Tools Blog)
 
+* [ReSharper 20 years! | The .NET Tools Blog](https://blog.jetbrains.com/dotnet/2024/07/23/resharper-20-years/)
+
+* [Snapshot Testing in .NET with Verify | The .NET Tools Blog](https://blog.jetbrains.com/dotnet/2024/07/11/snapshot-testing-in-net-with-verify/)
+
 * [dotCover Command Line Tools for Automation Testing Code Coverage](https://blog.jetbrains.com/dotnet/2024/06/20/dotcover-command-line-tools-for-automation-testing-code-coverage/)
 
 * [Code Style for Better Productivity – Tips and Tools from the Metalama Team](https://blog.jetbrains.com/dotnet/2024/06/18/code-style-for-better-productivity-tips-and-tools-from-the-metalama-team/)

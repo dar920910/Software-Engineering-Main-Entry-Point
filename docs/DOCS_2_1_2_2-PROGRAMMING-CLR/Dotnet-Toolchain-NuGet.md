@@ -38,6 +38,10 @@
 
 ## NuGet Learning Resources
 
+* [NuGetAudit 2.0: Elevating Security and Trust in Package Management - The NuGet Blog](https://devblogs.microsoft.com/nuget/nugetaudit-2-0-elevating-security-and-trust-in-package-management/)
+
+* [Building a Safer Future - How NuGet is Tackling Software Supply Chain Threats - The NuGet Blog](https://devblogs.microsoft.com/nuget/building-a-safer-future-how-nuget-is-tackling-software-supply-chain-threats/)
+
 * [Announcing NuGet Commands in C# Dev Kit - The NuGet Blog (microsoft.com)](https://devblogs.microsoft.com/nuget/announcing-nuget-commands-in-c-dev-kit/)
 
 * [Refining Your Search: Introducing NuGet.org’s Compatible Framework Filters - The NuGet Blog (microsoft.com)](https://devblogs.microsoft.com/nuget/refining-your-search-introducing-nuget-orgs-compatible-framework-filters/)

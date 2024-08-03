@@ -2,6 +2,16 @@
 
 ---
 
+## .NET 9 (STS)
+
+* [.NET 9 Preview 6 is now available! - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-9-preview-6/)
+
+* [Our Vision for .NET 9](https://devblogs.microsoft.com/dotnet/our-vision-for-dotnet-9/)
+
+* .NET 9 Development: [core/release-notes/9.0/README.md at main · dotnet/core](https://github.com/dotnet/core/blob/main/release-notes/9.0/README.md)
+
+---
+
 ## :zap: .NET 8 (LTS)
 
 ### .NET 8 Official Release
