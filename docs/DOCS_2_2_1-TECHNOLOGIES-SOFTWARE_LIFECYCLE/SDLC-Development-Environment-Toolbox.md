@@ -56,36 +56,6 @@
 
 ---
 
-## Баг-трекеры и системы отслеживания ошибок
-
-* [Mantis Bug Tracker](https://mantisbt.org/ "Mantis Bug Tracker")
-
-* [Home :: Bugzilla :: bugzilla.org](https://www.bugzilla.org/ "Home :: Bugzilla :: bugzilla.org")
-
-* [Overview - Redmine](https://www.redmine.org/projects/redmine "Overview - Redmine")
-
-* [Overview - Red-Hat-Bugzilla/rh-bugzilla - Pagure.io](https://pagure.io/Red-Hat-Bugzilla/rh-bugzilla "Overview - Red-Hat-Bugzilla/rh-bugzilla - Pagure.io")
-
-* [GNATS - GNU Project - Free Software Foundation (FSF)](http://www.gnu.org/software/gnats/ "GNATS - GNU Project - Free Software Foundation (FSF)")
-
-* [GitHub - ctrager/budoco: Budoco is an issue tracking system. It's a rewrite of BugTracker.NET, but for Dotnet Core 5. Quick and easy to get started, runs fast, but also customizable.](https://github.com/ctrager/budoco "GitHub - ctrager/budoco: Budoco is an issue tracking system. It's a rewrite of BugTracker.NET, but for Dotnet Core 5. Quick and easy to get started, runs fast, but also customizable.")
-
-* [BugTracker.NET Home - Free Bug Tracking](https://ifdefined.com/bugtrackernet.html "BugTracker.NET Home - Free Bug Tracking")
-
-* [The Trac Project](https://trac.edgewall.org/ "The Trac Project")
-
-* [The Bug Genie ~ Frontpage](http://www.thebuggenie.com/#tab_active "The Bug Genie ~ Frontpage")
-
-* [eTraxis](https://www.etraxis.com/ "eTraxis")
-
-* [Home | WebIssues](https://webissues.mimec.org/ "Home | WebIssues")
-
-* [Rollbar - Error Tracking Software for JavaScript, PHP, Ruby, Python and more](https://rollbar.com/integrations/atlassian/ "Rollbar - Error Tracking Software for JavaScript, PHP, Ruby, Python and more")
-
-* [https://testit.software/versions](https://testit.software/versions)
-
----
-
 ## Приложения для создания заметок
 
 * [Notion – One workspace. Every team.](https://www.notion.so/)

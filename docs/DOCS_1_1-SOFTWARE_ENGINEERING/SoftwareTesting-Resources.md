@@ -86,4 +86,6 @@
 
 * [TRY QA](http://tryqa.com/)
 
+* [testengineer.ru — тестирование, бизнес-анализ, проджект-менеджмент](https://testengineer.ru/)
+
 ---
