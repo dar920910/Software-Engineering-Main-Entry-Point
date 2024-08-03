@@ -8,9 +8,17 @@
 
 * [Django Learning Resources | The PyCharm Blog](https://blog.jetbrains.com/pycharm/2024/04/django-learning-resources/)
 
+#### Django - Useful Articles
+
+* [How to Write an Installable Django App | Real Python](https://realpython.com/installable-django-app/)
+
 ### Python Web Frameworks
 
 * [Django vs. Flask in 2024: Which Framework to Choose | TestDriven.io](https://testdriven.io/blog/django-vs-flask/)
+
+* [FastHTML - Modern web application in pure Python](https://fastht.ml/)
+
+* [Tryton - Modularity, scalability & security for your business](https://www.tryton.org/)
 
 ### Django: Database Access
 
