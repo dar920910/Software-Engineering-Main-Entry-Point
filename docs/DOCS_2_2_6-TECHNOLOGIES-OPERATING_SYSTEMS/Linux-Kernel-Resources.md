@@ -14,6 +14,8 @@
 
 ## Развитие ядра Linux (переводы новостей от opennet)
 
+* [Релиз ядра Linux 6.10 (opennet.ru)](https://www.opennet.ru/opennews/art.shtml?num=61521)
+
 * [Релиз ядра Linux 6.9 (opennet.ru)](https://www.opennet.ru/opennews/art.shtml?num=61160)
 
 * [Релиз ядра Linux 6.8 (opennet.ru)](https://www.opennet.ru/opennews/art.shtml?num=60768)

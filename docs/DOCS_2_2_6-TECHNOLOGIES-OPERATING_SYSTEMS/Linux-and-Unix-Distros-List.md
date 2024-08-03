@@ -165,6 +165,8 @@
 * [DietPi - Lightweight justice for your SBC!](https://dietpi.com/)
 * [TileOS](https://tile-os.com/)
 * [Distrobox](https://distrobox.it/)
+* [Clear Linux* Project](https://www.clearlinux.org/)
+* [Azure Linux - Linux OS for Azure 1P services and edge appliances](https://github.com/microsoft/azurelinux/)
 
 ---
 
@@ -225,5 +227,6 @@
 * [haileys/doslinux: Run Linux programs on DOS (github.com)](https://github.com/haileys/doslinux)
 * [EndeavourOS – A terminal-centric distro with a vibrant and friendly community at its core](https://endeavouros.com/)
 * [VMS Software, Inc.](https://vmssoftware.com/)
+* [Vanilla OS](https://vanillaos.org/)
 
 ---

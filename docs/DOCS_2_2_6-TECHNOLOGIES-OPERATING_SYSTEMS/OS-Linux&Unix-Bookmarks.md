@@ -262,8 +262,6 @@
 
 * [Thomas E. Dickey's software development projects (invisible-island.net)](https://invisible-island.net/)
 
-* [Mes - GNU Project - Free Software Foundation](https://www.gnu.org/software/mes/)
-
 * [rsync (samba.org)](https://rsync.samba.org/)
 
 ---
