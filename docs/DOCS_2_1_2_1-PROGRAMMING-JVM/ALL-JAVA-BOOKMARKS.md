@@ -102,7 +102,9 @@
 
 * [Java Frameworks You Must Know in 2024](https://blog.jetbrains.com/idea/2024/04/java-frameworks-you-must-know-in-2024/)
 
-* [Jakarta® EE | Cloud Native Enterprise Java | Java EE | the Eclipse Foundation | The Eclipse Foundation](https://jakarta.ee/)
+* [The Jakarta Site - The Apache Jakarta™ Project -- Java Related Products](https://jakarta.apache.org/)
+
+* [Apache Commons – Apache Commons](https://commons.apache.org/)
 
 * [Eclipse EE4J (github.com)](https://github.com/eclipse-ee4j)
 
@@ -154,7 +156,15 @@
 
 * [Spock (spockframework.org)](https://spockframework.org/)
 
-* [Apache Jakarta Project — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Apache_Jakarta_Project)
+* [Netty: Home](https://netty.io/)
+
+* [Eclipse Vert.x](https://vertx.io/)
+
+* [GitHub - OpenFeign/feign: Feign makes writing java http clients easier](https://github.com/OpenFeign/feign)
+
+* [google/guice: Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 11 and above, brought to you by Google.](https://github.com/google/guice)
+
+* [ronmamo/reflections: Java runtime metadata analysis](https://github.com/ronmamo/reflections)
 
 ---
 
@@ -167,6 +177,8 @@
 * [CFR - yet another java decompiler. (benf.org)](https://www.benf.org/other/cfr/)
 
 ### Среды разработки для Java
+
+* [Java Platform Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Oracle.oracle-java)
 
 * [JHipster - Full Stack Platform for the Modern Developer!](https://www.jhipster.tech/)
 
@@ -210,16 +222,8 @@
 
 * [Java Profiler, .NET Profiler, Continuous Performance Monitoring | YourKit](https://www.yourkit.com/)
 
-### Серверы приложения для Java
+## Java - Создание документации
 
-* [Apache Tomcat® - Welcome!](https://tomcat.apache.org/)
-
-* [Caucho](https://caucho.com/)
-
-* [Eclipse GlassFish](https://glassfish.org/)
-
-* [WildFly](https://www.wildfly.org/)
-
-* [Payara Services Ltd – devoted to Open Source, Java, our customers and the community](https://www.payara.fish/)
+* [Free Java Doc hosting for open source projects - javadoc.io](https://www.javadoc.io/)
 
 ---

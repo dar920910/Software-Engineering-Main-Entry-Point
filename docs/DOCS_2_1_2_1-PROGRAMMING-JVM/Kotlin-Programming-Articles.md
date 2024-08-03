@@ -6,6 +6,8 @@
 
 ### ИНТЕРЕСНЫЕ СТАТЬИ
 
+* [Enhanced Column Selection DSL in Kotlin DataFrame](https://blog.jetbrains.com/kotlin/2024/07/enhanced-column-selection-dsl-in-kotlin-dataframe/)
+
 * [AI-Friendly Programming Languages: the Kotlin Story](https://blog.jetbrains.com/kotlin/2024/05/ai-friendly-programming-languages-the-kotlin-story/)
 
 * [Compose Multiplatform 1.6.10 – iOS Beta, Web Alpha, Lifecycle, Navigation, and More](https://blog.jetbrains.com/kotlin/2024/05/compose-multiplatform-1-6-10-ios-beta/)

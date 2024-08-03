@@ -14,6 +14,12 @@
 
 * [The Java Language Environment | A White Paper (May 1996, James Gosling & Henry McGilton)](https://www.oracle.com/java/technologies/language-environment.html)
 
+* [Java Community Process (JCP) - Wikipedia](https://en.wikipedia.org/wiki/Java_Community_Process)
+
+* [The Java Community Process(SM) Program](https://www.jcp.org/en/home/index)
+
+* [The Java Community Process(SM) Program - JSRs: Java Specification Requests - JSR Overview](https://jcp.org/en/jsr/overview)
+
 ---
 
 ## Java Official Releases

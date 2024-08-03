@@ -39,6 +39,14 @@
 
 ### IntelliJ IDEA Blog
 
+* [Using Dev Containers in JetBrains IDEs – Part 1](https://blog.jetbrains.com/idea/2024/07/using-dev-containers-in-jetbrains-ides-part-1/)
+
+* [IntelliJ Platform Gradle Plugin 2.0 Is Out!](https://blog.jetbrains.com/platform/2024/07/intellij-platform-gradle-plugin-2-0/)
+
+* [Is Java Still Relevant Nowadays?](https://blog.jetbrains.com/idea/2024/07/is-java-still-relevant-nowadays/)
+
+* [Top Tools for Java Developers in 2024](https://blog.jetbrains.com/idea/2024/07/top-tools-for-java-developers-in-2024/)
+
 * [Introducing Grazie – The AI Writing Companion for People in Tech](https://blog.jetbrains.com/grazie/2024/06/introducing-grazie-the-ai-writing-companion-for-people-in-tech/)
 
 * [10 Plugins to Enhance Your IntelliJ IDEA Experience in 2024](https://blog.jetbrains.com/idea/2024/06/10-plugins-to-enhance-your-intellij-idea-experience-in-2024/)

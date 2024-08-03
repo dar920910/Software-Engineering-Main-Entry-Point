@@ -62,8 +62,6 @@
 
 [Core Java](https://horstmann.com/corejava/)
 
-[Apache Tomcat® - Welcome!](https://tomcat.apache.org/)
-
 [This Week in JBoss - June, 1st 2023 - JBoss.org](https://www.jboss.org/)
 
 [Launch4j - Cross-platform Java executable wrapper](https://launch4j.sourceforge.net/)
