@@ -322,6 +322,8 @@
 
 * [alewmoose/2048-in-terminal: Animated console version of the 2048 game (github.com)](https://github.com/alewmoose/2048-in-terminal)
 
+* [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/index.html)
+
 ### C++
 
 * [badaix/snapcast: Synchronous multiroom audio player (github.com)](https://github.com/badaix/snapcast)

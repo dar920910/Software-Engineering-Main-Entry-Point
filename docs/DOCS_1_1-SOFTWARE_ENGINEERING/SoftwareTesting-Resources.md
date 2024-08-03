@@ -89,3 +89,15 @@
 * [testengineer.ru — тестирование, бизнес-анализ, проджект-менеджмент](https://testengineer.ru/)
 
 ---
+
+## Software Testing - Other Useful Resources
+
+* [PaulWaltersDev/FreeLearningResourcesForSoftwareTesters: A New Project to create a set of links to free Online Learning Resources for New and Experienced Software Testers.](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters)
+
+* [mfaisalkhatri/Manual_Testing: This repository contains General Test Cases for performing Manual Testing on the Web/Mobile application. It also has Test cases related to API Testing. Templates related to Test Plan and BugBash are also updated.](https://github.com/mfaisalkhatri/Manual_Testing)
+
+* [LukaszLapaj/software-testing-resource-pack: Various files useful for manual testing and test automation etc.](https://github.com/LukaszLapaj/software-testing-resource-pack)
+
+* [mgasiorowski/performance_testing: Tools, articles, etc. related to performance/load/etc. testing.](https://github.com/mgasiorowski/performance_testing)
+
+---

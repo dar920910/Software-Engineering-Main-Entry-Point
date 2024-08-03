@@ -108,6 +108,10 @@
 
 * [typicode/lowdb: Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser) (github.com)](https://github.com/typicode/lowdb)
 
+### Визуализация данных
+
+[D3 by Observable | The JavaScript library for bespoke data visualization](https://d3js.org/)
+
 ### Графические библиотеки
 
 [Skia](https://skia.org/)

@@ -166,6 +166,14 @@
 
 * [ronmamo/reflections: Java runtime metadata analysis](https://github.com/ronmamo/reflections)
 
+* [Build, Operate, and Secure Distributed Applications | Akka](https://akka.io/)
+
+* [MuleESB — Википедия](https://ru.wikipedia.org/wiki/MuleESB)
+
+* [Simplify API Design, implementation, deployment, and operation | MuleSoft Developers | MuleSoft Developers](https://developer.mulesoft.com/)
+
+* [MuleSoft | Integration And Automation For The AI Era](https://www.mulesoft.com/)
+
 ---
 
 ## ЭКОСИСТЕМА и ИНСТРУМЕНТЫ

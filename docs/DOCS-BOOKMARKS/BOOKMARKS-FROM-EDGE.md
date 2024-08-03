@@ -206,7 +206,15 @@
 
 [HAProxy Technologies | The World’s Fastest and Most Widely Used Software Load Balancer](https://www.haproxy.com/)
 
+[Envoy proxy - home](https://www.envoyproxy.io/)
+
 [Fiddler | Web Debugging Proxy and Troubleshooting Solutions](https://www.telerik.com/fiddler)
+
+[Charles Web Debugging Proxy • HTTP Monitor / HTTP Proxy / HTTPS & SSL Proxy / Reverse Proxy](https://www.charlesproxy.com/)
+
+[Proxyman · Debug, intercept & mock HTTP with Proxyman](https://proxyman.io/)
+
+[Webhook.site - Test, transform and automate Web requests and emails](https://webhook.site/)
 
 [CloudShark Enterprise | qa | cafe](https://www.qacafe.com/analysis-tools/cloudshark/)
 
@@ -650,8 +658,6 @@
 
 [Fiddler Alternatives: 25+ HTTP(S) and Web Debuggers | AlternativeTo](https://alternativeto.net/software/fiddler/?p=5)
 
-[Charles Web Debugging Proxy • HTTP Monitor / HTTP Proxy / HTTPS & SSL Proxy / Reverse Proxy](https://www.charlesproxy.com/)
-
 [Postman API Platform | Sign Up for Free](https://www.postman.com/)
 
 [ARC](https://install.advancedrestclient.com/home)
@@ -733,6 +739,8 @@
 [Reqres - A hosted REST-API ready to respond to your AJAX requests](https://reqres.in/)
 
 [API List: A public list of free APIs for programmers](https://apilist.fun/)
+
+[Connect APIs, AI, databases and more - Pipedream](https://pipedream.com/)
 
 ---
 
@@ -998,6 +1006,8 @@
 
 [Red Hat OpenShift enterprise Kubernetes container platform](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 
+[Meshery The Kubernetes and Cloud Native Manager - an extensible developer platform | Meshery](https://meshery.io/)
+
 [DigitalOcean | The Cloud for Builders](https://www.digitalocean.com/)
 
 [Cloud Computing Services - Amazon Web Services (AWS)](https://aws.amazon.com/)
@@ -1027,6 +1037,8 @@
 [Enterprise Kubernetes Management | Rancher](https://www.rancher.com/)
 
 [Grafana: The open observability platform | Grafana Labs](https://grafana.com/)
+
+[Kibana: Explore, Visualize, Discover Data | Elastic](https://www.elastic.co/kibana)
 
 [Graylog: Industry Leading Log Management & SIEM](https://www.graylog.org/)
 

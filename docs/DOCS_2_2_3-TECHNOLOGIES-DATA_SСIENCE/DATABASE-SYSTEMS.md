@@ -190,6 +190,10 @@
 
 * [Home Page (alasql.org)](https://alasql.org/)
 
+* [Fast Open-Source OLAP DBMS - ClickHouse](https://clickhouse.com/)
+
+* [Neo4j Graph Database & Analytics | Graph Database Management System](https://neo4j.com/)
+
 ### Распределенные и облачные СУБД
 
 * [IBM Db2 | IBM](https://www.ibm.com/products/db2)
@@ -315,3 +319,10 @@
 * [Deepnote - Data science notebook for teams](https://deepnote.com/)
 
 ---
+
+## Data Storage Technologies
+
+[MinIO | S3 & Kubernetes Native Object Storage for AI](https://min.io/)
+
+[Apache Hive](https://hive.apache.org/)
+

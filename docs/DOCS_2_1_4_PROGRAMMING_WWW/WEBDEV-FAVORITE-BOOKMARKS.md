@@ -303,3 +303,9 @@
 [Reactive Extensions](https://github.com/Reactive-Extensions)
 
 [RFC 6902 - JavaScript Object Notation (JSON) Patch](https://datatracker.ietf.org/doc/html/rfc6902)
+
+[Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs](https://jekyllrb.com/)
+
+[Daring Fireball: Markdown](https://daringfireball.net/projects/markdown/)
+
+[GitHub - Shopify/liquid: Liquid markup language. Safe, customer facing template language for flexible web apps.](https://github.com/Shopify/liquid)
