@@ -26,4 +26,8 @@
 
 [lydiahallie/javascript-questions: A long list of (advanced) JavaScript questions, and their explanations (github.com)](https://github.com/lydiahallie/javascript-questions#readme)
 
+## Изучение JavaScript - Полезные Статьи
+
+* [How to Learn JavaScript: Your Step-by-Step Guide for Beginners](https://blog.jetbrains.com/webstorm/2024/07/how-to-learn-javascript/)
+
 ---

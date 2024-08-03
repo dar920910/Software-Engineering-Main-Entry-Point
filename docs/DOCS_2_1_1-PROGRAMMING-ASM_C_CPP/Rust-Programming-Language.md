@@ -4,6 +4,10 @@
 
 ## ВЕРСИИ RUST
 
+* [Announcing Rust 1.80.0 | Rust Blog (rust-lang.org)](https://blog.rust-lang.org/2024/07/25/Rust-1.80.0.html)
+
+...
+
 * [Announcing Rust 1.70.0 | Rust Blog (rust-lang.org)](https://blog.rust-lang.org/2023/06/01/Rust-1.70.0.html)
 
 * [Announcing Rust 1.69.0 | Rust Blog (rust-lang.org)](https://blog.rust-lang.org/2023/04/20/Rust-1.69.0.html)
@@ -29,5 +33,7 @@
 * [Announcing Rust 1.60.0 | Rust Blog (rust-lang.org)](https://blog.rust-lang.org/2022/04/07/Rust-1.60.0.html)
 
 * [Announcing Rust 1.59.0 | Rust Blog (rust-lang.org)](https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html)
+
+...
 
 ---

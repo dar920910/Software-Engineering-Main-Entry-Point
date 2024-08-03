@@ -16,6 +16,8 @@
 
 * [Django vs. Flask in 2024: Which Framework to Choose | TestDriven.io](https://testdriven.io/blog/django-vs-flask/)
 
+* [FastAPI - FastAPI](https://fastapi.tiangolo.com/)
+
 * [FastHTML - Modern web application in pure Python](https://fastht.ml/)
 
 * [Tryton - Modularity, scalability & security for your business](https://www.tryton.org/)

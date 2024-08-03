@@ -188,6 +188,10 @@
 
 * [libjpeg-turbo | Main / libjpeg-turbo](https://www.libjpeg-turbo.org/)
 
+## Graphics Libraries
+
+* [facebook/igl: Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).](https://github.com/facebook/igl/)
+
 ---
 
 ## ЭКОСИСТЕМА и ИНСТРУМЕНТАРИЙ
@@ -241,6 +245,8 @@
 * [NASM](https://www.nasm.us/)
 
 * [.. UASM .. (terraspace.co.uk)](http://www.terraspace.co.uk/uasm.html)
+
+* [xoreaxeaxeax/movfuscator: The single instruction C compiler](https://github.com/xoreaxeaxeax/movfuscator)
 
 ### Менеджеры пакетов для C/C++
 

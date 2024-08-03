@@ -94,6 +94,10 @@
 
 * [discordjs/discord.js: A powerful JavaScript library for interacting with the Discord API (github.com)](https://github.com/discordjs/discord.js)
 
+* [Home | Stylelint](https://stylelint.io/)
+
+* [CoffeeLint - Lint your CoffeeScript](https://coffeelint.github.io/)
+
 ### Командная строка
 
 * [SBoudrias/Inquirer.js: A collection of common interactive command line user interfaces. (github.com)](https://github.com/SBoudrias/Inquirer.js)

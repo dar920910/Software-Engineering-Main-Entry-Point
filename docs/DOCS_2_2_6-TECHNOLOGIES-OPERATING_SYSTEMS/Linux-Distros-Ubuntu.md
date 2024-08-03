@@ -175,6 +175,8 @@
 
 ## LINUX UBUNTU & DATABASE SYSTEMS
 
+* [How do you select the best enterprise data storage solution for your business? | Ubuntu](https://ubuntu.com//blog/how-do-you-select-the-best-enterprise-data-storage-solution-for-your-business)
+
 * [PostgreSQL for AI applications | Ubuntu](https://ubuntu.com//blog/postgresql-ai-application)
 
 * [What is a smartNIC and how is the technology shaping modern data centres? | Ubuntu](https://ubuntu.com//blog/what-is-a-smartnic-and-how-is-the-technology-shaping-modern-data-centres)

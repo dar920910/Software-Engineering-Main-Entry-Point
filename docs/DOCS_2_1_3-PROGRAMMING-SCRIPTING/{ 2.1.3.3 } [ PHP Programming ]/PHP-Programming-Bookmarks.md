@@ -252,11 +252,15 @@
 
 * [exakat/php-static-analysis-tools: A reviewed list of useful PHP static analysis tools (github.com)](https://github.com/exakat/php-static-analysis-tools)
 
+* [Find Bugs Without Writing Tests | PHPStan](https://phpstan.org/)
+
 #### Инструменты тестирования безопасности для PHP
 
 * [Snuffleupagus — Snuffleupagus stable documentation](https://snuffleupagus.readthedocs.io/)
 
 * [bartblaze/PHP-backdoors: A collection of PHP backdoors. For educational or testing purposes only. (github.com)](https://github.com/bartblaze/PHP-backdoors)
+
+* [squizlabs/PHP_CodeSniffer: PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.](https://github.com/squizlabs/PHP_CodeSniffer)
 
 #### СЕРВЕРЫ ПРИЛОЖЕНИЙ
 

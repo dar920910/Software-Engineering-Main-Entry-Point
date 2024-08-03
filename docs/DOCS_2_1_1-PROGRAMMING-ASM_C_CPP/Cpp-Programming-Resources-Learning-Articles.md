@@ -6,6 +6,8 @@
 
 ### MSVC
 
+* [MSVC Backend Updates in Visual Studio 2022 version 17.10](https://devblogs.microsoft.com/cppblog/msvc-backend-updates-in-visual-studio-2022-version-17-10/)
+
 * [MSVC Backend Updates since Visual Studio 2022 version 17.3](https://devblogs.microsoft.com/cppblog/msvc-backend-updates-since-visual-studio-2022-version-17-3/)
 
 * [MSVC Toolset Minor Version Number 14.40 in VS 2022 v17.10](https://devblogs.microsoft.com/cppblog/msvc-toolset-minor-version-number-14-40-in-vs-2022-v17-10/)
@@ -98,6 +100,8 @@
 
 #### VCPKG АНОНСЫ
 
+* [What’s New in vcpkg (July 2024)](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-july-2024/)
+
 * [What’s New in vcpkg (June 2024)](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-june-2024/)
 
 * [What’s New in vcpkg (May 2024): Dedicated Pages for Each Package on vcpkg.io](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-may-2024-dedicated-pages-for-each-package-on-vcpkg-io/)
@@ -135,6 +139,8 @@
 * [vcpkg is Now Included with Visual Studio - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/vcpkg-is-now-included-with-visual-studio/)
 
 #### Улучшения Visual Studio для C++ разработчиков
+
+* [Improving GitHub Copilot Completions in VS Code for C++ Developers](https://devblogs.microsoft.com/cppblog/improving-github-copilot-completions-in-vs-code-for-c-developers/)
 
 * [Understand your C++ symbols using Copilot in Visual Studio’s Quick Info](https://devblogs.microsoft.com/cppblog/understand-your-c-symbols-using-copilot-in-visual-studios-quick-info/)
 

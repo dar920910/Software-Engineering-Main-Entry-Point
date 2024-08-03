@@ -130,4 +130,8 @@
 
 * [tlsfuzzer/python-ecdsa: pure-python ECDSA signature/verification and ECDH key agreement (github.com)](https://github.com/tlsfuzzer/python-ecdsa)
 
+* [Bouncy Castle open-source cryptographic APIs](https://www.bouncycastle.org/)
+
+* [cryptlib Encryption Toolkit](https://www.cs.auckland.ac.nz/~pgut001/cryptlib/)
+
 ---

@@ -2,6 +2,12 @@
 
 ---
 
+## Обновления VS Code
+
+* [Visual Studio Code July 2024](https://code.visualstudio.com/updates/v1_92)
+
+---
+
 ## Удаленная разработка с помощью VS Code
 
 * [Remote Development - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)

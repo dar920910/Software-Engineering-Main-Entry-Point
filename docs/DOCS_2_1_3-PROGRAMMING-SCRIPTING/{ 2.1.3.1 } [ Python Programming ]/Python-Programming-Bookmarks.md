@@ -572,4 +572,6 @@
 
 * [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
 
+* [Logging in Python – Real Python](https://realpython.com/python-logging/)
+
 ---
