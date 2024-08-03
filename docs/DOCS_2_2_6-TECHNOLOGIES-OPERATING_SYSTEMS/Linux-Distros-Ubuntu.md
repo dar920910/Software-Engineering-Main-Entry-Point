@@ -67,6 +67,8 @@
 
 ## LINUX UBUNTU & SECURITY
 
+* [How often do you apply security patches on Linux?](https://ubuntu.com//blog/how-often-do-you-apply-security-patches-on-linux)
+
 * [What is System Hardening? Essential Checklists from OS to Applications | Ubuntu](https://ubuntu.com//blog/what-is-system-hardening-definition-and-best-practices)
 
 * [Why you need to protect your confidential virtual machine from itself | Ubuntu](https://ubuntu.com//blog/why-you-need-to-protect-your-confidential-virtual-machine-from-itself)
@@ -129,6 +131,10 @@
 
 ## LINUX UBUNTU & CLOUD TECHNOLOGIES
 
+* [What is Open RAN?](https://ubuntu.com//blog/what-is-open-ran)
+
+* [Deploying and scaling Apache Spark on Amazon AWS EKS](https://ubuntu.com//blog/deploying-and-scaling-apache-spark-on-amazon-eks)
+
 * [Managed Apps on Public Cloud: Why Operations Matter, Part I](https://ubuntu.com//blog/managed-apps-on-public-cloud-why-operations-matter-part-i)
 
 * [Managed Apps on Public Cloud: Why Operations Matter, Part II](https://ubuntu.com//blog/managed-apps-on-public-cloud-why-operations-matter-part-ii)
@@ -186,6 +192,8 @@
 * [Patterns to achieve database High Availability | Ubuntu](https://ubuntu.com//blog/database-high-availability)
 
 ## LINUX UBUNTU & DATA SCIENCE
+
+* [Large language models (LLMs): what, why, how?](https://ubuntu.com/blog/what-are-large-language-models-llms)
 
 * [An overview of machine learning security risks](https://ubuntu.com//blog/machine-learning-security-risks)
 
