@@ -2,6 +2,16 @@
 
 ---
 
+## Classic Imperative Programming Languages
+
+### Fortran
+
+* [Fortran - Wikipedia](https://en.wikipedia.org/wiki/Fortran)
+
+* [The Fortran Programming Language — Fortran Programming Language](https://fortran-lang.org/)
+
+---
+
 ## Classic Object-Oriented Programming Languages
 
 ### Simula
@@ -12,6 +22,44 @@
 ### Smalltalk
 
 * [Smalltalk - Wikipedia](https://en.wikipedia.org/wiki/Smalltalk)
+
+---
+
+## Functional Programming Languages
+
+### Lisp
+
+* [Lisp (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Lisp_(programming_language))
+
+#### Common Lisp (CL)
+
+* [Common Lisp (CL) - Wikipedia](https://en.wikipedia.org/wiki/Common_Lisp)
+
+* [Welcome to Common-Lisp.net!](https://common-lisp.net/)
+
+#### Scheme
+
+* [Scheme (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Scheme_(programming_language))
+
+* [The Scheme Programming Language](https://www.scheme.org/)
+
+#### Racket
+
+* [Racket (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Racket_(programming_language))
+
+* [Racket](https://racket-lang.org/)
+
+#### Clojure
+
+* [Clojure - Wikipedia](https://en.wikipedia.org/wiki/Clojure)
+
+* [Clojure (clojure.org)](https://clojure.org/)
+
+### Haskell
+
+* [Haskell - Wikipedia](https://en.wikipedia.org/wiki/Haskell)
+
+* [Haskell Language](https://www.haskell.org/)
 
 ---
 
@@ -48,11 +96,6 @@ VBScript — Википедия (wikipedia.org)
 Turbo Basic — Википедия (wikipedia.org)
 Small Basic (smallbasic-publicwebsite.azurewebsites.net)
 
-## Haskell
-
-Haskell — Википедия (wikipedia.org)
-Haskell Language
-
 ---
 
 ## ОСТАЛЬНЫЕ ЯЗЫКИ ПРОГРАММИРОВАНИЯ
@@ -73,19 +116,14 @@ AppleScript — Википедия (wikipedia.org)
 PostScript — Википедия (wikipedia.org)
 CoffeeScript — Википедия (wikipedia.org)
 QML — Википедия (wikipedia.org)
-Smalltalk — Википедия (wikipedia.org)
 Ада (язык программирования) — Википедия (wikipedia.org)
 Elixir (язык программирования) — Википедия (wikipedia.org)
 Erlang — Википедия (wikipedia.org)
-Clojure — Википедия (wikipedia.org)
-Common Lisp — Википедия (wikipedia.org)
-Лисп — Википедия (wikipedia.org)
 Миранда (язык программирования) — Википедия (wikipedia.org)
 Euphoria (язык программирования) — Википедия (wikipedia.org)
 ABAP/4 — Википедия (wikipedia.org)
 Кобол — Википедия (wikipedia.org)
 Алгол 68 — Википедия (wikipedia.org)
-Фортран — Википедия (wikipedia.org)
 Би (язык программирования) — Википедия (wikipedia.org)
 BCPL — Википедия (wikipedia.org)
 ПЛ/1 — Википедия (wikipedia.org)
@@ -93,7 +131,6 @@ BCPL — Википедия (wikipedia.org)
 Модула-2 — Википедия (wikipedia.org)
 Модула-3 — Википедия (wikipedia.org)
 Алгол — Википедия (wikipedia.org)
-Симула — Википедия (wikipedia.org)
 ABC (язык программирования) — Википедия (wikipedia.org)
 Пролог (язык программирования) — Википедия (wikipedia.org)
 PCL — Википедия (wikipedia.org)
@@ -109,7 +146,6 @@ ML — Википедия (wikipedia.org)
 Limbo — Википедия (wikipedia.org)
 Zonnon — Википедия (wikipedia.org)
 Icon (язык программирования) — Википедия (wikipedia.org)
-Scheme — Википедия (wikipedia.org)
 Self — Википедия (wikipedia.org)
 HyperTalk — Википедия (wikipedia.org)
 Форт (язык программирования) — Википедия (wikipedia.org)
