@@ -120,13 +120,9 @@
 
 [dddcommunity.org | Domain Driven Design Community](https://www.dddcommunity.org/)
 
-[Welcome To UML Web Site!](https://www.uml.org/)
-
 [Regex Tutorial - Unicode Characters and Properties](https://www.regular-expressions.info/unicode.html)
 
 [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
-
-[Unified Modeling Language (UML) description, UML diagram examples, tutorials and reference for all types of UML diagrams - use case diagrams, class, package, component, composite structure diagrams, deployments, activities, interactions, profiles, etc.](https://www.uml-diagrams.org/)
 
 [pragdave](https://pragdave.me/)
 

@@ -33,10 +33,9 @@
 - [ ] McConnell, Steve. Software Project Survival Guide. Redmond, WA: Microsoft Press, 1998.
 - [ ] McConnell, Steve. Code Complete, 2d ed. Redmond, WA: Microsoft Press, 2004
 - [ ] Berczuk, Stephen P. and Brad Appleton. Software Configuration Management Patterns: Effective Teamwork, Practical Integration. Boston, MA: Addison-Wesley, 2003.
-- [ ] Fowler, Martin. UML Distilled: A Brief Guide to the Standard Object Modeling Language, 3d ed. Boston, MA: Addison-Wesley, 2003.
+
 - [ ] Glass, Robert L. Software Creativity. Reading, MA: Addison-Wesley, 1995.
 - [ ] Kaner, Cem, Jack Falk, Hung Q. Nguyen Testing Computer Software, 2d ed. New York, NY: John Wiley & Sons, 1999.
-- [ ] Larman, Craig. Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and the Unified Process, 2d ed. Englewood Cliffs, NJ: Prentice Hall, 2001.
 - [ ] McConnell, Steve. Rapid Development. Redmond, WA: Microsoft Press, 1996.
 - [ ] Wiegers, Karl. Software Requirements, 2d ed. Redmond, WA: Microsoft Press, 2003.
 - [ ] Manager’s Handbook for Software Development, NASA Goddard Space Flight Center
