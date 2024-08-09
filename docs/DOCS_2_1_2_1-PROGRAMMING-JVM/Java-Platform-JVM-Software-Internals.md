@@ -16,6 +16,12 @@
 
 ---
 
+## Java API
+
+* [JNDI (Java Naming and Directory Interface) - Wikipedia](https://en.wikipedia.org/wiki/Java_Naming_and_Directory_Interface)
+
+---
+
 ## JVM Implementations & JIT Compilers
 
 ### HotSpot

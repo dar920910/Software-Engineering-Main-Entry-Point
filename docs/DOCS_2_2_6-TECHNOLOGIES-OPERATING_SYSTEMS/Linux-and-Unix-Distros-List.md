@@ -167,6 +167,7 @@
 * [Distrobox](https://distrobox.it/)
 * [Clear Linux* Project](https://www.clearlinux.org/)
 * [Azure Linux - Linux OS for Azure 1P services and edge appliances](https://github.com/microsoft/azurelinux/)
+* [Nitrux — #DisruptiveByDesign — Official Website](https://nxos.org/)
 
 ---
 

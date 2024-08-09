@@ -2,28 +2,25 @@
 
 ---
 
-## Learning IntelliJ IDEA
+## JetBrains IntelliJ IDEA - Official Resources
 
-## Hagos T. - "Beginning IntelliJ IDEA" ( 2022 )
+* [IntelliJ IDEA – the Leading Java and Kotlin IDE](https://www.jetbrains.com/idea/)
 
-* Chapter 1 - Getting Started
-* Chapter 2 - Creating and Running a Project
-* Chapter 3 - Project Files
-* Chapter 4 - IDE Tools
-* Chapter 5 - Code Navigation and Generation
-* Chapter 6 - Inspections and Intentions
-* Chapter 7 - Refactoring
-* Chapter 8 - Live Templates
-* Chapter 9 - Debugging
-* Chapter 10 - Source Control
-* Chapter 11 - Testing
-* Chapter 12 - JavaFX
+* [Resources - IntelliJ IDEA](https://www.jetbrains.com/idea/resources/)
+
+* [IntelliJ Platform: Open Source Platform for Building Developer Tools](https://www.jetbrains.com/opensource/idea/)
+
+* [JetBrains/intellij-community: IntelliJ IDEA Community Edition & IntelliJ Platform](https://github.com/JetBrains/intellij-community)
 
 ---
 
 ## JetBrains IntelliJ IDEA Blog
 
 ### IntelliJ IDEA Releases
+
+* [IntelliJ IDEA 2024.1.5 is Out](https://blog.jetbrains.com/idea/2024/08/intellij-idea-2024-1-5/)
+
+,,,
 
 * [IntelliJ IDEA 2024.1.3 Is Out!](https://blog.jetbrains.com/idea/2024/06/intellij-idea-2024-1-3/)
 

@@ -6,6 +6,8 @@
 
 [Linux Containers](https://linuxcontainers.org/)
 
+[Moby project - An open framework to assemble specialized container systems without reinventing the wheel.](https://mobyproject.org/)
+
 [Базовые образы контейнеров Windows | Microsoft Learn](https://learn.microsoft.com/ru-ru/virtualization/windowscontainers/manage-containers/container-base-images)
 
 [DockStation - Developing with Docker has never been so easy and convenient](https://dockstation.io/)

@@ -40,32 +40,6 @@
 
 * [JScheme — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/JScheme)
 
-### Ресурсы для изучения Java
-
-* [Cay Horstmann's Home Page](https://horstmann.com/)
-
-* [Lesson: The "Hello World!" Application (The Java™ Tutorials > Getting Started) (oracle.com)](https://docs.oracle.com/javase/tutorial/getStarted/cupojava/)
-
-* [Java — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Java)
-
-* [Javarush - онлайн-курс обучения программированию на Java](https://javarush.com/)
-
-* [Learn Java - Free Interactive Java Tutorial (learnjavaonline.org)](https://www.learnjavaonline.org/)
-
-* [8 крутых Youtube-каналов, которые помогут изучить Java (proglib.io)](https://proglib.io/p/youtube-java)
-
-* [8 лучших YouTube-каналов для изучения Java (proglib.io)](https://proglib.io/p/java-coding-channels)
-
-* [Baeldung](https://www.baeldung.com/)
-
-* [iluwatar/java-design-patterns: Design patterns implemented in Java (github.com)](https://github.com/iluwatar/java-design-patterns)
-
-* [Learn Java, Spring Boot and Hibernate (howtodoinjava.com)](https://howtodoinjava.com/)
-
-* [Java Beginners Tutorial](https://javabeginnerstutorial.com/)
-
-* [Java Programming, Learn Java Online with the Java Code Geeks | Java developers resource center - Java, Scala, Groovy, Android](https://www.javacodegeeks.com/)
-
 ---
 
 ## БИБЛИОТЕКИ и ФРЕЙМВОРКИ
@@ -107,8 +81,6 @@
 * [Apache Commons – Apache Commons](https://commons.apache.org/)
 
 * [Eclipse EE4J (github.com)](https://github.com/eclipse-ee4j)
-
-* [Hibernate. Everything data.](https://hibernate.org/)
 
 * [DarrMirr/dbchange: Easy and declarative way to execute sql queries in JUnit tests. (github.com)](https://github.com/DarrMirr/dbchange)
 
@@ -173,6 +145,22 @@
 * [Simplify API Design, implementation, deployment, and operation | MuleSoft Developers | MuleSoft Developers](https://developer.mulesoft.com/)
 
 * [MuleSoft | Integration And Automation For The AI Era](https://www.mulesoft.com/)
+
+* [Hamcrest - Matchers that can be combined to create flexible expressions of intent](https://hamcrest.org/)
+
+* [Thymeleaf](https://www.thymeleaf.org/)
+
+* [Byte Buddy - runtime code generation for the Java virtual machine](http://bytebuddy.net/#/)
+
+* [ASM](https://asm.ow2.io/)
+
+* [Objenesis : About](https://objenesis.org/)
+
+* [cglib/cglib: cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access.](https://github.com/cglib/cglib)
+
+* [MapStruct – Java bean mappings, the easy way!](https://mapstruct.org/)
+
+* [springfox/springfox: Automated JSON API documentation for API's built with Spring](https://github.com/springfox/springfox)
 
 ---
 

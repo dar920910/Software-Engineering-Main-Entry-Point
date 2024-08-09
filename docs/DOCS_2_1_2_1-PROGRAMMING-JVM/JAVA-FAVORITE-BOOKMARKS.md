@@ -28,8 +28,6 @@
 
 [Spring | Home](https://spring.io/)
 
-[Hibernate. Everything data.](https://hibernate.org/)
-
 [Kotlin Programming Language](https://kotlinlang.org/)
 
 [Gradle Build Tool](https://gradle.org/)

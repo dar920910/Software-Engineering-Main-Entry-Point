@@ -8,9 +8,11 @@
 
 ## РЕСУРСЫ для ПРАКТИКИ AI & ML & DATA SCIENCE
 
-### Бесплатные электронные книги
+### Научно-Популярная Литература
 
 * [Green Tea Press - Free books by Allen B. Downey](https://greenteapress.com/wp/)
+
+* [John's Random Thoughts and Discussions](https://blog.johnmuellerbooks.com/)
 
 ### Наборы данных для машинного обучения
 

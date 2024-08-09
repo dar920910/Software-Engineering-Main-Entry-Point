@@ -11,3 +11,9 @@
 * [What Is API Management? - NGINX](https://www.nginx.com/blog/what-is-api-management/)
 
 ---
+
+## REST - Полезные Статьи
+
+* [Richardson Maturity Model | martinfowler.com](https://martinfowler.com/articles/richardsonMaturityModel.html)
+
+---

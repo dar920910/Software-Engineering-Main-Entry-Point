@@ -1306,16 +1306,6 @@
 
 ---
 
-### Ресурсы - Протокол WebSocket
-
-[WebSocket - Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
-
-[RFC 6455 - The WebSocket Protocol](https://datatracker.ietf.org/doc/html/rfc6455)
-
-[WebSocket — Википедия](https://ru.wikipedia.org/wiki/WebSocket)
-
----
-
 [markjprice (markjprice) / Repositories](https://github.com/markjprice?tab=repositories)
 
 [Personal - Banana Cake Pop](https://localhost:5111/graphql/)

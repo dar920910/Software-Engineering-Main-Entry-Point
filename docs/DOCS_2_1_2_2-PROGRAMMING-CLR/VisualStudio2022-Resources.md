@@ -204,6 +204,8 @@
 
 ### Visual Studio - Отладка/тестирование/профилирование
 
+* [Introducing the revamped Attach to Process experience](https://devblogs.microsoft.com/visualstudio/introducing-the-revamped-attach-to-process-experience/)
+
 * [VisualStudio.Extensibility 17.10: Debug your extensions with the Diagnostics Explorer](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-10/)
 
 * [Introducing MSTest SDK – Improved Configuration & Flexibility](https://devblogs.microsoft.com/dotnet/introducing-mstest-sdk/)

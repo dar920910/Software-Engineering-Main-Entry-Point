@@ -574,4 +574,8 @@
 
 * [Logging in Python – Real Python](https://realpython.com/python-logging/)
 
+### Python: Функциональное программирование
+
+* [Functional Programming in Python: When and How to Use It – Real Python](https://realpython.com/python-functional-programming/)
+
 ---

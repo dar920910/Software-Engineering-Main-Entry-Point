@@ -4,6 +4,8 @@
 
 ## Kotlin Official Releases
 
+* [Meet Renovated Kotlin Support – K2 Mode: What You Need to Know | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/08/meet-the-renovated-kotlin-support-k2-mode/)
+
 * [Kotlin 1.9.20 Released | The Kotlin Blog (jetbrains.com)](https://blog.jetbrains.com/kotlin/2023/11/kotlin-1-9-20-released/)
 
 * [Kotlin News: 1.9.0 Is Here, Compose Multiplatform for iOS, Kotlin Notebook, and More | The Kotlin Blog (jetbrains.com)](https://blog.jetbrains.com/kotlin/2023/07/kotlin-news-may-june-2023/)
