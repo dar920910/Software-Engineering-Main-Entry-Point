@@ -140,6 +140,8 @@
 
 #### Улучшения Visual Studio для C++ разработчиков
 
+* [What’s New for C++ Developers in Visual Studio 2022 17.11 - C++ Team Blog](https://devblogs.microsoft.com/cppblog/whats-new-for-c-developers-in-visual-studio-2022-17-11/)
+
 * [Improving GitHub Copilot Completions in VS Code for C++ Developers](https://devblogs.microsoft.com/cppblog/improving-github-copilot-completions-in-vs-code-for-c-developers/)
 
 * [Understand your C++ symbols using Copilot in Visual Studio’s Quick Info](https://devblogs.microsoft.com/cppblog/understand-your-c-symbols-using-copilot-in-visual-studios-quick-info/)

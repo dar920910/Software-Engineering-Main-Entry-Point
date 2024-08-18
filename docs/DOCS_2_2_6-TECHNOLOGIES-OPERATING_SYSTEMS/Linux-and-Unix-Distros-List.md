@@ -168,6 +168,7 @@
 * [Clear Linux* Project](https://www.clearlinux.org/)
 * [Azure Linux - Linux OS for Azure 1P services and edge appliances](https://github.com/microsoft/azurelinux/)
 * [Nitrux — #DisruptiveByDesign — Official Website](https://nxos.org/)
+* [MiniOS - Быстро. Просто. Надежно.](https://minios.dev/ru/)
 
 ---
 

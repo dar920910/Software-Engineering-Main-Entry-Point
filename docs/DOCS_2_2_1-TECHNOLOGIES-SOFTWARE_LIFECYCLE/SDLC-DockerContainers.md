@@ -56,15 +56,21 @@
 
 ### Features - Docker & Docker Desktop
 
+* [Zero Trust and Docker Desktop: An Introduction](https://www.docker.com/blog/zero-trust-and-docker-desktop-an-introduction/)
+
 * [Docker Scout Health Scores: Security Grading for Container Images in Your Docker Hub Repo](https://www.docker.com/blog/docker-scout-health-scores-security-grading-for-container-images/)
 
 ### Using Docker - Best Practices
+
+* [Docker Best Practices: Understanding the Differences Between ADD and COPY Instructions in Dockerfiles](https://www.docker.com/blog/docker-best-practices-understanding-the-differences-between-add-and-copy-instructions-in-dockerfiles/)
 
 * [Introducing Docker Build Checks: Optimize Dockerfiles with Best Practices](https://www.docker.com/blog/introducing-docker-build-checks/)
 
 * [Docker Best Practices: Choosing Between RUN, CMD, and ENTRYPOINT](https://www.docker.com/blog/docker-best-practices-choosing-between-run-cmd-and-entrypoint/)
 
 ### Using Docker - AI & ML
+
+* [Adding the ESLint Tool to an AI Assistant: Improving Recommendations for JS/TS Projects](https://www.docker.com/blog/adding-the-eslint-tool-to-an-ai-assistant/)
 
 * [How to Create Dockerfiles with GenAI](https://www.docker.com/blog/how-to-create-dockerfiles-with-genai/)
 

@@ -18,9 +18,17 @@
 
 ### IntelliJ IDEA Releases
 
+#### IntelliJ IDEA 2024.2
+
+* [IntelliJ IDEA 2024.2 Is Out!  | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/08/intellij-idea-2024-2/)
+
+#### IntelliJ IDEA 2024.1
+
+* [IntelliJ IDEA 2024.1.6 Is Out](https://blog.jetbrains.com/idea/2024/08/intellij-idea-2024-1-6/)
+
 * [IntelliJ IDEA 2024.1.5 is Out](https://blog.jetbrains.com/idea/2024/08/intellij-idea-2024-1-5/)
 
-,,,
+* [IntelliJ IDEA 2024.1.4 Is Out!](https://blog.jetbrains.com/idea/2024/06/intellij-idea-2024-1-4/)
 
 * [IntelliJ IDEA 2024.1.3 Is Out!](https://blog.jetbrains.com/idea/2024/06/intellij-idea-2024-1-3/)
 
@@ -30,11 +38,19 @@
 
 * [IntelliJ IDEA 2024.1.1 Is Out!](https://blog.jetbrains.com/idea/2024/04/intellij-idea-2024-1-1/)
 
+* [IntelliJ IDEA 2024.1 Is Out! | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/04/intellij-idea-2024-1/)
+
+#### IntelliJ IDEA 2023.3
+
 * [Ready For an Update? The 2023.3 Versions of JetBrains Coding Tools Are Out! | The JetBrains Blog (jetbrains.com)](https://blog.jetbrains.com/blog/2023/12/08/ready-for-an-update-the-2023-3-versions-of-jetbrains-coding-tools-are-out/)
 
 * [IntelliJ IDEA 2023.3 Is Out! | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/12/intellij-idea-2023-3/)
 
 ### IntelliJ IDEA Blog
+
+* [Hacking a JVM Application With IntelliJ IDEA’s Debugger | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/08/hacking-a-jvm-application-with-intellij-idea-s-debugger/)
+
+* [The New Terminal (Beta): Updates for JetBrains IDEs v2024.2](https://blog.jetbrains.com/idea/2024/08/the-new-terminal-beta-updates-for-jetbrains-ides-v2024-2/)
 
 * [Using Dev Containers in JetBrains IDEs – Part 1](https://blog.jetbrains.com/idea/2024/07/using-dev-containers-in-jetbrains-ides-part-1/)
 

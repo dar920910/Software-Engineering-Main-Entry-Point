@@ -252,8 +252,6 @@
 
 * [Sudo Manual | Sudo](https://www.sudo.ws/docs/man/sudo.man/)
 
-* [Wayland — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Wayland) + [Wayland](https://wayland.freedesktop.org/)
-
 * [Syslog - Wikipedia](https://en.wikipedia.org/wiki/Syslog)
 
 * [AlsaProject (alsa-project.org)](https://www.alsa-project.org/wiki/Main_Page)
@@ -263,6 +261,20 @@
 * [Thomas E. Dickey's software development projects (invisible-island.net)](https://invisible-island.net/)
 
 * [rsync (samba.org)](https://rsync.samba.org/)
+
+### Оконные менеджеры
+
+* [Openbox](http://openbox.org/)
+
+* [labwc](https://labwc.github.io/)
+
+### Композитные серверы
+
+* [Compositing window manager - Wikipedia](https://en.wikipedia.org/wiki/Compositing_window_manager)
+
+* [Wayland — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Wayland) + [Wayland](https://wayland.freedesktop.org/)
+
+* [Hyprland](https://hyprland.org/)
 
 ---
 

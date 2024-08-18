@@ -19,6 +19,8 @@
 
 ## LINUX UBUNTU & SOFTWARE DEVELOPMENT
 
+* [Visual Testing: GitHub Actions Migration & Test Optimisation | Ubuntu](https://ubuntu.com//blog/visual-testing-github-actions-migration-test-optimisation)
+
 * [Canonical announces the general availability of chiselled Ubuntu containers](https://canonical.com/blog/chiselled-ubuntu-ga)
 
 * [WSL and Ubuntu: 2022 year in review | Ubuntu](https://ubuntu.com//blog/wsl-ubuntu-2022-year-in-review)
@@ -97,6 +99,10 @@
 
 * [Secure containerised Ceph with Ubuntu container images | Ubuntu](https://ubuntu.com//blog/secure-containerised-ceph-with-ubuntu-container-images)
 
+## LINUX UBUNTU & TELECOMMUNICATIONS
+
+* [What is the telco core network? | Ubuntu](https://ubuntu.com//blog/what-is-the-telco-core-network)
+
 ## LINUX UBUNTU & INTERNET of THINGS
 
 * [Managing software in complex network environments: the Snap Store Proxy](https://ubuntu.com//blog/managing-software-snap-store-proxy)
@@ -130,6 +136,8 @@
 * [High-performance computing (HPC) technologies: what does the future hold? [part 6] | Ubuntu](https://ubuntu.com//blog/high-performance-computing-hpc-technologies-what-does-the-future-hold-part-6)
 
 ## LINUX UBUNTU & CLOUD TECHNOLOGIES
+
+* [Managed storage with Ceph](https://ubuntu.com//blog/managed-storage-with-ceph)
 
 * [What is Open RAN?](https://ubuntu.com//blog/what-is-open-ran)
 

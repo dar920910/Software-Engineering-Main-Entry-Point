@@ -6,6 +6,8 @@
 
 ### ИНТЕРЕСНЫЕ СТАТЬИ
 
+* [Kotlin Roundup: Ktor in Focus | The Kotlin Blog](https://blog.jetbrains.com/kotlin/2024/08/kotlin-roundup-ktor-in-focus/)
+
 * [Enhanced Column Selection DSL in Kotlin DataFrame](https://blog.jetbrains.com/kotlin/2024/07/enhanced-column-selection-dsl-in-kotlin-dataframe/)
 
 * [AI-Friendly Programming Languages: the Kotlin Story](https://blog.jetbrains.com/kotlin/2024/05/ai-friendly-programming-languages-the-kotlin-story/)

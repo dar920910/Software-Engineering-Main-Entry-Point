@@ -18,6 +18,8 @@
 
 ### Важные выпуски Visual Studio
 
+* [Visual Studio 2022 v17.11 – Your feedback in action - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-11-your-feedback-in-action/)
+
 * [Visual Studio 2022 17.9 Now Available - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-9-now-available/)
 
 * [Visual Studio 17.8 now available! - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/visual-studio-17-8-now-available/)

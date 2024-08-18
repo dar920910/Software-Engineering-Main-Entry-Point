@@ -4,6 +4,8 @@
 
 ## .NET 9 (STS)
 
+* [.NET 9 Preview 7 is now available! - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-9-preview-7/)
+
 * [.NET 9 Preview 6 is now available! - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-9-preview-6/)
 
 * [Our Vision for .NET 9](https://devblogs.microsoft.com/dotnet/our-vision-for-dotnet-9/)

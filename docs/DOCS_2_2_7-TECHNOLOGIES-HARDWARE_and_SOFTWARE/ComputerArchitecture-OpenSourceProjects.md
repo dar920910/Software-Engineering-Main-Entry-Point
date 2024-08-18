@@ -28,6 +28,8 @@
 
 * [RISC-V and the Future of Machine Learning Computing – RISC-V International (riscv.org)](https://riscv.org/blog/2023/05/risc-v-and-the-future-of-machine-learning-computing/)
 
+* [Vortex: OpenCL Compatible RISC-V GPGPU](https://vortex.cc.gatech.edu/)
+
 ## Arduino
 
 * [Arduino — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Arduino)

@@ -12,7 +12,13 @@
 
 * [How to Write an Installable Django App | Real Python](https://realpython.com/installable-django-app/)
 
-### Python Web Frameworks
+### Django: Database Access
+
+* [How to Connect Django With MongoDB | The PyCharm Blog](https://blog.jetbrains.com/pycharm/2024/01/how-to-connect-django-with-mongodb/)
+
+---
+
+## Python Web Frameworks
 
 * [Django vs. Flask in 2024: Which Framework to Choose | TestDriven.io](https://testdriven.io/blog/django-vs-flask/)
 
@@ -22,8 +28,10 @@
 
 * [Tryton - Modularity, scalability & security for your business](https://www.tryton.org/)
 
-### Django: Database Access
+---
 
-* [How to Connect Django With MongoDB | The PyCharm Blog](https://blog.jetbrains.com/pycharm/2024/01/how-to-connect-django-with-mongodb/)
+## Python for Web API Development
+
+* [Interacting With REST APIs and Python – Real Python](https://realpython.com/courses/interacting-rest-apis-python/)
 
 ---

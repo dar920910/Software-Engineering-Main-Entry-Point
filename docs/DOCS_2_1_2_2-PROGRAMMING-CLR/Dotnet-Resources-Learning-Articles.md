@@ -14,6 +14,8 @@
 
 ### .NET Aspire
 
+* [Adding .NET Aspire to your existing .NET apps - .NET Blog](https://devblogs.microsoft.com/dotnet/adding-dotnet-aspire-to-your-existing-dotnet-apps/)
+
 * [What's new in .NET Aspire 8.1 for cloud native developers! - .NET Blog](https://devblogs.microsoft.com/dotnet/whats-new-in-aspire-8-1/)
 
 * [Let’s Learn .NET Aspire – Start your cloud-native journey live!](https://devblogs.microsoft.com/dotnet/lets-learn-dotnet-aspire/)

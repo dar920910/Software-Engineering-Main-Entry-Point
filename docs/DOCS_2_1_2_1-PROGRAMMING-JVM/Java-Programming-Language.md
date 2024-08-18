@@ -109,44 +109,46 @@
 
 ## Java Annotated Monthly (JetBrains Blog Posts)
 
-* [Java Annotated Monthly – July 2024 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2024/07/java-annotated-monthly-july-2024/)
+* [Java Annotated Monthly – August 2024 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/08/java-annotated-monthly-august-2024/)
 
-* [Java Annotated Monthly – June 2024 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2024/06/java-annotated-monthly-june-2024/)
+* [Java Annotated Monthly – July 2024 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/07/java-annotated-monthly-july-2024/)
 
-* [Java Annotated Monthly – May 2024 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2024/05/java-annotated-monthly-may-2024/)
+* [Java Annotated Monthly – June 2024 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/06/java-annotated-monthly-june-2024/)
 
-* [Java Annotated Monthly – April 2024 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2024/04/java-annotated-monthly-april-2024/)
+* [Java Annotated Monthly – May 2024 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/05/java-annotated-monthly-may-2024/)
 
-* [Java Annotated Monthly – March 2024 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2024/03/java-annotated-monthly-march-2024/)
+* [Java Annotated Monthly – April 2024 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/04/java-annotated-monthly-april-2024/)
 
-* [Java Annotated Monthly – February 2024 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2024/02/java-annotated-monthly-february-2024/)
+* [Java Annotated Monthly – March 2024 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/03/java-annotated-monthly-march-2024/)
 
-* [Java Annotated Monthly – January 2024 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2024/01/java-annotated-monthly-january-2024/)
+* [Java Annotated Monthly – February 2024 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/02/java-annotated-monthly-february-2024/)
 
-* [Java Annotated Monthly – December 2023 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/12/java-annotated-monthly-december-2023/)
+* [Java Annotated Monthly – January 2024 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/01/java-annotated-monthly-january-2024/)
 
-* [Java Annotated Monthly – November 2023 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/11/java-annotated-monthly-november-2023/)
+* [Java Annotated Monthly – December 2023 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2023/12/java-annotated-monthly-december-2023/)
 
-* [Java Annotated Monthly – October 2023  | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/10/java-annotated-monthly-october-2023/)
+* [Java Annotated Monthly – November 2023 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2023/11/java-annotated-monthly-november-2023/)
 
-* [Java Annotated Monthly – September 2023 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/09/java-annotated-monthly-september-2023/)
+* [Java Annotated Monthly – October 2023  | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2023/10/java-annotated-monthly-october-2023/)
 
-* [Java Annotated Monthly – August 2023 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/08/java-annotated-monthly-august-2023/)
+* [Java Annotated Monthly – September 2023 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2023/09/java-annotated-monthly-september-2023/)
 
-* [Java Annotated Monthly – July 2023 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/07/java-annotated-monthly-july-2023/)
+* [Java Annotated Monthly – August 2023 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2023/08/java-annotated-monthly-august-2023/)
 
-* [Java Annotated Monthly – June 2023 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/06/java-annotated-monthly-june-2023/)
+* [Java Annotated Monthly – July 2023 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2023/07/java-annotated-monthly-july-2023/)
 
-* [Java Annotated Monthly – May 2023 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/05/java-annotated-monthly-may-2023/)
+* [Java Annotated Monthly – June 2023 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2023/06/java-annotated-monthly-june-2023/)
 
-* [Java Annotated Monthly – April 2023 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/04/java-annotated-monthly-april-2023/)
+* [Java Annotated Monthly – May 2023 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2023/05/java-annotated-monthly-may-2023/)
 
-* [Java Annotated Monthly – March 2023 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/03/java-annotated-monthly-march-2023/)
+* [Java Annotated Monthly – April 2023 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2023/04/java-annotated-monthly-april-2023/)
 
-* [Java Annotated Monthly – February 2023 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/02/java-annotated-monthly-february-2023/)
+* [Java Annotated Monthly – March 2023 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2023/03/java-annotated-monthly-march-2023/)
 
-* [Java Annotated Monthly – January 2023 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/01/java-annotated-monthly-january-2023/)
+* [Java Annotated Monthly – February 2023 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2023/02/java-annotated-monthly-february-2023/)
 
-* [Java Annotated Monthly – December 2022 | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2022/12/java-annotated-monthly-december-2022/)
+* [Java Annotated Monthly – January 2023 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2023/01/java-annotated-monthly-january-2023/)
+
+* [Java Annotated Monthly – December 2022 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2022/12/java-annotated-monthly-december-2022/)
 
 ---

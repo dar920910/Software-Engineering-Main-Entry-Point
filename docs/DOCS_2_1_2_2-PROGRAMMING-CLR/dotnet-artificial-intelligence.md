@@ -54,6 +54,8 @@
 
 ## ML.NET - Учебные ресурсы для чтения
 
+* [Introducing the Azure AI Inference SDK: Access More AI Models with the Azure AI Model Catalog - .NET Blog](https://devblogs.microsoft.com/dotnet/azure-ai-model-catalog-dotnet-inference-sdk/)
+
 * [Add AI to Your .NET Apps Easily with Prompty - .NET Blog](https://devblogs.microsoft.com/dotnet/add-ai-to-your-dotnet-apps-easily-with-prompty/)
 
 * [Using Phi-3 & C# with ONNX for text and vision samples](https://devblogs.microsoft.com/dotnet/using-phi3-csharp-with-onnx-for-text-and-vision-samples-md/)
