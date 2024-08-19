@@ -2,9 +2,37 @@
 
 ---
 
+## Официальные ресурсы VS Code
+
+* [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
+
+* [Documentation for Visual Studio Code](https://code.visualstudio.com/docs)
+
+* [Extensions for Visual Studio family of products | Visual Studio Marketplace](https://marketplace.visualstudio.com/VSCode)
+
+* [microsoft/vscode: Visual Studio Code](https://github.com/microsoft/vscode)
+
+---
+
 ## Обновления VS Code
 
 * [Visual Studio Code July 2024](https://code.visualstudio.com/updates/v1_92)
+
+---
+
+## Системные компоненты VS Code
+
+* [Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron](https://www.electronjs.org/)
+
+* [Monaco Editor](https://microsoft.github.io/monaco-editor/)
+
+* [microsoft/vscode-js-debug: A DAP-compatible JavaScript debugger. Used in VS Code, VS, + more](https://github.com/microsoft/vscode-js-debug)
+
+### Инструменты для разработки расширений VS Code
+
+* [The web's scaffolding tool for modern webapps | Yeoman](https://yeoman.io/)
+
+* [generator-code - npm](https://www.npmjs.com/package/generator-code)
 
 ---
 
@@ -119,5 +147,77 @@
 * [VS Code Sandboxing (visualstudio.com)](https://code.visualstudio.com/blogs/2022/11/28/vscode-sandbox)
 
 * [Making Remote Development Even Better (visualstudio.com)](https://code.visualstudio.com/blogs/2022/12/07/remote-even-better)
+
+---
+
+## Полезные Расширения VS Code
+
+### VS Code Extensions for Code Snippets
+
+* [HTML CSS Support - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+
+* [jQuery Code Snippets - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets)
+
+* [Angular Snippets (Version 18) - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+
+* [Angular 17 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
+
+* [React-Native/React/Redux snippets for es6/es7 - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux)
+
+### VS Code Extensions for Keyboard Shortcuts
+
+* [Visual Studio Keymap - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings)
+
+* [Sublime Text Keymap and Settings Importer - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
+
+* [Vim - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+
+### VS Code Extensions for Programming Languages
+
+#### Pascal
+
+* [OmniPascal - The modern way to work with Object Pascal](https://www.omnipascal.com/)
+
+* [OmniPascal - Open Preview - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Wosi.omnipascal)
+
+### VS Code Extensions for Linters
+
+* [markdownlint - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+
+* [ESLint - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
+* [EditorConfig](https://editorconfig.org/) + [EditorConfig for VS Code - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+
+### VS Code Extensions for Mobile Apps Development
+
+* [Cordova Tools - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Msjsdiag.cordova-tools)
+
+### VS Code Extensions for Git Source Control & Other VCS
+
+* [GitLens — Git supercharged - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+* [Git History - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+
+* [Search results - SCM providers | Visual Studio Code , Visual Studio Marketplace](https://marketplace.visualstudio.com/search?term=SCM%20providers&target=VSCode&category=All%20categories&sortBy=Relevance)
+
+### VS Code Extensions for API Testing
+
+* [REST Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+
+### VS Code Extensions for Docker
+
+* [Docker - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+
+### VS Code Extensions for Database Systems
+
+* [SQL Server (mssql) - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
+
+### VS Code Extensions for Cloud
+
+* [Azure Tools - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)
+
+### VS Code Extensions for AI
+
+* [microsoft/vscode-tools-for-ai: Azure Machine Learning for Visual Studio Code, previously called Visual Studio Code Tools for AI, is an extension to easily build, train, and deploy machine learning models to the cloud or the edge with Azure Machine Learning service.](https://github.com/Microsoft/vscode-tools-for-ai)
 
 ---
