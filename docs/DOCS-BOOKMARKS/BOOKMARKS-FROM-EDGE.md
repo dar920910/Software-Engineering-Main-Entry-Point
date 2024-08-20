@@ -226,8 +226,6 @@
 
 [curl](https://curl.se/)
 
-[Wget - GNU Project - Free Software Foundation](https://www.gnu.org/software/wget/)
-
 [PuTTY: a free SSH and Telnet client](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
 
 [WinSCP :: Official Site :: Free SFTP and FTP client for Windows](https://winscp.net/eng/index.php)

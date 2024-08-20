@@ -42,8 +42,6 @@
 
 * [cURL — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/CURL) + [curl](https://curl.se/) + [curl/curl: A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (github.com)](https://github.com/curl/curl)
 
-* [Wget - GNU Project - Free Software Foundation](https://www.gnu.org/software/wget/)
-
 * [netcat — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Netcat)
 
 * [Netstat — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Netstat)
@@ -59,6 +57,18 @@
 * [Termshark • A terminal UI for tshark, inspired by Wireshark](https://termshark.io/)
 
 * [Mosh: the mobile shell](https://mosh.org/)
+
+---
+
+## Networking - HTTP/FTP Client Utilities
+
+### Wget
+
+* [Wget — Википедия](https://ru.wikipedia.org/wiki/Wget)
+
+* [Wget - Wikipedia](https://en.wikipedia.org/wiki/Wget)
+
+* [Wget - GNU Project - Free Software Foundation](https://www.gnu.org/software/wget/)
 
 ---
 
