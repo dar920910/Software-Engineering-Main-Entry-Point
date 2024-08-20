@@ -6,8 +6,6 @@
 
 * [Wireshark — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Wireshark) + [Wireshark · Go Deep.](https://www.wireshark.org/)
 
-* [nmap — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Nmap) + [Nmap: the Network Mapper - Free Security Scanner](https://nmap.org/)
-
 * [ntop – High Performance Network Monitoring Solutions based on Open Source and Commodity Hardware.](https://www.ntop.org/)
 
 * [ntop/nDPI: Open Source Deep Packet Inspection Software Toolkit (github.com)](https://github.com/ntop/nDPI)
@@ -61,5 +59,35 @@
 * [Termshark • A terminal UI for tshark, inspired by Wireshark](https://termshark.io/)
 
 * [Mosh: the mobile shell](https://mosh.org/)
+
+---
+
+## Networking - Network Security & Penetration Testing
+
+### Nmap
+
+* [nmap — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Nmap)
+
+* [Nmap - Wikipedia](https://en.wikipedia.org/wiki/Nmap)
+
+* [Nmap: the Network Mapper - Free Security Scanner](https://nmap.org/)
+
+* [Zenmap - Official cross-platform Nmap Security Scanner GUI](https://nmap.org/zenmap/)
+
+### OpenVAS
+
+* [OpenVAS — Википедия](https://ru.wikipedia.org/wiki/OpenVAS)
+
+* [OpenVAS - Wikipedia](https://en.wikipedia.org/wiki/OpenVAS)
+
+* [OpenVAS - Open Vulnerability Assessment Scanner](https://www.openvas.org/)
+
+### Metasploit
+
+* [Metasploit — Википедия](https://ru.wikipedia.org/wiki/Metasploit)
+
+* [Metasploit - Wikipedia](https://en.wikipedia.org/wiki/Metasploit)
+
+* [Metasploit | Penetration Testing Software, Pen Testing Security | Metasploit](https://www.metasploit.com/)
 
 ---

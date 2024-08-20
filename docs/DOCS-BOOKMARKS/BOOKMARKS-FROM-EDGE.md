@@ -220,8 +220,6 @@
 
 [Npcap: Windows Packet Capture Library & Driver](https://npcap.com/)
 
-[Nmap: the Network Mapper - Free Security Scanner](https://nmap.org/)
-
 [WinPcap - Home](https://www.winpcap.org/)
 
 [USBPcap](https://desowin.org/usbpcap/)
@@ -1126,15 +1124,11 @@
 
 [OWASP ZAP](https://www.zaproxy.org/)
 
-[Metasploit | Penetration Testing Software, Pen Testing Security | Metasploit](https://www.metasploit.com/)
-
 [John the Ripper password cracker](https://www.openwall.com/john/)
 
 [GitHub - vanhauser-thc/thc-hydra: hydra](https://github.com/vanhauser-thc/thc-hydra)
 
 [RainbowCrack - Crack Hashes with Rainbow Tables](http://project-rainbowcrack.com/)
-
-[Zenmap - Official cross-platform Nmap Security Scanner GUI](https://nmap.org/zenmap/)
 
 [The ZMap Project](https://zmap.io/)
 
@@ -1170,7 +1164,7 @@
 
 [BeEF - The Browser Exploitation Framework Project](http://beefproject.com/)
 
-[Nmap: the Network Mapper - Free Security Scanner](https://nmap.org/)
+
 
 [Home | TCPDUMP & LIBPCAP](https://www.tcpdump.org/)
 
