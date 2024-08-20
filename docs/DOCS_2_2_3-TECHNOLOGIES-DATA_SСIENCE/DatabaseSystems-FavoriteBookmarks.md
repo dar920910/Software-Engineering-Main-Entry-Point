@@ -67,12 +67,6 @@
 
 [BSON (Binary JSON) Serialization](https://bsonspec.org/)
 
-[Extensible Markup Language (XML)](https://www.w3.org/XML/)
-
-[XML.com](https://www.xml.com/)
-
-[Focus Area News | XML.org](https://www.xml.org/)
-
 [MessagePack: It's like JSON. but fast and small.](https://msgpack.org/)
 
 [memcached - a distributed memory object caching system](https://memcached.org/)
