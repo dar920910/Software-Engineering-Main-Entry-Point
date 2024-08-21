@@ -48,6 +48,8 @@
 
 ### IntelliJ IDEA Blog
 
+* [Long Code Arena: How Well Can AI Models Understand Your Entire Project? | The JetBrains Blog](https://blog.jetbrains.com/ai/2024/08/long-code-arena-how-well-can-ai-models-understand-your-entire-project/)
+
 * [Hacking a JVM Application With IntelliJ IDEA’s Debugger | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/08/hacking-a-jvm-application-with-intellij-idea-s-debugger/)
 
 * [The New Terminal (Beta): Updates for JetBrains IDEs v2024.2](https://blog.jetbrains.com/idea/2024/08/the-new-terminal-beta-updates-for-jetbrains-ides-v2024-2/)

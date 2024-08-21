@@ -203,6 +203,8 @@
 
 ## LINUX UBUNTU & DATA SCIENCE
 
+* [Hacker’s guide to the Raspberry Pi AI kit on Ubuntu](https://ubuntu.com//blog/hackers-guide-to-the-raspberry-pi-ai-kit-on-ubuntu)
+
 * [Large language models (LLMs): what, why, how?](https://ubuntu.com/blog/what-are-large-language-models-llms)
 
 * [An overview of machine learning security risks](https://ubuntu.com//blog/machine-learning-security-risks)

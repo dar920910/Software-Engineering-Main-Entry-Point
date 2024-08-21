@@ -574,6 +574,10 @@
 
 * [Logging in Python – Real Python](https://realpython.com/python-logging/)
 
+### Python: Объектно-ориентированное программирование
+
+* [Python Classes: The Power of Object-Oriented Programming – Real Python](https://realpython.com/python-classes/)
+
 ### Python: Функциональное программирование
 
 * [Functional Programming in Python: When and How to Use It – Real Python](https://realpython.com/python-functional-programming/)

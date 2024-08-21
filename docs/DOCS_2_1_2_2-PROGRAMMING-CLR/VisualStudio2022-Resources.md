@@ -206,6 +206,8 @@
 
 ### Visual Studio - Отладка/тестирование/профилирование
 
+* [New debugging and diagnostic features - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/new-debugging-and-diagnostic-features/)
+
 * [Introducing the revamped Attach to Process experience](https://devblogs.microsoft.com/visualstudio/introducing-the-revamped-attach-to-process-experience/)
 
 * [VisualStudio.Extensibility 17.10: Debug your extensions with the Diagnostics Explorer](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-10/)
@@ -257,6 +259,8 @@
 * [Parallel Stack Window tips you need to know. (microsoft.com)](https://devblogs.microsoft.com/visualstudio/rock-your-debugging-game-parallel-stack-window-tips-you-need-to-know/)
 
 ### Visual Studio - Поддержка Git + GitHub
+
+* [New git tooling features - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/new-git-tooling-features/)
 
 * [Catch up on the latest Git tooling features in 17.10 GA](https://devblogs.microsoft.com/visualstudio/catch-up-on-the-latest-git-tooling-features-in-17-10-ga/)
 
