@@ -4,8 +4,11 @@
 
 ## Ruby Programming Language
 
-- [Ruby - Wikipedia](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 - [Ruby Programming Language | www.ruby-lang.org](https://www.ruby-lang.org/en/)
+
+### About Ruby (Wikipedia)
+
+- [Ruby - Wikipedia](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 
 ---
 
@@ -19,7 +22,15 @@
 ## Ruby Downloads
 
 - [Download Ruby | www.ruby-lang.org](https://www.ruby-lang.org/en/downloads/)
+
+### RubyInstaller for Windows
+
 - [RubyInstaller for Windows | rubyinstaller.org](https://rubyinstaller.org/)
+- [oneclick/rubyinstaller2: MSYS2 based RubyInstaller for Windows](https://github.com/oneclick/rubyinstaller2)
+- [The ridk tool · oneclick/rubyinstaller2 Wiki](https://github.com/oneclick/rubyinstaller2/wiki/The-ridk-tool)
+
+### Useful Tools to Manage Ruby Installations
+
 - [RVM: Ruby Version Manager](https://rvm.io/)
 - [rbenv - Take control of your Ruby application environment | github.com](https://github.com/rbenv)
 
