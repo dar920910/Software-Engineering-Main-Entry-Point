@@ -38,4 +38,6 @@
 
 * [MSTest 3.4 is here with WinUI support and new analyzers!](https://devblogs.microsoft.com/dotnet/introducing-mstest-34/)
 
+* [Supercharge your testing experience with MSTest.Analyzers - .NET Blog](https://devblogs.microsoft.com/dotnet/supercharge-your-testing-experience-with-ms-test-analyzers/)
+
 ---

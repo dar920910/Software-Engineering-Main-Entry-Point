@@ -4,6 +4,10 @@
 
 ## ВЕРСИИ RUST
 
+* [Announcing Rust 1.81.0 | Rust Blog](https://blog.rust-lang.org/2024/09/05/Rust-1.81.0.html)
+
+* [Announcing Rust 1.80.1 | Rust Blog](https://blog.rust-lang.org/2024/08/08/Rust-1.80.1.html)
+
 * [Announcing Rust 1.80.0 | Rust Blog (rust-lang.org)](https://blog.rust-lang.org/2024/07/25/Rust-1.80.0.html)
 
 ...
@@ -35,5 +39,11 @@
 * [Announcing Rust 1.59.0 | Rust Blog (rust-lang.org)](https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html)
 
 ...
+
+---
+
+## ПОЛЕЗНЫЕ СТАТЬИ
+
+* [How to Learn Rust in 2024: A Complete Beginner’s Guide to Mastering Rust Programming | The RustRover Blog](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)
 
 ---

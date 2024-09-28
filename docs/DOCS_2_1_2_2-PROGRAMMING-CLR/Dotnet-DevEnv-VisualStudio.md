@@ -4,6 +4,14 @@
 
 ## Visual Studio 2022 Improvements for C# .NET Developers
 
+* [How to run .NET apps natively on Arm64 devices - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/how-to-run-net-apps-natively-on-arm64-devices/)
+
+* [Understanding the behavior of the XAML Designer with abstract base classes - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/understanding-the-behavior-of-the-xaml-designer-with-abstract-base-classes/)
+
+* [Improving GitHub Copilot Completions in Visual Studio for C# Developers - .NET Blog](https://devblogs.microsoft.com/dotnet/improving-github-copilot-completions-in-visual-studio-for-csharp-developers/)
+
+* [C# Dev Kit update brings enhanced Razor IntelliSense, Project Status, and New Config Options - .NET Blog](https://devblogs.microsoft.com/dotnet/whats-new-in-csharp-dev-kit-august-2024/)
+
 * [Code Assessment with .NET Upgrade Assistant](https://devblogs.microsoft.com/visualstudio/code-assessment-with-net-upgrade-assistant/)
 
 * [Announcing Third Party API and Package Map Support for .NET Upgrade Assistant](https://devblogs.microsoft.com/dotnet/announcing-api-map-support-for-ua/)
@@ -61,6 +69,8 @@
 ---
 
 ## Visual Studio 2022 Improvements for ASP.NET Core Web Developers
+
+* [Creating a React TODO app in Visual Studio 2022 - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/creating-a-react-todo-app-in-visual-studio-2022/)
 
 * [Developing cloud-native apps with .NET Aspire and Visual Studio](https://devblogs.microsoft.com/visualstudio/developing-cloud-native-apps-with-aspire/)
 

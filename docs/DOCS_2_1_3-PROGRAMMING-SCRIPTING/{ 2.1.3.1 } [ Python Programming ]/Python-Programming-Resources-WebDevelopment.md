@@ -28,10 +28,20 @@
 
 * [Tryton - Modularity, scalability & security for your business](https://www.tryton.org/)
 
+* [Primer on Jinja Templating – Real Python](https://realpython.com/primer-on-jinja-templating/)
+
 ---
 
 ## Python for Web API Development
 
 * [Interacting With REST APIs and Python – Real Python](https://realpython.com/courses/interacting-rest-apis-python/)
+
+* [What Are CRUD Operations? – Real Python](https://realpython.com/crud-operations/)
+
+---
+
+## Python for Web Scraping
+
+* [Web Scraping With Scrapy and MongoDB – Real Python](https://realpython.com/web-scraping-with-scrapy-and-mongodb/)
 
 ---

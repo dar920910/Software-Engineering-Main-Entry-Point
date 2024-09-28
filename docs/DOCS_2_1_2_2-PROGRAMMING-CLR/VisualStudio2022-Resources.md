@@ -44,6 +44,8 @@
 
 ### Новые возможности Visual Studio 2022
 
+* [New IDE features in Visual Studio v17.11 - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/new-ide-features-in-visual-studio-v17-11/)
+
 * [Visual Studio’s Full Year in Review (2023)](https://devblogs.microsoft.com/visualstudio/visual-studios-full-year-in-review-2023/)
 
 * [2023 – a year of community experiments](https://devblogs.microsoft.com/visualstudio/2023-a-year-of-community-experiments/)
@@ -130,6 +132,12 @@
 
 ### Visual Studio - Повседневные задачи разработчика
 
+* [Multi-Project Launch Configuration - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/multi-project-launch-configuration/)
+
+* [Search scoping helps you find what you’re looking for - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/search-scoping-helps-you-find-what-youre-looking-for/)
+
+* [Easily dock and float tool windows - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/easily-dock-and-float-tool-windows/)
+
 * [Visual Studio tip: Using Ctrl-L to delete a line with and without Clipboard backup - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/visual-studio-tip-deleting-a-line/)
 
 * [Introducing the Revamped Visual Studio Resource Explorer](https://devblogs.microsoft.com/visualstudio/introducing-the-revamped-visual-studio-resource-explorer/)
@@ -206,6 +214,10 @@
 
 ### Visual Studio - Отладка/тестирование/профилирование
 
+* [Organize Your Breakpoints like a pro - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/organize-your-breakpoints-like-a-pro/)
+
+* [Break for Async User-Unhandled exceptions in the Visual Studio Debugger - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/break-for-async-user-unhandled-exceptions-in-the-visual-studio-debugger/)
+
 * [New debugging and diagnostic features - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/new-debugging-and-diagnostic-features/)
 
 * [Introducing the revamped Attach to Process experience](https://devblogs.microsoft.com/visualstudio/introducing-the-revamped-attach-to-process-experience/)
@@ -260,6 +272,8 @@
 
 ### Visual Studio - Поддержка Git + GitHub
 
+* [Level up your collaborations with the pull request experience in Visual Studio - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/level-up-your-collaborations-with-the-pull-request-experience-in-visual-studio/)
+
 * [New git tooling features - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/new-git-tooling-features/)
 
 * [Catch up on the latest Git tooling features in 17.10 GA](https://devblogs.microsoft.com/visualstudio/catch-up-on-the-latest-git-tooling-features-in-17-10-ga/)
@@ -288,6 +302,8 @@
 
 ### Visual Studio - Поддержка расширений
 
+* [VisualStudio.Extensibility 17.11: Settings and more Remote UI support - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-11-settings-and-more-remote-ui-support/)
+
 * [Sign VSIX packages with Sign CLI - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/sign-vsix-packages-with-sign-cli/)
 
 * [A modern Extension Manager has arrived with Visual Studio 17.10](https://devblogs.microsoft.com/visualstudio/visual-studio-extension-manager-17-10/)
@@ -313,6 +329,12 @@
 * [You can now use Microsoft Kiota within Visual Studio Code](https://devblogs.microsoft.com/microsoft365dev/you-can-now-use-microsoft-kiota-within-visual-studio-code/)
 
 ### Visual Studio - Функции искусственного интеллекта
+
+* [Incorporate GitHub Copilot into your daily flow - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/incorporate-github-copilot-into-your-daily-flow/)
+
+* [New GitHub Copilot features in Visual Studio 2022 17.11 - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/new-github-copilot-features-in-visual-studio-2022-17-11/)
+
+* [Enhancing Code Comprehension: GitHub Copilot’s Features in Visual Studio 2022 17.11 - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/enhancing-code-comprehension-github-copilots-features-in-visual-studio-2022-17-11/)
 
 * [Visual Studio 2022 17.10 and GitHub Copilot: Your Coding Partner for Faster and Smarter Development](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-10-now-available/)
 

@@ -10,9 +10,17 @@
 
 ### .NET 9
 
+* [BinaryFormatter removed from .NET 9 - .NET Blog](https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/)
+
+* [Performance Improvements in .NET 9 - .NET Blog](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-9/)
+
 * [.NET Announcements and Updates from Microsoft Build 2024](https://devblogs.microsoft.com/dotnet/dotnet-build-2024-announcements/)
 
 ### .NET Aspire
+
+* [Getting started with testing and .NET Aspire - .NET Blog](https://devblogs.microsoft.com/dotnet/getting-started-with-testing-and-dotnet-aspire/)
+
+* [Announcing .NET Aspire 8.2 - Goodbye Components, Hello Integrations! - .NET Blog](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-8-2/)
 
 * [Adding .NET Aspire to your existing .NET apps - .NET Blog](https://devblogs.microsoft.com/dotnet/adding-dotnet-aspire-to-your-existing-dotnet-apps/)
 
@@ -402,6 +410,8 @@
 
 * Полезные статьи для чтения
 
+* [Learn to Build Your First Blazor Hybrid App! - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-blazor-hybrid-workshop/)
+
 * [Why and How to Execute GraphQL Queries in .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/why-and-how-to-execute-graph-ql-queries-in-dotnet/)
 
 * [How use a Blazor QuickGrid with GraphQL - .NET Blog](https://devblogs.microsoft.com/dotnet/how-use-a-blazor-quickgrid-with-graphql/)
@@ -462,6 +472,8 @@
 
 * Полезные статьи для изучения MAUI
 
+* [Android Asset Packs for .NET & .NET MAUI Android Apps - .NET Blog](https://devblogs.microsoft.com/dotnet/android-asset-packs-in-dotnet-android/)
+
 * [Creating Bindings for .NET MAUI with Native Library Interop - .NET Blog](https://devblogs.microsoft.com/dotnet/native-library-interop-dotnet-maui/)
 
 * [Getting started with UI testing .NET MAUI apps using Appium](https://devblogs.microsoft.com/dotnet/dotnet-maui-ui-testing-appium/)
@@ -507,6 +519,8 @@
 * [Using Command Binding in Windows Forms apps to go Cross-Platform - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/winforms-cross-platform-dotnet-maui-command-binding/)
 
 * Новости .NET Community Toolkit
+
+* [Announcing .NET Community Toolkit 8.3 - .NET Blog](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-830/)
 
 * [Announcing .NET Community Toolkit 8.0! MVVM, Diagnostics, Performance, and more! - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-800/)
 

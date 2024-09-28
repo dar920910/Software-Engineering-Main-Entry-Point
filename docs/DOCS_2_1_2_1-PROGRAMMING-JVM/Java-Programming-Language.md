@@ -24,6 +24,16 @@
 
 ## Java Official Releases
 
+### Java 23 (2024/09)
+
+* [The Arrival of Java 23 (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-23)
+
+* [The Arrival of Java 23! – Inside.java](https://inside.java/2024/09/17/jdk-23-available/)
+
+* [GraalVM for JDK 23 is here! (oracle.com)](https://blogs.oracle.com/java/post/graalvm-for-jdk-23)
+
+* [Including the Graal JIT in Oracle JDK 23 (oracle.com)](https://blogs.oracle.com/java/post/including-the-graal-jit-in-oracle-jdk-23)
+
 ### Java 22 (2024/03)
 
 * [The Arrival of Java 22 (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-22)
@@ -108,6 +118,8 @@
 ---
 
 ## Java Annotated Monthly (JetBrains Blog Posts)
+
+* [Java Annotated Monthly – September 2024 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/09/java-annotated-monthly-september-2024/)
 
 * [Java Annotated Monthly – August 2024 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/08/java-annotated-monthly-august-2024/)
 

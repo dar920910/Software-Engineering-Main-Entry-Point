@@ -20,6 +20,8 @@
 
 ## FSharp - Статьи для Чтения
 
+* [Why is F# code so robust and reliable? - .NET Blog](https://devblogs.microsoft.com/dotnet/why-is-fsharp-code-so-robust-and-reliable/)
+
 * [Enhancing #help in F# Interactive - .NET Blog](https://devblogs.microsoft.com/dotnet/enhancing-help-in-fsi/)
 
 ---

@@ -13,3 +13,9 @@
 [QtTest Runner - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=KDAB.qttests)
 
 ---
+
+## Qt - Useful Articles
+
+* [Qt/.NET — Using QML in a .NET WPF application](https://www.qt.io/blog/qt-dotnet-using-qml-in-a-dotnet-wpf-application)
+
+---

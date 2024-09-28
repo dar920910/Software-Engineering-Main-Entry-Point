@@ -50,17 +50,27 @@
 
 #### 2024
 
+* [Announcing Upgraded Docker Plans: Simpler, More Value, Better Development and Productivity | Docker](https://www.docker.com/blog/november-2024-updated-plans-announcement/)
+
+* [Docker Desktop 4.34: MSI Installer GA, Upgraded Host Networking, and Powerful Enhancements for Boosted Productivity & Administration | Docker](https://www.docker.com/blog/docker-desktop-4-34/)
+
 * [Docker Desktop 4.33: GA Releases of Docker Debug and Docker Build Checks Plus Enhanced Configuration Integrity Checks](https://www.docker.com/blog/docker-desktop-4-33/)
 
 * [Docker Desktop 4.32: Beta Releases of Compose File Viewer, Terminal Shell Integration, and Volume Backups to Cloud Providers](https://www.docker.com/blog/docker-desktop-4-32/)
 
 ### Features - Docker & Docker Desktop
 
+* [Streamlining Local Development with Dev Containers and Testcontainers Cloud | Docker](https://www.docker.com/blog/streamlining-local-development-with-dev-containers-and-testcontainers-cloud/)
+
+* [Docker for Web Developers: Starting with the Basics | Docker](https://www.docker.com/blog/docker-for-web-developers/)
+
 * [Zero Trust and Docker Desktop: An Introduction](https://www.docker.com/blog/zero-trust-and-docker-desktop-an-introduction/)
 
 * [Docker Scout Health Scores: Security Grading for Container Images in Your Docker Hub Repo](https://www.docker.com/blog/docker-scout-health-scores-security-grading-for-container-images/)
 
 ### Using Docker - Best Practices
+
+* [10 Docker Myths Debunked | Docker](https://www.docker.com/blog/docker-myths-debunked/)
 
 * [Docker Best Practices: Understanding the Differences Between ADD and COPY Instructions in Dockerfiles](https://www.docker.com/blog/docker-best-practices-understanding-the-differences-between-add-and-copy-instructions-in-dockerfiles/)
 
@@ -69,6 +79,12 @@
 * [Docker Best Practices: Choosing Between RUN, CMD, and ENTRYPOINT](https://www.docker.com/blog/docker-best-practices-choosing-between-run-cmd-and-entrypoint/)
 
 ### Using Docker - AI & ML
+
+* [Using an AI Assistant to Read Tool Documentation | Docker](https://www.docker.com/blog/using-an-ai-assistant-to-read-tool-documentation/)
+
+* [Secure by Design in AI: Building Resilient Systems from the Ground Up | Docker](https://www.docker.com/blog/secure-by-design-for-ai/)
+
+* [Getting Started with the Labs AI Tools for Devs Docker Desktop Extension | Docker](https://www.docker.com/blog/labs-ai-tools-for-devs-docker-desktop-extension/)
 
 * [Adding the ESLint Tool to an AI Assistant: Improving Recommendations for JS/TS Projects](https://www.docker.com/blog/adding-the-eslint-tool-to-an-ai-assistant/)
 

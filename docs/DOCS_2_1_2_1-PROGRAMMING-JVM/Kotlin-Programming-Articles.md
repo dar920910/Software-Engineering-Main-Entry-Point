@@ -6,6 +6,10 @@
 
 ### ИНТЕРЕСНЫЕ СТАТЬИ
 
+* [Live Stream: How to Migrate Your Kotlin Plugin to K2 Mode | The JetBrains Platform Blog](https://blog.jetbrains.com/platform/2024/09/live-stream-how-to-migrate-your-kotlin-plugin-to-k2-mode/)
+
+* [Ktor 101: Efficient JVM HTTP Toolkit | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/09/ktor-101-efficient-jvm-http-toolkit/)
+
 * [Kotlin Roundup: Ktor in Focus | The Kotlin Blog](https://blog.jetbrains.com/kotlin/2024/08/kotlin-roundup-ktor-in-focus/)
 
 * [Enhanced Column Selection DSL in Kotlin DataFrame](https://blog.jetbrains.com/kotlin/2024/07/enhanced-column-selection-dsl-in-kotlin-dataframe/)

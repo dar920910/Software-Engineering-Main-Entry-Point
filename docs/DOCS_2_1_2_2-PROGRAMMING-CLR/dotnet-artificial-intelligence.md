@@ -52,7 +52,13 @@
 
 ---
 
-## ML.NET - Учебные ресурсы для чтения
+## .NET for AI - Учебные ресурсы для чтения
+
+* [Join the .NET Smart Components ecosystem - .NET Blog](https://devblogs.microsoft.com/dotnet/join-the-dotnet-smart-components-ecosystem/)
+
+* [GitHub Models and .NET: Building Generative AI apps for engineers - .NET Blog](https://devblogs.microsoft.com/dotnet/using-github-models-and-dotnet-to-build-generative-ai-apps/)
+
+* [Introducing the Pinecone .NET SDK - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-pinecone-dotnet-sdk/)
 
 * [Introducing the Azure AI Inference SDK: Access More AI Models with the Azure AI Model Catalog - .NET Blog](https://devblogs.microsoft.com/dotnet/azure-ai-model-catalog-dotnet-inference-sdk/)
 

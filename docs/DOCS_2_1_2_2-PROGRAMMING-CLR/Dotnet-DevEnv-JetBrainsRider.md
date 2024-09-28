@@ -4,6 +4,8 @@
 
 ## .NET Programming with JetBrains Rider (The .NET Tools Blog)
 
+* [Building a GraphQL Client in .NET with JetBrains Rider and StrawberryShake | The .NET Tools Blog](https://blog.jetbrains.com/dotnet/2024/09/17/building-a-graphql-client-in-net-with-jetbrains-rider-and-strawberryshake/)
+
 * [ReSharper 20 years! | The .NET Tools Blog](https://blog.jetbrains.com/dotnet/2024/07/23/resharper-20-years/)
 
 * [Snapshot Testing in .NET with Verify | The .NET Tools Blog](https://blog.jetbrains.com/dotnet/2024/07/11/snapshot-testing-in-net-with-verify/)

@@ -20,7 +20,13 @@
 
 #### IntelliJ IDEA 2024.2
 
-* [IntelliJ IDEA 2024.2 Is Out!  | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/08/intellij-idea-2024-2/)
+* [IntelliJ IDEA 2024.2.3 Is Out | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/09/intellij-idea-2024-2-3/)
+
+* [IntelliJ IDEA 2024.2.2 Is Out | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/09/intellij-idea-2024-2-2/)
+
+* [IntelliJ IDEA 2024.2.1 Is Out | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/08/intellij-idea-2024-2-1/)
+
+* [IntelliJ IDEA 2024.2 Is Out! | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/08/intellij-idea-2024-2/)
 
 #### IntelliJ IDEA 2024.1
 
@@ -47,6 +53,18 @@
 * [IntelliJ IDEA 2023.3 Is Out! | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/12/intellij-idea-2023-3/)
 
 ### IntelliJ IDEA Blog
+
+* [Introduction to Htmx for Spring Boot Developers | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/09/introduction-to-htmx-for-spring-boot-developers/)
+
+* [Java 23 and IntelliJ IDEA | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/09/java-23-and-intellij-idea/)
+
+* [Introduction to Code Analysis in IntelliJ IDEA | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/09/introduction-to-code-analysis-in-intellij-idea/)
+
+* [Workspaces in IntelliJ IDEA | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/08/workspaces-in-intellij-idea/)
+
+* [Workspace Model | The JetBrains Platform Blog](https://blog.jetbrains.com/platform/2024/08/workspace-model/)
+
+* [A New Approach to Build Runners | TeamCity Pipelines Pulse, Issue #7 | The TeamCity Blog](https://blog.jetbrains.com/teamcity/2024/09/teamcity-pipelines-pulse-issue7-build-runners/)
 
 * [Long Code Arena: How Well Can AI Models Understand Your Entire Project? | The JetBrains Blog](https://blog.jetbrains.com/ai/2024/08/long-code-arena-how-well-can-ai-models-understand-your-entire-project/)
 

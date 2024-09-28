@@ -6,41 +6,47 @@
 
 * [TypeScript: JavaScript With Syntax For Types. (typescriptlang.org)](https://www.typescriptlang.org/)
 
-* [TypeScript — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/TypeScript)
+* [TypeScript - The official blog of the TypeScript team](https://devblogs.microsoft.com/typescript/)
+
+* [TypeScript — Wikipedia](https://en.wikipedia.org/wiki/TypeScript)
 
 ---
 
 ## Версии TypeScript
 
-* [Announcing TypeScript 5.4 - TypeScript (microsoft.com)](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/)
+* [Announcing TypeScript 5.6 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/)
 
-* [Announcing TypeScript 5.3 - TypeScript (microsoft.com)](https://devblogs.microsoft.com/typescript/announcing-typescript-5-3/)
+* [Announcing TypeScript 5.5 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/)
 
-* [Announcing TypeScript 5.2 - TypeScript (microsoft.com)](https://devblogs.microsoft.com/typescript/announcing-typescript-5-2/)
+* [Announcing TypeScript 5.4 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/)
 
-* [Announcing TypeScript 5.1 - TypeScript (microsoft.com)](https://devblogs.microsoft.com/typescript/announcing-typescript-5-1/)
+* [Announcing TypeScript 5.3 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-5-3/)
 
-* [Announcing TypeScript 5.0 - TypeScript (microsoft.com)](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/)
+* [Announcing TypeScript 5.2 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-5-2/)
 
-* [Announcing TypeScript 4.9 - TypeScript (microsoft.com)](https://devblogs.microsoft.com/typescript/announcing-typescript-4-9/)
+* [Announcing TypeScript 5.1 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-5-1/)
 
-* [Announcing TypeScript 4.8 - TypeScript (microsoft.com)](https://devblogs.microsoft.com/typescript/announcing-typescript-4-8/)
+* [Announcing TypeScript 5.0 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/)
 
-* [Announcing TypeScript 4.7 - TypeScript (microsoft.com)](https://devblogs.microsoft.com/typescript/announcing-typescript-4-7/)
+* [Announcing TypeScript 4.9 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-4-9/)
 
-* [Announcing TypeScript 4.6 - TypeScript (microsoft.com)](https://devblogs.microsoft.com/typescript/announcing-typescript-4-6/)
+* [Announcing TypeScript 4.8 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-4-8/)
 
-* [Announcing TypeScript 4.5 - TypeScript (microsoft.com)](https://devblogs.microsoft.com/typescript/announcing-typescript-4-5/)
+* [Announcing TypeScript 4.7 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-4-7/)
 
-* [Announcing TypeScript 4.4 - TypeScript (microsoft.com)](https://devblogs.microsoft.com/typescript/announcing-typescript-4-4/)
+* [Announcing TypeScript 4.6 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-4-6/)
 
-* [Announcing TypeScript 4.3 - TypeScript (microsoft.com)](https://devblogs.microsoft.com/typescript/announcing-typescript-4-3/)
+* [Announcing TypeScript 4.5 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-4-5/)
 
-* [Announcing TypeScript 4.2 - TypeScript (microsoft.com)](https://devblogs.microsoft.com/typescript/announcing-typescript-4-2/)
+* [Announcing TypeScript 4.4 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-4-4/)
 
-* [Announcing TypeScript 4.1 - TypeScript (microsoft.com)](https://devblogs.microsoft.com/typescript/announcing-typescript-4-1/)
+* [Announcing TypeScript 4.3 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-4-3/)
 
-* [Announcing TypeScript 4.0 - TypeScript (microsoft.com)](https://devblogs.microsoft.com/typescript/announcing-typescript-4-0/)
+* [Announcing TypeScript 4.2 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-4-2/)
+
+* [Announcing TypeScript 4.1 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-4-1/)
+
+* [Announcing TypeScript 4.0 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-4-0/)
 
 ---
 

@@ -12,6 +12,8 @@
 
 ### Windows Terminal - Релизы программы
 
+* [Windows Terminal Preview 1.22 Release - Windows Command Line (microsoft.com)](https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-22-release/)
+
 * [Windows Terminal Preview 1.21 Release - Windows Command Line (microsoft.com)](https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-21-release/)
 
 * [Windows Terminal Preview 1.20 Release - Windows Command Line (microsoft.com)](https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-20-release/)

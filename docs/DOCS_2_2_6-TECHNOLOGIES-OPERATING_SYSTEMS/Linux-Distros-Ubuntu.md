@@ -79,6 +79,8 @@
 
 ## LINUX CONTAINERS & VIRTUALIZATION
 
+* [Data centre networking: What is OVN? | Ubuntu](https://ubuntu.com//blog/data-centre-networking-what-is-ovn)
+
 * [What is a Kubernetes operator? | Ubuntu](https://ubuntu.com//blog/what-is-a-kubernetes-operator)
 
 * [What is a hypervisor? A beginner’s guide | Ubuntu](https://ubuntu.com//blog/hypervisor)
@@ -100,6 +102,10 @@
 * [Secure containerised Ceph with Ubuntu container images | Ubuntu](https://ubuntu.com//blog/secure-containerised-ceph-with-ubuntu-container-images)
 
 ## LINUX UBUNTU & TELECOMMUNICATIONS
+
+* [5G mobile networks: A driver for edge computing | Ubuntu](https://ubuntu.com//blog/telco-5g-mobile-networks-a-driver-for-edge-computing)
+
+* [What is the 5G Edge and Multi-Access Edge Computing? | Ubuntu](https://ubuntu.com//blog/what-is-the-5g-edge-and-multi-access-edge-computing)
 
 * [What is the telco core network? | Ubuntu](https://ubuntu.com//blog/what-is-the-telco-core-network)
 
@@ -202,6 +208,8 @@
 * [Patterns to achieve database High Availability | Ubuntu](https://ubuntu.com//blog/database-high-availability)
 
 ## LINUX UBUNTU & DATA SCIENCE
+
+* [Introducing Data Science Stack: set up an ML environment with 3 commands on Ubuntu | Ubuntu](https://ubuntu.com//blog/data-science-stack-release)
 
 * [Hacker’s guide to the Raspberry Pi AI kit on Ubuntu](https://ubuntu.com//blog/hackers-guide-to-the-raspberry-pi-ai-kit-on-ubuntu)
 

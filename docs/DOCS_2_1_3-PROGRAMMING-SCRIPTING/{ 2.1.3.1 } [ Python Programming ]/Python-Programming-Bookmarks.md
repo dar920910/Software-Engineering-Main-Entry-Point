@@ -566,13 +566,27 @@
 
 ## Python - Полезные статьи для изучения
 
-* [What Is the __pycache__ Folder in Python? | (realpython.com)](https://realpython.com/python-pycache/)
+* [Understanding help() in Python - Python Morsels](https://www.pythonmorsels.com/understanding-help/)
 
-* [What Are CRUD Operations? | (realpython.com)](https://realpython.com/crud-operations/)
+* [Layman's Guide to Python Built-in Functions · Matt Layman](https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions/)
+
+* [Arithmetic in Python - Python Morsels](https://www.pythonmorsels.com/arithmetic-in-python/)
 
 * [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
 
 * [Logging in Python – Real Python](https://realpython.com/python-logging/)
+
+### Python: Экосистема, инфраструктура, окружение
+
+* [How to Install Python on Your System: A Guide – Real Python](https://realpython.com/installing-python/)
+
+* [Advanced Python import Techniques – Real Python](https://realpython.com/courses/advanced-import-techniques/)
+
+* [What Is the __pycache__ Folder in Python? | (realpython.com)](https://realpython.com/python-pycache/)
+
+* [Python Virtual Environments: A Primer – Real Python](https://realpython.com/python-virtual-environments-a-primer/)
+
+* [Production-ready Python Docker Containers with uv](https://hynek.me/articles/docker-uv/)
 
 ### Python: Объектно-ориентированное программирование
 

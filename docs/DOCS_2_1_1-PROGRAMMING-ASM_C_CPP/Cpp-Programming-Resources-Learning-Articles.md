@@ -6,6 +6,8 @@
 
 ### MSVC
 
+* [MSVC Backend Updates in Visual Studio 2022 version 17.11 - C++ Team Blog](https://devblogs.microsoft.com/cppblog/msvc-backend-updates-in-visual-studio-2022-version-17-11/)
+
 * [MSVC Backend Updates in Visual Studio 2022 version 17.10](https://devblogs.microsoft.com/cppblog/msvc-backend-updates-in-visual-studio-2022-version-17-10/)
 
 * [MSVC Backend Updates since Visual Studio 2022 version 17.3](https://devblogs.microsoft.com/cppblog/msvc-backend-updates-since-visual-studio-2022-version-17-3/)
@@ -42,6 +44,8 @@
 
 #### C++ Modules
 
+* [Announcing the Proxy 3 Library for Dynamic Polymorphism - C++ Team Blog](https://devblogs.microsoft.com/cppblog/announcing-the-proxy-3-library-for-dynamic-polymorphism/)
+
 * [Open Sourcing IFC SDK for C++ Modules - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/open-sourcing-ifc-sdk-for-cpp-modules/)
 
 * [C++ Modules in CMake with Visual Studio - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/cpp20-modules-in-cmake-with-vs/)
@@ -64,6 +68,8 @@
 
 #### Code Analysis
 
+* [Prevent Critical Bugs with MSVC Code Analysis - C++ Team Blog](https://devblogs.microsoft.com/cppblog/prevent-critical-bugs-with-msvc-code-analysis/)
+
 * [Open-Source Tools for C++ Static Analysis](https://www.ics.com/blog/open-source-tools-c-static-analysis)
 
 * [Structured Diagnostics in the New Problem Details Window - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/structured-diagnostics-in-the-new-problem-details-window/)
@@ -84,6 +90,8 @@
 
 #### VCPKG СТАТЬИ
 
+* [Askia, an Ipsos company, achieved faster, reproducible builds with vcpkg - C++ Team Blog](https://devblogs.microsoft.com/cppblog/askia-an-ipsos-company-achieved-faster-reproducible-builds-with-vcpkg/)
+
 * [Debug vcpkg portfiles in CMake script mode with Visual Studio Code](https://devblogs.microsoft.com/cppblog/debug-vcpkg-portfiles-in-cmake-script-mode-with-visual-studio-code/)
 
 * [vcpkg Documentation Moves to Microsoft Docs Platform - C++ Team Blog](https://devblogs.microsoft.com/cppblog/vcpkg-documentation-moves-to-microsoft-docs-platform/)
@@ -99,6 +107,8 @@
 * [Bootstrap your dev environment with vcpkg artifacts - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/vcpkg-artifacts/)
 
 #### VCPKG АНОНСЫ
+
+* [What’s New in vcpkg (August 2024) - C++ Team Blog](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-august-2024/)
 
 * [What’s New in vcpkg (July 2024)](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-july-2024/)
 
@@ -139,6 +149,16 @@
 * [vcpkg is Now Included with Visual Studio - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/vcpkg-is-now-included-with-visual-studio/)
 
 #### Улучшения Visual Studio для C++ разработчиков
+
+* [Next-Gen Code Coverage in Visual Studio: Enhanced C++ Support and Security - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/next-gen-code-coverage-in-visual-studio-enhanced-c-support-and-security/)
+
+* [C++ Debugging with AI-Generated breakpoint expressions](https://devblogs.microsoft.com/visualstudio/supercharge-c-debugging-with-ai-generated-breakpoint-expressions/)
+
+* [C++ Gaming Productivity Update for Visual Studio 2022 version 17.11 - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/c-gaming-productivity-update-for-visual-studio-2022-version-17-11/)
+
+* [What’s New in Visual Studio Build Insights 17.12 - C++ Team Blog](https://devblogs.microsoft.com/cppblog/build-insights-17-12/)
+
+* [Fix C++ warnings and errors with Copilot: Introducing AI-Assisted Code Fixes in Visual Studio - C++ Team Blog](https://devblogs.microsoft.com/cppblog/fix-c-warnings-and-errors-with-copilot-introducing-ai-assisted-code-fixes-in-visual-studio/)
 
 * [New C++ features in Visual Studio v17.11 - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/new-c-features-in-visual-studio-v17-11/)
 
