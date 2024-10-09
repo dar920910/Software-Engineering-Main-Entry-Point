@@ -126,18 +126,6 @@
 
 ## Инструментарий - Автоматизация Тестирования для Веб-Браузеров
 
-### Selenium
-
-* [Selenium — Википедия](https://ru.wikipedia.org/wiki/Selenium)
-
-* [SeleniumHQ Browser Automation](https://www.selenium.dev/)
-
-* [Selenium · GitHub](https://github.com/SeleniumHQ)
-
-* [Selenoid - A cross browser Selenium solution for Docker](https://aerokube.com/selenoid/latest/)
-
-* [GitHub - aerokube/selenoid: Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.](https://github.com/aerokube/selenoid)
-
 ### BrowserStack
 
 * [Most Reliable App & Cross Browser Testing Platform | BrowserStack](https://www.browserstack.com/)
