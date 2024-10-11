@@ -16,6 +16,16 @@
 
 - [Ruby Releases | www.ruby-lang.org](https://www.ruby-lang.org/en/downloads/releases/)
 - [Ruby Recent News | www.ruby-lang.org](https://www.ruby-lang.org/en/news/)
+- [RubyFlow](https://rubyflow.com/)
+- [Ruby Weekly](https://rubyweekly.com/)
+
+---
+
+## Ruby Documentation
+
+- [Documentation | www.ruby-lang.org](https://www.ruby-lang.org/en/documentation/)
+- [Ruby-Doc.org: Documenting the Ruby Language](https://ruby-doc.org/)
+- [RDoc Documentation](https://ruby-doc.org/3.3.5/)
 
 ---
 
@@ -38,7 +48,14 @@
 
 ## Ruby Frameworks
 
+### Ruby on Rails
+
 - [Ruby on Rails — A web-app framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.](https://rubyonrails.org/)
+- [rails/rails: Ruby on Rails](https://github.com/rails/rails)
+- [Ruby on Rails API](https://api.rubyonrails.org/)
+- [Ruby on Rails Guides](https://guides.rubyonrails.org/)
+- [Getting Started with Rails — Ruby on Rails Guides](https://guides.rubyonrails.org/getting_started.html)
+- [Ruby on Rails Tutorial | Learn Enough to Be Dangerous](https://www.railstutorial.org/book)
 
 ---
 
@@ -53,5 +70,23 @@
 
 - [RuboCop Headquarters | github.com](https://github.com/rubocop)
 - [Ruby Style Guide](https://rubystyle.guide/)
+
+---
+
+## Ruby Learning Resources
+
+- [TryRuby: Learn programming with Ruby](https://try.ruby-lang.org/)
+- [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
+- [Learn Ruby with the Edgecase Ruby Koans](https://www.rubykoans.com/)
+- [Ruby Tutorial - Learn Ruby](https://rubylearning.github.io/)
+- [RubyTapas](https://www.rubytapas.com/)
+
+---
+
+## Ruby Community
+
+- [Community | www.ruby-lang.org](https://www.ruby-lang.org/en/community/)
+- [Ruby-Forum](https://www.ruby-forum.com/)
+- [reddit for rubyists](https://www.reddit.com/r/ruby/)
 
 ---
