@@ -33,6 +33,20 @@
 
 - [Download Ruby | www.ruby-lang.org](https://www.ruby-lang.org/en/downloads/)
 
+---
+
+## Alternative Ruby Implementations
+
+## JRuby
+
+- [Home — JRuby.org](https://www.jruby.org/)
+
+## IronRuby
+
+- [IronRuby.net](http://ironruby.net/)
+
+---
+
 ### RubyInstaller for Windows
 
 - [RubyInstaller for Windows | rubyinstaller.org](https://rubyinstaller.org/)
@@ -56,6 +70,8 @@
 - [Ruby on Rails Guides](https://guides.rubyonrails.org/)
 - [Getting Started with Rails — Ruby on Rails Guides](https://guides.rubyonrails.org/getting_started.html)
 - [Ruby on Rails Tutorial | Learn Enough to Be Dangerous](https://www.railstutorial.org/book)
+- [Ruby on Rails community forums | GoRails](https://gorails.com/forum)
+- [37signals](https://37signals.com/)
 
 ---
 
@@ -86,6 +102,7 @@
 ## Ruby Community
 
 - [Community | www.ruby-lang.org](https://www.ruby-lang.org/en/community/)
+- [Mailing Lists | www.ruby-lang.org](https://www.ruby-lang.org/en/community/mailing-lists/)
 - [Ruby-Forum](https://www.ruby-forum.com/)
 - [reddit for rubyists](https://www.reddit.com/r/ruby/)
 
