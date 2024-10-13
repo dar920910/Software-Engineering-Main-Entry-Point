@@ -204,17 +204,11 @@
 
 #### Инструментарий Data Science
 
-* [Jupyter Notebook: галерея лучших блокнотов по ML и Data Science (proglib.io)](https://proglib.io/p/jupyter-notebook-best)
-
 * [Как повысить продуктивность при анализе данных? 25 неочевидных инструментов (proglib.io)](https://proglib.io/p/kak-povysit-produktivnost-pri-analize-dannyh-25-neochevidnyh-instrumentov-2020-01-16)
 
 * [pandas - Python Data Analysis Library (pydata.org)](https://pandas.pydata.org/)
 
 * [Anaconda | The World's Most Popular Data Science Platform](https://www.anaconda.com/)
-
-* [Project Jupyter | Home](https://jupyter.org/)
-
-* [JupyterLab и Jupyter Notebook — мощные инструменты Data Science (proglib.io)](https://proglib.io/p/jupyter)
 
 * [Лучшие инструменты визуализации данных | Techrocks](https://techrocks.ru/2018/11/08/best-data-visualization-and-web-reporting-tools/)
 
@@ -223,5 +217,27 @@
 * [Introducing Cloud Inference API: uncover insights from large scale, typed time-series data | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-inference-api-uncover-insights-from-large-scale-typed-time-series-data)
 
 * [About: The Data Visualisation Catalogue (datavizcatalogue.com)](https://datavizcatalogue.com/about.html)
+
+---
+
+### Jupiter Notebook
+
+* [Jupyter Notebook: галерея лучших блокнотов по ML и Data Science (proglib.io)](https://proglib.io/p/jupyter-notebook-best)
+
+* [Project Jupyter | Home](https://jupyter.org/)
+
+* [JupyterLab и Jupyter Notebook — мощные инструменты Data Science (proglib.io)](https://proglib.io/p/jupyter)
+
+* [What is Jupyter? – O’Reilly](https://www.oreilly.com/radar/what-is-jupyter/)
+
+---
+
+## Когнитивные Вычисления - Полезные Статьи
+
+* [Cognitive computing - Wikipedia](https://en.wikipedia.org/wiki/Cognitive_computing)
+
+* [What is Cognitive Computing? | TechTarget](https://www.techtarget.com/searchenterpriseai/definition/cognitive-computing)
+
+* [What Everyone Should Know About Cognitive Computing](https://www.forbes.com/sites/bernardmarr/2016/03/23/what-everyone-should-know-about-cognitive-computing/)
 
 ---
