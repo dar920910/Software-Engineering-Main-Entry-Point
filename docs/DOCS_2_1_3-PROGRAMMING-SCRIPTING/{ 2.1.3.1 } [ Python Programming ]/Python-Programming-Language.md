@@ -345,6 +345,9 @@
 
 ### 1.x
 
+- [Python 1.6 Documentation - September 18, 2000](https://docs.python.org/release/1.6/)
+- [What's new in Python 1.5 and beyond | Python.org](https://www.python.org/download/releases/1.5/whatsnew/)
+
 - [Python 1.6.1 | Python.org](https://www.python.org/download/releases/1.6.1/)
 - [Python 1.5.2 | Python.org](https://www.python.org/download/releases/1.5/)
 - [Index of /download/releases/binaries-1.5 (python.org)](https://legacy.python.org/download/releases/binaries-1.5/)

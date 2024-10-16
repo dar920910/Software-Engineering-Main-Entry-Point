@@ -56,6 +56,8 @@
 
 - [Effective Python › The Book: Third Edition](https://effectivepython.com/)
 
+- [The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
+
 - [Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
 
 - [Stupid Python Ideas](http://stupidpythonideas.blogspot.com/)
@@ -352,9 +354,21 @@
 
 - [pep8 · PyPI](https://pypi.org/project/pep8/)
 
+- [PEP 7 – Style Guide for C Code | peps.python.org](https://peps.python.org/pep-0007/)
+
+- [GNU Mailman Coding Style Guide | 2002-2019 Barry Warsaw](https://barry.warsaw.us/software/STYLEGUIDE.txt)
+
+- [amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.](https://github.com/amontalenti/elements-of-python-style/tree/master)
+
+- []()
+
 ### Python - Code Documenting
 
 - [PEP 257 – Docstring Conventions | peps.python.org](https://peps.python.org/pep-0257/)
+
+### Python - Imports
+
+- [PEP 328 – Imports: Multi-Line and Absolute/Relative | peps.python.org](https://peps.python.org/pep-0328/)
 
 ---
 
@@ -415,6 +429,10 @@
 - [PEP 438 – Transitioning to release-file hosting on PyPI | peps.python.org](https://peps.python.org/pep-0438/)
 
 - [Python Packaging Authority — PyPA documentation](https://www.pypa.io/en/latest/)
+
+- [CheeseShop - Python Wiki](https://wiki.python.org/moin/CheeseShop)
+
+- [pypi/warehouse: The Python Package Index](https://github.com/pypi/warehouse)
 
 ### Anaconda Packages
 
