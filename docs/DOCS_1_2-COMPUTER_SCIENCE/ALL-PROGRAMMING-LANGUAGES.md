@@ -96,6 +96,14 @@ VBScript — Википедия (wikipedia.org)
 Turbo Basic — Википедия (wikipedia.org)
 Small Basic (smallbasic-publicwebsite.azurewebsites.net)
 
+## Tcl
+
+* [Tcl Developer Site | (tcl.tk)](http://www.tcl.tk/) + [Tcl Developer Site | (tcl.tk)](https://www.tcl-lang.org/)
+
+* [Tcl - Wikipedia](https://en.wikipedia.org/wiki/Tcl)
+
+* [Выпуск языка программирования Tcl 9.0](https://www.opennet.ru/opennews/art.shtml?num=61944)
+
 ---
 
 ## ОСТАЛЬНЫЕ ЯЗЫКИ ПРОГРАММИРОВАНИЯ
@@ -104,7 +112,7 @@ Haxe — Википедия (wikipedia.org)
 Nim — Википедия (wikipedia.org)
 Vala — Википедия (wikipedia.org)
 D (язык программирования) — Википедия (wikipedia.org)
-Tcl — Википедия (wikipedia.org)
+
 AWK — Википедия (wikipedia.org)
 Оберон (язык программирования) — Википедия (wikipedia.org)
 Компонентный Паскаль — Википедия (wikipedia.org)

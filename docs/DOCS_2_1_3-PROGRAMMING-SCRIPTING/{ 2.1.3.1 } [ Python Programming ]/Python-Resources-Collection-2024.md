@@ -496,6 +496,12 @@
 
 - [conda-forge/miniforge: A conda-forge distribution.](https://github.com/conda-forge/miniforge)
 
+### uv
+
+- [uv · PyPI](https://pypi.org/project/uv/)
+
+- [uv](https://docs.astral.sh/uv/)
+
 ---
 
 ## Python - Виртуальные среды и инструменты изоляции
@@ -682,6 +688,10 @@
 
 - [HDF5 for Python](http://www.h5py.org/)
 
+### Валидация данных с помощью Python
+
+- [Pydantic: Simplifying Data Validation in Python – Real Python](https://realpython.com/python-pydantic/)
+
 ---
 
 ## Python - Разработка интерфейсов командной строки (CLI)
@@ -711,6 +721,10 @@
 - [Introduction — Rich 13.6.0 documentation](https://rich.readthedocs.io/en/stable/introduction.html)
 
 - [Textualize/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.](https://github.com/Textualize/rich)
+
+### Примеры проектов приложений CLI на Python
+
+- [Build a Contact Book App With Python, Textual, and SQLite – Real Python](https://realpython.com/contact-book-python-textual/)
 
 ---
 
@@ -767,6 +781,12 @@
 - [mhammond/pywin32: Python for Windows (pywin32) Extensions](https://github.com/mhammond/pywin32)
 
 - [pywin32 · PyPI](https://pypi.org/project/pywin32/)
+
+### PySimpleGUI
+
+- [PySimpleGUI](https://www.pysimplegui.com/)
+
+- [PySimpleGUI/PySimpleGUI: Python GUIs for Humans!](https://github.com/PySimpleGUI/PySimpleGUI)
 
 ---
 
@@ -840,7 +860,11 @@ PyPDF
 
 ### Python - Сетевое программирование
 
-zenoss
+#### Python: Работа с SSH
+
+[SSH Scripting with Fabric and Python - Mouse Vs Python](https://www.blog.pythonlibrary.org/2024/10/16/ssh-scripting-with-fabric-and-python/)
+[Welcome to Fabric! — Fabric documentation](https://www.fabfile.org/)
+[Welcome to Paramiko! — Paramiko documentation](https://www.paramiko.org/)
 
 ### Python - Электронные таблицы
 

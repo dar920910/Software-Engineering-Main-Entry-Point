@@ -28,6 +28,8 @@
 
 ## Изучение JavaScript - Полезные Статьи
 
+* [JavaScript Best Practices | The WebStorm Blog](https://blog.jetbrains.com/webstorm/2024/10/javascript-best-practices-2024/)
+
 * [How to Learn JavaScript: Your Step-by-Step Guide for Beginners](https://blog.jetbrains.com/webstorm/2024/07/how-to-learn-javascript/)
 
 ---

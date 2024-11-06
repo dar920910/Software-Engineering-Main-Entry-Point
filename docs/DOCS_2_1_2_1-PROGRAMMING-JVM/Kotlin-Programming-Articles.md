@@ -6,6 +6,16 @@
 
 ### ИНТЕРЕСНЫЕ СТАТЬИ
 
+* [Amper Update November 2024 – Project File Tooling, Compose Resources, KSP2, and Android Release Builds | The Amper Blog](https://blog.jetbrains.com/amper/2024/11/amper-update-november-2024/)
+
+* [Ktor 3.0 Is Now Available With New Features and Improved Performance | The Kotlin Blog](https://blog.jetbrains.com/kotlin/2024/10/ktor-3-0/)
+
+* [Kodee’s Kotlin Roundup: Exciting News + Special Announcement! | The Kotlin Blog](https://blog.jetbrains.com/kotlin/2024/10/kodee-s-kotlin-roundup-exciting-news-special-announcement/)
+
+* [Compose Multiplatform 1.7.0 Released | The Kotlin Blog](https://blog.jetbrains.com/kotlin/2024/10/compose-multiplatform-1-7-0-released/)
+
+* [The Evolution of the Kotlin Language and How You Can Contribute | The Kotlin Blog](https://blog.jetbrains.com/kotlin/2024/10/the-evolution-of-the-kotlin-language-and-how-emyou-em-can-contribute/)
+
 * [Live Stream: How to Migrate Your Kotlin Plugin to K2 Mode | The JetBrains Platform Blog](https://blog.jetbrains.com/platform/2024/09/live-stream-how-to-migrate-your-kotlin-plugin-to-k2-mode/)
 
 * [Ktor 101: Efficient JVM HTTP Toolkit | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/09/ktor-101-efficient-jvm-http-toolkit/)

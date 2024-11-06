@@ -38,6 +38,10 @@
 
 ## NuGet Learning Resources
 
+* [OpenSSF Scorecard for .NET and the NuGet ecosystem - The NuGet Blog](https://devblogs.microsoft.com/nuget/openssf-scorecard-for-net-nuget/)
+
+* [.NET Upgrade Assistant Now Supports Upgrading to Centralized Package Management - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-upgrade-assistant-cpm-upgrade/)
+
 * [NuGetAudit 2.0: Elevating Security and Trust in Package Management - The NuGet Blog](https://devblogs.microsoft.com/nuget/nugetaudit-2-0-elevating-security-and-trust-in-package-management/)
 
 * [Building a Safer Future - How NuGet is Tackling Software Supply Chain Threats - The NuGet Blog](https://devblogs.microsoft.com/nuget/building-a-safer-future-how-nuget-is-tackling-software-supply-chain-threats/)

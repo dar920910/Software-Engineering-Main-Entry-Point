@@ -60,6 +60,8 @@
 
 ### Windows Terminal - Полезные статьи для чтения
 
+* [GitHub Copilot in Windows Terminal - Windows Command Line](https://devblogs.microsoft.com/commandline/github-copilot-in-windows-terminal/)
+
 * [Building Windows Terminal with WinUI - Windows Command Line (microsoft.com)](https://devblogs.microsoft.com/commandline/building-windows-terminal-with-winui/)
 
 * [Windows Terminal Tips and Tricks - Windows Command Line (microsoft.com)](https://devblogs.microsoft.com/commandline/windows-terminal-tips-and-tricks/)

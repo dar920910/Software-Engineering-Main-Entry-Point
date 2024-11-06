@@ -108,6 +108,8 @@
 
 #### VCPKG АНОНСЫ
 
+* [What’s New in vcpkg (September 2024) - C++ Team Blog](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-september-2024/)
+
 * [What’s New in vcpkg (August 2024) - C++ Team Blog](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-august-2024/)
 
 * [What’s New in vcpkg (July 2024)](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-july-2024/)
@@ -149,6 +151,26 @@
 * [vcpkg is Now Included with Visual Studio - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/vcpkg-is-now-included-with-visual-studio/)
 
 #### Улучшения Visual Studio для C++ разработчиков
+
+* [Analyzing the Performance of the "Proxy" Library - C++ Team Blog](https://devblogs.microsoft.com/cppblog/analyzing-the-performance-of-the-proxy-library/)
+
+* [Enhanced Breakpoint Expressions for C++ Debugging in Visual Studio - C++ Team Blog](https://devblogs.microsoft.com/cppblog/enhanced-breakpoint-expressions-for-c-debugging-in-visual-studio/)
+
+* [New Contextual Tools for GitHub Copilot in Visual Studio - C++ Team Blog](https://devblogs.microsoft.com/cppblog/new-contextual-tools-for-github-copilot-in-visual-studio/)
+
+* [Configure GitHub Copilot Access via Content Exclusion - C++ Team Blog](https://devblogs.microsoft.com/cppblog/configure-github-copilot-access-via-content-exclusion/)
+
+* [Latest enhancements to Copilot workflows in Visual Studio: Move seamlessly from Copilot in Quick Info and more… - C++ Team Blog](https://devblogs.microsoft.com/cppblog/latest-enhancements-to-copilot-workflows-in-visual-studio-move-seamlessly-from-copilot-in-quick-info-and-more/)
+
+* [Unreal Engine Toolbar in Visual Studio - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/unreal-engine-toolbar-in-visual-studio/)
+
+* [Create Unreal Engine modules faster - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/create-unreal-engine-modules-faster/)
+
+* [Easily add Unreal Engine classes to your C++ project - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/easily-add-unreal-engine-classes-to-your-c-project/)
+
+* [Debug CMake Scripts on Linux with Visual Studio - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/debug-cmake-scripts-on-linux-with-visual-studio/)
+
+* [Accelerate C++ Debugging with Enhanced Conditional Breakpoints - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/accelerate-c-debugging-with-enhanced-conditional-breakpoints/)
 
 * [Next-Gen Code Coverage in Visual Studio: Enhanced C++ Support and Security - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/next-gen-code-coverage-in-visual-studio-enhanced-c-support-and-security/)
 

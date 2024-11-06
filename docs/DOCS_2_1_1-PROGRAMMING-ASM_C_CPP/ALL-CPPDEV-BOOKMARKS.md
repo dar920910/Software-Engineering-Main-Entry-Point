@@ -192,6 +192,10 @@
 
 * [facebook/igl: Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).](https://github.com/facebook/igl/)
 
+## Computational Geometry
+
+* [The Computational Geometry Algorithms Library](https://www.cgal.org/)
+
 ---
 
 ## ЭКОСИСТЕМА и ИНСТРУМЕНТАРИЙ

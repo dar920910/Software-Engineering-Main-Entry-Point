@@ -10,6 +10,8 @@
 
 ### .NET 9
 
+* [What's new in System.Text.Json in .NET 9 - .NET Blog](https://devblogs.microsoft.com/dotnet/system-text-json-in-dotnet-9/)
+
 * [BinaryFormatter removed from .NET 9 - .NET Blog](https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/)
 
 * [Performance Improvements in .NET 9 - .NET Blog](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-9/)
@@ -17,6 +19,8 @@
 * [.NET Announcements and Updates from Microsoft Build 2024](https://devblogs.microsoft.com/dotnet/dotnet-build-2024-announcements/)
 
 ### .NET Aspire
+
+* [Catch the highlights from Azure Developers - .NET Aspire Day 2024! - .NET Blog](https://devblogs.microsoft.com/dotnet/azure-developers-dotnet-aspire-day-recap/)
 
 * [Getting started with testing and .NET Aspire - .NET Blog](https://devblogs.microsoft.com/dotnet/getting-started-with-testing-and-dotnet-aspire/)
 
@@ -314,8 +318,6 @@
 
 * [Regex Performance Improvements in .NET 5 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/regex-performance-improvements-in-net-5/)
 
-* [State of the Windows Forms Designer for .NET Applications - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/state-of-the-windows-forms-designer-for-net-applications/)
-
 * [CoreWCF 1.0 has been Released, WCF for .NET Core and .NET 5+ - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/corewcf-v1-released/)
 
 ### .NET Core - Полезные ресурсы для изучения
@@ -336,8 +338,6 @@
 
 * [Migrating a Sample WPF App to .NET Core 3 (Part 1) - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/migrating-a-sample-wpf-app-to-net-core-3-part-1/)
 
-* [Are your Windows Forms and WPF applications ready for .NET Core 3.0? - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/are-your-windows-forms-and-wpf-applications-ready-for-net-core-3-0/)
-
 * [Porting desktop apps to .NET Core - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/porting-desktop-apps-to-net-core/)
 
 * [Announcing the Windows Compatibility Pack for .NET Core - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-the-windows-compatibility-pack-for-net-core/)
@@ -353,6 +353,8 @@
 * [Introducing .NET Standard - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/introducing-net-standard/)
 
 ### .NET - Внутреннее устройство платформы (Интересное)
+
+* [Engineering the Scalable Vector Extension in .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/engineering-sve-in-dotnet/)
 
 * [Conversation about the .NET open source project - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/conversation-about-the-net-open-source-project/)
 
@@ -395,6 +397,8 @@
 * [Announcing Entity Framework Core 3.0 and Entity Framework 6.3 General Availability - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-ef-core-3-0-and-ef-6-3-general-availability/)
 
 * Полезные ресурсы для изучения EF Core
+
+* [MongoDB EF Core Provider: What's New? - .NET Blog](https://devblogs.microsoft.com/dotnet/mongodb-ef-core-provider-whats-new/)
 
 * [Trying out MongoDB with EF Core using Testcontainers - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/efcore-mongodb/)
 
@@ -446,8 +450,6 @@
 
 * [Custom deployment layout for Blazor WebAssembly apps - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/custom-deployment-layout-for-blazor-webassembly-apps/)
 
-* [Databinding with the OOP Windows Forms Designer - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/databinding-with-the-oop-windows-forms-designer/)
-
 * [Build client web assets for your Razor Class Library - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/build-client-web-assets-for-your-razor-class-library/)
 
 * [A Heavy Lift: Bringing Kestrel + YARP to Azure App Services (microsoft.com)](https://devblogs.microsoft.com/dotnet/bringing-kestrel-and-yarp-to-azure-app-services/)
@@ -471,6 +473,8 @@
 * [Announcing the .NET MAUI Community Toolkit v1.3 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-maui-community-toolkit-v13/)
 
 * Полезные статьи для изучения MAUI
+
+* [.NET MAUI Welcomes Syncfusion Open-source Contributions - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-maui-welcomes-syncfusion-open-source-contributions/)
 
 * [Android Asset Packs for .NET & .NET MAUI Android Apps - .NET Blog](https://devblogs.microsoft.com/dotnet/android-asset-packs-in-dotnet-android/)
 
@@ -515,8 +519,6 @@
 * [Drawing Elements on Maps with .NET MAUI - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/drawing-on-maps-with-dotnet-maui/)
 
 * [Speech Recognition in .NET MAUI with CommunityToolkit - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/speech-recognition-in-dotnet-maui-with-community-toolkit/)
-
-* [Using Command Binding in Windows Forms apps to go Cross-Platform - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/winforms-cross-platform-dotnet-maui-command-binding/)
 
 * Новости .NET Community Toolkit
 

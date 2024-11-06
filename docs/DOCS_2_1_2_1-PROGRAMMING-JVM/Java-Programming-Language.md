@@ -26,6 +26,8 @@
 
 ### Java 23 (2024/09)
 
+* [Inside Java September 2024: Welcome Java 23!](https://www.oracle.com/webfolder/dms/prod/docs/nsl400367060-gen-w-nl-rwnl1-nsl1-ev.html)
+
 * [The Arrival of Java 23 (oracle.com)](https://blogs.oracle.com/java/post/the-arrival-of-java-23)
 
 * [The Arrival of Java 23! – Inside.java](https://inside.java/2024/09/17/jdk-23-available/)
@@ -118,6 +120,10 @@
 ---
 
 ## Java Annotated Monthly (JetBrains Blog Posts)
+
+* [Java Annotated Monthly – November 2024 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/11/java-annotated-monthly-november-2024/)
+
+* [Java Annotated Monthly – October 2024 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/10/java-annotated-monthly-october-2024/)
 
 * [Java Annotated Monthly – September 2024 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/09/java-annotated-monthly-september-2024/)
 

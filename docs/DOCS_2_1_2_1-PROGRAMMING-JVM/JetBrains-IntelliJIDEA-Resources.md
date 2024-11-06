@@ -20,6 +20,8 @@
 
 #### IntelliJ IDEA 2024.2
 
+* [IntelliJ IDEA 2024.2.4 Is Out | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/10/intellij-idea-2024-2-4/)
+
 * [IntelliJ IDEA 2024.2.3 Is Out | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/09/intellij-idea-2024-2-3/)
 
 * [IntelliJ IDEA 2024.2.2 Is Out | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/09/intellij-idea-2024-2-2/)
@@ -30,19 +32,21 @@
 
 #### IntelliJ IDEA 2024.1
 
-* [IntelliJ IDEA 2024.1.6 Is Out](https://blog.jetbrains.com/idea/2024/08/intellij-idea-2024-1-6/)
+* [IntelliJ IDEA 2024.1.7 Is Out | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/10/intellij-idea-2024-1-7/)
 
-* [IntelliJ IDEA 2024.1.5 is Out](https://blog.jetbrains.com/idea/2024/08/intellij-idea-2024-1-5/)
+* [IntelliJ IDEA 2024.1.6 Is Out | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/08/intellij-idea-2024-1-6/)
 
-* [IntelliJ IDEA 2024.1.4 Is Out!](https://blog.jetbrains.com/idea/2024/06/intellij-idea-2024-1-4/)
+* [IntelliJ IDEA 2024.1.5 is Out | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/08/intellij-idea-2024-1-5/)
 
-* [IntelliJ IDEA 2024.1.3 Is Out!](https://blog.jetbrains.com/idea/2024/06/intellij-idea-2024-1-3/)
+* [IntelliJ IDEA 2024.1.4 Is Out! | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/06/intellij-idea-2024-1-4/)
 
-* [IntelliJ IDEA 2024.1.2 Is Out!](https://blog.jetbrains.com/idea/2024/05/intellij-idea-2024-1-2/)
+* [IntelliJ IDEA 2024.1.3 Is Out! | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/06/intellij-idea-2024-1-3/)
 
-* [What’s New in IntelliJ IDEA Ultimate 2024.1](https://blog.jetbrains.com/idea/2024/05/what-s-new-in-intellij-idea-ultimate-2024-1/)
+* [IntelliJ IDEA 2024.1.2 Is Out! | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/05/intellij-idea-2024-1-2/)
 
-* [IntelliJ IDEA 2024.1.1 Is Out!](https://blog.jetbrains.com/idea/2024/04/intellij-idea-2024-1-1/)
+* [What’s New in IntelliJ IDEA Ultimate 2024.1 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/05/what-s-new-in-intellij-idea-ultimate-2024-1/)
+
+* [IntelliJ IDEA 2024.1.1 Is Out! | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/04/intellij-idea-2024-1-1/)
 
 * [IntelliJ IDEA 2024.1 Is Out! | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/04/intellij-idea-2024-1/)
 
@@ -53,6 +57,14 @@
 * [IntelliJ IDEA 2023.3 Is Out! | The IntelliJ IDEA Blog (jetbrains.com)](https://blog.jetbrains.com/idea/2023/12/intellij-idea-2023-3/)
 
 ### IntelliJ IDEA Blog
+
+
+
+* [Code Analysis for Your Projects With IntelliJ IDEA and Qodana | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/10/code-analysis-for-your-projects-with-intellij-idea-and-qodana/)
+
+* [How to Build a CRUD REST API Using Spring Boot | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/10/how-to-build-a-crud-rest-api-using-spring-boot/)
+
+* [Top 10 IntelliJ IDEA Shortcuts for Efficient Data Querying With the Database Tools | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/09/top-10-shortcuts-for-efficient-data-querying/)
 
 * [Introduction to Htmx for Spring Boot Developers | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/09/introduction-to-htmx-for-spring-boot-developers/)
 

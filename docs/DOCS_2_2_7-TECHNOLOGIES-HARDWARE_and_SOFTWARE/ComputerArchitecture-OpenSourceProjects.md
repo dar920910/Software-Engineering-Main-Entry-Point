@@ -12,6 +12,8 @@
 
 * [RISC-V Impact on Technology and Innovation](https://riscv.org/blog/2024/04/risc-v-impact-on-technology-and-innovation/)
 
+* [Software-defined processors: the promise of RISC-V – RISC-V International](https://riscv.org/news/2024/10/software-defined-processors-the-promise-of-risc-v/)
+
 * [Understanding RISC-V: The Open Standard Instruction Set Architecture (riscv.org)](https://riscv.org/news/2024/03/understanding-risc-v-the-open-standard-instruction-set-architecture-2/)
 
 * [What is RISC-V and Why Has it Become Important for Java? (riscv.org)](https://riscv.org/news/2024/03/what-is-risc-v-and-why-has-it-become-important-for-java/)

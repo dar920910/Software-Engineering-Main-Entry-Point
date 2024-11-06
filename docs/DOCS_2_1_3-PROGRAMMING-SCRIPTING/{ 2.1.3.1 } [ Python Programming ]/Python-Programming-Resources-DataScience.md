@@ -34,6 +34,8 @@
 
 * [Using Pandas to Read JSON from URL](https://www.marsja.se/pandas-read-json-from-url/)
 
+* [Data Exploration With pandas | The PyCharm Blog](https://blog.jetbrains.com/pycharm/2024/10/data-exploration-with-pandas/)
+
 ---
 
 ## Python: Machine Learning Libraries

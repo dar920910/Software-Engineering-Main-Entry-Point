@@ -36,6 +36,8 @@
 
 ## ML.NET - Официальные релизы
 
+* [Announcing the stable release of the official OpenAI library for .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/announcing-the-stable-release-of-the-official-open-ai-library-for-dotnet/)
+
 * [Announcing the official OpenAI library for .NET](https://devblogs.microsoft.com/dotnet/openai-dotnet-library/)
 
 * [Introducing ML.NET: Cross-platform, Proven and Open Source Machine Learning Framework - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/introducing-ml-net-cross-platform-proven-and-open-source-machine-learning-framework/)
@@ -53,6 +55,14 @@
 ---
 
 ## .NET for AI - Учебные ресурсы для чтения
+
+* [Unlocking the Power of GitHub Models in .NET with Semantic Kernel - .NET Blog](https://devblogs.microsoft.com/dotnet/github-ai-models-dotnet-semantic-kernel/)
+
+* [Introducing Microsoft.Extensions.VectorData Preview - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-vector-data/)
+
+* [eShop infused with AI - a comprehensive intelligent app sample - .NET Blog](https://devblogs.microsoft.com/dotnet/e-shop-infused-with-ai-comprehensive-intelligent-dotnet-app-sample/)
+
+* [Introducing Microsoft.Extensions.AI Preview - Unified AI Building Blocks for .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-ai-preview/)
 
 * [Join the .NET Smart Components ecosystem - .NET Blog](https://devblogs.microsoft.com/dotnet/join-the-dotnet-smart-components-ecosystem/)
 

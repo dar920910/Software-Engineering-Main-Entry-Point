@@ -16,6 +16,8 @@
 
 * [How to Write an Installable Django App | Real Python](https://realpython.com/installable-django-app/)
 
+
+
 ### Django: Database Access
 
 * [How to Connect Django With MongoDB | The PyCharm Blog](https://blog.jetbrains.com/pycharm/2024/01/how-to-connect-django-with-mongodb/)
@@ -47,6 +49,10 @@
 * [Tryton - Modularity, scalability & security for your business](https://www.tryton.org/)
 
 * [Primer on Jinja Templating – Real Python](https://realpython.com/primer-on-jinja-templating/)
+
+### Reflex
+
+* [Reflex · Web apps in Pure Python](https://reflex.dev/)
 
 ### TurboGears
 
@@ -80,11 +86,23 @@
 
 * [What Are CRUD Operations? – Real Python](https://realpython.com/crud-operations/)
 
+* [Imagination: The crudest CRUD of them all : the smallest CRUD possible in 150 lines of python](https://beauty-of-imagination.blogspot.com/2024/11/the-crudest-crud-of-them-all-smallest.html)
+
 ---
 
 ## Python for Web Scraping
 
 * [Web Scraping With Scrapy and MongoDB – Real Python](https://realpython.com/web-scraping-with-scrapy-and-mongodb/)
+
+* [Introduction to Web Scraping With Python – Real Python](https://realpython.com/courses/introduction-to-web-scraping-with-python/)
+
+* [Beautiful Soup: Build a Web Scraper With Python – Real Python](https://realpython.com/beautiful-soup-web-scraper-python/)
+
+---
+
+## Automation for Web Dev with Python
+
+* [How to Automate WordPress using Python](https://www.listendata.com/2024/10/how-to-automate-wordpress-using-python.html)
 
 ---
 

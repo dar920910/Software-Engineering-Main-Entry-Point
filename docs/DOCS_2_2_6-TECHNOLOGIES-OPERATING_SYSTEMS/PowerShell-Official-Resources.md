@@ -63,3 +63,11 @@
 * [Leveraging XML with New Employee PowerShell Scripts - PowerShell Community (microsoft.com)](https://devblogs.microsoft.com/powershell-community/leveraging-xml-with-new-employee-powershell-scripts/)
 
 ---
+
+## ВСПОМОГАТЕЛЬНЫЕ ИНСТРУМЕНТЫ
+
+### Microsoft.PowerShell.PlatyPS
+
+* [Announcing Microsoft.PowerShell.PlatyPS 1.0.0-Preview1 - PowerShell Team](https://devblogs.microsoft.com/powershell/announcing-platyps-100-preview1/)
+
+---

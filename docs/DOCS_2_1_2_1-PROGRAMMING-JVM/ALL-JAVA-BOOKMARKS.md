@@ -192,6 +192,16 @@
 
 * [Apache Ant — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/Apache_Ant) + [Apache Ant - Welcome](https://ant.apache.org/)
 
+## Декомпиляторы для Java
+
+* [JAD (software) - Wikipedia](https://en.wikipedia.org/wiki/JAD_(software))
+
+* [Java Optimize and Decompile Environment (JODE)](https://jode.sourceforge.io/)
+
+* [fesh0r/fernflower: Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)](https://github.com/fesh0r/fernflower)
+
+* [intellij-community/plugins/java-decompiler/engine at master · JetBrains/intellij-community](https://github.com/JetBrains/intellij-community/tree/master/plugins/java-decompiler/engine)
+
 ### Анализ качества кода для Java
 
 * [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)

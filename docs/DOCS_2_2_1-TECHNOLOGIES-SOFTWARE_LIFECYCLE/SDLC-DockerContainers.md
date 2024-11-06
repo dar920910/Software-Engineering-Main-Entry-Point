@@ -50,6 +50,8 @@
 
 #### 2024
 
+* [Docker Desktop 4.35: Organization Access Tokens, Docker Home, Volumes Export, and Terminal in Docker Desktop | Docker](https://www.docker.com/blog/docker-desktop-4-35/)
+
 * [Announcing Upgraded Docker Plans: Simpler, More Value, Better Development and Productivity | Docker](https://www.docker.com/blog/november-2024-updated-plans-announcement/)
 
 * [Docker Desktop 4.34: MSI Installer GA, Upgraded Host Networking, and Powerful Enhancements for Boosted Productivity & Administration | Docker](https://www.docker.com/blog/docker-desktop-4-34/)
@@ -59,6 +61,10 @@
 * [Docker Desktop 4.32: Beta Releases of Compose File Viewer, Terminal Shell Integration, and Volume Backups to Cloud Providers](https://www.docker.com/blog/docker-desktop-4-32/)
 
 ### Features - Docker & Docker Desktop
+
+* [Maximizing Docker Desktop: How Signing In Unlocks Advanced Features | Docker](https://www.docker.com/blog/maximizing-docker-desktop/)
+
+* [New Docker Terraform Provider: Automate, Secure, and Scale with Ease | Docker](https://www.docker.com/blog/docker-terraform-provider/)
 
 * [Streamlining Local Development with Dev Containers and Testcontainers Cloud | Docker](https://www.docker.com/blog/streamlining-local-development-with-dev-containers-and-testcontainers-cloud/)
 
@@ -70,6 +76,12 @@
 
 ### Using Docker - Best Practices
 
+* [How to Dockerize WordPress | Docker](https://www.docker.com/blog/how-to-dockerize-wordpress/)
+
+* [Docker Best Practices: Using ARG and ENV in Your Dockerfiles | Docker](https://www.docker.com/blog/docker-best-practices-using-arg-and-env-in-your-dockerfiles/)
+
+* [Docker Best Practices: Using Tags and Labels to Manage Docker Image Sprawl | Docker](https://www.docker.com/blog/docker-best-practices-using-tags-and-labels-to-manage-docker-image-sprawl/)
+
 * [10 Docker Myths Debunked | Docker](https://www.docker.com/blog/docker-myths-debunked/)
 
 * [Docker Best Practices: Understanding the Differences Between ADD and COPY Instructions in Dockerfiles](https://www.docker.com/blog/docker-best-practices-understanding-the-differences-between-add-and-copy-instructions-in-dockerfiles/)
@@ -79,6 +91,12 @@
 * [Docker Best Practices: Choosing Between RUN, CMD, and ENTRYPOINT](https://www.docker.com/blog/docker-best-practices-choosing-between-run-cmd-and-entrypoint/)
 
 ### Using Docker - AI & ML
+
+* [Using AI Tools to Convert a PDF into Images | Docker](https://www.docker.com/blog/using-ai-tools-to-convert-a-pdf-into-images/)
+
+* [Using Docker AI Tools for Devs to Provide Context for Better Code Fixes | Docker](https://www.docker.com/blog/using-docker-ai-tools-for-devs-to-provide-context-for-better-code-fixes/)
+
+* [Using an AI Assistant to Script Tools | Docker](https://www.docker.com/blog/using-an-ai-assistant-to-script-tools/)
 
 * [Using an AI Assistant to Read Tool Documentation | Docker](https://www.docker.com/blog/using-an-ai-assistant-to-read-tool-documentation/)
 
@@ -106,9 +124,31 @@
 
 * [A Quick Guide to Containerizing Llamafile with Docker for AI Applications](https://www.docker.com/blog/a-quick-guide-to-containerizing-llamafile-with-docker-for-ai-applications/)
 
+### Docker & DevOps
+
+* [Exploring Docker for DevOps: What It Is and How It Works | Docker](https://www.docker.com/blog/docker-for-devops/)
+
+* [How to Improve Your DevOps Automation | Docker](https://www.docker.com/blog/how-to-improve-your-devops-automation/)
+
 ### Docker & Security
 
 * [3 Ways CARIAD Configures Docker Business for Security and Compliance](https://www.docker.com/blog/3-ways-cariad-configures-docker-business-for-security-and-compliance/)
+
+---
+
+## Docker Tools
+
+### Testcontainers
+
+* [Model-Based Testing with Testcontainers and Jqwik | Docker](https://www.docker.com/blog/model-based-testing-testcontainers-jqwik/)
+
+* [Leveraging Testcontainers for Complex Integration Testing in Mattermost Plugins | Docker](https://www.docker.com/blog/leveraging-testcontainers-for-complex-integration-testing-in-mattermost-plugins/)
+
+* [Revolutionize Your CI/CD Pipeline: Integrating Testcontainers and Bazel | Docker](https://www.docker.com/blog/revolutionize-your-ci-cd-pipeline-integrating-testcontainers-and-bazel/)
+
+* [How to Use Testcontainers on Jenkins CI | Docker](https://www.docker.com/blog/how-to-use-testcontainers-on-jenkins-ci/)
+
+* [Docker whale-comes AtomicJar, maker of Testcontainers | Docker](https://www.docker.com/blog/docker-whale-comes-atomicjar-maker-of-testcontainers/)
 
 ---
 
@@ -150,15 +190,9 @@
 
 * [Filter Out Security Vulnerability False Positives with VEX | Docker](https://www.docker.com/blog/filter-out-security-vulnerability-false-positives-with-vex/)
 
-* [Revolutionize Your CI/CD Pipeline: Integrating Testcontainers and Bazel | Docker](https://www.docker.com/blog/revolutionize-your-ci-cd-pipeline-integrating-testcontainers-and-bazel/)
-
-* [How to Use Testcontainers on Jenkins CI | Docker](https://www.docker.com/blog/how-to-use-testcontainers-on-jenkins-ci/)
-
 * [8 Top Docker Tips & Tricks for 2024 | Docker](https://www.docker.com/blog/8-top-docker-tips-tricks-for-2024/)
 
 * [The Livecycle Docker Extension: Instantly Share Changes and Get Feedback in Context | Docker](https://www.docker.com/blog/livecycle-docker-extension/)
-
-* [Docker whale-comes AtomicJar, maker of Testcontainers | Docker](https://www.docker.com/blog/docker-whale-comes-atomicjar-maker-of-testcontainers/)
 
 * [Signing Docker Official Images Using OpenPubkey | Docker](https://www.docker.com/blog/signing-docker-official-images-using-openpubkey/)
 

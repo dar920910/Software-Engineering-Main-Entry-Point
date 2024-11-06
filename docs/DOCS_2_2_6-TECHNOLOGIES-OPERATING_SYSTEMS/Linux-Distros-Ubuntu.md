@@ -111,6 +111,8 @@
 
 ## LINUX UBUNTU & INTERNET of THINGS
 
+* [What is IoT device management? | Ubuntu](https://ubuntu.com//blog/what-is-iot-device-management)
+
 * [Managing software in complex network environments: the Snap Store Proxy](https://ubuntu.com//blog/managing-software-snap-store-proxy)
 
 * [Adopting open-source Industrial IoT software | Ubuntu](https://ubuntu.com//blog/adopting-open-source-industrial-iot)
@@ -188,6 +190,8 @@
 * [Cloud storage for enterprises | Ubuntu](https://ubuntu.com//blog/cloud-storage-for-enterprises)
 
 ## LINUX UBUNTU & DATABASE SYSTEMS
+
+* [What is a vector database? | Ubuntu](https://ubuntu.com//blog/what-is-a-vector-database)
 
 * [How do you select the best enterprise data storage solution for your business? | Ubuntu](https://ubuntu.com//blog/how-do-you-select-the-best-enterprise-data-storage-solution-for-your-business)
 

@@ -38,6 +38,10 @@
 
 ## Java Programming - Полезные Подборки Ресурсов
 
+* [Top Java Blogs to Follow in 2024 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/10/top-java-blogs-to-follow-in-2024-part-1/)
+
+* [Top Java Blogs for Experienced Programmers  | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/11/top-java-blogs-for-experienced-programmers/)
+
 * [iluwatar/java-design-patterns: Design patterns implemented in Java (github.com)](https://github.com/iluwatar/java-design-patterns)
 
 * [8 крутых Youtube-каналов, которые помогут изучить Java (proglib.io)](https://proglib.io/p/youtube-java)

@@ -1,8 +1,16 @@
 # .NET Development Environment: JetBrains Rider
 
+[WebStorm and Rider Are Now Free for Non-Commercial Use | The JetBrains Blog](https://blog.jetbrains.com/blog/2024/10/24/webstorm-and-rider-are-now-free-for-non-commercial-use/)
+
 ---
 
 ## .NET Programming with JetBrains Rider (The .NET Tools Blog)
+
+* [Automating Godot Game Builds With TeamCity | The TeamCity Blog](https://blog.jetbrains.com/teamcity/2024/10/automating-godot-game-builds-with-teamcity/)
+
+* [Support for SLNX Solution Files | The .NET Tools Blog](https://blog.jetbrains.com/dotnet/2024/10/04/support-for-slnx-solution-files/)
+
+* [Markdown-Powered Slides in JetBrains IDEs | The .NET Tools Blog](https://blog.jetbrains.com/dotnet/2024/10/01/markdown-powered-slides-in-jetbrains-ides/)
 
 * [Building a GraphQL Client in .NET with JetBrains Rider and StrawberryShake | The .NET Tools Blog](https://blog.jetbrains.com/dotnet/2024/09/17/building-a-graphql-client-in-net-with-jetbrains-rider-and-strawberryshake/)
 

@@ -20,6 +20,8 @@
 
 ### Анонсы для разработчиков
 
+* [Update on Recall security and privacy architecture | Windows Experience Blog](https://blogs.windows.com/windowsexperience/2024/09/27/update-on-recall-security-and-privacy-architecture/)
+
 * [What Windows 11 Means for Developers - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2021/06/24/what-windows-11-means-for-developers/)
 
 * [Developing for Windows 11 - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2021/10/04/developing-for-windows-11/)

@@ -2,7 +2,19 @@
 
 ---
 
+## Perl News
+
+* [What's New in Perl v5.40?](https://www.perl.com/article/what-is-new-in-perl/)
+
+---
+
 ## Perl and CPAN - 2024
+
+* [What's new on CPAN - September 2024](https://www.perl.com/article/what-s-new-on-cpan-september-2024/)
+
+* [What's new on CPAN - August 2024](https://www.perl.com/article/what-s-new-on-cpan-august-2024/)
+
+* [What's new on CPAN - July 2024](https://www.perl.com/article/what-s-new-on-cpan-july-2024/)
 
 * [What's new on CPAN - June 2024](https://www.perl.com/article/what-s-new-on-cpan-june-2024/)
 

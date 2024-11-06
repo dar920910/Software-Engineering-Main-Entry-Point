@@ -80,6 +80,8 @@
 
 ### Visual Studio - Улучшения производительности среды разработки
 
+* [Visual Studio 2022 - Recent performance enhancements  - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-recent-performance-enhancements/)
+
 * [Visual Studio 2022 – 17.10 Performance Enhancements](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-10-performance-enhancements/)
 
 * [Visual Studio Performance Highlights Delivered in 2023](https://devblogs.microsoft.com/visualstudio/visual-studio-performance-highlights-delivered-in-2023/)
@@ -131,6 +133,8 @@
 * [Improved doc management personalization - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/doc-management-personalization/)
 
 ### Visual Studio - Повседневные задачи разработчика
+
+* [Easier localization with the new resource (.resx) manager - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/easier-localization-with-the-new-resource-resx-manager/)
 
 * [Multi-Project Launch Configuration - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/multi-project-launch-configuration/)
 
@@ -213,6 +217,12 @@
 * [Too many tabs open? No problem! - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/too-many-tabs-open-no-problem/)
 
 ### Visual Studio - Отладка/тестирование/профилирование
+
+* [Improve your debugger game with editable expressions - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/improve-your-debugger-game-with-editable-expressions/)
+
+* [Discover Hidden Insights with Profiler's External Code Decompilation - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/discover-hidden-insights-with-profilers-external-code-decompilation/)
+
+* [Effortless Instrumentation profiling with Persistent Target Selection - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/effortless-instrumentation-profiling-with-persistent-target-selection/)
 
 * [Organize Your Breakpoints like a pro - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/organize-your-breakpoints-like-a-pro/)
 
@@ -302,6 +312,8 @@
 
 ### Visual Studio - Поддержка расширений
 
+* [The making of Bring Back Plus/Minus - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/the-making-of-bring-back-plus-minus/)
+
 * [VisualStudio.Extensibility 17.11: Settings and more Remote UI support - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-11-settings-and-more-remote-ui-support/)
 
 * [Sign VSIX packages with Sign CLI - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/sign-vsix-packages-with-sign-cli/)
@@ -329,6 +341,8 @@
 * [You can now use Microsoft Kiota within Visual Studio Code](https://devblogs.microsoft.com/microsoft365dev/you-can-now-use-microsoft-kiota-within-visual-studio-code/)
 
 ### Visual Studio - Функции искусственного интеллекта
+
+* [How we build GitHub Copilot into Visual Studio - .NET Blog](https://devblogs.microsoft.com/dotnet/building-github-copilot-into-visual-studio/)
 
 * [Incorporate GitHub Copilot into your daily flow - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/incorporate-github-copilot-into-your-daily-flow/)
 
