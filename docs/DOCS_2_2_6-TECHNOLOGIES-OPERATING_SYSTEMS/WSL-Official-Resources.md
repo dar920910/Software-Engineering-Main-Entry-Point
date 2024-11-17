@@ -47,3 +47,9 @@
 * [Systemd support is now available in WSL! - Windows Command Line (microsoft.com)](https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/)
 
 ---
+
+## Подборки ресурсов для изучения WSL
+
+* [sirredbeard/awesome-wsl: Awesome list dedicated to Windows Subsystem for Linux](https://github.com/sirredbeard/Awesome-WSL)
+
+---

@@ -169,6 +169,7 @@
 * [Azure Linux - Linux OS for Azure 1P services and edge appliances](https://github.com/microsoft/azurelinux/)
 * [Nitrux — #DisruptiveByDesign — Official Website](https://nxos.org/)
 * [MiniOS - Быстро. Просто. Надежно.](https://minios.dev/ru/)
+* [Openwall GNU/*/Linux (Owl) - a security-enhanced server platform](https://www.openwall.com/Owl/)
 
 ---
 

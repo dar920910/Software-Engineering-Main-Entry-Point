@@ -37,11 +37,41 @@
 
 * [Welcome to Common-Lisp.net!](https://common-lisp.net/)
 
+##### SBCL
+
+* [Steel Bank Common Lisp - Wikipedia](https://en.wikipedia.org/wiki/Steel_Bank_Common_Lisp)
+
+* [About - Steel Bank Common Lisp](https://www.sbcl.org/)
+
+##### GCL
+
+* [GNU Common Lisp - Wikipedia](https://en.wikipedia.org/wiki/GNU_Common_Lisp)
+
+* [GCL - GNU Common Lisp](https://www.gnu.org/software/gcl/)
+
+##### ECL
+
+* [Embeddable Common Lisp - Wikipedia](https://en.wikipedia.org/wiki/Embeddable_Common_Lisp)
+
+* [Embeddable Common-Lisp](https://ecl.common-lisp.dev/)
+
+#### Other Lisp Dialects
+
+* [Emacs Lisp - Wikipedia](https://en.wikipedia.org/wiki/Emacs_Lisp)
+
+* [AutoLISP - Wikipedia](https://en.wikipedia.org/wiki/AutoLISP)
+
 #### Scheme
 
 * [Scheme (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Scheme_(programming_language))
 
 * [The Scheme Programming Language](https://www.scheme.org/)
+
+#### Chicken
+
+* [Chicken (Scheme implementation) - Wikipedia](https://en.wikipedia.org/wiki/Chicken_(Scheme_implementation))
+
+* [CHICKEN Scheme](https://www.call-cc.org/)
 
 #### Racket
 
@@ -60,6 +90,36 @@
 * [Haskell - Wikipedia](https://en.wikipedia.org/wiki/Haskell)
 
 * [Haskell Language](https://www.haskell.org/)
+
+### Hope
+
+* [Hope (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Hope_(programming_language))
+
+* [The functional programming language Hope](https://web.archive.org/web/20071112091217/http://www.soi.city.ac.uk/~ross/Hope/)
+
+### Erlang
+
+* [Erlang (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Erlang_(programming_language))
+
+* [Index - Erlang/OTP](https://www.erlang.org/)
+
+---
+
+## Декларативные и логические ЯП
+
+### Prolog
+
+* [Prolog - Wikipedia](https://en.wikipedia.org/wiki/Prolog)
+
+* [SWI-Prolog - Wikipedia](https://en.wikipedia.org/wiki/SWI-Prolog)
+
+* [SWI-Prolog](https://www.swi-prolog.org/)
+
+### Datalog
+
+* [Datalog - Wikipedia](https://en.wikipedia.org/wiki/Datalog)
+
+* [DATALOG-TEXT: Datalog Text Representation - Datalog Specifications](https://datalog-specs.info/)
 
 ---
 
@@ -98,11 +158,21 @@ Small Basic (smallbasic-publicwebsite.azurewebsites.net)
 
 ## Tcl
 
-* [Tcl Developer Site | (tcl.tk)](http://www.tcl.tk/) + [Tcl Developer Site | (tcl.tk)](https://www.tcl-lang.org/)
+* [Tcl Developer Site | (tcl.tk)](http://www.tcl.tk/) + [Tcl Developer Site | (tcl-lang.org)](https://www.tcl-lang.org/)
 
 * [Tcl - Wikipedia](https://en.wikipedia.org/wiki/Tcl)
 
+* [Tk (software) - Wikipedia](https://en.wikipedia.org/wiki/Tk_(software))
+
 * [Выпуск языка программирования Tcl 9.0](https://www.opennet.ru/opennews/art.shtml?num=61944)
+
+* [Ousterhout's dichotomy - Wikipedia](https://en.wikipedia.org/wiki/Ousterhout%27s_dichotomy)
+
+### Реализации Tcl
+
+* [Jim Tcl - The Jim Interpreter](https://jim.tcl.tk/index.html/doc/www/www/index.html)
+
+* [TinyTcl - Tcl for Embedded Applications - Home Page](https://tinytcl.sourceforge.net/)
 
 ---
 
@@ -126,7 +196,6 @@ CoffeeScript — Википедия (wikipedia.org)
 QML — Википедия (wikipedia.org)
 Ада (язык программирования) — Википедия (wikipedia.org)
 Elixir (язык программирования) — Википедия (wikipedia.org)
-Erlang — Википедия (wikipedia.org)
 Миранда (язык программирования) — Википедия (wikipedia.org)
 Euphoria (язык программирования) — Википедия (wikipedia.org)
 ABAP/4 — Википедия (wikipedia.org)

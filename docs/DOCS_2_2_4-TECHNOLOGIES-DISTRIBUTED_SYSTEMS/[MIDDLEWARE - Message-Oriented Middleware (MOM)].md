@@ -25,6 +25,9 @@
 
 * [Extensible Messaging and Presence Protocol (XMPP) - Wikipedia](https://en.wikipedia.org/wiki/XMPP)
 * [XMPP | The universal messaging standard (xmpp.org)](https://xmpp.org/)
+* [jabberd](https://jabberd2.org/)
+* [ejabberd XMPP Server with MQTT Broker & SIP Service](https://www.ejabberd.im/)
+* [ejabberd](https://www.process-one.net/ejabberd/)
 
 ### MQTT (Message Queuing Telemetry Transport)
 
