@@ -14,6 +14,10 @@
 
 ## Развитие ядра Linux (переводы новостей от opennet)
 
+* [Ядро Linux 6.12 отнесено к категории выпусков с длительным сроком поддержки](https://www.opennet.ru/opennews/art.shtml?num=62355)
+
+* [Релиз ядра Linux 6.12 с поддержкой Realtime-режима](https://www.opennet.ru/opennews/art.shtml?num=62243)
+
 * [Релиз ядра Linux 6.11 (opennet.ru)](https://www.opennet.ru/opennews/art.shtml?num=61869)
 
 * [Релиз ядра Linux 6.10 (opennet.ru)](https://www.opennet.ru/opennews/art.shtml?num=61521)

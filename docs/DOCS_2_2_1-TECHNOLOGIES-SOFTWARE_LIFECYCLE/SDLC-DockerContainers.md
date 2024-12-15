@@ -50,6 +50,8 @@
 
 #### 2024
 
+* [Docker Desktop 4.36: New Enterprise Administration Features, WSL 2, and ECI Enhancements](https://www.docker.com/blog/docker-desktop-4-36/)
+
 * [Docker Desktop 4.35: Organization Access Tokens, Docker Home, Volumes Export, and Terminal in Docker Desktop | Docker](https://www.docker.com/blog/docker-desktop-4-35/)
 
 * [Announcing Upgraded Docker Plans: Simpler, More Value, Better Development and Productivity | Docker](https://www.docker.com/blog/november-2024-updated-plans-announcement/)
@@ -61,6 +63,10 @@
 * [Docker Desktop 4.32: Beta Releases of Compose File Viewer, Terminal Shell Integration, and Volume Backups to Cloud Providers](https://www.docker.com/blog/docker-desktop-4-32/)
 
 ### Features - Docker & Docker Desktop
+
+* [What Are the Latest Docker Desktop Enterprise-Grade Performance Optimizations | Docker](https://www.docker.com/blog/what-are-the-latest-docker-desktop-enterprise-grade-performance-optimizations/)
+
+* [Learn How to Optimize Usage with New Docker Hub Dashboards | Docker](https://www.docker.com/blog/hubdashboards/)
 
 * [Maximizing Docker Desktop: How Signing In Unlocks Advanced Features | Docker](https://www.docker.com/blog/maximizing-docker-desktop/)
 
@@ -75,6 +81,14 @@
 * [Docker Scout Health Scores: Security Grading for Container Images in Your Docker Hub Repo](https://www.docker.com/blog/docker-scout-health-scores-security-grading-for-container-images/)
 
 ### Using Docker - Best Practices
+
+* [From Legacy to Cloud-Native: How Docker Simplifies Complexity and Boosts Developer Productivity | Docker](https://www.docker.com/blog/from-legacy-to-cloud-native-how-docker-simplifies-complexity-and-boosts-developer-productivity/)
+
+* [Top 4 Software Engineering Challenges | Docker](https://www.docker.com/blog/tackle-software-engineering-challenges-to-boost-efficiency/)
+
+* [Let’s Get Containerized: Simplifying Complexity for Modern Businesses | Docker](https://www.docker.com/blog/lets-get-containerized/)
+
+* [How to Dockerize a React App: A Step-by-Step Guide for Developers | Docker](https://www.docker.com/blog/how-to-dockerize-react-app/)
 
 * [How to Dockerize WordPress | Docker](https://www.docker.com/blog/how-to-dockerize-wordpress/)
 
@@ -91,6 +105,10 @@
 * [Docker Best Practices: Choosing Between RUN, CMD, and ENTRYPOINT](https://www.docker.com/blog/docker-best-practices-choosing-between-run-cmd-and-entrypoint/)
 
 ### Using Docker - AI & ML
+
+* [Extending the Interaction between AI Agents and Editors | Docker](https://www.docker.com/blog/extending-the-interaction-between-ai-agents-and-editors/)
+
+* [Accelerating AI Development with Docker’s AI Content Catalog | Docker](https://www.docker.com/blog/accelerating-ai-development-with-the-docker-ai-catalog/)
 
 * [Using AI Tools to Convert a PDF into Images | Docker](https://www.docker.com/blog/using-ai-tools-to-convert-a-pdf-into-images/)
 
@@ -126,11 +144,17 @@
 
 ### Docker & DevOps
 
+* [Beyond Containers: Unveiling the Full Potential of Docker for Cloud-Native Development | Docker](https://www.docker.com/blog/what-does-docker-do/)
+
 * [Exploring Docker for DevOps: What It Is and How It Works | Docker](https://www.docker.com/blog/docker-for-devops/)
 
 * [How to Improve Your DevOps Automation | Docker](https://www.docker.com/blog/how-to-improve-your-devops-automation/)
 
 ### Docker & Security
+
+* [Enhancing Container Security with Docker Scout and Secure Repositories | Docker](https://www.docker.com/blog/enhancing-container-security-with-docker-scout-and-secure-repositories/)
+
+* [Understanding the Difference Between Login Enforcement and SSO | Docker](https://www.docker.com/blog/sign-in-enforcement-and-sso/)
 
 * [3 Ways CARIAD Configures Docker Business for Security and Compliance](https://www.docker.com/blog/3-ways-cariad-configures-docker-business-for-security-and-compliance/)
 
@@ -139,6 +163,8 @@
 ## Docker Tools
 
 ### Testcontainers
+
+* [Why Testcontainers Cloud is a Game-Changer Compared to Docker-in-Docker for Testing Scenarios | Docker](https://www.docker.com/blog/testcontainers-cloud-vs-docker-in-docker-for-testing-scenarios/)
 
 * [Model-Based Testing with Testcontainers and Jqwik | Docker](https://www.docker.com/blog/model-based-testing-testcontainers-jqwik/)
 

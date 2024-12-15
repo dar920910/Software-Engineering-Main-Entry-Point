@@ -4,6 +4,7 @@
 
 ## 2024
 
+* [Python in Visual Studio Code - December 2024 Release - Python](https://devblogs.microsoft.com/python/python-in-visual-studio-code-december-2024-release/)
 * [Python in Visual Studio Code - November 2024 Release - Python](https://devblogs.microsoft.com/python/python-in-visual-studio-code-november-2024-release/)
 * [Python in Visual Studio Code - October 2024 Release - Python](https://devblogs.microsoft.com/python/python-in-visual-studio-code-october-2024-release/)
 * [Python in Visual Studio Code - September 2024 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-september-2024-release/)

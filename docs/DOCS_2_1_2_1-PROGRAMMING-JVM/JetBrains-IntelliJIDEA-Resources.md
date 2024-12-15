@@ -18,7 +18,15 @@
 
 ### IntelliJ IDEA Releases
 
+#### IntelliJ IDEA 2024.3
+
+* [IntelliJ IDEA 2024.3.1 Is Out | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/12/intellij-idea-2024-3-1/)
+
+* [IntelliJ IDEA 2024.3 Is Out! | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/11/intellij-idea-2024-3/)
+
 #### IntelliJ IDEA 2024.2
+
+* [IntelliJ IDEA 2024.2.5 Is Out | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/11/intellij-idea-2024-2-5/)
 
 * [IntelliJ IDEA 2024.2.4 Is Out | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/10/intellij-idea-2024-2-4/)
 
@@ -58,7 +66,23 @@
 
 ### IntelliJ IDEA Blog
 
+* [Security Analysis by Qodana Plugin | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/12/security-analysis-plugin/)
 
+* [Declarative Gradle in IntelliJ IDEA  | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/11/declarative-gradle-in-intellij-idea/)
+
+* [Advanced Code Analysis in IntelliJ IDEA | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/11/advanced-code-analysis-in-intellij-idea/)
+
+* [From Code to Clarity With the Redesigned Structure Tool Window | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/11/from-code-to-clarity-with-the-redesigned-structure-tool-window/)
+
+* [Faster Time-to-Code in IntelliJ IDEA | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/11/faster-time-to-code-in-intellij-idea/)
+
+* [How to Use Flyway for Database Migrations in Spring Boot Applications | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/11/how-to-use-flyway-for-database-migrations-in-spring-boot-applications/)
+
+* [Getting Started With the JetBrains Bazel Plugin | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/12/getting-started-with-the-jetbrains-bazel-plugin/)
+
+* [From VDI to CDEs: Solving Remote Development Challenges | The JetBrains Blog](https://blog.jetbrains.com/codecanvas/2024/12/from-vdi-to-cdes-solving-remote-development-challenges/)
+
+* [Default Bundled Plugins in Fleet | The Fleet Blog](https://blog.jetbrains.com/fleet/2024/11/default-bundled-plugins-in-fleet/)
 
 * [Code Analysis for Your Projects With IntelliJ IDEA and Qodana | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/10/code-analysis-for-your-projects-with-intellij-idea-and-qodana/)
 

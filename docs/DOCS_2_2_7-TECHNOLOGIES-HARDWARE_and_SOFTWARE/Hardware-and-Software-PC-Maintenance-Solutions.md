@@ -40,7 +40,7 @@
 
 * [HHD Software: Hex Editor, Serial/USB/Network Sniffer, Virtual Serial Port Tools](https://www.hhdsoftware.com/)
 
-### Программы для диагностики HDD
+### Программы для диагностики HDD/SSD
 
 * [Memtest86+ | The Open-Source Memory Testing Tool](https://www.memtest.org/)
 
@@ -59,6 +59,12 @@
 * [Главная страница программы HDDlife](https://hddlife.ru/index.html)
 
 * [smartmontools](https://www.smartmontools.org/)
+
+#### GSmartControl
+
+* [GSmartControl · Hard disk drive and SSD health inspection tool](https://gsmartcontrol.shaduri.dev/)
+
+* [ashaduri/gsmartcontrol: GSmartControl - Hard disk drive and SSD health inspection tool](https://github.com/ashaduri/gsmartcontrol)
 
 ### Программы для работы с дисковыми накопителями
 

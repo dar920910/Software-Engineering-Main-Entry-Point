@@ -2,7 +2,9 @@
 
 ---
 
-## .NET 9 (STS)
+## :zap: .NET 9 (STS)
+
+* [Announcing .NET 9 - .NET Blog](https://devblogs.microsoft.com/dotnet/announcing-dotnet-9/)
 
 * [.NET 9 Release Candidate 2 is now available! - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-9-rc-2/)
 
@@ -18,11 +20,17 @@
 
 ---
 
-## :zap: .NET 8 (LTS)
+## :fire: .NET 8 (LTS)
 
 ### .NET 8 Official Release
 
 * [Announcing .NET 8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/)
+
+* [What's new in .NET 8? | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8)
+
+* [Download .NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+
+* [Breaking changes in .NET 8](https://learn.microsoft.com/en-us/dotnet/core/compatibility/8.0)
 
 ### .NET 8 Preview Releases
 
@@ -46,7 +54,7 @@
 
 ---
 
-## :fire: .NET 7 (STS)
+## :star: .NET 7 (STS)
 
 ### .NET 7 Official Release
 

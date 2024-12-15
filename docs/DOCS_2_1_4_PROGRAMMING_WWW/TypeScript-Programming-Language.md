@@ -14,6 +14,8 @@
 
 ## Версии TypeScript
 
+* [Announcing TypeScript 5.7 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-5-7/)
+
 * [Announcing TypeScript 5.6 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/)
 
 * [Announcing TypeScript 5.5 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/)

@@ -20,8 +20,4 @@
 
 [KubeVirt - Building a virtualization API for Kubernetes](https://kubevirt.io/)
 
-## Альтернативные платформы
-
-[Cozystack: Free PaaS platform and framework for building clouds](https://cozystack.io/)
-
 ---

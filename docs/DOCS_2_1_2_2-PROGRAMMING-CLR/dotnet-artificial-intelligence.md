@@ -56,6 +56,10 @@
 
 ## .NET for AI - Учебные ресурсы для чтения
 
+* [Using Local AI models with .NET Aspire - .NET Blog](https://devblogs.microsoft.com/dotnet/local-ai-models-with-dotnet-aspire/)
+
+* [Evaluate the quality of your AI applications with ease - .NET Blog](https://devblogs.microsoft.com/dotnet/evaluate-the-quality-of-your-ai-applications-with-ease/)
+
 * [Unlocking the Power of GitHub Models in .NET with Semantic Kernel - .NET Blog](https://devblogs.microsoft.com/dotnet/github-ai-models-dotnet-semantic-kernel/)
 
 * [Introducing Microsoft.Extensions.VectorData Preview - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-vector-data/)

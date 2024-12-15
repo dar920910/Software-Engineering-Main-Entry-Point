@@ -18,6 +18,8 @@
 
 ### Важные выпуски Visual Studio
 
+* [Visual Studio 2022 v17.12 with .NET 9 - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-12-with-dotnet-9/)
+
 * [Visual Studio 2022 v17.11 – Your feedback in action - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-v17-11-your-feedback-in-action/)
 
 * [Visual Studio 2022 17.9 Now Available - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-9-now-available/)
@@ -80,6 +82,8 @@
 
 ### Visual Studio - Улучшения производительности среды разработки
 
+* [Keep working with non-blocking Code Cleanup - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/keep-working-with-non-blocking-code-cleanup/)
+
 * [Visual Studio 2022 - Recent performance enhancements  - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-recent-performance-enhancements/)
 
 * [Visual Studio 2022 – 17.10 Performance Enhancements](https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-10-performance-enhancements/)
@@ -133,6 +137,12 @@
 * [Improved doc management personalization - Visual Studio Blog (microsoft.com)](https://devblogs.microsoft.com/visualstudio/doc-management-personalization/)
 
 ### Visual Studio - Повседневные задачи разработчика
+
+* [Making you more productive with Visual Studio v17.12 - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/making-you-more-productive-with-visual-studio-v17-12/)
+
+* [Copying error messages just got easier - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/copying-error-messages-just-got-easier/)
+
+* [Copy files across instances of Visual Studio - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/copy-files-across-instances-of-visual-studio/)
 
 * [Easier localization with the new resource (.resx) manager - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/easier-localization-with-the-new-resource-resx-manager/)
 
@@ -218,6 +228,10 @@
 
 ### Visual Studio - Отладка/тестирование/профилирование
 
+* [How Inline Return Values Simplify Debugging in Visual Studio 2022 - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/how-inline-return-values-simplify-debugging-in-visual-studio-2022/)
+
+* [Debugger and Diagnostics updates in Visual Studio 17.12 - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/debugger-and-diagnostics-updates-in-visual-studio-17-12/)
+
 * [Improve your debugger game with editable expressions - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/improve-your-debugger-game-with-editable-expressions/)
 
 * [Discover Hidden Insights with Profiler's External Code Decompilation - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/discover-hidden-insights-with-profilers-external-code-decompilation/)
@@ -282,6 +296,12 @@
 
 ### Visual Studio - Поддержка Git + GitHub
 
+* [Boost your Git confidence with the new file rename notification - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/boost-your-git-confidence-with-the-new-file-rename-notification/)
+
+* [Introducing the Copy Git Permalink Feature in Visual Studio 17.12 - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/introducing-the-copy-git-permalink-feature-in-visual-studio-17-12/)
+
+* [Git tooling updates in Visual Studio 17.12 - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/git-tooling-updates-in-visual-studio-17-12/)
+
 * [Level up your collaborations with the pull request experience in Visual Studio - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/level-up-your-collaborations-with-the-pull-request-experience-in-visual-studio/)
 
 * [New git tooling features - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/new-git-tooling-features/)
@@ -312,6 +332,8 @@
 
 ### Visual Studio - Поддержка расширений
 
+* [VisualStudio.Extensibility 17.12: CodeLens support is here! - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-12-codelens-support-is-here/)
+
 * [The making of Bring Back Plus/Minus - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/the-making-of-bring-back-plus-minus/)
 
 * [VisualStudio.Extensibility 17.11: Settings and more Remote UI support - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-17-11-settings-and-more-remote-ui-support/)
@@ -341,6 +363,16 @@
 * [You can now use Microsoft Kiota within Visual Studio Code](https://devblogs.microsoft.com/microsoft365dev/you-can-now-use-microsoft-kiota-within-visual-studio-code/)
 
 ### Visual Studio - Функции искусственного интеллекта
+
+* [AI-Powered Insights: Streamlining Variable Analysis with GitHub Copilot in Visual Studio - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/ai-powered-insights-streamlining-variable-analysis-with-github-copilot-in-visual-studio/)
+
+* [Introducing Code Referencing for GitHub Copilot Chat in Visual Studio - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/introducing-code-referencing-for-github-copilot-chat-in-visual-studio/)
+
+* [Transform your debugging experience with GitHub Copilot - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/transform-your-debugging-experience-with-github-copilot/)
+
+* [Top 5 GitHub Copilot Features in Visual Studio from Microsoft Ignite 2024 - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/top-5-github-copilot-features-in-visual-studio-from-microsoft-ignite-2024/)
+
+* [Fix Code with GitHub Copilot - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/fix-code-with-github-copilot/)
 
 * [How we build GitHub Copilot into Visual Studio - .NET Blog](https://devblogs.microsoft.com/dotnet/building-github-copilot-into-visual-studio/)
 

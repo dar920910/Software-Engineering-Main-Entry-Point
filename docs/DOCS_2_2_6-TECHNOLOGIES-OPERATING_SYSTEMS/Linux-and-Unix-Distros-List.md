@@ -190,6 +190,10 @@
 * [OpenBSD — Википедия (wikipedia.org)](https://ru.wikipedia.org/wiki/OpenBSD)
 * [OpenBSD](https://www.openbsd.org/)
 
+### GhostBSD
+
+* [A simple, elegant desktop BSD Operating System | GhostBSD](https://ghostbsd.org/)
+
 ### Other BSD Distros
 
 * [BSD Router Project: Open Source Router Distribution - BSD Router Project (bsdrp.net)](https://bsdrp.net/)

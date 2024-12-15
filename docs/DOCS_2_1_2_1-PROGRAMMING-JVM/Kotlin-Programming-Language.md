@@ -4,6 +4,8 @@
 
 ## Kotlin Official Releases
 
+* [Kotlin 2.1.0 Released | The Kotlin Blog](https://blog.jetbrains.com/kotlin/2024/11/kotlin-2-1-0-released/)
+
 * [Kotlin 2.0.20 Released | The Kotlin Blog](https://blog.jetbrains.com/kotlin/2024/08/kotlin-2-0-20-released/)
 
 * [Meet Renovated Kotlin Support – K2 Mode: What You Need to Know | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/08/meet-the-renovated-kotlin-support-k2-mode/)

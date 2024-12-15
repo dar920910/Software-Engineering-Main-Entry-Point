@@ -107,3 +107,11 @@
 - [reddit for rubyists](https://www.reddit.com/r/ruby/)
 
 ---
+
+## Ruby Useful Articles
+
+### Ruby - Debugging
+
+- [Mastering Ruby Debugging: From puts to Professional Tools | The RubyMine Blog](https://blog.jetbrains.com/ruby/2024/12/mastering_ruby_debugging/)
+
+---

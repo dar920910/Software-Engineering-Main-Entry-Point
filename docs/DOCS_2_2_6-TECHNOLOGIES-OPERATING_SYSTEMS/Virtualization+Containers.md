@@ -126,6 +126,12 @@
 
 * [Vagrant by HashiCorp (vagrantup.com)](https://www.vagrantup.com/)
 
+### Lima
+
+* [lima-vm/lima: Linux virtual machines, with a focus on running containers](https://github.com/lima-vm/lima)
+
+* [Lima](https://lima-vm.io/)
+
 ---
 
 ## ПОЛЕЗНЫЕ ПРАКТИЧЕСКИЕ РУКОВОДСТВА

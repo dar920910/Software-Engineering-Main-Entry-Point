@@ -2,6 +2,10 @@
 
 ---
 
+## MAUI in .NET 9
+
+[What's new in .NET MAUI for .NET 9 - .NET MAUI | Microsoft Learn](https://learn.microsoft.com/en-gb/dotnet/maui/whats-new/dotnet-9?view=net-maui-9.0)
+
 ## MAUI in .NET 8
 
 * [Announcing .NET MAUI in .NET 8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8/)

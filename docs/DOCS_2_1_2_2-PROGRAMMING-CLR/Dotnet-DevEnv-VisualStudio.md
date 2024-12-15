@@ -4,6 +4,14 @@
 
 ## Visual Studio 2022 Improvements for C# .NET Developers
 
+* [Effortless publishing with Azure Functions Flex Consumption - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/effortless-publishing-with-azure-functions-flex-consumption/)
+
+* [Effortless publishing to Azure WebJobs on Linux - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/effortless-publishing-to-azure-webjobs-on-linux/)
+
+* [Better GitHub Copilot Completions for C# - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/better-github-copilot-completions-for-c/)
+
+* [Enhance Your .NET Developer Productivity with GitHub Copilot - .NET Blog](https://devblogs.microsoft.com/dotnet/enhance-your-dotnet-developer-productivity-with-github-copilot/)
+
 * [How to run .NET apps natively on Arm64 devices - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/how-to-run-net-apps-natively-on-arm64-devices/)
 
 * [Understanding the behavior of the XAML Designer with abstract base classes - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/understanding-the-behavior-of-the-xaml-designer-with-abstract-base-classes/)

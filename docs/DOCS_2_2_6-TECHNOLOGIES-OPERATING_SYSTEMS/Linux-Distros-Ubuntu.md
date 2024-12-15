@@ -19,6 +19,10 @@
 
 ## LINUX UBUNTU & SOFTWARE DEVELOPMENT
 
+* [What is SBOM? Software bill of materials explained | Ubuntu](https://ubuntu.com//blog/what-is-sbom-software-bill-of-materials-explained)
+
+* [Designing Canonical’s Figma libraries for performance and structure | Ubuntu](https://ubuntu.com//blog/designing-canonicals-figma-libraries-for-performance-and-structure)
+
 * [Visual Testing: GitHub Actions Migration & Test Optimisation | Ubuntu](https://ubuntu.com//blog/visual-testing-github-actions-migration-test-optimisation)
 
 * [Canonical announces the general availability of chiselled Ubuntu containers](https://canonical.com/blog/chiselled-ubuntu-ga)
@@ -69,6 +73,8 @@
 
 ## LINUX UBUNTU & SECURITY
 
+* [What is vulnerability management? | Ubuntu](https://ubuntu.com//blog/what-is-vulnerability-management)
+
 * [How often do you apply security patches on Linux?](https://ubuntu.com//blog/how-often-do-you-apply-security-patches-on-linux)
 
 * [What is System Hardening? Essential Checklists from OS to Applications | Ubuntu](https://ubuntu.com//blog/what-is-system-hardening-definition-and-best-practices)
@@ -102,6 +108,8 @@
 * [Secure containerised Ceph with Ubuntu container images | Ubuntu](https://ubuntu.com//blog/secure-containerised-ceph-with-ubuntu-container-images)
 
 ## LINUX UBUNTU & TELECOMMUNICATIONS
+
+* [Is a real-time OS right for your business? | Ubuntu](https://ubuntu.com//blog/is-a-real-time-os-right-for-your-business)
 
 * [5G mobile networks: A driver for edge computing | Ubuntu](https://ubuntu.com//blog/telco-5g-mobile-networks-a-driver-for-edge-computing)
 
@@ -191,6 +199,10 @@
 
 ## LINUX UBUNTU & DATABASE SYSTEMS
 
+* [How does OpenSearch work? | Ubuntu](https://ubuntu.com//blog/how-does-opensearch-work)
+
+* [What is RAG? | Ubuntu](https://ubuntu.com//blog/what-is-rag-explained)
+
 * [What is a vector database? | Ubuntu](https://ubuntu.com//blog/what-is-a-vector-database)
 
 * [How do you select the best enterprise data storage solution for your business? | Ubuntu](https://ubuntu.com//blog/how-do-you-select-the-best-enterprise-data-storage-solution-for-your-business)
@@ -212,6 +224,8 @@
 * [Patterns to achieve database High Availability | Ubuntu](https://ubuntu.com//blog/database-high-availability)
 
 ## LINUX UBUNTU & DATA SCIENCE
+
+* [Spark or Hadoop: the best choice for big data teams? | Ubuntu](https://ubuntu.com//blog/spark-or-hadoop-the-best-choice-for-big-data-teams)
 
 * [Introducing Data Science Stack: set up an ML environment with 3 commands on Ubuntu | Ubuntu](https://ubuntu.com//blog/data-science-stack-release)
 

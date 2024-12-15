@@ -59,3 +59,13 @@
 * [models.word2vec – Word2vec embeddings — gensim](https://radimrehurek.com/gensim/models/word2vec.html)
 
 ---
+
+## Python & Data Science - Useful Articles
+
+* [The State of Data Science 2024: 6 Key Data Science Trends | The PyCharm Blog](https://blog.jetbrains.com/pycharm/2024/12/the-state-of-data-science/)
+
+* [Introduction to Sentiment Analysis in Python | The PyCharm Blog](https://blog.jetbrains.com/pycharm/2024/12/introduction-to-sentiment-analysis-in-python/)
+
+* [How to Do Sentiment Analysis With Large Language Models | The PyCharm Blog](https://blog.jetbrains.com/pycharm/2024/12/how-to-do-sentiment-analysis-with-large-language-models/)
+
+---

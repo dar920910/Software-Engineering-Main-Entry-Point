@@ -2,6 +2,12 @@
 
 ---
 
+## ASP.NET Core 9
+
+* [What's new in ASP.NET Core 9.0 | Microsoft Learn](https://learn.microsoft.com/en-gb/aspnet/core/release-notes/aspnetcore-9.0?view=aspnetcore-9.0)
+
+---
+
 ## ASP.NET Core 8
 
 * [Announcing ASP.NET Core in .NET 8 - .NET Blog (microsoft.com)](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-dotnet-8/)

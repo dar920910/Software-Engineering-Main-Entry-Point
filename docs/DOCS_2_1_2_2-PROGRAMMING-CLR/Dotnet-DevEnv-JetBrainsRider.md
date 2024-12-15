@@ -6,6 +6,8 @@
 
 ## .NET Programming with JetBrains Rider (The .NET Tools Blog)
 
+* [Remote Development in Rider 2024.3 | The .NET Tools Blog](https://blog.jetbrains.com/dotnet/2024/11/13/remote-development-in-rider-2024-3/)
+
 * [Automating Godot Game Builds With TeamCity | The TeamCity Blog](https://blog.jetbrains.com/teamcity/2024/10/automating-godot-game-builds-with-teamcity/)
 
 * [Support for SLNX Solution Files | The .NET Tools Blog](https://blog.jetbrains.com/dotnet/2024/10/04/support-for-slnx-solution-files/)

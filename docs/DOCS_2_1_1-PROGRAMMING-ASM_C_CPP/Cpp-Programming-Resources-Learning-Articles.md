@@ -6,6 +6,8 @@
 
 ### MSVC
 
+* [MSVC Compiler Language Updates in Visual Studio 2022 version 17.12 - C++ Team Blog](https://devblogs.microsoft.com/cppblog/msvc-compiler-language-updates-in-visual-studio-2022-version-17-12/)
+
 * [MSVC Backend Updates in Visual Studio 2022 version 17.11 - C++ Team Blog](https://devblogs.microsoft.com/cppblog/msvc-backend-updates-in-visual-studio-2022-version-17-11/)
 
 * [MSVC Backend Updates in Visual Studio 2022 version 17.10](https://devblogs.microsoft.com/cppblog/msvc-backend-updates-in-visual-studio-2022-version-17-10/)
@@ -108,6 +110,10 @@
 
 #### VCPKG АНОНСЫ
 
+* [What’s New in vcpkg (November 2024) - C++ Team Blog](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-november-2024/)
+
+* [What’s New in vcpkg (October 2024) - C++ Team Blog](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-october-2024/)
+
 * [What’s New in vcpkg (September 2024) - C++ Team Blog](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-september-2024/)
 
 * [What’s New in vcpkg (August 2024) - C++ Team Blog](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-august-2024/)
@@ -151,6 +157,10 @@
 * [vcpkg is Now Included with Visual Studio - C++ Team Blog (microsoft.com)](https://devblogs.microsoft.com/cppblog/vcpkg-is-now-included-with-visual-studio/)
 
 #### Улучшения Visual Studio для C++ разработчиков
+
+* [Updates for C++ developers in Visual Studio 2022 17.12 - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/updates-for-c-developers-in-visual-studio-2022-17-12/)
+
+* [What’s New for C++ Developers in Visual Studio 2022 17.12 - C++ Team Blog](https://devblogs.microsoft.com/cppblog/whats-new-for-c-developers-in-visual-studio-2022-17-12/)
 
 * [Analyzing the Performance of the "Proxy" Library - C++ Team Blog](https://devblogs.microsoft.com/cppblog/analyzing-the-performance-of-the-proxy-library/)
 

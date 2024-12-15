@@ -6,6 +6,10 @@
 
 ### ИНТЕРЕСНЫЕ СТАТЬИ
 
+* [Kotlin K2 Mode Becomes Stable | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/11/k2-mode-becomes-stable/)
+
+* [State of Kotlin Scripting 2024 | The Kotlin Blog](https://blog.jetbrains.com/kotlin/2024/11/state-of-kotlin-scripting-2024/)
+
 * [Amper Update November 2024 – Project File Tooling, Compose Resources, KSP2, and Android Release Builds | The Amper Blog](https://blog.jetbrains.com/amper/2024/11/amper-update-november-2024/)
 
 * [Ktor 3.0 Is Now Available With New Features and Improved Performance | The Kotlin Blog](https://blog.jetbrains.com/kotlin/2024/10/ktor-3-0/)

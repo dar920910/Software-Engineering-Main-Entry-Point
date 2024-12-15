@@ -12,7 +12,9 @@
 
 ## Официальные анонсы WSL
 
-* [What’s new in the Windows Subsystem for Linux in May 2024](https://devblogs.microsoft.com/commandline/whats-new-in-the-windows-subsystem-for-linux-in-may-2024/)
+* [What’s new in the Windows Subsystem for Linux in November 2024 - Windows Command Line](https://devblogs.microsoft.com/commandline/whats-new-in-the-windows-subsystem-for-linux-in-november-2024/)
+
+* [What’s new in the Windows Subsystem for Linux in May 2024 - Windows Command Line (microsoft.com)](https://devblogs.microsoft.com/commandline/whats-new-in-the-windows-subsystem-for-linux-in-may-2024/)
 
 * [Introducing Sudo for Windows!](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/)
 

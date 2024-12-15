@@ -4,6 +4,8 @@
 
 ## ВЕРСИИ RUST
 
+* [Announcing Rust 1.83.0 | Rust Blog](https://blog.rust-lang.org/2024/11/28/Rust-1.83.0.html)
+
 * [Announcing Rust 1.82.0 | Rust Blog](https://blog.rust-lang.org/2024/10/17/Rust-1.82.0.html)
 
 * [Announcing Rust 1.81.0 | Rust Blog](https://blog.rust-lang.org/2024/09/05/Rust-1.81.0.html)
